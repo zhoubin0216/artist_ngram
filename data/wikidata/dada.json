@@ -1,0 +1,1417 @@
+{
+  "head" : {
+    "vars" : [ "artist", "artistLabel", "birth", "death", "country", "countryLabel", "movement", "movementLabel", "ulan", "activeStart", "activeEnd" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12743174"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500065845"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-04-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-09-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vasile Dobrian"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16409"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500175780"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-04-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tristan Tzara"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5912"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115393"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-10-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-07-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcel Duchamp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16409"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500175780"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-04-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tristan Tzara"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153739"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031000"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-06-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-09-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean Arp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154842"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115729"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-04-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Max Ernst"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q152176"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500079198"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1952-11-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1895-12-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul Éluard"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q984030"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500080494"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-12-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-04-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ilia Zdanevich"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107194"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014558"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-07-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-07-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "George Grosz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154842"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115729"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-04-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Max Ernst"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153739"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031000"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-06-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43287"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-09-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean Arp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "German Empire"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84503"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500013293"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1971-02-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-07-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raoul Hausmann"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84503"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500013293"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1971-02-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-07-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raoul Hausmann"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155158"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026542"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-01-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-06-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurt Schwitters"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norway"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3778863"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500101081"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1990-11-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-09-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guglielmo Achille Cavellini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155158"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026542"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-01-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-06-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurt Schwitters"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q435558"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500030274"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-09-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-10-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suzanne Duchamp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3114275"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500650591"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-10-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29999"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-07-27T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nelly van Doesburg"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of the Netherlands"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163938"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500010804"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-08-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1925-05-22T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean Tinguely"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1950-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q46139"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500015030"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-11-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-08-27T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Man Ray"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3778863"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500101081"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1990-11-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-09-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guglielmo Achille Cavellini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q442841"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500062531"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-12-15T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1874-07-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elsa von Freytag-Loringhoven"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213597"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018123"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-02-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1888-04-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hans Richter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q254395"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500020080"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1943-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-01-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sophie Taeuber-Arp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q463411"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014841"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-05-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-11-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hannah Höch"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6567261"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500082432"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1975-04-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-08-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kate Steinitz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168671"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018521"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-04-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-06-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "John Heartfield"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q463411"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014841"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-05-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1206012"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-11-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hannah Höch"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "German Reich"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155158"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026542"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1948-01-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-06-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kurt Schwitters"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q458721"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500025276"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-06-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1906-07-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georges Hugnet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213597"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018123"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-02-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1888-04-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hans Richter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6034"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q703331"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dada"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500030368"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-02-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-08-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Schad"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    } ]
+  }
+}

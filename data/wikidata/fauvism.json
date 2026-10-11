@@ -1,0 +1,2030 @@
+{
+  "head" : {
+    "vars" : [ "artist", "artistLabel", "birth", "death", "country", "countryLabel", "movement", "movementLabel", "ulan", "activeStart", "activeEnd" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45205"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500024166"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-03-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-06-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raoul Dufy"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5589"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500017300"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1954-11-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-12-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henri Matisse"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153793"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500025200"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1963-08-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-05-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georges Braque"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1904-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156272"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004535"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1954-09-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1880-06-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "André Derain"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170345"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005833"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-05-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-01-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kees van Dongen"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1892-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233088"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500011424"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1956-06-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-10-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marie Laurencin"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241098"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008582"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1958-10-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1876-04-04T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurice de Vlaminck"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1958-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q267858"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500022386"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-06-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1875-03-27T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert Marquet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q391182"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005963"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-08-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1876-11-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Dufresne"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q450730"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500103575"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-09-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1867-05-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgette Agutte"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170345"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005833"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-05-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29999"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-01-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kees van Dongen"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of the Netherlands"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1892-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1968-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264453"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500323963"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1915-04-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241748"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-10-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nadežda Petrović"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Serbia"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q706359"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500023239"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1960-01-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-04-29T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Auguste Herbin"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708482"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031339"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1949-01-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1879-02-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Othon Friesz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q264453"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500323963"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1915-04-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q684030"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-10-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nadežda Petrović"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Principality of Serbia"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1098790"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500024077"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1940-09-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1867-05-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Béla Iványi-Grünwald"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q718722"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500010168"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-09-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-03-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Róbert Berény"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q856707"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500056320"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-06-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-10-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lajos Tihanyi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1905-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3588843"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500003877"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-11-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-04-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Émilie Charmy"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1974-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1611548"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500017047"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1967-12-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1888-09-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hermann Huber"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2980574"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004458"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-12-27T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1872-10-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henri Evenepoel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2980574"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004458"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-12-27T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1872-10-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henri Evenepoel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16038690"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500041602"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1997-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1915-04-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippe Marie Picard"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18944763"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500046000"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-11-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-01-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Léon Lehmann"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19507748"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500027851"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1973-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-02-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Neillot"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1872017"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026675"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1952-01-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-08-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Valtat"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2292672"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004309"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-05-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1888-03-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean Dufy"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3154105"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500111792"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-03-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-01-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ion Theodorescu-Sion"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4143364"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001649"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-08-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-11-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frederick Gore"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q856707"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500056320"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-06-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-10-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lajos Tihanyi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1905-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22964956"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500093169"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-08-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-02-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Auguste Desch"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26214443"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500085993"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1954-08-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-09-09T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abel Bertram"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2834602"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500112222"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1919-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexis Mérodack-Jeaneau"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2834602"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500112222"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1919-03-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexis Mérodack-Jeaneau"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2834602"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500112222"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1919-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-12-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexis Mérodack-Jeaneau"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2834602"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500112222"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1919-03-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-12-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexis Mérodack-Jeaneau"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3289246"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500041011"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-01-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-02-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcel Mouly"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3336068"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500043427"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-02-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-06-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Narcisse Guilbert"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3434445"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500049715"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1943-01-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-07-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Robert Antoine Pinchon"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4721120"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008565"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1977-12-27T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-09-27T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexandru Ciucurencu"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4143364"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001649"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-08-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-11-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Frederick Gore"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3237641"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500079657"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-10-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-08-25T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wacław Wąsowicz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5844892"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500124988"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-08-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-02-15T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miquel Villà Bassols"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4723449"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500172608"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1936-11-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1854-07-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfred Smith"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15402320"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500069388"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-03-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-10-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nina Arbore"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q166593"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fauvism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7513293"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500030462"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1973-04-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756617"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1879-06-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sigurd Swane"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Denmark"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1973-01-01T00:00:00Z"
+      }
+    } ]
+  }
+}

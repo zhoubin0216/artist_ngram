@@ -1,0 +1,2790 @@
+{
+  "head" : {
+    "vars" : [ "artist", "artistLabel", "birth", "death", "country", "countryLabel", "movement", "movementLabel", "ulan", "activeStart", "activeEnd" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62572109"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199630"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1983-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Domenico Belli"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83294124"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500056986"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1993-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-10-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elica Balla"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62572109"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199630"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1983-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Domenico Belli"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169984"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009799"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-02-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-04-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Severini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132964"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500111584"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-04-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15180"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-07-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vladimir Mayakovsky"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Soviet Union"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168496"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008934"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-04-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-02-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Carrà"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168496"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008934"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-04-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-02-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Carrà"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q152797"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500012624"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-08-17T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-10-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umberto Boccioni"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168496"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008934"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-04-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-02-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Carrà"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168496"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008934"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-04-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-02-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Carrà"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169984"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009799"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-02-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-04-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Severini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185850"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031355"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1946-10-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-08-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "C. R. W. Nevinson"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132964"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500111584"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-04-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139319"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-07-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vladimir Mayakovsky"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Russian Republic"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169984"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009799"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-02-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-04-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Severini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232391"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115630"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-10-17T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-07-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Natalia Goncharova"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1962-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185850"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031355"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1946-10-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-08-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "C. R. W. Nevinson"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q309618"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009413"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-06-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-07-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Morandi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q643778"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500012403"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1961-08-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-05-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Sironi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1961-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2478132"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018028"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-11-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-10-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Primo Conti"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1981-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q309618"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009413"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1964-06-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-07-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Morandi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q434916"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018220"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-02-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-04-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Russolo"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q434916"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018220"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-02-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-04-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Russolo"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1901-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q558060"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500027528"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-03-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-06-15T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victor Brauner"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273338"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500099019"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-03-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1875-02-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valentine de Saint-Point"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28874619"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199628"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1981-01-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-09-05T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leandra Angelucci Cominazzini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51752390"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199658"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-12-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1905-09-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato Righetti"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19408331"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199655"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-02-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-03-09T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marisa Mori"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19408331"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199655"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1985-02-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-03-09T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marisa Mori"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q368254"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014876"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1958-03-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-07-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giacomo Balla"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q368254"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014876"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1958-03-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-07-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giacomo Balla"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q259594"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500002046"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-05-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15180"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-05-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lyubov Popova"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Soviet Union"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7599553"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001351"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stanley Cursiter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7599553"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001351"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-04-29T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stanley Cursiter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2478132"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018028"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1988-11-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-10-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Primo Conti"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1981-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7599553"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001351"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stanley Cursiter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7599553"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001351"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1976-04-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-04-29T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stanley Cursiter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28874619"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199628"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1981-01-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-09-05T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leandra Angelucci Cominazzini"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50353298"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500108508"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-10-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Galli"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51752390"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199658"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-12-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1905-09-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato Righetti"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q558060"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500027528"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1966-03-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-06-15T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victor Brauner"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q643778"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500012403"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1961-08-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-05-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Sironi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1961-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3985548"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500010343"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-04-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-08-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thayaht"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3985548"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500010343"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1959-04-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-08-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thayaht"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q451771"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500006591"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-10-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-11-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amadeo de Souza Cardoso"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816819"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500125032"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1977-03-15T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-08-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benedetta Cappa"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708028"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500076929"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-09-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-10-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Munari"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708028"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500076929"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-09-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-10-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Munari"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q451771"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500006591"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-10-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45670"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-11-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amadeo de Souza Cardoso"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Portugal"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708028"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500076929"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-09-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-10-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Munari"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708028"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500076929"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1998-09-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-10-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bruno Munari"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q816819"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500125032"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1977-03-15T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-08-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benedetta Cappa"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1115614"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500038323"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-09-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-05-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arnaldo Ginna"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1115614"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500038323"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1982-09-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-05-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arnaldo Ginna"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1347418"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500032250"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1946-11-05T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-06-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joseph Stella"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1347418"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500032250"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1946-11-05T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-06-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joseph Stella"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2423054"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199608"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-02-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sante Monachesi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1376821"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500103981"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1970-06-15T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1893-04-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José de Almada Negreiros"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1984317"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500023043"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-06-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15180"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1880-03-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Bogomazov"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Soviet Union"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2223220"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500092248"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-05-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-10-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guilherme de Santa-Rita"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2423054"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500199608"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1991-02-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-01-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sante Monachesi"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131221"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Futurism"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1984317"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500023043"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-06-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133356"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1880-03-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexander Bogomazov"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ukrainian Soviet Socialist Republic"
+      }
+    } ]
+  }
+}

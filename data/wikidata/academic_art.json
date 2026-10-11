@@ -1,0 +1,5638 @@
+{
+  "head" : {
+    "vars" : [ "artist", "artistLabel", "birth", "death", "country", "countryLabel", "movement", "movementLabel", "ulan", "activeStart", "activeEnd" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15967958"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500060143"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1855-03-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1773-04-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benjamin de Rolland"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16039631"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500047987"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1917-09-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1854-09-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armand Berton"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9023749"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500035635"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Llorenç Cerdà i Bisbal"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7925642"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009313"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1826-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1754-10-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victor-Jean Nicolle"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14563575"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500028166"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-12-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1828-06-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis-Marie Baader"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15961685"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500085255"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Amédée Gibert"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3132554"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500104809"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-04-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-01-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry-Eugène Delacroix"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3166545"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500020250"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-09-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1846-05-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Joseph Weerts"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2824747"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500016407"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1929-02-25T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1839-05-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adolphe Alexandre Lesrel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2839915"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500002682"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1907-01-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1835-06-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alphonse Monchablon"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2847388"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005385"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1914-12-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1857-09-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "André Brouillet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2861767"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500113107"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-03-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1829-02-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armand Bernard"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2861767"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500113107"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-03-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1829-04-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armand Bernard"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16836507"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500035989"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1906-03-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1844-03-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Felipe Checa"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1870-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2934822"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500072907"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1923-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1853-01-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Camille-Félix Bellanger"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2957916"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018860"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-07-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1829-09-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles-Alexandre Coëssin de la Fosse"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2959000"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500017139"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-02-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1816-07-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles-Édouard Boutibonne"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2959887"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026680"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1892-01-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1815-12-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Louis Müller"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6305444"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500041956"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-04-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1867-05-15T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jef Leempoels"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3154105"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500111792"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1939-03-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-01-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ion Theodorescu-Sion"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3059860"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500017160"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1822-07-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eugène Faure"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12049678"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500080506"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1950-06-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33946"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1877-04-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roman Havelka"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czechoslovakia"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1900-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3261061"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500154279"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-12-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1809-02-04T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Anselme Longa"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3261061"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500154279"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-12-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1809-04-04T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Anselme Longa"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3262736"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500044466"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1930-03-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1849-05-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Monzies"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3266100"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500195378"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1859-01-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ludovic Alleaume"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3288650"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009550"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1941-12-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-08-05T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcel Baschet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3101522"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500109677"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1934-12-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1852-04-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "George Demetrescu-Mirea"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3456131"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500075116"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1935-04-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1854-10-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rémy Cogghe"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3084128"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500002230"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1926-08-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1849-01-27T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Brunery"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q457098"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115385"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-03-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-12-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fernand Cormon"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q460344"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500034646"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-05-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1848-12-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amélie Beaury-Saurel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3579742"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500028493"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1945-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1856-04-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Édouard Bisson"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3580024"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500006142"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1910-06-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1830-05-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Édouard Sain"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3588356"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500099554"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1897-09-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1825-02-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Émile Bin"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5657519"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500035867"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1951-08-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-03-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adelardo Covarsí"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212499"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115563"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1904-01-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1824-05-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Léon Gérôme"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q263693"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500095072"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1895-03-05T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-02-04T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Édouard Delort"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-06-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-06-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-07-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-07-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-07-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-07-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1843-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3750944"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007530"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1871-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1843-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Zamacois y Zabala"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170259"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500016107"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-09-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1833-06-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Léon Bonnat"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1848-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174477"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500012295"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-08-07T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1848-01-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fernand Pelez"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4683634"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500098062"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1892-03-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131964"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1827-03-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mișu Popp"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austrian Empire"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265665"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500011293"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-06-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-02-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre Auguste Cot"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265665"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500011293"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-08-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-02-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre Auguste Cot"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274285"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500065458"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-01-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1847-04-25T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Édouard Debat-Ponsan"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4506097"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500003265"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-11-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1822-11-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fritz Zuber-Buhler"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1896-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5625600"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500084074"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-11-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1861-04-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyula Tornai"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1928-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179893"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500109614"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1925-08-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33946"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1854-12-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vojtěch Hynais"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czechoslovakia"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q274909"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018456"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-12-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-11-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Émile Bayard"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1852-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q310437"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004789"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1889-01-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1823-09-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexandre Cabanel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1840-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1874-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183245"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026988"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1904-06-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1817-02-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "George Frederic Watts"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183245"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500026988"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1904-07-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1817-02-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "George Frederic Watts"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1837-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1899-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5729003"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500021913"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-01-16T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1828-12-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry Tanworth Wells"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130511"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500029103"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-04-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1846-07-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "François Lafon"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4258652"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500032616"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1926-08-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1860-10-22T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles-Amable Lenoir"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4468865"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500009938"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1879-10-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1806-01-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre-Justin Ouvrié"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q716808"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500032448"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-08-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1831-03-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Theodor Aman"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q794197"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500028962"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-08-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1842-08-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edouard Agneessens"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1870-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1880-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q724148"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500014480"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1848-10-05T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Édouard Detaille"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3588633"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500002366"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-08-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1826-08-29T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Émile Lévy"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192544"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500086021"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-08-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1843-10-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henryk Siemiradzki"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q179893"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500109614"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1925-08-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q533534"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1854-12-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vojtěch Hynais"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cisleithania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3425770"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500102773"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1977-06-04T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-10-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "René Aubert"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3440608"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500020557"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-09-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1808-08-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romain Cazes"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3440608"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500020557"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1881-09-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romain Cazes"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168659"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007953"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-07-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186320"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1805-04-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franz Xaver Winterhalter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grand Duchy of Baden"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1820-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q835503"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500124698"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1944-05-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1206012"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-09-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Heinrich Knirr"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "German Reich"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q354786"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500001155"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1891-01-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1815-02-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Louis-Ernest Meissonier"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q360679"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500025943"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1926-10-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1847-06-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joseph-Noël Sylvestre"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q375814"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500017858"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-10-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-06-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raphaël Collin"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3806718"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500002188"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-07-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q174193"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1820-04-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "James Sant"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom of Great Britain and Ireland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q553665"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500119798"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-09-22T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Władysław Czachórski"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q553665"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500119798"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-01-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-09-25T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Władysław Czachórski"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q737294"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018254"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-12-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1808-04-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eugène Emmanuel Amaury Duval"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q771320"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500020513"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1883-04-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1825-03-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charles Bargue"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q609929"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500084842"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1857-10-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefan Bakałowicz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q390904"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005821"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-11-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1846-05-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luc-Olivier Merson"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q433973"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500013504"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1911-02-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1836-03-14T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jules Lefebvre"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q911575"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500021687"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1886-01-17T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1828-11-07T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paul-Jacques-Aimé Baudry"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q968357"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500015006"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1902-05-26T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-06-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Joseph Benjamin-Constant"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q609929"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500084842"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1947-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221457"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1857-10-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefan Bakałowicz"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress Poland"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3301559"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500086986"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1953-11-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-02-09T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurice de Lambert"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3378108"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500089330"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-06-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1849-11-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pharaon de Winter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3303023"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500147716"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1978-11-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1903-06-22T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayou Iserentant"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q168659"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007953"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-07-08T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43287"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1805-04-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franz Xaver Winterhalter"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "German Empire"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1820-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q326434"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500115403"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1879-03-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1815-12-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thomas Couture"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q483992"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500011205"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1905-08-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1825-11-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "William-Adolphe Bouguereau"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q535800"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018454"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1917-04-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1857-12-17T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis Édouard Fournier"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q946393"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007177"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-02-13T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1856-01-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martin von Feuerstein"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q978164"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500018566"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1932-12-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1851-01-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre Carrier-Belleuse"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1096818"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500003658"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-04-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1803-12-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Claudius Jacquand"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1819-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q446948"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500127907"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1913-07-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q533534"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1852-11-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mikoláš Aleš"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cisleithania"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1110203"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500102218"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-09-12T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-12-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Évariste Carpentier"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1864-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1922-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q451131"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500030006"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-05-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1841-07-25T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nélie Jacquemart"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1858-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q568920"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500023486"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1908-08-06T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1832-06-16T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Léon Bazille Perrault"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1243235"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500094326"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-03-30T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1862-03-19T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcel Rieder"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1341719"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500008475"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1859-02-16T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1821-03-30T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "François-Léon Benouville"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1373477"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500048329"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1887-03-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1818-10-13T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eugène Ernest Hillemacher"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1494309"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500024298"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-05-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1835-05-31T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alphonse de Neuville"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1885-01-01T00:00:00Z"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21296215"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500035284"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1931-09-10T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1867-12-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Joaquín Bárbara y Balza"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q317355"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500032905"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-12-09T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154195"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1846-07-26T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hermann Kaulbach"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Bavaria"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q632046"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500013687"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1920-07-16T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1844-01-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyula Benczúr"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q707904"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500022329"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1923-02-19T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1842-06-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Jules-Antoine Lecomte du Nouÿ"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708568"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500004460"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1921-03-23T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1838-03-28T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jean-Paul Laurens"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1679686"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500111424"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1949-03-31T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28513"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1882-12-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jakub Obrovský"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria–Hungary"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1677808"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500109380"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1955-05-11T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1859-04-20T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jacqueline Comerre-Paton"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26206430"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500088874"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1912-12-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1833-07-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Auguste Alexandre Hirsch"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37032097"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500132670"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1909-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1847-09-06T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Louis-Joseph Courtat"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112484854"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500539118"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-05-15T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1851-02-02T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfred Chanut"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2004749"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500055488"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1938-01-14T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1860-05-23T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giacomo Grosso"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1750942"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500201232"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1918-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1838-01-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre Cabanel"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1798144"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500007054"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-02-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1850-10-10T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Léon Comerre"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2075154"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500031567"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1924-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1870-01-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guillaume Seignac"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18574379"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500143090"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1878-01-01T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1827-03-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre-Désiré Guillemet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21582445"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500180346"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1898-11-18T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1835-08-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry Pluchart"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23765900"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500061278"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1921-04-28T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1853-06-11T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marius Roy"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24279413"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500142964"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1916-02-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1869-12-21T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriel Guérin"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1555416"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500041944"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1933-08-20T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1845-04-12T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gustaf Cederström"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweden"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20379903"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500005762"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1927-02-02T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172579"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1836-11-08T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Bazzani"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Italy"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2088153"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500025242"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1890-03-29T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1810-08-18T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pierre-Nicolas Brisset"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2126562"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500019525"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1873-04-22T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1802-02-24T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Théophile Vauchelet"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2350977"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500030072"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1895-01-03T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1813-10-03T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alexandre Bida"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      }
+    }, {
+      "movement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189458"
+      },
+      "movementLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "academic art"
+      },
+      "artist" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2441977"
+      },
+      "ulan" : {
+        "type" : "literal",
+        "value" : "500326801"
+      },
+      "death" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-10-24T00:00:00Z"
+      },
+      "country" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "birth" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1820-10-01T00:00:00Z"
+      },
+      "artistLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gheorghe Tattarescu"
+      },
+      "countryLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      },
+      "activeStart" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1840-01-01T00:00:00Z"
+      },
+      "activeEnd" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1894-01-01T00:00:00Z"
+      }
+    } ]
+  }
+}

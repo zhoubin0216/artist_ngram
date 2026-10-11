@@ -1,0 +1,11 @@
+{
+  "name": "european-artist-visibility",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:dictionary": "node scripts/build_artist_dictionary.mjs"
+  },
+  "dependencies": {
+    "@oai/artifact-tool": "^2.8.58"
+  }
+}
