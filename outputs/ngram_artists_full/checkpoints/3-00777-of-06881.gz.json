@@ -1,0 +1,22 @@
+{
+  "sha256": "7e23adb49b92120756abe7e09ad5ef31be2c4a5f6d6bf95d15f5a174ef2f2a4c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00777-of-06881.gz",
+      "size": 424441286,
+      "etag": "\"9edd4f00b55bb56663040edbbebc0cb8\"",
+      "md5": "nt1PALVbtWZjBA7bvrwMuA==",
+      "lower": "August l9_NUM ._.",
+      "upper": "Aussage ] _._"
+    },
+    "queries": [
+      "August von Brandis",
+      "Auguste Alexandre Hirsch",
+      "Auguste François-Marie Gorguet"
+    ],
+    "raw_sha256": "9df0a800dab302475b83d53ef619f5456a07e39a507d8f5e3ed2019a1dbbf250",
+    "scanned_records": 3140834,
+    "extracted_at": "2026-10-13T18:36:54.036918+00:00",
+    "found": {}
+  }
+}

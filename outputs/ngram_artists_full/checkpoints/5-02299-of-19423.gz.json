@@ -1,0 +1,20 @@
+{
+  "sha256": "279eb7e202b15c73d07d3392b687b51be1979df13ba7e6328b5f169d1e41327c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02299-of-19423.gz",
+      "size": 354260042,
+      "etag": "\"28e4b81ef24ac410445c4ba9eedee8cb\"",
+      "md5": "KOS4HvJKxBBEXEup7t7oyw==",
+      "lower": "Marina _._ the wife of",
+      "upper": "Mark _NOUN_ _PRT_ _PRT_ Oration"
+    },
+    "queries": [
+      "Marià Pidelaserra Brias i Brias"
+    ],
+    "raw_sha256": "09e3e9defc9882489f5e9c4afa5ff295df7f8169cd47773f561f542396dcdd12",
+    "scanned_records": 3453924,
+    "extracted_at": "2026-10-13T19:30:41.940394+00:00",
+    "found": {}
+  }
+}

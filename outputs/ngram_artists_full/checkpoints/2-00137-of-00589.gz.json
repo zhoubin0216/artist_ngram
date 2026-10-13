@@ -1,0 +1,20 @@
+{
+  "sha256": "f5900ea613fe274084c226c221647b6314626d863d37df015ec7a68c6b4f4775",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00137-of-00589.gz",
+      "size": 505616654,
+      "etag": "\"bd276e299d37dcfd13e7a6e83bb0b8d3\"",
+      "md5": "vSduKZ033P0T56boO7C40w==",
+      "lower": "EQUATIONS Suppose",
+      "upper": "Ecology_NOUN Section"
+    },
+    "queries": [
+      "Eberhard Viegener"
+    ],
+    "raw_sha256": "8db8c28ea507f00dcd8ca229c500b34329f10b4f2a3630481bb635f607d8e27d",
+    "scanned_records": 3425250,
+    "extracted_at": "2026-10-13T19:10:31.858281+00:00",
+    "found": {}
+  }
+}

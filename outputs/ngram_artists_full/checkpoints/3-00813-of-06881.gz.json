@@ -1,0 +1,20 @@
+{
+  "sha256": "0d4de87849ad93598542db80320d6b5fc44b8e73480d91ecaae8d5b3b1de0f9c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00813-of-06881.gz",
+      "size": 411745732,
+      "etag": "\"6162e15705db91c52cbd71fb3832ade0\"",
+      "md5": "YWLhVwXbkcUsvXH7ODKt4A==",
+      "lower": "Benefit : Increase_NOUN",
+      "upper": "Benson_NOUN and Emma"
+    },
+    "queries": [
+      "Benjamin de Rolland"
+    ],
+    "raw_sha256": "3f053045ca5e5ef8ec807a81a1dca55851d80727c8986b64f358dcc68b3bcd44",
+    "scanned_records": 3218154,
+    "extracted_at": "2026-10-13T18:38:03.701668+00:00",
+    "found": {}
+  }
+}

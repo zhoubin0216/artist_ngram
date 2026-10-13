@@ -1,0 +1,88 @@
+{
+  "sha256": "ebf9327a5ee40b0c9bd27865b2af34e9e9fb304c8f2d39cd349a05235f769e19",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01099-of-06668.gz",
+      "size": 394467715,
+      "etag": "\"26cd8eea9f8b8c0d43f66bf2b80aa37e\"",
+      "md5": "Js2O6p+LjA1D9mvyuAqjfg==",
+      "lower": "People _VERB_ the images",
+      "upper": "Perhaps a good parallel"
+    },
+    "queries": [
+      "Pere Borrell del Caso",
+      "Pere Ysern i Alié"
+    ],
+    "raw_sha256": "15802c8eef716420df3454f53aec666cf2caede9e55ccc409d29a1e96c5a7090",
+    "scanned_records": 3428448,
+    "extracted_at": "2026-10-13T19:19:58.140582+00:00",
+    "found": {
+      "Pere Borrell del Caso": {
+        "2002": [
+          7,
+          2
+        ],
+        "2004": [
+          1,
+          1
+        ],
+        "2005": [
+          1,
+          1
+        ],
+        "2006": [
+          3,
+          1
+        ],
+        "2008": [
+          2,
+          2
+        ],
+        "2009": [
+          7,
+          5
+        ],
+        "2010": [
+          7,
+          7
+        ],
+        "2011": [
+          3,
+          3
+        ],
+        "2012": [
+          7,
+          6
+        ],
+        "2013": [
+          18,
+          9
+        ],
+        "2014": [
+          2,
+          2
+        ],
+        "2015": [
+          20,
+          13
+        ],
+        "2016": [
+          2,
+          2
+        ],
+        "2017": [
+          13,
+          9
+        ],
+        "2018": [
+          5,
+          5
+        ],
+        "2019": [
+          12,
+          6
+        ]
+      }
+    }
+  }
+}

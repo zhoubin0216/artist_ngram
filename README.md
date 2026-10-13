@@ -9,9 +9,11 @@ This is a standalone data-preparation project for studying the historical visibi
 - `scripts/ngram_sample.py` plans targeted downloads, resumes and verifies raw shards, and validates exact-name yearly frequencies.
 - `tests/test_ngram_sample.py` tests the download and validation workflow offline.
 - `docs/ngram_workflow.md` contains the Chinese step-by-step workflow and interpretation notes.
+- [Ngram data guide for teammates（数据使用说明）](docs/ngram_data_guide.md) explains the completed artist/movement datasets, fields, joins, Python examples, and sharing requirements.
 - `data/wikidata/` contains the downloaded Wikidata source records.
 - `docs/` contains the construction plan and submitted proposal.
 - `outputs/` contains the generated artist dictionary.
+- `outputs/ngram_artists_full/` and `outputs/ngram_movement_15/` contain the committed compact Ngram datasets (73,523 artist-year and 2,378 movement-year records).
 
 The current baseline contains 15 movements and 1,370 European painters. Each artist has a Wikidata QID, canonical English name, birth and death years, nationality, movement mapping, and Getty ULAN ID.
 
@@ -36,7 +38,9 @@ python scripts/ngram_sample.py plan --sample-size 25
 python -m unittest discover -s tests -v
 ```
 
-Open `outputs/ngram_smoke/report.html` to view the result. Read the [complete workflow](docs/ngram_workflow.md) before scaling up. Raw data and generated Ngram reports are Git-ignored; no downloaded corpus files should be pushed to GitHub.
+Open `outputs/ngram_smoke/report.html` to view the result. Read the [complete workflow](docs/ngram_workflow.md) before scaling up. The two reviewed full-result directories are tracked, including counts, metadata, totals and checkpoints. Raw shards, sample outputs, temporary downloads, locks and runtime progress are Git-ignored. The redundant 50-artist output was removed after verifying it is included in the full dataset.
+
+For normal analysis, use the committed datasets; do not re-download the corpus. The [data guide](docs/ngram_data_guide.md) contains dependency-free Python examples. The extraction/recovery scripts require macOS/Linux (`fcntl`); reading the JSON/JSONL data works on Windows too. The full artist downloader no longer requires a pilot directory, and uses the published manifest by default.
 
 ## Python setup
 

@@ -1,0 +1,20 @@
+{
+  "sha256": "853eaa6a03d6dad25a5c664c58802deed2c57769fc330b4e24ab2ea507c29a89",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01392-of-06881.gz",
+      "size": 439662635,
+      "etag": "\"3f878a5cc5fa3c65798f22720889d068\"",
+      "md5": "P4eKXMX6PGV5jyJyCInQaA==",
+      "lower": "League_NOUN predicts_VERB that_ADP",
+      "upper": "Leblang_NOUN _NOUN_ _NOUN_"
+    },
+    "queries": [
+      "Leandra Angelucci Cominazzini"
+    ],
+    "raw_sha256": "34cb796cb463da8fa36a5fd07c02dbdc810e618d8981775c4e3bf4aedee16001",
+    "scanned_records": 3562969,
+    "extracted_at": "2026-10-13T18:42:37.837463+00:00",
+    "found": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sha256": "97b9047a2a83c80415dda885bf2bc7bc95264ec20ae9a3eb3f0dc620e6d004f5",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00143-of-00589.gz",
+      "size": 469403970,
+      "etag": "\"4a7e92301f69a4588cbdf755d6b24863\"",
+      "md5": "Sn6SMB9ppFiMvfdV1rJIYw==",
+      "lower": "Exultant now_ADV",
+      "upper": "FIRST M.I._NOUN"
+    },
+    "queries": [
+      "Ezechiele Acerbi"
+    ],
+    "raw_sha256": "8a50b71d8d3733eb85259c9bf85e49b736d460aac0cb6af5577a2dae6901483f",
+    "scanned_records": 3424533,
+    "extracted_at": "2026-10-13T19:09:11.523597+00:00",
+    "found": {}
+  }
+}

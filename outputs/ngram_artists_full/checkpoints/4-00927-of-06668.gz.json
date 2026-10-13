@@ -1,0 +1,20 @@
+{
+  "sha256": "c86c0db75ee3ab74ca6e5a2280c5c70fe3bd8c790e3921a65eeda2e4e8e6a3c9",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00927-of-06668.gz",
+      "size": 395060435,
+      "etag": "\"e118319e3df1cb51a8e3f1b1c3bcf38c\"",
+      "md5": "4Rgxnj3xy1Go4/Gxw7zzjA==",
+      "lower": "Jim _NOUN_ , Boss",
+      "upper": "John Brown _PRT_ letter"
+    },
+    "queries": [
+      "Joaquín Bárbara y Balza"
+    ],
+    "raw_sha256": "c53553c79fb21b64d07bbd47a70374795164bfe2a83b404a49e1f93540635a14",
+    "scanned_records": 3497514,
+    "extracted_at": "2026-10-13T19:15:16.075273+00:00",
+    "found": {}
+  }
+}

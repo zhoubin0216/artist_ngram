@@ -1,0 +1,20 @@
+{
+  "sha256": "8eec78c87e4163085cfff9b8c138059520c3d04399d3b4f61056471b1b872b60",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01442-of-06881.gz",
+      "size": 456338218,
+      "etag": "\"3b3b71b819f44345f1266b61e719deac\"",
+      "md5": "OztxuBn0Q0XxJmth5xnerA==",
+      "lower": "Mail_NOUN _DET_ applications",
+      "upper": "Majesty_ADJ hath forgiven"
+    },
+    "queries": [
+      "Mainie Harriet Jellett"
+    ],
+    "raw_sha256": "c2336febfd09b022ff2d54219837793c5389045ab74125e89411c7bef2e4ee93",
+    "scanned_records": 3502329,
+    "extracted_at": "2026-10-13T18:57:30.912428+00:00",
+    "found": {}
+  }
+}

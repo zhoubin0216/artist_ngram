@@ -1,0 +1,20 @@
+{
+  "sha256": "8c55741cc806b852ff34fab381c41bac2f3368947e3f558be5160b8734bcad72",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01066-of-06881.gz",
+      "size": 460993190,
+      "etag": "\"c7c1369eae8f73358432ba8c74c0d76a\"",
+      "md5": "x8E2nq6PczWEMrqMdMDXag==",
+      "lower": "Elias_NOUN _VERB_ building",
+      "upper": "Ellar ,_. _ADJ_"
+    },
+    "queries": [
+      "Elisabeth von Eicken"
+    ],
+    "raw_sha256": "d3a8f75da3fb23a8aa9d5607f05acc4c162e6d27f4552d67d5d773825cf83f39",
+    "scanned_records": 3523435,
+    "extracted_at": "2026-10-13T18:59:54.671748+00:00",
+    "found": {}
+  }
+}

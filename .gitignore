@@ -10,6 +10,31 @@ node_modules/
 data/ngram/
 outputs/ngram_*/
 
+# Publish only the two reviewed compact datasets, not scratch/cache files.
+!outputs/ngram_artists_full/
+!outputs/ngram_movement_15/
+outputs/ngram_artists_full/*
+outputs/ngram_movement_15/*
+!outputs/ngram_artists_full/artist_year_counts.jsonl
+!outputs/ngram_artists_full/artists.json
+!outputs/ngram_artists_full/manifest.json
+!outputs/ngram_artists_full/report.json
+!outputs/ngram_artists_full/totalcounts/
+!outputs/ngram_artists_full/checkpoints/
+!outputs/ngram_movement_15/movement_year_counts.jsonl
+!outputs/ngram_movement_15/movements.json
+!outputs/ngram_movement_15/manifest.json
+!outputs/ngram_movement_15/report.json
+!outputs/ngram_movement_15/totalcounts/
+!outputs/ngram_movement_15/checkpoints/
+outputs/ngram_*/totalcounts/*
+!outputs/ngram_*/totalcounts/totalcounts-[1-5]
+outputs/ngram_*/checkpoints/*
+!outputs/ngram_*/checkpoints/*.gz.json
+outputs/ngram_*/**/*.tmp
+outputs/ngram_*/**/*.part
+outputs/ngram_*/**/*.part.json
+
 data/openalex_art/
 data/openalex/
 results/openalex/artist_work_clean.jsonl

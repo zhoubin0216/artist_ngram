@@ -1,0 +1,20 @@
+{
+  "sha256": "1cb72c5275a80fd1523ff36a084c7be413293b11784247e74936cc987a827716",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01084-of-06881.gz",
+      "size": 421315574,
+      "etag": "\"383d112987002f09dca068a99da47882\"",
+      "md5": "OD0RKYcALwncoGipnaR4gg==",
+      "lower": "Euler_NOUN _PRT_ work_VERB",
+      "upper": "European Parli _._"
+    },
+    "queries": [
+      "Eulogio Varela Sartorio"
+    ],
+    "raw_sha256": "3637a1403fa982773594633ea97bd8dd46733c9b3df013234a128dc3a50d5357",
+    "scanned_records": 3203505,
+    "extracted_at": "2026-10-13T18:41:02.255249+00:00",
+    "found": {}
+  }
+}

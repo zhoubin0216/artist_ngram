@@ -1,0 +1,20 @@
+{
+  "sha256": "76350d0112788e763da5bfde5b7f001b67af1b199270440af800b3c2de54bfa3",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01254-of-06881.gz",
+      "size": 445293392,
+      "etag": "\"c3f1d639134347e97f1e242b8cffb15d\"",
+      "md5": "w/HWORNDR+l/HiQrjP+xXQ==",
+      "lower": "Hyperspace Locus (",
+      "upper": "I LESS :_."
+    },
+    "queries": [
+      "Héléna Joséphine Robelet"
+    ],
+    "raw_sha256": "235b3c37e39cc45be1e8410c481398bb22c04501788ecc7817399fd5693fc758",
+    "scanned_records": 3264610,
+    "extracted_at": "2026-10-13T19:15:05.160619+00:00",
+    "found": {}
+  }
+}

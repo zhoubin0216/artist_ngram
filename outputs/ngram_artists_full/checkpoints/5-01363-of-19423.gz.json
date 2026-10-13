@@ -1,0 +1,21 @@
+{
+  "sha256": "ad46b0f45e92a997a547dc626c2c415d7e2b4c6a9886428058ebc4c52f796bf2",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01363-of-19423.gz",
+      "size": 368592794,
+      "etag": "\"dd0477134ea20ca2b0640de3f5a8d0df\"",
+      "md5": "3QR3E06iDKKwZA3j9ajQ3w==",
+      "lower": "Administrator may _VERB_ the appropriate",
+      "upper": "Adult ego - _NOUN_ _._"
+    },
+    "queries": [
+      "Adrianus Johannes Jacobus de Winter"
+    ],
+    "raw_sha256": "90a32126fce7a52e26b0768dc4061318fa7acd2b7a8ab7034d858bd928431034",
+    "scanned_records": 3528990,
+    "extracted_at": "2026-10-13T16:04:00.634632+00:00",
+    "found": {},
+    "reused_from": "outputs/ngram_key_sample_50"
+  }
+}

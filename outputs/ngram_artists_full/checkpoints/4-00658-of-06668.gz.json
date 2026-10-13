@@ -1,0 +1,20 @@
+{
+  "sha256": "10eddd4db77062d2eab3da0ba3746e18b0053a8e95411e87ffe0733b66d23bfb",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00658-of-06668.gz",
+      "size": 421991823,
+      "etag": "\"e3dcd966bc4b1156b25d345023e08614\"",
+      "md5": "49zZZrxLEVayXTRQI+CGFA==",
+      "lower": "Charles Merz _._ in",
+      "upper": "Chatta _PRT_ _NOUN_ _CONJ_"
+    },
+    "queries": [
+      "Charles van den Eycken"
+    ],
+    "raw_sha256": "e9371d88b67b46bd305d64f7e9fd393acde38209dd0f45d64a7a3bec940c420f",
+    "scanned_records": 3392588,
+    "extracted_at": "2026-10-13T18:59:39.751072+00:00",
+    "found": {}
+  }
+}

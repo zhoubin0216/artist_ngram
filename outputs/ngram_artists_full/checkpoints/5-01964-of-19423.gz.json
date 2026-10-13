@@ -1,0 +1,20 @@
+{
+  "sha256": "fa534dbf32880eba4989ad6ab7761fe8b312871ccdbedc6d16b3849f1971ab7f",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01964-of-19423.gz",
+      "size": 377996215,
+      "etag": "\"474261b7e5955d28c734cfb8e185fb99\"",
+      "md5": "R0Jht+WVXSjHNM+44YX7mQ==",
+      "lower": "Hanley _._ Stephen _NOUN_ _._",
+      "upper": "Harbour _NOUN_ Bill : _CONJ_"
+    },
+    "queries": [
+      "Hans von Faber du Faur"
+    ],
+    "raw_sha256": "6b08a8e7d0a1be794146dd9fdac87b1b6edae34a0d5f4fa118bcb2b97cae68c5",
+    "scanned_records": 3617211,
+    "extracted_at": "2026-10-13T19:16:51.705504+00:00",
+    "found": {}
+  }
+}

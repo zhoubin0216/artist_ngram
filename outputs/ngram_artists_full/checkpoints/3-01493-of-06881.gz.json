@@ -1,0 +1,20 @@
+{
+  "sha256": "626d9c2547828b39bc295343d8b02e793fc5cb8bbcbecb186ddb0ca83143e816",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01493-of-06881.gz",
+      "size": 397535775,
+      "etag": "\"8381edec4236234dea8c8642bb7707b1\"",
+      "md5": "g4Ht7EI2I03qjIZCu3cHsQ==",
+      "lower": "Moderne _ADP_ Postmoderne",
+      "upper": "Molecular Diagnostic_NOUN Testing_NOUN"
+    },
+    "queries": [
+      "Modesto Brocos Gómez"
+    ],
+    "raw_sha256": "0b157e598192134e657d48fd1adb0cd14c096abba6e2529dfc60989fe809b9ec",
+    "scanned_records": 3520321,
+    "extracted_at": "2026-10-13T19:28:00.624601+00:00",
+    "found": {}
+  }
+}

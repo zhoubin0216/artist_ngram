@@ -1,0 +1,20 @@
+{
+  "sha256": "0290d553954bcb15822bb4acc49beb5410b78f03fcd6ebd95b5056bd749f0c24",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01335-of-06881.gz",
+      "size": 389062165,
+      "etag": "\"25a4635c7f2bd42a72305821ed11d264\"",
+      "md5": "JaRjXH8r1CpyMFgh7RHSZA==",
+      "lower": "Jim one _ADP_",
+      "upper": "Jobs and_CONJ Environment"
+    },
+    "queries": [
+      "Joan Brull Vinyoles"
+    ],
+    "raw_sha256": "38837f12a68df8b7c4d7b3b280000e905b6ede19e45c11c737771cb6a00bfef1",
+    "scanned_records": 3332416,
+    "extracted_at": "2026-10-13T19:24:03.099242+00:00",
+    "found": {}
+  }
+}

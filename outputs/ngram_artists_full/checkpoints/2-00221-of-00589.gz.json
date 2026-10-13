@@ -1,0 +1,20 @@
+{
+  "sha256": "30f4ba5c10ba5f8fc139c6dc4402eca79072ef5565f0738a5831efc7178f1564",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00221-of-00589.gz",
+      "size": 483859671,
+      "etag": "\"09c962008f5c624073d00ca7dce0086f\"",
+      "md5": "CcliAI9cYkBz0Ayn3OAIbw==",
+      "lower": "Pounden was",
+      "upper": "Primary_NOUN God_NOUN"
+    },
+    "queries": [
+      "Pranas Domšaitis"
+    ],
+    "raw_sha256": "c5e0d4062defdfbddd476c9de44f45de95482b5ed30352b5f8e6eb27837648f2",
+    "scanned_records": 3206181,
+    "extracted_at": "2026-10-13T19:37:43.805132+00:00",
+    "found": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sha256": "47484c148730b50fbdc78e188ddb72de3b5a80404500a6b1aac4652b7016caf2",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01068-of-06881.gz",
+      "size": 420942625,
+      "etag": "\"ac6e5e8a44479b201aa5857f698e5fbc\"",
+      "md5": "rG5eikRHmyAapYV/aY5fvA==",
+      "lower": "Elsman _VERB_ _DET_",
+      "upper": "Emilie L._NOUN Bergman_NOUN"
+    },
+    "queries": [
+      "Emil van Hauth",
+      "Emile Van Doren"
+    ],
+    "raw_sha256": "ef4e638592221bee4859b1adc08a2aa027d8e0e46e9ee78daa9a143dc7dabae4",
+    "scanned_records": 3533730,
+    "extracted_at": "2026-10-13T19:02:52.903524+00:00",
+    "found": {}
+  }
+}

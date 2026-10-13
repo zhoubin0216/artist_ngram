@@ -1,0 +1,20 @@
+{
+  "sha256": "6f9684db6546e481ec63e4c975cca58f2b80035c35cc49eba367a2ccf61341cd",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01837-of-19423.gz",
+      "size": 297250901,
+      "etag": "\"c925a91ae93ef9d7c80eaff526f2e60e\"",
+      "md5": "ySWpGuk++dfIDq/1JvLmDg==",
+      "lower": "FR_NOUN 10777_NUM ,_. Dec._NOUN 29_NUM",
+      "upper": "Face _VERB_ not _DET_ _ADJ_"
+    },
+    "queries": [
+      "Fabián de Castro y Heredia"
+    ],
+    "raw_sha256": "3244029b76a331d192678c815b8f32046b4e70de3c403c3e2f11e0cdd149c84e",
+    "scanned_records": 3437425,
+    "extracted_at": "2026-10-13T19:18:46.329542+00:00",
+    "found": {}
+  }
+}

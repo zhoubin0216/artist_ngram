@@ -1,0 +1,20 @@
+{
+  "sha256": "4547ca5a38b1cf39e34b6f60d01ab9c7b4cd2beaaf382fb54bf9e4e2508b4c07",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00749-of-06668.gz",
+      "size": 407730356,
+      "etag": "\"2cc2a85aa6d1e21b0c5a562699a49323\"",
+      "md5": "LMKoWqbR4hsMWlYmmaSTIw==",
+      "lower": "Editorial _X_ 13 _NOUN_",
+      "upper": "Edward Plumstead _._ _NOUN_"
+    },
+    "queries": [
+      "Eduardo Zamacois y Zabala"
+    ],
+    "raw_sha256": "e7fa76036e987e6a59d108368829988c3ac2f8094b7e1403ed318c2228f8fb1a",
+    "scanned_records": 3429678,
+    "extracted_at": "2026-10-13T18:50:02.091357+00:00",
+    "found": {}
+  }
+}

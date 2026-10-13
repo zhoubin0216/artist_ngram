@@ -1,0 +1,20 @@
+{
+  "sha256": "367cee3b81b7035ee23f2dc5768f4257b6fc85ef774541279ba0a4cb21837700",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00969-of-06668.gz",
+      "size": 404691342,
+      "etag": "\"6cb07833092ddb0b5b756fb8214b08d4\"",
+      "md5": "bLB4Mwkt2wtbdW+4IUsI1A==",
+      "lower": "Little League parents ,",
+      "upper": "Loan stock with _DET_"
+    },
+    "queries": [
+      "Llorenç Cerdà i Bisbal"
+    ],
+    "raw_sha256": "5dd3f38e71c744b042397f75229cdc5bd4cba85364073df5b03f1c972e34f33b",
+    "scanned_records": 3418147,
+    "extracted_at": "2026-10-13T19:17:08.487652+00:00",
+    "found": {}
+  }
+}

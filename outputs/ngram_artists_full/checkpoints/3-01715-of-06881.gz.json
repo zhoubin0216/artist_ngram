@@ -1,0 +1,20 @@
+{
+  "sha256": "73762df92a14cbf1b893b8cb98a66ec8d24c28b4883e3f3c8f4e2cae9116d61a",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01715-of-06881.gz",
+      "size": 374554567,
+      "etag": "\"2206654aa2d0253b1130de9e794a42d1\"",
+      "md5": "IgZlSqLQJTsRMN6eeUpC0Q==",
+      "lower": "Removal _CONJ_ possession",
+      "upper": "René_NOUN _NOUN_ pointed"
+    },
+    "queries": [
+      "René Victor Auberjonois"
+    ],
+    "raw_sha256": "c1d031ae4c193e81568b5b614f74ed5723dda6ea527790e5aca7e12ac631c616",
+    "scanned_records": 3139964,
+    "extracted_at": "2026-10-13T19:20:32.119065+00:00",
+    "found": {}
+  }
+}

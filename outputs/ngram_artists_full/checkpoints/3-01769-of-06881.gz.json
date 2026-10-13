@@ -1,0 +1,20 @@
+{
+  "sha256": "7e80b340dc295dae013ae1b4c44c505f3d04d909b08f17c0f4d1bf75ef408d39",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01769-of-06881.gz",
+      "size": 415435767,
+      "etag": "\"c059cafd5c8277af23d78b77d6e1da76\"",
+      "md5": "wFnK/VyCd68j14t31uHadg==",
+      "lower": "Salvation_NOUN _ADP_ Italy",
+      "upper": "Sampson_NOUN 's chapter"
+    },
+    "queries": [
+      "Salvatore Lo Forte"
+    ],
+    "raw_sha256": "4745262125f49e6579407aa3f1cd2029d33050f5a5b9a7a802dfb4f664279e68",
+    "scanned_records": 3490441,
+    "extracted_at": "2026-10-13T19:29:47.301608+00:00",
+    "found": {}
+  }
+}

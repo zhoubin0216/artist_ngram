@@ -1,0 +1,20 @@
+{
+  "sha256": "a50c16321b459087930a3ab05dd58fe45692a09a5502f13b7438ddb1fb34cc63",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01115-of-06881.gz",
+      "size": 434186408,
+      "etag": "\"e024751541aa2e253e2703893386599f\"",
+      "md5": "4CR1FUGqLiU+JwOJM4ZZnw==",
+      "lower": "Fellenberg_NOUN _VERB_ as",
+      "upper": "Fernand _._ no_DET"
+    },
+    "queries": [
+      "Ferdinand du Puigaudeau"
+    ],
+    "raw_sha256": "c77407f8c4bac8f0bc629e8bfd3267447f845d1e1d114a8754d2f6cd00743279",
+    "scanned_records": 3532136,
+    "extracted_at": "2026-10-13T18:50:17.339098+00:00",
+    "found": {}
+  }
+}

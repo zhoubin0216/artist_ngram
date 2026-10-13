@@ -1,0 +1,20 @@
+{
+  "sha256": "9f4f9e21b80b5a00375a918a83f62994de9c2a10ab113bfeaf09dcd71d33dac7",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01167-of-06881.gz",
+      "size": 440268267,
+      "etag": "\"b0d3e3bdca20b360971259ae0f6ba848\"",
+      "md5": "sNPjvcogs2CXElmuD2uoSA==",
+      "lower": "Gentile_NOUN ideas_NOUN ._.",
+      "upper": "George ) Stewart_NOUN"
+    },
+    "queries": [
+      "Geoffroy Alphonse Chocarne"
+    ],
+    "raw_sha256": "163122a47fee764e862b10ef727afa4eea50ffd3f1e7e7d564412fe4c8ea97d8",
+    "scanned_records": 3496225,
+    "extracted_at": "2026-10-13T19:01:16.583348+00:00",
+    "found": {}
+  }
+}

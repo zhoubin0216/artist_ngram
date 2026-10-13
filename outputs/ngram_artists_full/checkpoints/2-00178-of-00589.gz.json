@@ -1,0 +1,20 @@
+{
+  "sha256": "5ee6c7354f196f0b39d1e7fe6c1532669b199b4283a80d9954a5bdced5b9b5a6",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00178-of-00589.gz",
+      "size": 450605628,
+      "etag": "\"dee5045ce4901ae92e57aeae349a1634\"",
+      "md5": "3uUEXOSQGukuV66uNJoWNA==",
+      "lower": "Kerguelen_X de_X",
+      "upper": "Knapton PJ"
+    },
+    "queries": [
+      "Kliment Red'ko"
+    ],
+    "raw_sha256": "ffba7b1e66b70eee242b8d9bfb2167d367a4c0babb9831b9adf7960229dbddd0",
+    "scanned_records": 3223332,
+    "extracted_at": "2026-10-13T19:25:05.203287+00:00",
+    "found": {}
+  }
+}

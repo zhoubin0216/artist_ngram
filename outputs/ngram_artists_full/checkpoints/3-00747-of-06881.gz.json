@@ -1,0 +1,20 @@
+{
+  "sha256": "c842b72dc20ad34b0e9513a10cd4bd85b35fc11fed75e61bfb2110c2f0e02f4d",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00747-of-06881.gz",
+      "size": 431957304,
+      "etag": "\"e13439ce3ac541e9d43c7f487aa56ed0\"",
+      "md5": "4TQ5zjrFQenUPH9IeqVu0A==",
+      "lower": "Angola_NOUN border ,",
+      "upper": "Annals_NOUN included _DET_"
+    },
+    "queries": [
+      "Anna De Weert"
+    ],
+    "raw_sha256": "fa89b626b566fae20a43573cfbe9360b61b54f0323fbd592ef9ed308151a1c8f",
+    "scanned_records": 3521516,
+    "extracted_at": "2026-10-13T18:38:43.580484+00:00",
+    "found": {}
+  }
+}
