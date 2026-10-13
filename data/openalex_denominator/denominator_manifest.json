@@ -1,0 +1,12 @@
+{
+  "fetched_at_utc": "2026-10-13T14:22:24.962012+00:00",
+  "filter": "from_publication_date:1800-01-01,to_publication_date:2019-12-31,language:en,topics.subfield.id:1213",
+  "corpus": "core",
+  "types": [
+    "all"
+  ],
+  "scale": 10000,
+  "denominator_definition": "All works meeting corpus/language/date/topic/type filters; no artist name search",
+  "api_total": 1961720,
+  "raw_response_sha256": "09f67cbc1b4b8f58fd19c33a6217b86fd6e2a0f7b8f212eccec021f045af9ba6"
+}

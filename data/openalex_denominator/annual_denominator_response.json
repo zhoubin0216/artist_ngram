@@ -1,0 +1,1233 @@
+[
+  {
+    "meta": {
+      "count": 1961720,
+      "db_response_time_ms": 93,
+      "page": null,
+      "per_page": 200,
+      "next_cursor": "IjE5OTki",
+      "groups_count": 200,
+      "x_query": {
+        "oql": "get works where published since 1800-01-01\n  and language is [English](en)\n  and published through 2019-12-31\n  and topics.subfield.id is [Visual Arts and Performing Arts](1213);\nthen, group those works by year",
+        "x_new_oql": "break down works where language is [English](en) and topics.subfield.id is [Visual Arts and Performing Arts](1213) by year from 1800-01-01 through 2019-12-31",
+        "oqo": {
+          "get_rows": "works",
+          "filter_rows": [
+            {
+              "column_id": "from_publication_date",
+              "value": "1800-01-01"
+            },
+            {
+              "column_id": "language",
+              "value": "en"
+            },
+            {
+              "column_id": "to_publication_date",
+              "value": "2019-12-31"
+            },
+            {
+              "column_id": "topics.subfield.id",
+              "value": "1213"
+            }
+          ],
+          "group_by": [
+            {
+              "column_id": "publication_year"
+            }
+          ]
+        },
+        "url": "/works?filter=from_publication_date:1800-01-01,language:en,to_publication_date:2019-12-31,topics.subfield.id:1213&group_by=publication_year&per_page=200&cursor=%2A"
+      },
+      "cost_usd": 0.0001
+    },
+    "group_by": [
+      {
+        "key": "1800",
+        "key_display_name": "1800",
+        "count": 186
+      },
+      {
+        "key": "1801",
+        "key_display_name": "1801",
+        "count": 22
+      },
+      {
+        "key": "1802",
+        "key_display_name": "1802",
+        "count": 25
+      },
+      {
+        "key": "1803",
+        "key_display_name": "1803",
+        "count": 27
+      },
+      {
+        "key": "1804",
+        "key_display_name": "1804",
+        "count": 13
+      },
+      {
+        "key": "1805",
+        "key_display_name": "1805",
+        "count": 25
+      },
+      {
+        "key": "1806",
+        "key_display_name": "1806",
+        "count": 26
+      },
+      {
+        "key": "1807",
+        "key_display_name": "1807",
+        "count": 24
+      },
+      {
+        "key": "1808",
+        "key_display_name": "1808",
+        "count": 27
+      },
+      {
+        "key": "1809",
+        "key_display_name": "1809",
+        "count": 43
+      },
+      {
+        "key": "1810",
+        "key_display_name": "1810",
+        "count": 43
+      },
+      {
+        "key": "1811",
+        "key_display_name": "1811",
+        "count": 48
+      },
+      {
+        "key": "1812",
+        "key_display_name": "1812",
+        "count": 48
+      },
+      {
+        "key": "1813",
+        "key_display_name": "1813",
+        "count": 23
+      },
+      {
+        "key": "1814",
+        "key_display_name": "1814",
+        "count": 33
+      },
+      {
+        "key": "1815",
+        "key_display_name": "1815",
+        "count": 22
+      },
+      {
+        "key": "1816",
+        "key_display_name": "1816",
+        "count": 14
+      },
+      {
+        "key": "1817",
+        "key_display_name": "1817",
+        "count": 30
+      },
+      {
+        "key": "1818",
+        "key_display_name": "1818",
+        "count": 33
+      },
+      {
+        "key": "1819",
+        "key_display_name": "1819",
+        "count": 19
+      },
+      {
+        "key": "1820",
+        "key_display_name": "1820",
+        "count": 42
+      },
+      {
+        "key": "1821",
+        "key_display_name": "1821",
+        "count": 30
+      },
+      {
+        "key": "1822",
+        "key_display_name": "1822",
+        "count": 29
+      },
+      {
+        "key": "1823",
+        "key_display_name": "1823",
+        "count": 35
+      },
+      {
+        "key": "1824",
+        "key_display_name": "1824",
+        "count": 33
+      },
+      {
+        "key": "1825",
+        "key_display_name": "1825",
+        "count": 57
+      },
+      {
+        "key": "1826",
+        "key_display_name": "1826",
+        "count": 39
+      },
+      {
+        "key": "1827",
+        "key_display_name": "1827",
+        "count": 46
+      },
+      {
+        "key": "1828",
+        "key_display_name": "1828",
+        "count": 42
+      },
+      {
+        "key": "1829",
+        "key_display_name": "1829",
+        "count": 54
+      },
+      {
+        "key": "1830",
+        "key_display_name": "1830",
+        "count": 58
+      },
+      {
+        "key": "1831",
+        "key_display_name": "1831",
+        "count": 43
+      },
+      {
+        "key": "1832",
+        "key_display_name": "1832",
+        "count": 28
+      },
+      {
+        "key": "1833",
+        "key_display_name": "1833",
+        "count": 27
+      },
+      {
+        "key": "1834",
+        "key_display_name": "1834",
+        "count": 74
+      },
+      {
+        "key": "1835",
+        "key_display_name": "1835",
+        "count": 65
+      },
+      {
+        "key": "1836",
+        "key_display_name": "1836",
+        "count": 45
+      },
+      {
+        "key": "1837",
+        "key_display_name": "1837",
+        "count": 35
+      },
+      {
+        "key": "1838",
+        "key_display_name": "1838",
+        "count": 36
+      },
+      {
+        "key": "1839",
+        "key_display_name": "1839",
+        "count": 46
+      },
+      {
+        "key": "1840",
+        "key_display_name": "1840",
+        "count": 85
+      },
+      {
+        "key": "1841",
+        "key_display_name": "1841",
+        "count": 31
+      },
+      {
+        "key": "1842",
+        "key_display_name": "1842",
+        "count": 45
+      },
+      {
+        "key": "1843",
+        "key_display_name": "1843",
+        "count": 44
+      },
+      {
+        "key": "1844",
+        "key_display_name": "1844",
+        "count": 53
+      },
+      {
+        "key": "1845",
+        "key_display_name": "1845",
+        "count": 59
+      },
+      {
+        "key": "1846",
+        "key_display_name": "1846",
+        "count": 104
+      },
+      {
+        "key": "1847",
+        "key_display_name": "1847",
+        "count": 184
+      },
+      {
+        "key": "1848",
+        "key_display_name": "1848",
+        "count": 108
+      },
+      {
+        "key": "1849",
+        "key_display_name": "1849",
+        "count": 77
+      },
+      {
+        "key": "1850",
+        "key_display_name": "1850",
+        "count": 192
+      },
+      {
+        "key": "1851",
+        "key_display_name": "1851",
+        "count": 156
+      },
+      {
+        "key": "1852",
+        "key_display_name": "1852",
+        "count": 127
+      },
+      {
+        "key": "1853",
+        "key_display_name": "1853",
+        "count": 182
+      },
+      {
+        "key": "1854",
+        "key_display_name": "1854",
+        "count": 134
+      },
+      {
+        "key": "1855",
+        "key_display_name": "1855",
+        "count": 231
+      },
+      {
+        "key": "1856",
+        "key_display_name": "1856",
+        "count": 147
+      },
+      {
+        "key": "1857",
+        "key_display_name": "1857",
+        "count": 1003
+      },
+      {
+        "key": "1858",
+        "key_display_name": "1858",
+        "count": 194
+      },
+      {
+        "key": "1859",
+        "key_display_name": "1859",
+        "count": 163
+      },
+      {
+        "key": "1860",
+        "key_display_name": "1860",
+        "count": 175
+      },
+      {
+        "key": "1861",
+        "key_display_name": "1861",
+        "count": 121
+      },
+      {
+        "key": "1862",
+        "key_display_name": "1862",
+        "count": 90
+      },
+      {
+        "key": "1863",
+        "key_display_name": "1863",
+        "count": 116
+      },
+      {
+        "key": "1864",
+        "key_display_name": "1864",
+        "count": 102
+      },
+      {
+        "key": "1865",
+        "key_display_name": "1865",
+        "count": 107
+      },
+      {
+        "key": "1866",
+        "key_display_name": "1866",
+        "count": 131
+      },
+      {
+        "key": "1867",
+        "key_display_name": "1867",
+        "count": 155
+      },
+      {
+        "key": "1868",
+        "key_display_name": "1868",
+        "count": 131
+      },
+      {
+        "key": "1869",
+        "key_display_name": "1869",
+        "count": 119
+      },
+      {
+        "key": "1870",
+        "key_display_name": "1870",
+        "count": 204
+      },
+      {
+        "key": "1871",
+        "key_display_name": "1871",
+        "count": 199
+      },
+      {
+        "key": "1872",
+        "key_display_name": "1872",
+        "count": 223
+      },
+      {
+        "key": "1873",
+        "key_display_name": "1873",
+        "count": 165
+      },
+      {
+        "key": "1874",
+        "key_display_name": "1874",
+        "count": 214
+      },
+      {
+        "key": "1875",
+        "key_display_name": "1875",
+        "count": 226
+      },
+      {
+        "key": "1876",
+        "key_display_name": "1876",
+        "count": 232
+      },
+      {
+        "key": "1877",
+        "key_display_name": "1877",
+        "count": 207
+      },
+      {
+        "key": "1878",
+        "key_display_name": "1878",
+        "count": 259
+      },
+      {
+        "key": "1879",
+        "key_display_name": "1879",
+        "count": 287
+      },
+      {
+        "key": "1880",
+        "key_display_name": "1880",
+        "count": 456
+      },
+      {
+        "key": "1881",
+        "key_display_name": "1881",
+        "count": 291
+      },
+      {
+        "key": "1882",
+        "key_display_name": "1882",
+        "count": 202
+      },
+      {
+        "key": "1883",
+        "key_display_name": "1883",
+        "count": 228
+      },
+      {
+        "key": "1884",
+        "key_display_name": "1884",
+        "count": 287
+      },
+      {
+        "key": "1885",
+        "key_display_name": "1885",
+        "count": 284
+      },
+      {
+        "key": "1886",
+        "key_display_name": "1886",
+        "count": 314
+      },
+      {
+        "key": "1887",
+        "key_display_name": "1887",
+        "count": 307
+      },
+      {
+        "key": "1888",
+        "key_display_name": "1888",
+        "count": 305
+      },
+      {
+        "key": "1889",
+        "key_display_name": "1889",
+        "count": 332
+      },
+      {
+        "key": "1890",
+        "key_display_name": "1890",
+        "count": 353
+      },
+      {
+        "key": "1891",
+        "key_display_name": "1891",
+        "count": 353
+      },
+      {
+        "key": "1892",
+        "key_display_name": "1892",
+        "count": 313
+      },
+      {
+        "key": "1893",
+        "key_display_name": "1893",
+        "count": 398
+      },
+      {
+        "key": "1894",
+        "key_display_name": "1894",
+        "count": 443
+      },
+      {
+        "key": "1895",
+        "key_display_name": "1895",
+        "count": 484
+      },
+      {
+        "key": "1896",
+        "key_display_name": "1896",
+        "count": 508
+      },
+      {
+        "key": "1897",
+        "key_display_name": "1897",
+        "count": 458
+      },
+      {
+        "key": "1898",
+        "key_display_name": "1898",
+        "count": 543
+      },
+      {
+        "key": "1899",
+        "key_display_name": "1899",
+        "count": 698
+      },
+      {
+        "key": "1900",
+        "key_display_name": "1900",
+        "count": 749
+      },
+      {
+        "key": "1901",
+        "key_display_name": "1901",
+        "count": 663
+      },
+      {
+        "key": "1902",
+        "key_display_name": "1902",
+        "count": 698
+      },
+      {
+        "key": "1903",
+        "key_display_name": "1903",
+        "count": 631
+      },
+      {
+        "key": "1904",
+        "key_display_name": "1904",
+        "count": 635
+      },
+      {
+        "key": "1905",
+        "key_display_name": "1905",
+        "count": 752
+      },
+      {
+        "key": "1906",
+        "key_display_name": "1906",
+        "count": 780
+      },
+      {
+        "key": "1907",
+        "key_display_name": "1907",
+        "count": 660
+      },
+      {
+        "key": "1908",
+        "key_display_name": "1908",
+        "count": 744
+      },
+      {
+        "key": "1909",
+        "key_display_name": "1909",
+        "count": 722
+      },
+      {
+        "key": "1910",
+        "key_display_name": "1910",
+        "count": 890
+      },
+      {
+        "key": "1911",
+        "key_display_name": "1911",
+        "count": 769
+      },
+      {
+        "key": "1912",
+        "key_display_name": "1912",
+        "count": 773
+      },
+      {
+        "key": "1913",
+        "key_display_name": "1913",
+        "count": 842
+      },
+      {
+        "key": "1914",
+        "key_display_name": "1914",
+        "count": 973
+      },
+      {
+        "key": "1915",
+        "key_display_name": "1915",
+        "count": 862
+      },
+      {
+        "key": "1916",
+        "key_display_name": "1916",
+        "count": 960
+      },
+      {
+        "key": "1917",
+        "key_display_name": "1917",
+        "count": 1153
+      },
+      {
+        "key": "1918",
+        "key_display_name": "1918",
+        "count": 909
+      },
+      {
+        "key": "1919",
+        "key_display_name": "1919",
+        "count": 830
+      },
+      {
+        "key": "1920",
+        "key_display_name": "1920",
+        "count": 1068
+      },
+      {
+        "key": "1921",
+        "key_display_name": "1921",
+        "count": 878
+      },
+      {
+        "key": "1922",
+        "key_display_name": "1922",
+        "count": 977
+      },
+      {
+        "key": "1923",
+        "key_display_name": "1923",
+        "count": 1038
+      },
+      {
+        "key": "1924",
+        "key_display_name": "1924",
+        "count": 1033
+      },
+      {
+        "key": "1925",
+        "key_display_name": "1925",
+        "count": 1199
+      },
+      {
+        "key": "1926",
+        "key_display_name": "1926",
+        "count": 1267
+      },
+      {
+        "key": "1927",
+        "key_display_name": "1927",
+        "count": 1289
+      },
+      {
+        "key": "1928",
+        "key_display_name": "1928",
+        "count": 1340
+      },
+      {
+        "key": "1929",
+        "key_display_name": "1929",
+        "count": 1476
+      },
+      {
+        "key": "1930",
+        "key_display_name": "1930",
+        "count": 1729
+      },
+      {
+        "key": "1931",
+        "key_display_name": "1931",
+        "count": 1545
+      },
+      {
+        "key": "1932",
+        "key_display_name": "1932",
+        "count": 1440
+      },
+      {
+        "key": "1933",
+        "key_display_name": "1933",
+        "count": 1388
+      },
+      {
+        "key": "1934",
+        "key_display_name": "1934",
+        "count": 1502
+      },
+      {
+        "key": "1935",
+        "key_display_name": "1935",
+        "count": 1676
+      },
+      {
+        "key": "1936",
+        "key_display_name": "1936",
+        "count": 1794
+      },
+      {
+        "key": "1937",
+        "key_display_name": "1937",
+        "count": 1809
+      },
+      {
+        "key": "1938",
+        "key_display_name": "1938",
+        "count": 1813
+      },
+      {
+        "key": "1939",
+        "key_display_name": "1939",
+        "count": 1758
+      },
+      {
+        "key": "1940",
+        "key_display_name": "1940",
+        "count": 1980
+      },
+      {
+        "key": "1941",
+        "key_display_name": "1941",
+        "count": 1935
+      },
+      {
+        "key": "1942",
+        "key_display_name": "1942",
+        "count": 1656
+      },
+      {
+        "key": "1943",
+        "key_display_name": "1943",
+        "count": 1599
+      },
+      {
+        "key": "1944",
+        "key_display_name": "1944",
+        "count": 1477
+      },
+      {
+        "key": "1945",
+        "key_display_name": "1945",
+        "count": 1546
+      },
+      {
+        "key": "1946",
+        "key_display_name": "1946",
+        "count": 1810
+      },
+      {
+        "key": "1947",
+        "key_display_name": "1947",
+        "count": 2102
+      },
+      {
+        "key": "1948",
+        "key_display_name": "1948",
+        "count": 2107
+      },
+      {
+        "key": "1949",
+        "key_display_name": "1949",
+        "count": 2213
+      },
+      {
+        "key": "1950",
+        "key_display_name": "1950",
+        "count": 2656
+      },
+      {
+        "key": "1951",
+        "key_display_name": "1951",
+        "count": 2418
+      },
+      {
+        "key": "1952",
+        "key_display_name": "1952",
+        "count": 2328
+      },
+      {
+        "key": "1953",
+        "key_display_name": "1953",
+        "count": 2336
+      },
+      {
+        "key": "1954",
+        "key_display_name": "1954",
+        "count": 2459
+      },
+      {
+        "key": "1955",
+        "key_display_name": "1955",
+        "count": 2652
+      },
+      {
+        "key": "1956",
+        "key_display_name": "1956",
+        "count": 2641
+      },
+      {
+        "key": "1957",
+        "key_display_name": "1957",
+        "count": 2797
+      },
+      {
+        "key": "1958",
+        "key_display_name": "1958",
+        "count": 2861
+      },
+      {
+        "key": "1959",
+        "key_display_name": "1959",
+        "count": 3252
+      },
+      {
+        "key": "1960",
+        "key_display_name": "1960",
+        "count": 3482
+      },
+      {
+        "key": "1961",
+        "key_display_name": "1961",
+        "count": 3460
+      },
+      {
+        "key": "1962",
+        "key_display_name": "1962",
+        "count": 3875
+      },
+      {
+        "key": "1963",
+        "key_display_name": "1963",
+        "count": 3923
+      },
+      {
+        "key": "1964",
+        "key_display_name": "1964",
+        "count": 4264
+      },
+      {
+        "key": "1965",
+        "key_display_name": "1965",
+        "count": 4393
+      },
+      {
+        "key": "1966",
+        "key_display_name": "1966",
+        "count": 4555
+      },
+      {
+        "key": "1967",
+        "key_display_name": "1967",
+        "count": 4831
+      },
+      {
+        "key": "1968",
+        "key_display_name": "1968",
+        "count": 5448
+      },
+      {
+        "key": "1969",
+        "key_display_name": "1969",
+        "count": 6577
+      },
+      {
+        "key": "1970",
+        "key_display_name": "1970",
+        "count": 6934
+      },
+      {
+        "key": "1971",
+        "key_display_name": "1971",
+        "count": 6439
+      },
+      {
+        "key": "1972",
+        "key_display_name": "1972",
+        "count": 6537
+      },
+      {
+        "key": "1973",
+        "key_display_name": "1973",
+        "count": 7026
+      },
+      {
+        "key": "1974",
+        "key_display_name": "1974",
+        "count": 7333
+      },
+      {
+        "key": "1975",
+        "key_display_name": "1975",
+        "count": 7656
+      },
+      {
+        "key": "1976",
+        "key_display_name": "1976",
+        "count": 7991
+      },
+      {
+        "key": "1977",
+        "key_display_name": "1977",
+        "count": 8525
+      },
+      {
+        "key": "1978",
+        "key_display_name": "1978",
+        "count": 8484
+      },
+      {
+        "key": "1979",
+        "key_display_name": "1979",
+        "count": 8487
+      },
+      {
+        "key": "1980",
+        "key_display_name": "1980",
+        "count": 9307
+      },
+      {
+        "key": "1981",
+        "key_display_name": "1981",
+        "count": 9429
+      },
+      {
+        "key": "1982",
+        "key_display_name": "1982",
+        "count": 9640
+      },
+      {
+        "key": "1983",
+        "key_display_name": "1983",
+        "count": 10233
+      },
+      {
+        "key": "1984",
+        "key_display_name": "1984",
+        "count": 10835
+      },
+      {
+        "key": "1985",
+        "key_display_name": "1985",
+        "count": 10535
+      },
+      {
+        "key": "1986",
+        "key_display_name": "1986",
+        "count": 11043
+      },
+      {
+        "key": "1987",
+        "key_display_name": "1987",
+        "count": 11085
+      },
+      {
+        "key": "1988",
+        "key_display_name": "1988",
+        "count": 12023
+      },
+      {
+        "key": "1989",
+        "key_display_name": "1989",
+        "count": 13187
+      },
+      {
+        "key": "1990",
+        "key_display_name": "1990",
+        "count": 13846
+      },
+      {
+        "key": "1991",
+        "key_display_name": "1991",
+        "count": 14166
+      },
+      {
+        "key": "1992",
+        "key_display_name": "1992",
+        "count": 15297
+      },
+      {
+        "key": "1993",
+        "key_display_name": "1993",
+        "count": 15905
+      },
+      {
+        "key": "1994",
+        "key_display_name": "1994",
+        "count": 17205
+      },
+      {
+        "key": "1995",
+        "key_display_name": "1995",
+        "count": 17858
+      },
+      {
+        "key": "1996",
+        "key_display_name": "1996",
+        "count": 18705
+      },
+      {
+        "key": "1997",
+        "key_display_name": "1997",
+        "count": 19382
+      },
+      {
+        "key": "1998",
+        "key_display_name": "1998",
+        "count": 20500
+      },
+      {
+        "key": "1999",
+        "key_display_name": "1999",
+        "count": 22270
+      }
+    ]
+  },
+  {
+    "meta": {
+      "count": 1961720,
+      "db_response_time_ms": 65,
+      "page": null,
+      "per_page": 200,
+      "next_cursor": "IjIwMTki",
+      "groups_count": 20,
+      "x_query": {
+        "oql": "get works where published since 1800-01-01\n  and language is [English](en)\n  and published through 2019-12-31\n  and topics.subfield.id is [Visual Arts and Performing Arts](1213);\nthen, group those works by year",
+        "x_new_oql": "break down works where language is [English](en) and topics.subfield.id is [Visual Arts and Performing Arts](1213) by year from 1800-01-01 through 2019-12-31",
+        "oqo": {
+          "get_rows": "works",
+          "filter_rows": [
+            {
+              "column_id": "from_publication_date",
+              "value": "1800-01-01"
+            },
+            {
+              "column_id": "language",
+              "value": "en"
+            },
+            {
+              "column_id": "to_publication_date",
+              "value": "2019-12-31"
+            },
+            {
+              "column_id": "topics.subfield.id",
+              "value": "1213"
+            }
+          ],
+          "group_by": [
+            {
+              "column_id": "publication_year"
+            }
+          ]
+        },
+        "url": "/works?filter=from_publication_date:1800-01-01,language:en,to_publication_date:2019-12-31,topics.subfield.id:1213&group_by=publication_year&per_page=200&cursor=IjE5OTki"
+      },
+      "cost_usd": 0.0001
+    },
+    "group_by": [
+      {
+        "key": "2000",
+        "key_display_name": "2000",
+        "count": 26415
+      },
+      {
+        "key": "2001",
+        "key_display_name": "2001",
+        "count": 26482
+      },
+      {
+        "key": "2002",
+        "key_display_name": "2002",
+        "count": 31485
+      },
+      {
+        "key": "2003",
+        "key_display_name": "2003",
+        "count": 41073
+      },
+      {
+        "key": "2004",
+        "key_display_name": "2004",
+        "count": 37606
+      },
+      {
+        "key": "2005",
+        "key_display_name": "2005",
+        "count": 41240
+      },
+      {
+        "key": "2006",
+        "key_display_name": "2006",
+        "count": 45139
+      },
+      {
+        "key": "2007",
+        "key_display_name": "2007",
+        "count": 56297
+      },
+      {
+        "key": "2008",
+        "key_display_name": "2008",
+        "count": 56521
+      },
+      {
+        "key": "2009",
+        "key_display_name": "2009",
+        "count": 67728
+      },
+      {
+        "key": "2010",
+        "key_display_name": "2010",
+        "count": 75172
+      },
+      {
+        "key": "2011",
+        "key_display_name": "2011",
+        "count": 78854
+      },
+      {
+        "key": "2012",
+        "key_display_name": "2012",
+        "count": 84832
+      },
+      {
+        "key": "2013",
+        "key_display_name": "2013",
+        "count": 95876
+      },
+      {
+        "key": "2014",
+        "key_display_name": "2014",
+        "count": 95255
+      },
+      {
+        "key": "2015",
+        "key_display_name": "2015",
+        "count": 98219
+      },
+      {
+        "key": "2016",
+        "key_display_name": "2016",
+        "count": 105715
+      },
+      {
+        "key": "2017",
+        "key_display_name": "2017",
+        "count": 161987
+      },
+      {
+        "key": "2018",
+        "key_display_name": "2018",
+        "count": 113366
+      },
+      {
+        "key": "2019",
+        "key_display_name": "2019",
+        "count": 115014
+      }
+    ]
+  },
+  {
+    "meta": {
+      "count": 1961720,
+      "db_response_time_ms": 60,
+      "page": null,
+      "per_page": 200,
+      "next_cursor": null,
+      "groups_count": 0,
+      "x_query": {
+        "oql": "get works where published since 1800-01-01\n  and language is [English](en)\n  and published through 2019-12-31\n  and topics.subfield.id is [Visual Arts and Performing Arts](1213);\nthen, group those works by year",
+        "x_new_oql": "break down works where language is [English](en) and topics.subfield.id is [Visual Arts and Performing Arts](1213) by year from 1800-01-01 through 2019-12-31",
+        "oqo": {
+          "get_rows": "works",
+          "filter_rows": [
+            {
+              "column_id": "from_publication_date",
+              "value": "1800-01-01"
+            },
+            {
+              "column_id": "language",
+              "value": "en"
+            },
+            {
+              "column_id": "to_publication_date",
+              "value": "2019-12-31"
+            },
+            {
+              "column_id": "topics.subfield.id",
+              "value": "1213"
+            }
+          ],
+          "group_by": [
+            {
+              "column_id": "publication_year"
+            }
+          ]
+        },
+        "url": "/works?filter=from_publication_date:1800-01-01,language:en,to_publication_date:2019-12-31,topics.subfield.id:1213&group_by=publication_year&per_page=200&cursor=IjIwMTki"
+      },
+      "cost_usd": 0.0001
+    },
+    "group_by": []
+  }
+]

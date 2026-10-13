@@ -5,3 +5,8 @@
 __pycache__/
 node_modules/
 *.pyc
+data/openalex_art/
+data/openalex/
+results/openalex/artist_work_clean.jsonl
+OpenAlex_clean_handoff.zip
+OpenAlex_normalized_handoff.zip

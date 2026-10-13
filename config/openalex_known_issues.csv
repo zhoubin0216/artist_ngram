@@ -1,0 +1,5 @@
+﻿artist_id,work_id,entity_label,metadata_issue,planned_action,reason
+Q154340,https://openalex.org/W850496020,irrelevant,none,exclude_confirmed_wrong_entity,1915 text refers to philosopher Francis Bacon (died 1626)
+Q154340,https://openalex.org/W2476346834,irrelevant,none,exclude_confirmed_wrong_entity,1995 text concerns Tudor-era Francis Bacon
+Q296,https://openalex.org/W327484087,relevant,suspicious_year,exclude_precautionary_suspicious_year,1860 metadata incompatible with reference to artist died 1926
+Q5582,https://openalex.org/W7132620467,relevant,language_mismatch,exclude_precautionary_language_mismatch,non-English source text despite en metadata
