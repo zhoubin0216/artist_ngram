@@ -1,0 +1,20 @@
+{
+  "sha256": "15a18605d814f8ee9132474775340b02274b6b33347358f8c68b71c459fddf0c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01633-of-06881.gz",
+      "size": 403825170,
+      "etag": "\"0567192a53bf07184f8e5d54ecde52f3\"",
+      "md5": "BWcZKlO/BxhPjl1U7N5S8w==",
+      "lower": "Peru_NOUN _._ steeped_VERB",
+      "upper": "Peter_NOUN peered_VERB over_ADP"
+    },
+    "queries": [
+      "Peter August Böckstiegel"
+    ],
+    "raw_sha256": "f422d85952207bb0a307cee637420b4504f011653b4952ca0f17f18916481b2c",
+    "scanned_records": 3179686,
+    "extracted_at": "2026-10-13T19:37:20.461967+00:00",
+    "found": {}
+  }
+}

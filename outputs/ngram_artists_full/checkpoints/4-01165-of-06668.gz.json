@@ -1,0 +1,20 @@
+{
+  "sha256": "cd6c9c51b54058c1614986908c81f9ce2071beb2736333b5c0d58dc71c676777",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01165-of-06668.gz",
+      "size": 360400415,
+      "etag": "\"6ca2834a434c843eaeb1fa7a148a8f9b\"",
+      "md5": "bKKDSkNMhD6usfp6FIqPmw==",
+      "lower": "Rte. 12 . )",
+      "upper": "Runnable in the _NOUN_"
+    },
+    "queries": [
+      "Rudolph Carl von Ripper"
+    ],
+    "raw_sha256": "dbf2e8dd7355c178eb368e52ef92f748db1220e01fb286811f3b380936a838e8",
+    "scanned_records": 3170955,
+    "extracted_at": "2026-10-13T19:10:24.749133+00:00",
+    "found": {}
+  }
+}

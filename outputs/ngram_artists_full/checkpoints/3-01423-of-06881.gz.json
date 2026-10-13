@@ -1,0 +1,22 @@
+{
+  "sha256": "4cd4d48a58354bfa7e9be1d2cf4f1c1042ca883f28e230178e5d53c2b44bc74c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01423-of-06881.gz",
+      "size": 429288539,
+      "etag": "\"eb7b7f28cb2862f2ec7573064d64fa10\"",
+      "md5": "63t/KMsoYvLsdXMGTWT6EA==",
+      "lower": "Lynne ,_. Elizabeth",
+      "upper": "M. , Lindblad"
+    },
+    "queries": [
+      "Léon Arthur Tutundjian",
+      "Léon Bazille Perrault",
+      "Léon Maxime Faivre"
+    ],
+    "raw_sha256": "72caa759c37eec845e1f0f6a4c9b66bed3dcac7fd6110d62e98cd5a49723d6df",
+    "scanned_records": 3462896,
+    "extracted_at": "2026-10-13T19:01:08.270930+00:00",
+    "found": {}
+  }
+}

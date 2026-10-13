@@ -1,0 +1,20 @@
+{
+  "sha256": "f084cc08f845b48c094cc2f2881f1f466e143ed9baf39991bad3e8f2273598d5",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01955-of-06881.gz",
+      "size": 400291141,
+      "etag": "\"7bcd345ca6ea5d7c7fa0bb153d82b1a8\"",
+      "md5": "e800XKbqXXx/oLsVPYKxqA==",
+      "lower": "Times_NOUN astrology_NOUN _NOUN_",
+      "upper": "Tissues_NOUN and cell_NOUN"
+    },
+    "queries": [
+      "Tinus van Doorn"
+    ],
+    "raw_sha256": "8653acf596c4eb19288691e59cd2eb1e85cab303e8648dbc54b20add76f9c45a",
+    "scanned_records": 3241290,
+    "extracted_at": "2026-10-13T19:37:48.838948+00:00",
+    "found": {}
+  }
+}

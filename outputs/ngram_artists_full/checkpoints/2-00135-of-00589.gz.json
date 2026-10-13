@@ -1,0 +1,20 @@
+{
+  "sha256": "c537cc34b78564faee95b8f68d39a1a995f50d796ef7f0391e6d21d79129167d",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00135-of-00589.gz",
+      "size": 529273722,
+      "etag": "\"fd31609c43c045424b8c1e0df96c0c49\"",
+      "md5": "/TFgnEPARUJLjB4N+WwMSQ==",
+      "lower": "Drying Cooling_NOUN",
+      "upper": "E._NOUN Pains"
+    },
+    "queries": [
+      "Dávid Jándi"
+    ],
+    "raw_sha256": "392a01bb11dbeade1a81f480c86204264dad8844e7c803bbe555a8ddf531a32c",
+    "scanned_records": 3443506,
+    "extracted_at": "2026-10-13T18:42:52.337042+00:00",
+    "found": {}
+  }
+}

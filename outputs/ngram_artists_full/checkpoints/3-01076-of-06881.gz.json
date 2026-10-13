@@ -1,0 +1,20 @@
+{
+  "sha256": "f1d3f7313d3262654c9ee873263d74933cf3b1e9d4489099c916c887a8d8b20e",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01076-of-06881.gz",
+      "size": 369952183,
+      "etag": "\"ec3e88654b4c403cdb56a52f871e9bf7\"",
+      "md5": "7D6IZUtMQDzbVqUvhx6b9w==",
+      "lower": "Enquiry_NOUN _NOUN_ if_ADP",
+      "upper": "Entwicklung_NOUN der Potentialtheorie"
+    },
+    "queries": [
+      "Enrique Estévez Ochoa"
+    ],
+    "raw_sha256": "5b9dbd1157e13eecb745f62c66f2542517467fea882d6fe423d38e6e618c85ac",
+    "scanned_records": 3231569,
+    "extracted_at": "2026-10-13T18:36:50.146372+00:00",
+    "found": {}
+  }
+}

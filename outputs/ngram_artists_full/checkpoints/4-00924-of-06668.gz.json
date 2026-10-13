@@ -1,0 +1,20 @@
+{
+  "sha256": "c5c275db6c19b585521db7105891677ba411b7f58c654013886e72dc105860ce",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00924-of-06668.gz",
+      "size": 372197693,
+      "etag": "\"538b0a8c267ffc7127841db58c071cad\"",
+      "md5": "U4sKjCZ//HEnhB21jAccrQ==",
+      "lower": "Java _._ the official",
+      "upper": "Jensen v. Cooks _CONJ_"
+    },
+    "queries": [
+      "Jean-Jules-Antoine Lecomte du Nouÿ"
+    ],
+    "raw_sha256": "8d7d2b82f94666273ef700d49be8eef8e579c7bfba70a93e2106bc65c5b91fe1",
+    "scanned_records": 3389862,
+    "extracted_at": "2026-10-13T19:12:47.365598+00:00",
+    "found": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sha256": "00a3f92df721120f979e530f4a621eaf519cdf1122bc77dfd1126a5500a88b6a",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01614-of-06881.gz",
+      "size": 364628333,
+      "etag": "\"a60234e987500bf155aa6407ed5e9a16\"",
+      "md5": "pgI06YdQC/FVqmQH7V6aFg==",
+      "lower": "Panama_NOUN _._ Agencias",
+      "upper": "Paper , there_DET"
+    },
+    "queries": [
+      "Paolo Gerolamo Brusco"
+    ],
+    "raw_sha256": "02bab033b53c7f5138e3882cab7a74384ac11ed6c8c9ab1feafea34c9b8facc6",
+    "scanned_records": 3187800,
+    "extracted_at": "2026-10-13T19:21:59.847221+00:00",
+    "found": {}
+  }
+}

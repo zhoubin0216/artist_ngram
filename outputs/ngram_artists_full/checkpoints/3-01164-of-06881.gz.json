@@ -1,0 +1,20 @@
+{
+  "sha256": "2cb5be6f4bee532cb223c3b36d9be053292b84cf07bb75fa3da6e69762cb6b77",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01164-of-06881.gz",
+      "size": 420567517,
+      "etag": "\"d77b4341b84e80ae433d7dc1de458d65\"",
+      "md5": "13tDQbhOgK5DPX3B3kWNZQ==",
+      "lower": "Gemayel government_NOUN and_CONJ",
+      "upper": "General Yuichi_NOUN Ichikawa_NOUN"
+    },
+    "queries": [
+      "Genaro Pérez Villaamil"
+    ],
+    "raw_sha256": "6287a535f9a98a4e1e8c1bc1d4d1bc5a8ec5d68ca9beee0bfc8ebf541e6bb965",
+    "scanned_records": 3224869,
+    "extracted_at": "2026-10-13T19:10:44.123414+00:00",
+    "found": {}
+  }
+}

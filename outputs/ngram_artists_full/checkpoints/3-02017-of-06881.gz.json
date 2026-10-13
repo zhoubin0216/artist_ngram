@@ -1,0 +1,20 @@
+{
+  "sha256": "4134132319b5982e3750004c882771e519097db6c3744b90a21c33f827af7083",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02017-of-06881.gz",
+      "size": 463538974,
+      "etag": "\"d2619b79dc3207343fd902d1dd82eefb\"",
+      "md5": "0mGbedwyBzQ/2QLR3YLu+w==",
+      "lower": "Vule_NOUN _NOUN_ ,",
+      "upper": "W. Lankshear_NOUN _._"
+    },
+    "queries": [
+      "Vítězslav Karel Mašek"
+    ],
+    "raw_sha256": "a298c040f2c3d7dd28ffae90e2c856c9d8bc08e854ffaeb85f2956850cae152a",
+    "scanned_records": 3348733,
+    "extracted_at": "2026-10-13T19:08:17.092363+00:00",
+    "found": {}
+  }
+}

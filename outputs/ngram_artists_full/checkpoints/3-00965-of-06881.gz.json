@@ -1,0 +1,20 @@
+{
+  "sha256": "73c0637457f62b1a1b2f788eaf606923889c0286ab789ee82bb25e9e27eec617",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00965-of-06881.gz",
+      "size": 414061177,
+      "etag": "\"2a955f815915e1409f389c8bcbad1b96\"",
+      "md5": "KpVfgVkV4UCfOJyLy60blg==",
+      "lower": "Corsicana from _DET_",
+      "upper": "Cotford_NOUN _NOUN_ _VERB_"
+    },
+    "queries": [
+      "Cosme de Acuña"
+    ],
+    "raw_sha256": "1af860bdf39a74fc4c8c43de3b77439878f6d5f4391b009e70995f94114bfc5e",
+    "scanned_records": 3371155,
+    "extracted_at": "2026-10-13T18:47:55.992486+00:00",
+    "found": {}
+  }
+}

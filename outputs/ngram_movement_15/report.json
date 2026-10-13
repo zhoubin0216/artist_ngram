@@ -1,0 +1,157 @@
+{
+  "completed_at": "2026-10-13T18:07:56.868446+00:00",
+  "corpus": "eng",
+  "version": "20200217",
+  "start_year": 1800,
+  "end_year": 2019,
+  "movement_count": 15,
+  "row_count": 2378,
+  "status_counts": {
+    "matched": 15
+  },
+  "missing_queries": [],
+  "selection": "All 15 reviewed primary queries, preserving M01-M15 IDs and dictionary QIDs.",
+  "matching": "Case-sensitive exact normalized ngram; one reviewed primary query per movement; no alias aggregation.",
+  "year_policy": "Only source-observed records in 1800-2019. No zero filling, smoothing or normalization.",
+  "normalization_policy": "Viewer metadata only confirms tokenization; every count comes from a checksum-verified raw v3 shard. Requested and normalized queries are preserved in movements.json.",
+  "interpretation": "Term visibility, not art-only visibility or artist totals. No semantic disambiguation; ambiguous and cross-disciplinary uses remain. Abstract art is a broad category, not a single coequal movement.",
+  "volume_policy": "Volumes containing the exact ngram per publication year. No book titles or deduplication across aliases/movements.",
+  "totalcounts_policy": "Unmodified corpus-wide totalcounts-n files, all original years and year,match_count,page_count,volume_count fields.",
+  "source": "https://storage.googleapis.com/books/ngrams/books/datasetsv3.html",
+  "license": "CC BY 3.0; Google Books Ngram data",
+  "shards": [
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00012-of-00024.gz",
+        "size": 544641231,
+        "etag": "\"ad8b4a1b35921a654ad6e6ad943c252d\"",
+        "md5": "rYtKGzWSGmVK1uatlDwlLQ==",
+        "lower": "Mochloulis",
+        "upper": "Pelancaran"
+      },
+      "raw_sha256": "39c80b9d2e2dc51d8dfc4f7870141d0b3a0082fdead87ae55f495a3bc79f2e1d",
+      "scanned_records": 3135145,
+      "extracted_at": "2026-10-13T17:56:37.606949+00:00",
+      "n": 1
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00013-of-00024.gz",
+        "size": 611684090,
+        "etag": "\"91cfc1983ff85c302e70caadc273ead2\"",
+        "md5": "kc/BmD/4XDAucMqtwnPq0g==",
+        "lower": "Pelancaran",
+        "upper": "Safikarshana_NOUN"
+      },
+      "raw_sha256": "7d4b084f854870d3776f5c9ba253c5690b0ad5f74b992a6e323c4676680d7c44",
+      "scanned_records": 3402459,
+      "extracted_at": "2026-10-13T17:58:08.525421+00:00",
+      "n": 1
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00320-of-00589.gz",
+        "size": 568240440,
+        "etag": "\"e55f5fbe3656272a02d8a793e8aa2aef\"",
+        "md5": "5V9fvjZWJyoC2KeT6Koq7w==",
+        "lower": "abstract afterlife_NOUN",
+        "upper": "acid refining_NOUN"
+      },
+      "raw_sha256": "df5192b7e3fc19c049217c54160551b6ec735b12e8b3e50d9b57508078b16e32",
+      "scanned_records": 3362290,
+      "extracted_at": "2026-10-13T17:59:35.041196+00:00",
+      "n": 2
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00010-of-00024.gz",
+        "size": 601722860,
+        "etag": "\"2935915afe71ba2efbcee9d218dbe93e\"",
+        "md5": "KTWRWv5xui77zunSGNvpPg==",
+        "lower": "HYPERCHLoRHYDRIA_NOUN",
+        "upper": "Kids1_NOUN"
+      },
+      "raw_sha256": "1815a46f1fa2d01c6cffc02a4590ab7601171e7762e668af17140df3c16eca58",
+      "scanned_records": 3365531,
+      "extracted_at": "2026-10-13T18:00:58.929440+00:00",
+      "n": 1
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01654-of-06881.gz",
+        "size": 408581019,
+        "etag": "\"f8a91f3c26bb9c54e2924e61d37232d5\"",
+        "md5": "+KkfPCa7nFTikk5h03Iy1Q==",
+        "lower": "Portstewart_NOUN for _DET_",
+        "upper": "Post_NOUN - Climacteric_NOUN"
+      },
+      "raw_sha256": "26b1e7c48de8f4ef7b5b078d20202c672af6b41730b80f5ce392264669b81225",
+      "scanned_records": 3223090,
+      "extracted_at": "2026-10-13T18:01:52.704291+00:00",
+      "n": 3
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00014-of-00024.gz",
+        "size": 620141271,
+        "etag": "\"f6b47dbf778fbbad0f90782580cba938\"",
+        "md5": "9rR9v3ePu60PkHglgMupOA==",
+        "lower": "Safikarshana_NOUN",
+        "upper": "Trajectog"
+      },
+      "raw_sha256": "6267febda571239df3aa1ecd20bfa0bb6126e6dbf78cb35e94a55e1a4a21df82",
+      "scanned_records": 3392643,
+      "extracted_at": "2026-10-13T18:03:21.634486+00:00",
+      "n": 1
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00097-of-00589.gz",
+        "size": 504561550,
+        "etag": "\"a21820600314310120079f3f856ee46b\"",
+        "md5": "ohggYAMUMQEgB58/hW7kaw==",
+        "lower": "Arkansas Hale_NOUN",
+        "upper": "Asseeiation_NOUN _NOUN_"
+      },
+      "raw_sha256": "29c05b41177b59735cfddd605c66af9306bf7111ee0bb43df3c089ceee758702",
+      "scanned_records": 3267091,
+      "extracted_at": "2026-10-13T18:04:28.824433+00:00",
+      "n": 2
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00009-of-00024.gz",
+        "size": 568490258,
+        "etag": "\"f1b0015fff37334ad1fb8afceb1c4c5e\"",
+        "md5": "8bABX/83M0rR+4r86xxMXg==",
+        "lower": "Ellang_NOUN",
+        "upper": "HYPERCHLoRHYDRIA_NOUN"
+      },
+      "raw_sha256": "b473a861daa57500f40b4b222b9fc58f9d2f1f64cba34525c28266b0265b22b2",
+      "scanned_records": 3109631,
+      "extracted_at": "2026-10-13T18:05:45.605879+00:00",
+      "n": 1
+    },
+    {
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00008-of-00024.gz",
+        "size": 627251491,
+        "etag": "\"c4a1f01b0847d0200df4ffd55f46c21b\"",
+        "md5": "xKHwGwhH0CAN9P/VX0bCGw==",
+        "lower": "Cerenkov_ADJ",
+        "upper": "Ellang_NOUN"
+      },
+      "raw_sha256": "684d05885d5e00e60bc85cf03fe857fa4938d1f8e967b037677c5f28384214be",
+      "scanned_records": 3408143,
+      "extracted_at": "2026-10-13T18:07:07.748616+00:00",
+      "n": 1
+    }
+  ],
+  "totalcounts_sha256": {
+    "totalcounts-1": "aa7d367404d86417af6e43f490324928756e618f61942063679fae975a7caf25",
+    "totalcounts-2": "ff9a3c4e2c514820e24eecab563501d6bc22f52731f1ea42a918ce05bad20047",
+    "totalcounts-3": "abecf3356b3782f30bf77b8af11e9b3ef0d0bc31c48654ab1869d90445368af6"
+  },
+  "data_sha256": "fa47a3912a62097baf7efb590bded9a86837a11b9760d5ff88a701cbd474b1e4",
+  "movements_sha256": "7e189b2c7bbc67488449eb8eeaa4a6c28dd2104962d4720191b3c9d9334b8726"
+}

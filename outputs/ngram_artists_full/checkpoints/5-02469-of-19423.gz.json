@@ -1,0 +1,20 @@
+{
+  "sha256": "99bf60b3ab99fd055363e1a7deb07021f885c441ca1c28035323b9cc5549d016",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02469-of-19423.gz",
+      "size": 395850245,
+      "etag": "\"083f650cfdf4fbf3dd45e6cdec239cd7\"",
+      "md5": "CD9lDP30+/PdRebN7COc1w==",
+      "lower": "Otto _NOUN_ _._ Bart _._",
+      "upper": "Our _VERB_ _ADV_ _DET_ farmers"
+    },
+    "queries": [
+      "Otto von Faber du Faur"
+    ],
+    "raw_sha256": "0f9f714aa0ad3bd08ec046e7dbbeb60740a12d26785f6ef33ad55b522c7dc2d2",
+    "scanned_records": 3297257,
+    "extracted_at": "2026-10-13T19:35:44.878052+00:00",
+    "found": {}
+  }
+}

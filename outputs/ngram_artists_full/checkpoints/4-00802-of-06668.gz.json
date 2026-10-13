@@ -1,0 +1,20 @@
+{
+  "sha256": "ef2ddda7394f5b7984f37187462af8b7431cbe704ce2087ed74a7a039c9f7621",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00802-of-06668.gz",
+      "size": 463437774,
+      "etag": "\"b0d0200315d14e14cd354adb7757d75e\"",
+      "md5": "sNAgAxXRThTNNUrbd1fXXg==",
+      "lower": "From _DET_ Oxyrhynchus _NOUN_",
+      "upper": "Fu ? _._ _END_"
+    },
+    "queries": [
+      "Frédérique Émilie Auguste O'Connell"
+    ],
+    "raw_sha256": "e433d30d263ecb12814c104f08bf9f14687df04ce3ef21e26b98715ff1504c88",
+    "scanned_records": 3529034,
+    "extracted_at": "2026-10-13T19:09:54.722671+00:00",
+    "found": {}
+  }
+}

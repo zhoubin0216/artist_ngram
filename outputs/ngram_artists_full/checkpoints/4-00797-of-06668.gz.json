@@ -1,0 +1,21 @@
+{
+  "sha256": "55763666d1600e89f056a28d5f6369104481a181a3137a423e9688eefe637fe6",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00797-of-06668.gz",
+      "size": 436754963,
+      "etag": "\"784f8e058a8350f78f71d1d219ad2d68\"",
+      "md5": "eE+OBYqDUPePcdHSGa0taA==",
+      "lower": "Frame _._ David W.",
+      "upper": "Francisco _._ _ADJ_ Bechtel"
+    },
+    "queries": [
+      "Francesc d'A. Planas Doria",
+      "Francisco Agustín y Grande"
+    ],
+    "raw_sha256": "9e799ea7faf7f7ad341e1e57e583b487655540336fe55e3e5e264318e150ab75",
+    "scanned_records": 3398196,
+    "extracted_at": "2026-10-13T18:53:29.740714+00:00",
+    "found": {}
+  }
+}

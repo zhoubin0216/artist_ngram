@@ -1,0 +1,20 @@
+{
+  "sha256": "3c6a76903f5a5a022b05da1f10d307a83c9b9a9e7b5908acca3ecd7ba5448e11",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01081-of-06881.gz",
+      "size": 464252629,
+      "etag": "\"086410859b7725ff9d042998b9ffc4c8\"",
+      "md5": "CGQQhZt3Jf+dBCmYuf/EyA==",
+      "lower": "Esophagogastric_NOUN Junction _._",
+      "upper": "Estates of_ADP Peers"
+    },
+    "queries": [
+      "Espérance Léon Broquet"
+    ],
+    "raw_sha256": "917648f5d95d284bd6160636f46169f30c1ce30063b86fbc2e6a4b6185297233",
+    "scanned_records": 3518520,
+    "extracted_at": "2026-10-13T19:05:19.123695+00:00",
+    "found": {}
+  }
+}

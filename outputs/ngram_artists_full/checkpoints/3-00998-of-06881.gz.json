@@ -1,0 +1,20 @@
+{
+  "sha256": "be6bfaa7005aa07a7345adccac5796d1a733ab891dfaf61251f368284da30720",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00998-of-06881.gz",
+      "size": 393652673,
+      "etag": "\"969ef616823824805e6afba9a8aab752\"",
+      "md5": "lp72FoI4JIBeavupqKq3Ug==",
+      "lower": "Data_NOUN Rearranged _ADP_",
+      "upper": "David McGlashan ,_."
+    },
+    "queries": [
+      "David Cox Jr."
+    ],
+    "raw_sha256": "ca10b62b18c3598230358464830447a7f9f2e7358fad218a47e9762a89f90af5",
+    "scanned_records": 3258588,
+    "extracted_at": "2026-10-13T18:52:48.077571+00:00",
+    "found": {}
+  }
+}

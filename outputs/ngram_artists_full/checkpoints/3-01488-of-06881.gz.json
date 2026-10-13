@@ -1,0 +1,20 @@
+{
+  "sha256": "30a43136b64dee76ba30b840b7fc34106790fd5ac3a6bfab49375153a9d15b0c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01488-of-06881.gz",
+      "size": 409539848,
+      "etag": "\"1eea335196aa77e1890791a915331d84\"",
+      "md5": "HuozUZaqd+GJB5GpFTMdhA==",
+      "lower": "Miocene_NOUN _NOUN_ Rosa",
+      "upper": "Miss LaPrade consistently_ADV"
+    },
+    "queries": [
+      "Miquel Villà Bassols"
+    ],
+    "raw_sha256": "034ca3c351587ca2dd44cce4317b12ba9093b649db07727857105097fffc777a",
+    "scanned_records": 3289100,
+    "extracted_at": "2026-10-13T18:53:22.043230+00:00",
+    "found": {}
+  }
+}

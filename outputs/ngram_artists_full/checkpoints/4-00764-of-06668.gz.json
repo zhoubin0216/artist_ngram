@@ -1,0 +1,20 @@
+{
+  "sha256": "8e6c0052700e9d462149d1be450ca7cd981d72c3db8228896e37d8ab43f7cf83",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00764-of-06668.gz",
+      "size": 378001774,
+      "etag": "\"a3879a05a2794059769db43fcb625e99\"",
+      "md5": "o4eaBaJ5QFl2nbQ/y2JemQ==",
+      "lower": "Eucharist _._ Groundwork for",
+      "upper": "European Union Ambassador _NOUN_"
+    },
+    "queries": [
+      "Eugène Emmanuel Amaury Duval"
+    ],
+    "raw_sha256": "e55ced602967b0f5007f3526da76fe51402ed366e27d61b45d9742287114a731",
+    "scanned_records": 3187400,
+    "extracted_at": "2026-10-13T18:51:27.607033+00:00",
+    "found": {}
+  }
+}

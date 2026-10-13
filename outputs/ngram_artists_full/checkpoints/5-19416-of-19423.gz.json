@@ -1,0 +1,79 @@
+{
+  "sha256": "3aed02e53a5f851872916192202fc24f2918b32b4fc092d0d90fb4693b30d1ba",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-19416-of-19423.gz",
+      "size": 379524640,
+      "etag": "\"5b7c3766669f686cf0c1c492ab4eb9d7\"",
+      "md5": "W3w3ZmafaGzwwcSSq0651w==",
+      "lower": "º usiness of the House",
+      "upper": "écrivain _X_ _X_ _X_ _._"
+    },
+    "queries": [
+      "Élisabeth Louise Vigée Le Brun"
+    ],
+    "raw_sha256": "65ab8acfe59685c67817af95815c24b3aec39b5d7ca66a7ee0f695c6fae13e98",
+    "scanned_records": 3466101,
+    "extracted_at": "2026-10-13T19:25:57.062988+00:00",
+    "found": {
+      "Élisabeth Louise Vigée Le Brun": {
+        "1914": [
+          1,
+          1
+        ],
+        "1961": [
+          1,
+          1
+        ],
+        "2001": [
+          1,
+          1
+        ],
+        "2003": [
+          1,
+          1
+        ],
+        "2005": [
+          1,
+          1
+        ],
+        "2006": [
+          2,
+          2
+        ],
+        "2009": [
+          5,
+          3
+        ],
+        "2010": [
+          2,
+          2
+        ],
+        "2013": [
+          1,
+          1
+        ],
+        "2014": [
+          1,
+          1
+        ],
+        "2016": [
+          9,
+          5
+        ],
+        "2017": [
+          20,
+          13
+        ],
+        "2018": [
+          22,
+          6
+        ],
+        "2019": [
+          28,
+          9
+        ]
+      }
+    }
+  }
+}

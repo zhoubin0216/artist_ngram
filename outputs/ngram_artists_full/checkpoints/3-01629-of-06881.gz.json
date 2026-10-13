@@ -1,0 +1,20 @@
+{
+  "sha256": "d9105a0999c7d61b2295f46ab06760b6f2f2986f2d494d3607a05ad61516091a",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01629-of-06881.gz",
+      "size": 405255012,
+      "etag": "\"358d834e79259e95edb43e6d00d5280f\"",
+      "md5": "NY2DTnklnpXttD5tANUoDw==",
+      "lower": "People_NOUN v._CONJ Swallow_NOUN",
+      "upper": "Perennis_NOUN and_CONJ _PRON_"
+    },
+    "queries": [
+      "Percy Robert Craft"
+    ],
+    "raw_sha256": "ddb630eff8e7d0dd838c866242de0a8d8f20d184d6ea763672cae0ef8360dffe",
+    "scanned_records": 3244181,
+    "extracted_at": "2026-10-13T19:19:44.018110+00:00",
+    "found": {}
+  }
+}

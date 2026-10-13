@@ -1,0 +1,20 @@
+{
+  "sha256": "4a9c29d6685d1b9c5508caf018612c28e35f799873ad99d734128fb947533a78",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00815-of-06668.gz",
+      "size": 388602497,
+      "etag": "\"7f4725c724c5e01e03874eacd38fc8ef\"",
+      "md5": "f0clxyTF4B4Dh06s04/I7w==",
+      "lower": "George _PRT_ grow up",
+      "upper": "German aircraft based _ADP_"
+    },
+    "queries": [
+      "Georges Henri Manzana Pissarro"
+    ],
+    "raw_sha256": "f3e7f3ab4f876f3eeb4d0705ad3528df7e508f5dcf6921cfc54cafc4fcc6d5a5",
+    "scanned_records": 3252826,
+    "extracted_at": "2026-10-13T19:13:18.027806+00:00",
+    "found": {}
+  }
+}

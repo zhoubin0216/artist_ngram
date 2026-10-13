@@ -1,0 +1,20 @@
+{
+  "sha256": "6504cc0a0c8f6cc1338abe5e41416d750d59c8a2f70c641e11cf41d80180a73d",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01516-of-06881.gz",
+      "size": 463610448,
+      "etag": "\"b8b4f2c1e526dcc4a589560df1a632ec\"",
+      "md5": "uLTyweUm3MSliVYN8aYy7A==",
+      "lower": "My_PRON Mrs_NOUN _VERB_",
+      "upper": "Myung_NOUN -_. won_NOUN"
+    },
+    "queries": [
+      "Mykola Fedorovych Bortnykov"
+    ],
+    "raw_sha256": "7f24bce0269a296c3a20ad0b656b01344c18897074c67ddcbc601eaa73a13102",
+    "scanned_records": 3531154,
+    "extracted_at": "2026-10-13T19:28:29.870208+00:00",
+    "found": {}
+  }
+}

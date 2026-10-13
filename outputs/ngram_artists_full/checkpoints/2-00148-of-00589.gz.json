@@ -1,0 +1,20 @@
+{
+  "sha256": "f292128c16b496ae40518b11afb01589e4c7bb331d2b211c2b2ca6fb41ef8992",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00148-of-00589.gz",
+      "size": 554002002,
+      "etag": "\"9614be9c5ccae8d94b935aaf2c43b625\"",
+      "md5": "lhS+nFzK6NlLk1qvLEO2JQ==",
+      "lower": "Folio_ADP 454",
+      "upper": "Fragmentation Techniques"
+    },
+    "queries": [
+      "Fortuné Dufau"
+    ],
+    "raw_sha256": "09d710b263db877f567a6cbd52f6d207a92411860bd81c880c422d8705ee306d",
+    "scanned_records": 3456470,
+    "extracted_at": "2026-10-13T18:56:45.823943+00:00",
+    "found": {}
+  }
+}

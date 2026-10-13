@@ -1,0 +1,20 @@
+{
+  "sha256": "453dc6ba9c33d2710e642edba9ea5edd60b90f708503333da43c716263c68814",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00546-of-06668.gz",
+      "size": 382405514,
+      "etag": "\"b24f0a38905b4877fc73f33d7ec0011b\"",
+      "md5": "sk8KOJBbSHf8c/M9fsABGw==",
+      "lower": "Ala._NOUN ,_. to_PRT remove_VERB",
+      "upper": "Alcock _VERB_ _NUM_ _NUM_"
+    },
+    "queries": [
+      "Alberto Pla y Rubio"
+    ],
+    "raw_sha256": "0c0d7c934cb1068ad0557eba1919c63a2bd193ff0ccc5bf7592a35ce980e300a",
+    "scanned_records": 3369149,
+    "extracted_at": "2026-10-13T18:29:24.560354+00:00",
+    "found": {}
+  }
+}

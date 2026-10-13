@@ -1,0 +1,20 @@
+{
+  "sha256": "667079326da23d74352f6a42c49a3ad4e08a02075771f5d056e450f85f727b5f",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01150-of-06881.gz",
+      "size": 401940083,
+      "etag": "\"463fd76e175a29f93969ccd6709e2464\"",
+      "md5": "Rj/XbhdaKfk5aczWcJ4kZA==",
+      "lower": "Furthermore_ADV , appetite_NOUN",
+      "upper": "G. CHEYNEY_NOUN ._."
+    },
+    "queries": [
+      "Félix Yuste Peinado"
+    ],
+    "raw_sha256": "84b20b4be94906f8c78319f69c3a70d0be0346066292656026b56884434fc210",
+    "scanned_records": 3399727,
+    "extracted_at": "2026-10-13T19:09:57.010167+00:00",
+    "found": {}
+  }
+}

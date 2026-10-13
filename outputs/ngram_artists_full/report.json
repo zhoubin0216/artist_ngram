@@ -1,0 +1,5062 @@
+{
+  "updated_at": "2026-10-13T19:39:05.420999+00:00",
+  "run_status": "complete",
+  "corpus": "eng",
+  "version": "20200217",
+  "start_year": 1800,
+  "end_year": 2019,
+  "artist_count": 1370,
+  "row_count": 73523,
+  "status_counts": {
+    "matched": 877,
+    "not_found": 493
+  },
+  "completed_shards": 302,
+  "total_shards": 302,
+  "missing_names": [
+    "William-Adolphe Bouguereau",
+    "Adelardo Covarsí",
+    "Abel Lauvray",
+    "Abel Bertram",
+    "Agustín Úbeda",
+    "Aart van den IJssel",
+    "Aimée Brune-Pagès",
+    "Adolphe Alexandre Lesrel",
+    "Adolfo Guiard",
+    "Akseli Gallen-Kallela",
+    "Albert Droesbeke",
+    "Elsa von Freytag-Loringhoven",
+    "Albert Lemaître",
+    "Alexis Keunen",
+    "Adrianus Johannes Jacobus de Winter",
+    "Amedeo Preziosi",
+    "Albert Dagnaux",
+    "Alexis Mérodack-Jeaneau",
+    "Alexandre-Gabriel Decamps",
+    "Alfred Chanut",
+    "Albert Dandoy",
+    "Alfred Swieykowski",
+    "Auguste Desch",
+    "Albert Schiestl-Arding",
+    "Alphonse Monchablon",
+    "Alberto Pla y Rubio",
+    "André Hallet",
+    "Alexander Bazhbeuk-Melikyan",
+    "André Morisset",
+    "Anne-Louis Girodet",
+    "Alexander Lubimov",
+    "Alexander Marcette",
+    "André Jolly",
+    "Apcar Baltazar",
+    "Béla Iványi-Grünwald",
+    "Albin Egger-Lienz",
+    "Amédée Cortier",
+    "Alexander Nikolayevich Samokhvalov",
+    "Amélie Beaury-Saurel",
+    "Clément Serveau",
+    "Antoine Claude Ponthus-Cinier",
+    "Alexander Savinov",
+    "Camille Nicolas Lambert",
+    "Charles l'Eplattenier",
+    "Alfred Krupa",
+    "Antoine-Jean Gros",
+    "Elisa Beetz-Charpentier",
+    "Emmanuel Gondouin",
+    "Carlos Cruz-Diez",
+    "Antoinette Béfort",
+    "Aline Guérin-Billet",
+    "Auguste Alexandre Hirsch",
+    "Enrique Estévez Ochoa",
+    "Aloys Wach",
+    "Benjamin de Rolland",
+    "Anna De Weert",
+    "Eugenio Gómez Mir",
+    "Alvar Cawén",
+    "Guilherme de Santa-Rita",
+    "Camille-Félix Bellanger",
+    "Antoni Ribas Prats",
+    "Charles Malfroy",
+    "Amédée de La Patellière",
+    "Eulogio Varela Sartorio",
+    "Ion Theodorescu-Sion",
+    "Fritz Schwarz-Waldegg",
+    "Carlo Labruzzo",
+    "Dávid Jándi",
+    "Auguste François-Marie Gorguet",
+    "Leandra Angelucci Cominazzini",
+    "Bernardino Montañés",
+    "Charles Édouard Delort",
+    "Arthur Garguromin-Verona",
+    "Charles-Philippe Larivière",
+    "Charles-Alexandre Coëssin de la Fosse",
+    "Hanns Bolz",
+    "Charles-Amable Lenoir",
+    "August von Brandis",
+    "Emmanuel de La Villéon",
+    "Louis Neillot",
+    "Antoon Kruysen",
+    "Jean Lambert-Rucki",
+    "Henri Ginet",
+    "Friedrich Vordemberge-Gildewart",
+    "Antoni Caba",
+    "Charles-Édouard Boutibonne",
+    "Aurel Băeșu",
+    "Bolesław Biegas",
+    "Sophie Taeuber-Arp",
+    "Cosme de Acuña",
+    "Ernest de Chamaillard",
+    "Léon Lehmann",
+    "Gabriele Patriarca",
+    "Artur Loureiro",
+    "Edouard Agneessens",
+    "Eugène Antoine Durenne",
+    "August Babberger",
+    "Georges Breuil",
+    "Constantinus Cornelis Huysmans",
+    "Eduardo Zamacois y Zabala",
+    "Betsy Westendorp-Osieck",
+    "Ferdinand du Puigaudeau",
+    "Renato Righetti",
+    "Ger van Iersel",
+    "Benjamin Basov",
+    "Eugène Emmanuel Amaury Duval",
+    "Hede von Trapp",
+    "Josep Ventosa Domènech",
+    "Gustav Heinrich Wolff",
+    "David Cox Jr.",
+    "Besedin Serhiy Fotiyovych",
+    "Eugène Ernest Hillemacher",
+    "Charles Devillié",
+    "Francesc d'A. Planas Doria",
+    "Miquel Villà Bassols",
+    "José Luis González Bernal",
+    "Eugenio Álvarez Dumont",
+    "Boris Lavrenko",
+    "Eugène Faure",
+    "Cornelis Vreedenburgh",
+    "Nadežda Petrović",
+    "Eustatie Altini",
+    "Camille Van Camp",
+    "Francisc Șirato",
+    "Narcisse Guilbert",
+    "Valentine de Saint-Point",
+    "Fortuné Dufau",
+    "Carl Hasenpflug",
+    "Fritz Osswald",
+    "Imre Földes",
+    "Berthe Dubail",
+    "Mainie Harriet Jellett",
+    "Francisco Agustín y Grande",
+    "Emo Mazzetti",
+    "Carolina Carlesimo",
+    "Francesco Brunery",
+    "Philippe Marie Picard",
+    "Broncia Koller-Pinell",
+    "François-André Vincent",
+    "Kay Rasmus Nielsen",
+    "François-Édouard Picot",
+    "Charles van den Eycken",
+    "Elisabeth von Eicken",
+    "Edmond Aman-Jean",
+    "Robert Antoine Pinchon",
+    "Lucile Passavant",
+    "François-Léon Benouville",
+    "Georges William Thornley",
+    "Camille Claus",
+    "Léon Arthur Tutundjian",
+    "Geoffroy Alphonse Chocarne",
+    "Eugène Viala",
+    "Fritz Zuber-Buhler",
+    "Giuseppe Ferdinando Piana",
+    "Edward Burne-Jones",
+    "Jean René Bazaine",
+    "Everhardus Koster",
+    "Constantin Daniel Stahi",
+    "Emile Van Doren",
+    "Wacław Wąsowicz",
+    "Carl Rabus",
+    "George Demetrescu-Mirea",
+    "Erich Mallina",
+    "Émilie Charmy",
+    "Joaquín Torres-García",
+    "Giuseppe Collignon",
+    "Ferdinand Marinus",
+    "Guillaume Guillon-Lethière",
+    "Francesco Beda",
+    "Edvard Petersen",
+    "Espérance Léon Broquet",
+    "Pierre Albert-Birot",
+    "Henri-François Riesener",
+    "Elin Danielson-Gambogi",
+    "Raymond Duchamp-Villon",
+    "Emmanouil Zairis",
+    "Eugène Galien-Laloue",
+    "Roberto Franzoni",
+    "Robert Poughéon",
+    "Franciszek Ksawery Lampi",
+    "Henri de Toulouse-Lautrec",
+    "Eugène Loup",
+    "Sam Schellink",
+    "Hippolyte-Pierre Delanoy",
+    "Eugenio Landesio pta",
+    "Henriette Tirman",
+    "François Roffiaen",
+    "Evsey Moiseenko",
+    "Kees Franse",
+    "Jacques-Louis David",
+    "François Vincent Latil",
+    "Filippo Indoni",
+    "Henry Pluchart",
+    "Vítězslav Karel Mašek",
+    "Valéria Dénes",
+    "Kurts Fridrihsons",
+    "Jan Damel",
+    "Francesco Coleman",
+    "Ezechiele Acerbi",
+    "Jacques Traversier",
+    "François Emile Ehrmann",
+    "Victor Leclercq",
+    "Frédérique Émilie Auguste O'Connell",
+    "Francisco Manuel Oller",
+    "Henry-Eugène Delacroix",
+    "Jean Fernand Trochain",
+    "Élisabeth Sonrel",
+    "Dora Bromberger",
+    "Marcel Martí",
+    "Jean Louis Bezard",
+    "Félix Yuste Peinado",
+    "Franciszek Tepa",
+    "Émile Berchmans",
+    "Eberhard Viegener",
+    "Rudolph Carl von Ripper",
+    "Jean-Auguste-Dominique Ingres",
+    "Genaro Pérez Villaamil",
+    "Franz Eisenhut",
+    "Ștefan Luchian",
+    "Jean-Baptiste Debret",
+    "Jacqueline Comerre-Paton",
+    "Eduard Bäumer",
+    "Jean-Baptiste Regnault",
+    "Gavriil Malish",
+    "Jakub Obrovský",
+    "Josef Mühlbeck",
+    "Eduard Ole",
+    "Urbano Lugrís González",
+    "Márta Pán",
+    "Jean-Baptiste Wicar",
+    "Giuseppe Lorenzo Gatteri",
+    "Friedrich Eckenfelder",
+    "Jules-Alexandre Grün",
+    "Jean-Bruno Gassies",
+    "Jean-Amédée Gibert",
+    "Friedrich Jentzen",
+    "János Thorma",
+    "Othello Radou",
+    "Jean-Charles Tardieu",
+    "Jean-Joseph Benjamin-Constant",
+    "Jāzeps Grosvalds",
+    "Elfriede Lohse-Wächtler",
+    "Jean-Hilaire Belloc",
+    "Gustave Lassalle-Bordes",
+    "Georges Maroniez",
+    "Jean-Joseph Weerts",
+    "Konstantinos Maleas",
+    "Else Berg",
+    "Ángeles Santos Torroella",
+    "Jean-Jacques-François Le Barbier",
+    "Gigo Gabashvili",
+    "Jean-Jules-Antoine Lecomte du Nouÿ",
+    "Frédéric Samuel Cordey",
+    "Georges d'Espagnat",
+    "Ülo Sooster",
+    "Jean-Thomas Thibault",
+    "Giovanni Battista Quadrone",
+    "Jean-Louis-Ernest Meissonier",
+    "Georges Henri Manzana Pissarro",
+    "Louis Bonamici",
+    "Jean-Léon Gérôme",
+    "Emil van Hauth",
+    "Jean-Paul Laurens",
+    "Emmanuel Mané-Katz",
+    "John Flaxman Jr.",
+    "Héléna Joséphine Robelet",
+    "Gleb Savinov",
+    "Gustave Mossa",
+    "Joseph De Cauwer",
+    "Joaquín Bárbara y Balza",
+    "Joseph Denis Odevaere",
+    "Henri Permeke",
+    "Joseph-Noël Sylvestre",
+    "Hans von Faber du Faur",
+    "Jacques Auguste Regnier",
+    "Henrique Pousão",
+    "Heinrich Breling",
+    "Joseph Marcellin Combette",
+    "Jakob Christoph Miville",
+    "Llorenç Cerdà i Bisbal",
+    "Joseph-Benoît Suvée",
+    "Ivan Godlevsky",
+    "Louis Anselme Longa",
+    "Helene Cramer",
+    "Henri Fantin-Latour",
+    "Erwin Hahs",
+    "José Maea",
+    "Louis Édouard Fournier",
+    "Henri Michel-Lévy",
+    "José de Madrazo y Agudo",
+    "Jean-Baptiste Carpeaux",
+    "Jan Nepomucen Głowacki",
+    "Louis-Joseph Courtat",
+    "Henri-Jean Guillaume Martin",
+    "Jean-Baptiste Kindermans",
+    "Jean Alexandru Steriadi",
+    "Louis-Marie Baader",
+    "Henri-Pierre Picou",
+    "Fabián de Castro y Heredia",
+    "Marie-Denise Villers",
+    "Jean Carolus",
+    "Luc-Olivier Merson",
+    "Percy Robert Craft",
+    "Marie-Guillemine Benoist",
+    "Johan Lundbye",
+    "Ludovic Alleaume",
+    "Ioannis Altamouras",
+    "Pere Ysern i Alié",
+    "Fernando Delapuente",
+    "Josep Tapiró Baró",
+    "Pierre Thévenet",
+    "Merry-Joseph Blondel",
+    "Joseph Ferdinand Boissard de Boisdenier",
+    "Johann Walter-Kurau",
+    "Léon Bazille Perrault",
+    "František Foltýn",
+    "Joseph Félon",
+    "René Victor Auberjonois",
+    "Joseph Quinaux",
+    "Jakob Nussbaum",
+    "Rigoberto Soler",
+    "José Arrau y Barba",
+    "Marcel Rieder",
+    "Jan Hendrik Scheltema",
+    "Franz Maria Jansen",
+    "Nicolas-André Monsiau",
+    "José Saló y Junquet",
+    "Jan Zoetelief Tromp",
+    "Jean Francis Auburtin",
+    "Franz Nölken",
+    "Nicolas-Didier Boguet",
+    "Jules Victor Génisson",
+    "Martin von Feuerstein",
+    "Jean Ignace Isidore Gérard Grandville",
+    "Friedrich Aduatz",
+    "Paolo Gerolamo Brusco",
+    "Kazimierz Alchimowicz",
+    "Jean-François Raffaëlli",
+    "Jean-Denis Maillart",
+    "Károly Telepy",
+    "János Tornyai",
+    "Mayou Iserentant",
+    "Jean-Jacques Henner",
+    "Pierre Edme Louis Pellier",
+    "Fritz Ascher",
+    "Pierre-François-Léonard Fontaine",
+    "Lluís Rigalt",
+    "József Koszta",
+    "Mișu Popp",
+    "Joan Brull Vinyoles",
+    "Pierre-Louis Delaval",
+    "Kliment Red'ko",
+    "Jules Benoit-Lévy",
+    "Pierre-Narcisse Guérin",
+    "Kolë Idromeno",
+    "Paul-Jacques-Aimé Baudry",
+    "Jules Ernest Renoux",
+    "Édouard Cortès",
+    "Léon-Marie-Joseph Billardet",
+    "Josef Anton Trčka",
+    "Julius Kornbeck",
+    "Ștefan Dimitrescu",
+    "Josep Maria Tamburini i Dalmau",
+    "Manuel Aguirre y Monsalbe",
+    "Pierre Carrier-Belleuse",
+    "Karl Schmidt-Rottluff",
+    "Miguel Ângelo Lupi",
+    "Louis-Frederic Schützenberger",
+    "Pierre-Désiré Guillemet",
+    "Konrāds Ubāns",
+    "József Rippl-Rónai",
+    "Pierre-Justin Ouvrié",
+    "Georges Creten",
+    "Nils Blommér",
+    "Pierre-Nicolas Brisset",
+    "Karel de Nerée tot Babberich",
+    "Gert Heinrich Wollheim",
+    "Mauritz de Haas",
+    "Gisela Andersch",
+    "Paul Emile Nicolié",
+    "Modesto Brocos Gómez",
+    "Kuzma Petrov-Vodkin",
+    "Mykola Fedorovych Bortnykov",
+    "Roman Havelka",
+    "Nathaniel Dance-Holland",
+    "Rémy Cogghe",
+    "Leonard Turzhansky",
+    "Hans Ralfs",
+    "Stefan Bakałowicz",
+    "Polydore Beaufaux",
+    "Louise Héger",
+    "Lucien Lévy-Dhurmer",
+    "Rafael Romero Barros",
+    "Nicolas Eekman",
+    "Théophile Vauchelet",
+    "Lucien-Victor Guirand de Scévola",
+    "Salvatore Lo Forte",
+    "Nikolay Baskakov",
+    "Victor-Jean Nicolle",
+    "Samuel James Ainsley",
+    "Octav Băncilă",
+    "Władysław Czachórski",
+    "Ludovic-Napoléon Lepic",
+    "Olga Bogaevskaya",
+    "Édouard Bisson",
+    "Ludwik de Laveaux",
+    "Léon Maxime Faivre",
+    "Édouard Debat-Ponsan",
+    "Édouard Sain",
+    "Léon Philippet",
+    "Marguerite Verboeckhoven",
+    "Maria Caspar-Filser",
+    "Émile Bin",
+    "Vilhelm Melbye",
+    "Vincenzo Petrocelli",
+    "Évariste Carpentier",
+    "Ignaz Epper",
+    "Marie Sieger-Polack",
+    "Nikolay Krymov",
+    "Ilka Gedő",
+    "Marià Pidelaserra Brias i Brias",
+    "Pietro Saltini",
+    "Maurice Le Lièpvre",
+    "Ángel María Cortellini",
+    "Piotr Belousov",
+    "Paul-Albert Besnard",
+    "Piotr Buchkin",
+    "Pierre Amédée Marcel-Béronneau",
+    "Jacques Ernst Sonderegger",
+    "Mykola Burachek",
+    "Nicolae Dărăscu",
+    "Jan Vaerten",
+    "Roger Chapelain-Midy",
+    "Rudolf Schweitzer–Cumpăna",
+    "Olga Wisinger-Florian",
+    "Sadik Kaceli",
+    "Jean d'Esparbès",
+    "Paul Mascart",
+    "Josef Achmann",
+    "Stanisław Grocholski",
+    "Stanisław Lentz",
+    "Joseph Zabeau",
+    "Stanisław Masłowski",
+    "Taisia Afonina",
+    "Pierre Adolphe Valette",
+    "Pierre Ernest Prins",
+    "János Mattis-Teutsch",
+    "Pierre-Auguste Renoir",
+    "Jēkabs Kazaks",
+    "Théophile Poilpot",
+    "Pierre-Isidore Bureau",
+    "Wlastimil Hofman",
+    "Vecheslav Zagonek",
+    "Konrad Krzyżanowski",
+    "Vicente Santaolaria Montoro",
+    "Émile Fabry",
+    "Kārlis Padegs",
+    "Władysław Wankie",
+    "Émile-René Ménard",
+    "Lascăr Vorel",
+    "Władysław Łuszczkiewicz",
+    "Étienne Azambre",
+    "Zygmunt Ajdukiewicz",
+    "Theophrastos Triantafyllidis",
+    "Théodore Ralli",
+    "Lou Albert-Lasard",
+    "Vilhelms Purvītis",
+    "Waldemar Rösler",
+    "Léo Maillet",
+    "Émile-Gustave Cavallo-Péduzzi",
+    "Marian Bohusz-Szyszko",
+    "Max Olderock",
+    "Milan Konjović",
+    "Mário Eloy",
+    "Oskar Lüthy",
+    "Otto von Faber du Faur",
+    "Paula Modersohn-Becker",
+    "Peter August Böckstiegel",
+    "Pinchus Krémègne",
+    "Pranas Domšaitis",
+    "Princess Fahrelnissa Zeid",
+    "Prosper De Troyer",
+    "Rudi Bierman",
+    "Rudolf Ausleger",
+    "Theo von Brockhusen",
+    "Thilo Maatsch",
+    "Tinus van Doorn",
+    "Ugo Gianattasio",
+    "Umberto Lilloni",
+    "Valentin Nagel",
+    "Vilmos Aba-Novák",
+    "Wolf Röhricht",
+    "Édouard Goerg"
+  ],
+  "failed_shards": {},
+  "workers": 8,
+  "selection": "Complete current dictionary, including the unchanged 50-artist pilot; one original full-name query per artist.",
+  "matching": "case-sensitive exact full name; no POS variants or alias summation",
+  "year_policy": "Only observed raw records in the requested window; no zero filling, smoothing or normalization.",
+  "query_policy": "Same original-name, whitespace-token-count policy as the artist pilot. Punctuation/tokenization warnings remain for manual review. No new aliases or Viewer tokenization expansion.",
+  "volume_policy": "Volumes containing each exact ngram per publication year; no book titles or deduplication across artists/aliases.",
+  "totalcounts_policy": "Unmodified corpus-wide totalcounts-n files, including all original years and year,match_count,page_count,volume_count fields.",
+  "source": "https://storage.googleapis.com/books/ngrams/books/datasetsv3.html",
+  "license": "CC BY 3.0; Google Books Ngram data",
+  "pilot_queries_verified": 50,
+  "shards": [
+    {
+      "file": "2-00089-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00089-of-00589.gz",
+        "size": 543625974,
+        "etag": "\"31761a9dcda6b747b6b440b959124cf7\"",
+        "md5": "MXYanc2mt0e2tEC5WRJM9w==",
+        "lower": "ATA_NOUN circuit_NOUN",
+        "upper": "Ac_NOUN 18-19_NUM"
+      },
+      "raw_sha256": "090391954b56c7bf768ad581aa54f0387d558b2cf97433a8805aed630e040bce",
+      "scanned_records": 3413228,
+      "extracted_at": "2026-10-13T15:48:30.965922+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "2-00090-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00090-of-00589.gz",
+        "size": 502452401,
+        "etag": "\"e158fac66a6b2556b6170f625562958a\"",
+        "md5": "4Vj6xmprJVa2Fw9iVWKVig==",
+        "lower": "Ac_NOUN 18-19_NUM",
+        "upper": "Admiralty sure_ADJ"
+      },
+      "raw_sha256": "0501795e3eec3ccc4a7fd0a95f66bc1b721a73364232ce07d3ceb60c4d2948f8",
+      "scanned_records": 3368513,
+      "extracted_at": "2026-10-13T15:47:19.221527+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "2-00091-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00091-of-00589.gz",
+        "size": 512084515,
+        "etag": "\"b1503178bb860bfab61b8cec343d0d0f\"",
+        "md5": "sVAxeLuGC/q2G4zsND0NDw==",
+        "lower": "Admiralty sure_ADJ",
+        "upper": "Aid Medicated_NOUN"
+      },
+      "raw_sha256": "ded28347023303fb9c271e5cf70fc153b2fa73ac591b1bb6a09e441050fc2aa3",
+      "scanned_records": 3409685,
+      "extracted_at": "2026-10-13T15:50:48.085557+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "2-00092-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00092-of-00589.gz",
+        "size": 499280937,
+        "etag": "\"807f3d4302934ce645969aa1f0d6eef2\"",
+        "md5": "gH89QwKTTOZFlpqh8Nbu8g==",
+        "lower": "Aid Medicated_NOUN",
+        "upper": "All_DET Samba_NOUN"
+      },
+      "raw_sha256": "248f41c40afa28a416889a39680b5adca6c99b533fb90d9a45966d31bf7a9979",
+      "scanned_records": 3401390,
+      "extracted_at": "2026-10-13T18:22:39.724223+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00093-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00093-of-00589.gz",
+        "size": 526353303,
+        "etag": "\"e238d77b3fb6c004ae992a2a88ade06f\"",
+        "md5": "4jjXez+2wASumSoqiK3gbw==",
+        "lower": "All_DET Samba_NOUN",
+        "upper": "American_ADJ oilseeds_NOUN"
+      },
+      "raw_sha256": "2eb2f438354c69cbb03eb19f54c950e44326fe05efed22be86dd2fd332581884",
+      "scanned_records": 3358604,
+      "extracted_at": "2026-10-13T18:26:47.090245+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00094-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00094-of-00589.gz",
+        "size": 544721603,
+        "etag": "\"9e1efaf21a20af66031a344af64884ad\"",
+        "md5": "nh768hogr2YDGjRK9kiErQ==",
+        "lower": "American_ADJ oilseeds_NOUN",
+        "upper": "Angelic_NOUN Vision"
+      },
+      "raw_sha256": "94cbc51613b1dacf143fec2f6b2983e183ba9317fef1350b8b398706dc113357",
+      "scanned_records": 3294129,
+      "extracted_at": "2026-10-13T18:24:39.493337+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00095-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00095-of-00589.gz",
+        "size": 515526250,
+        "etag": "\"00ff916f2b8bbac603367c7af0128e99\"",
+        "md5": "AP+RbyuLusYDNnx68BKOmQ==",
+        "lower": "Angelic_NOUN Vision",
+        "upper": "App_NOUN Service_NOUN"
+      },
+      "raw_sha256": "e09e407798a0e9b472b78bb5fc05561b0a322e337624855881420b28fa392b48",
+      "scanned_records": 3365563,
+      "extracted_at": "2026-10-13T18:29:47.092207+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00096-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00096-of-00589.gz",
+        "size": 505806076,
+        "etag": "\"bee7298e65744ee383962e1f5dd87017\"",
+        "md5": "vucpjmV0TuODli4fXdhwFw==",
+        "lower": "App_NOUN Service_NOUN",
+        "upper": "Arkansas Hale_NOUN"
+      },
+      "raw_sha256": "2bec47d06855517170b5b92edf0fc97a7c158c7a15d550b0c3c56074c3542aa1",
+      "scanned_records": 3318242,
+      "extracted_at": "2026-10-13T18:32:58.598145+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00097-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00097-of-00589.gz",
+        "size": 504561550,
+        "etag": "\"a21820600314310120079f3f856ee46b\"",
+        "md5": "ohggYAMUMQEgB58/hW7kaw==",
+        "lower": "Arkansas Hale_NOUN",
+        "upper": "Asseeiation_NOUN _NOUN_"
+      },
+      "raw_sha256": "29c05b41177b59735cfddd605c66af9306bf7111ee0bb43df3c089ceee758702",
+      "scanned_records": 3267091,
+      "extracted_at": "2026-10-13T18:24:35.432760+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00098-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00098-of-00589.gz",
+        "size": 514898909,
+        "etag": "\"74b7413039df9b9c6014fd221c87a074\"",
+        "md5": "dLdBMDnfm5xgFP0iHIegdA==",
+        "lower": "Asseeiation_NOUN _NOUN_",
+        "upper": "Auker_NOUN _._"
+      },
+      "raw_sha256": "3f0ac0a9e0b7b0a8a91c65c3ffd549470f0e3bbf12ed5c10cda7605ef7e9a85a",
+      "scanned_records": 3310667,
+      "extracted_at": "2026-10-13T18:29:42.983705+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00099-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00099-of-00589.gz",
+        "size": 501863236,
+        "etag": "\"41e955ff1d2f0d18b1ea4c318eedccdb\"",
+        "md5": "QelV/x0vDRix6kwxju3M2w==",
+        "lower": "Auker_NOUN _._",
+        "upper": "B.R. Kelpsas"
+      },
+      "raw_sha256": "9c0cc296692f744f12167f2c7fb0b71e2d1e6af3bae0877f7be504c5e2e139e9",
+      "scanned_records": 3371299,
+      "extracted_at": "2026-10-13T18:47:45.961061+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00104-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00104-of-00589.gz",
+        "size": 507055699,
+        "etag": "\"e305829212f34b1be15d72729e94681b\"",
+        "md5": "4wWCkhLzSxvhXXJynpRoGw==",
+        "lower": "Behrings_NOUN '",
+        "upper": "Bettigole _ADP_"
+      },
+      "raw_sha256": "48d8ef3b93d5585b86af554da934a39518693e765520f5d313f17111da3b5ed5",
+      "scanned_records": 3376418,
+      "extracted_at": "2026-10-13T18:25:46.529793+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00106-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00106-of-00589.gz",
+        "size": 498780707,
+        "etag": "\"a40814d24ae966df9692d6c3f8df6444\"",
+        "md5": "pAgU0krpZt+WktbD+N9kRA==",
+        "lower": "Blackish_ADJ green_ADJ",
+        "upper": "Boogaart_NOUN 1999"
+      },
+      "raw_sha256": "5bc89c26173ed44d5acca67d515ce340898e92ec63814d7bad9b5893124dbbb6",
+      "scanned_records": 3307666,
+      "extracted_at": "2026-10-13T18:31:06.542034+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00107-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00107-of-00589.gz",
+        "size": 529943311,
+        "etag": "\"10e75224b98971ab2363c3972dbc91f9\"",
+        "md5": "EOdSJLmJcasjY8OXLbyR+Q==",
+        "lower": "Boogaart_NOUN 1999",
+        "upper": "Brassington would"
+      },
+      "raw_sha256": "02a268b01ab7685963b17bcbb06ad89b891d3ba899bc6a2bd20b2b9ce54ff241",
+      "scanned_records": 3503798,
+      "extracted_at": "2026-10-13T18:54:43.872250+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00108-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00108-of-00589.gz",
+        "size": 546137204,
+        "etag": "\"c36d10942745a2ce54a105741ca7da75\"",
+        "md5": "w20QlCdFos5UoQV0HKfadQ==",
+        "lower": "Brassington would",
+        "upper": "Brunswick_NOUN Memorial_NOUN"
+      },
+      "raw_sha256": "916619d01ee54dc0d97adc4c0625e152457e54cdfcf82457558586f0ecc5226c",
+      "scanned_records": 3460623,
+      "extracted_at": "2026-10-13T18:27:17.507064+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00110-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00110-of-00589.gz",
+        "size": 562703929,
+        "etag": "\"d9c6d6c51bf90d659cbd49845daeaf14\"",
+        "md5": "2cbWxRv5DWWcvUmEXa6vFA==",
+        "lower": "But Doom",
+        "upper": "C4BPB _NOUN_"
+      },
+      "raw_sha256": "25a5a7fbd904674c4c9687c3a14af915ca591a871050f3c3de8ad62710809ea9",
+      "scanned_records": 3455663,
+      "extracted_at": "2026-10-13T18:32:13.779877+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00114-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00114-of-00589.gz",
+        "size": 497181382,
+        "etag": "\"eb399711e99e279b0cd093e8c3d64971\"",
+        "md5": "6zmXEemeJ5sM0JPow9ZJcQ==",
+        "lower": "CYP1A1 cDNA",
+        "upper": "Canadian Scholarship"
+      },
+      "raw_sha256": "d0c90e9e6731a9dbe2ef52594491fc856a1e844267bcb5e916c6ebfeb8eb195d",
+      "scanned_records": 3295494,
+      "extracted_at": "2026-10-13T18:33:12.711097+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00115-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00115-of-00589.gz",
+        "size": 525355987,
+        "etag": "\"3b4f649a811b59b37bb864df07c5fc23\"",
+        "md5": "O09kmoEbWbN7uGTfB8X8Iw==",
+        "lower": "Canadian Scholarship",
+        "upper": "Carrsbrook_NOUN ,"
+      },
+      "raw_sha256": "ea01162a00a04c4cbde3d4707a4f4b91376d3b45d69ff437a557536d10d73fd3",
+      "scanned_records": 3401519,
+      "extracted_at": "2026-10-13T18:31:07.060728+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00116-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00116-of-00589.gz",
+        "size": 517310224,
+        "etag": "\"07554452eb90b9ef38eefc75c9c2b824\"",
+        "md5": "B1VEUuuQue847vx1ycK4JA==",
+        "lower": "Carrsbrook_NOUN ,",
+        "upper": "Central_NOUN RE"
+      },
+      "raw_sha256": "1b0f2f5d02aa05ecd4e9465fa78298deaf469adee61f26cac216ac40deca41ab",
+      "scanned_records": 3399098,
+      "extracted_at": "2026-10-13T18:32:16.654604+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00117-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00117-of-00589.gz",
+        "size": 504633906,
+        "etag": "\"5ebe44bf3c2ec1c7a32acf7c0946bccb\"",
+        "md5": "Xr5EvzwuwcejKs98CUa8yw==",
+        "lower": "Central_NOUN RE",
+        "upper": "Chartwell_NOUN ?"
+      },
+      "raw_sha256": "0ae4615dc781912e481495625167e95479f71ff822caa57f984e832d82f814f2",
+      "scanned_records": 3269260,
+      "extracted_at": "2026-10-13T18:33:27.223342+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00118-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00118-of-00589.gz",
+        "size": 506065584,
+        "etag": "\"1bfd72478b9611616ef3622ea1889775\"",
+        "md5": "G/1yR4uWEWFu82IuoYiXdQ==",
+        "lower": "Chartwell_NOUN ?",
+        "upper": "Chow_NOUN province_NOUN"
+      },
+      "raw_sha256": "68151eb331d9b8526d27eda6fc78efd8c2595de1617c7e960acdc6e55cd738a5",
+      "scanned_records": 3405645,
+      "extracted_at": "2026-10-13T19:07:14.653599+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00119-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00119-of-00589.gz",
+        "size": 509167709,
+        "etag": "\"815314147897080151e5ff5a1436056e\"",
+        "md5": "gVMUFHiXCAFR5f9aFDYFbg==",
+        "lower": "Chow_NOUN province_NOUN",
+        "upper": "Clark i_NOUN"
+      },
+      "raw_sha256": "5606b5a5bf024b1f924830f293df476668d02b993e8f440a1f88d93722eae283",
+      "scanned_records": 3223450,
+      "extracted_at": "2026-10-13T18:22:54.358325+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00120-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00120-of-00589.gz",
+        "size": 524932017,
+        "etag": "\"35b1b545f283e4537191c4f67422092b\"",
+        "md5": "NbG1RfKD5FNxkcT2dCIJKw==",
+        "lower": "Clark i_NOUN",
+        "upper": "Cochrane Colby"
+      },
+      "raw_sha256": "cf282441b7a84c67b9095ca0103a73bfe4dac160b0e4eac163f682e40d0752b4",
+      "scanned_records": 3366048,
+      "extracted_at": "2026-10-13T18:21:07.297609+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00121-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00121-of-00589.gz",
+        "size": 533053310,
+        "etag": "\"ef2a3a272d8d09d8c08b09dfaf1238b9\"",
+        "md5": "7yo6Jy2NCdjAiwnfrxI4uQ==",
+        "lower": "Cochrane Colby",
+        "upper": "Commercial_NOUN 0.4"
+      },
+      "raw_sha256": "3b36817a0f7c2b74c17853bc35616649e2ebee3eee87768c78feea82bb62caf9",
+      "scanned_records": 3407063,
+      "extracted_at": "2026-10-13T19:02:23.274931+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00123-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00123-of-00589.gz",
+        "size": 506859909,
+        "etag": "\"ea3a6d3cb38f2bf00ad18a60463c43cc\"",
+        "md5": "6jptPLOPK/AK0YpgRjxDzA==",
+        "lower": "Conduit near",
+        "upper": "Control Alleged"
+      },
+      "raw_sha256": "6b584905d8ff30ffa3d0dbc2642b7664100e83246746cc35b2f9b714e7b1afb3",
+      "scanned_records": 3350437,
+      "extracted_at": "2026-10-13T18:34:21.447675+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00124-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00124-of-00589.gz",
+        "size": 520404858,
+        "etag": "\"5a2fb1f53693e443a6d25614018ac468\"",
+        "md5": "Wi+x9TaT5EOm0lYUAYrEaA==",
+        "lower": "Control Alleged",
+        "upper": "Could_VERB Prussia"
+      },
+      "raw_sha256": "89a6c5c37c601ce230347af51eda7e5424e51cfc148f3b004336d0543c5527dc",
+      "scanned_records": 3459282,
+      "extracted_at": "2026-10-13T18:51:43.662062+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00126-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00126-of-00589.gz",
+        "size": 518191291,
+        "etag": "\"eac0f3b4032193336c975ea8c354c724\"",
+        "md5": "6sDztAMhkzNsl16ow1THJA==",
+        "lower": "Croatian protests_NOUN",
+        "upper": "D 3,000,000_NUM"
+      },
+      "raw_sha256": "5e298b7fd65e072e621b707739c57f198671b055f712f8f85aaa37219f9cfc11",
+      "scanned_records": 3493631,
+      "extracted_at": "2026-10-13T18:39:59.979539+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00129-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00129-of-00589.gz",
+        "size": 505704375,
+        "etag": "\"b107cc5185f1075f3ee63af2550020b1\"",
+        "md5": "sQfMUYXxB18+5jryVQAgsQ==",
+        "lower": "Daddy_NOUN follow",
+        "upper": "DeBartolo_NOUN at_ADP"
+      },
+      "raw_sha256": "24581b2075e7fefce776c2b96e3b82fcbc4fadc88f5a7c5d38e4516b6bb81f70",
+      "scanned_records": 3423161,
+      "extracted_at": "2026-10-13T19:05:02.130920+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00133-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00133-of-00589.gz",
+        "size": 504046731,
+        "etag": "\"fda60d8ee3ba96576ee6b9763eefff8f\"",
+        "md5": "/aYNjuO6lldu5rl2Pu//jw==",
+        "lower": "Discounting_NOUN Principle",
+        "upper": "Donald_NOUN Sias"
+      },
+      "raw_sha256": "8ffaefbe9066d9979b0df0809db0457400560845ef13863dbc1fa38c5f2ec32d",
+      "scanned_records": 3386433,
+      "extracted_at": "2026-10-13T18:32:44.724908+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00134-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00134-of-00589.gz",
+        "size": 507983519,
+        "etag": "\"93b52b582edaa849cd69b906c93245a5\"",
+        "md5": "k7UrWC7aqEnNabkGyTJFpQ==",
+        "lower": "Donald_NOUN Sias",
+        "upper": "Drying Cooling_NOUN"
+      },
+      "raw_sha256": "a78e61c163ffc457a66d6c0299fa0b3f8c7e9299ee10a735f34721803b62c4b6",
+      "scanned_records": 3299418,
+      "extracted_at": "2026-10-13T18:35:38.870045+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00135-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00135-of-00589.gz",
+        "size": 529273722,
+        "etag": "\"fd31609c43c045424b8c1e0df96c0c49\"",
+        "md5": "/TFgnEPARUJLjB4N+WwMSQ==",
+        "lower": "Drying Cooling_NOUN",
+        "upper": "E._NOUN Pains"
+      },
+      "raw_sha256": "392a01bb11dbeade1a81f480c86204264dad8844e7c803bbe555a8ddf531a32c",
+      "scanned_records": 3443506,
+      "extracted_at": "2026-10-13T18:42:52.337042+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00137-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00137-of-00589.gz",
+        "size": 505616654,
+        "etag": "\"bd276e299d37dcfd13e7a6e83bb0b8d3\"",
+        "md5": "vSduKZ033P0T56boO7C40w==",
+        "lower": "EQUATIONS Suppose",
+        "upper": "Ecology_NOUN Section"
+      },
+      "raw_sha256": "8db8c28ea507f00dcd8ca229c500b34329f10b4f2a3630481bb635f607d8e27d",
+      "scanned_records": 3425250,
+      "extracted_at": "2026-10-13T19:10:31.858281+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00138-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00138-of-00589.gz",
+        "size": 520926664,
+        "etag": "\"5b063ffbc34912b679e37ee7969ba2d1\"",
+        "md5": "WwY/+8NJErZ5437nlpui0Q==",
+        "lower": "Ecology_NOUN Section",
+        "upper": "Electric incandescent_VERB"
+      },
+      "raw_sha256": "4720c2c0a1b82f6616427f54794d2722c5475409b21acdf585d8a66192d54100",
+      "scanned_records": 3432080,
+      "extracted_at": "2026-10-13T18:36:25.898698+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00139-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00139-of-00589.gz",
+        "size": 477592022,
+        "etag": "\"a984db7cd969176004506f13a9567df4\"",
+        "md5": "qYTbfNlpF2AEUG8TqVZ99A==",
+        "lower": "Electric incandescent_VERB",
+        "upper": "End_NOUN interview"
+      },
+      "raw_sha256": "745fa560e029425ce51d61ae8cf7b9371a88929e425d2cfe8f04871fa0953733",
+      "scanned_records": 3221152,
+      "extracted_at": "2026-10-13T18:33:31.220090+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00140-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00140-of-00589.gz",
+        "size": 521602972,
+        "etag": "\"2f3aea1f6c6cbe8ec7044ea99757fb94\"",
+        "md5": "LzrqH2xsvo7HBE6pl1f7lA==",
+        "lower": "End_NOUN interview",
+        "upper": "Ergo there_DET"
+      },
+      "raw_sha256": "8de477cc12b49a2c48b7ab67a32c88a0f6998a992839bfc4fe8d0cd99900ef7b",
+      "scanned_records": 3342489,
+      "extracted_at": "2026-10-13T18:38:40.644861+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00141-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00141-of-00589.gz",
+        "size": 497889541,
+        "etag": "\"35491084e59a49e8c759db3875085c66\"",
+        "md5": "NUkQhOWaSejHWds4dQhcZg==",
+        "lower": "Ergo there_DET",
+        "upper": "Evanston_NOUN Ill_ADV"
+      },
+      "raw_sha256": "0c5994e413c32e978b7a8c19265fb435e2371892d0d3b57bab8fd8fb042192ba",
+      "scanned_records": 3353490,
+      "extracted_at": "2026-10-13T18:40:05.573044+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00142-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00142-of-00589.gz",
+        "size": 520860024,
+        "etag": "\"ed5d55b8a53e3e5e9bed7b3882601c01\"",
+        "md5": "7V1VuKU+Pl6b7Xs4gmAcAQ==",
+        "lower": "Evanston_NOUN Ill_ADV",
+        "upper": "Exultant now_ADV"
+      },
+      "raw_sha256": "00c157a1f98b30f159f43222e4b0b1821a453ed299907e94373070b7b0411306",
+      "scanned_records": 3439082,
+      "extracted_at": "2026-10-13T19:02:56.905590+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00143-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00143-of-00589.gz",
+        "size": 469403970,
+        "etag": "\"4a7e92301f69a4588cbdf755d6b24863\"",
+        "md5": "Sn6SMB9ppFiMvfdV1rJIYw==",
+        "lower": "Exultant now_ADV",
+        "upper": "FIRST M.I._NOUN"
+      },
+      "raw_sha256": "8a50b71d8d3733eb85259c9bf85e49b736d460aac0cb6af5577a2dae6901483f",
+      "scanned_records": 3424533,
+      "extracted_at": "2026-10-13T19:09:11.523597+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00145-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00145-of-00589.gz",
+        "size": 505746941,
+        "etag": "\"aacc0b39ca4389fe220ea6bdc00b4115\"",
+        "md5": "qswLOcpDif4iDqa9wAtBFQ==",
+        "lower": "Facilities_NOUN I.",
+        "upper": "Feeder junction_NOUN"
+      },
+      "raw_sha256": "862f70c0df614d3ea1b1e01a00774e6a3255627964561d47d935cd2af7c62d9f",
+      "scanned_records": 3309133,
+      "extracted_at": "2026-10-13T19:10:09.518011+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00146-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00146-of-00589.gz",
+        "size": 511243511,
+        "etag": "\"e9aaea0e396e640862fbadc93bc730c8\"",
+        "md5": "6arqDjluZAhi+63JO8cwyA==",
+        "lower": "Feeder junction_NOUN",
+        "upper": "Finkelhor_NOUN has_VERB"
+      },
+      "raw_sha256": "3bad1e063ba80b2b6e622745ea32524def2b298067dfc9d01e7c36e4ba810757",
+      "scanned_records": 3503457,
+      "extracted_at": "2026-10-13T18:38:03.741156+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00147-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00147-of-00589.gz",
+        "size": 491125149,
+        "etag": "\"ae633b14c31961484818f93dd1854e3c\"",
+        "md5": "rmM7FMMZYUhIGPk90YVOPA==",
+        "lower": "Finkelhor_NOUN has_VERB",
+        "upper": "Folio_ADP 454"
+      },
+      "raw_sha256": "bc5609d9bd06f2d4106982ca46855b7633b17bdc1ab722b5f5daf79f8a28d263",
+      "scanned_records": 3237704,
+      "extracted_at": "2026-10-13T18:39:00.625026+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00148-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00148-of-00589.gz",
+        "size": 554002002,
+        "etag": "\"9614be9c5ccae8d94b935aaf2c43b625\"",
+        "md5": "lhS+nFzK6NlLk1qvLEO2JQ==",
+        "lower": "Folio_ADP 454",
+        "upper": "Fragmentation Techniques"
+      },
+      "raw_sha256": "09d710b263db877f567a6cbd52f6d207a92411860bd81c880c422d8705ee306d",
+      "scanned_records": 3456470,
+      "extracted_at": "2026-10-13T18:56:45.823943+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00149-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00149-of-00589.gz",
+        "size": 558729558,
+        "etag": "\"c3f04a2370b98a30f72d01ab66527808\"",
+        "md5": "w/BKI3C5ijD3LQGrZlJ4CA==",
+        "lower": "Fragmentation Techniques",
+        "upper": "Front_NOUN successfully_ADV"
+      },
+      "raw_sha256": "2a8889c30ee23aa91c522c7fed9ebcf5aaf752169b452104785100e45c85a509",
+      "scanned_records": 3399596,
+      "extracted_at": "2026-10-13T18:35:03.667043+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00150-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00150-of-00589.gz",
+        "size": 487988921,
+        "etag": "\"99af5c03c8adf15f6a1a82014b39944d\"",
+        "md5": "ma9cA8it8V9qGoIBSzmUTQ==",
+        "lower": "Front_NOUN successfully_ADV",
+        "upper": "GECO_NOUN ."
+      },
+      "raw_sha256": "60b35c42aa8865eb5dd3333b14fd3261abfd9525fe503dc1c036ad7159dafc25",
+      "scanned_records": 3406180,
+      "extracted_at": "2026-10-13T19:10:12.958665+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00151-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00151-of-00589.gz",
+        "size": 447475541,
+        "etag": "\"bcbcad8bfc280bd562de1a5a53b144e4\"",
+        "md5": "vLyti/woC9Vi3hpaU7FE5A==",
+        "lower": "GECO_NOUN .",
+        "upper": "Galician knights"
+      },
+      "raw_sha256": "99a90708ae03174922ec32ba59a3c610e85396634ad1776f4e1c930028c66401",
+      "scanned_records": 3305592,
+      "extracted_at": "2026-10-13T18:47:33.261762+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00152-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00152-of-00589.gz",
+        "size": 481497849,
+        "etag": "\"070adf2ac1837594a4a2925676c727f7\"",
+        "md5": "BwrfKsGDdZSkopJWdscn9w==",
+        "lower": "Galician knights",
+        "upper": "Generalised_VERB functions_NOUN"
+      },
+      "raw_sha256": "62044ed1e08979744d8694a2de64cee1589a64263020ebb1ac4106659e9b4b07",
+      "scanned_records": 3193985,
+      "extracted_at": "2026-10-13T18:43:40.933649+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00153-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00153-of-00589.gz",
+        "size": 522822007,
+        "etag": "\"1d0c2b3b26b17891be8c9bcf27efa35d\"",
+        "md5": "HQwrOyaxeJG+jJvPJ++jXQ==",
+        "lower": "Generalised_VERB functions_NOUN",
+        "upper": "Gilmaker _PRT_"
+      },
+      "raw_sha256": "ca3dbb69382e0e51500c3a478dd348989d13045ddebddaf94dccfc625030cd0d",
+      "scanned_records": 3430340,
+      "extracted_at": "2026-10-13T18:26:46.623574+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00154-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00154-of-00589.gz",
+        "size": 505842598,
+        "etag": "\"7cf2453238b23dd40eb79e68dd5ba1a1\"",
+        "md5": "fPJFMjiyPdQOt55o3VuhoQ==",
+        "lower": "Gilmaker _PRT_",
+        "upper": "Gookin_NOUN speaks_VERB"
+      },
+      "raw_sha256": "a81fa19d1413df2b0469bc7110e1f9d6b2340cebf690c2fb73327028a5647e2e",
+      "scanned_records": 3332814,
+      "extracted_at": "2026-10-13T18:36:30.140823+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00156-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00156-of-00589.gz",
+        "size": 485260203,
+        "etag": "\"06b389bad10fbbf8c6c028d554f1910e\"",
+        "md5": "BrOJutEPu/jGwCjVVPGRDg==",
+        "lower": "Greene _X_",
+        "upper": "Gutters repaired"
+      },
+      "raw_sha256": "eb14419206bd59d5c15b9f59af1f269fd6b02dd8970934a07b9cfaa7c6f3a679",
+      "scanned_records": 3339024,
+      "extracted_at": "2026-10-13T18:44:21.045923+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00157-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00157-of-00589.gz",
+        "size": 522463366,
+        "etag": "\"cf7e88c6caf2dcbebdd9d06aad35e765\"",
+        "md5": "z36Ixsry3L692dBqrTXnZQ==",
+        "lower": "Gutters repaired",
+        "upper": "HERNANDE _._"
+      },
+      "raw_sha256": "aebe8535adb0a635495a149cfb6bfe471d19159eefe5203c9c4337f804f40ea6",
+      "scanned_records": 3528987,
+      "extracted_at": "2026-10-13T19:06:18.028227+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00159-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00159-of-00589.gz",
+        "size": 517723332,
+        "etag": "\"71e87de7d43d312745ea4455756501ce\"",
+        "md5": "ceh959Q9MSdF6kRVdWUBzg==",
+        "lower": "Hale twins",
+        "upper": "Hasidic_ADJ understanding"
+      },
+      "raw_sha256": "56edf9fd8d58b4cb627373046a0a6f03d7ae9b1a9282e4096e11497cc1fd7ddd",
+      "scanned_records": 3391518,
+      "extracted_at": "2026-10-13T18:31:21.012849+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00160-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00160-of-00589.gz",
+        "size": 528470777,
+        "etag": "\"6a65b3a144ec8fef039de3819b25eb3d\"",
+        "md5": "amWzoUTsj+8DneOBmyXrPQ==",
+        "lower": "Hasidic_ADJ understanding",
+        "upper": "Hellenisme_NOUN primitif_X"
+      },
+      "raw_sha256": "97653fdab9645b143e735a3f3e6e7acd2fb82405cc985ddb136ca0b2a5be23eb",
+      "scanned_records": 3245522,
+      "extracted_at": "2026-10-13T19:08:01.006666+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00161-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00161-of-00589.gz",
+        "size": 539755405,
+        "etag": "\"1047f506cb2c332ca4c7ee1bb8567258\"",
+        "md5": "EEf1BsssMyykx+4buFZyWA==",
+        "lower": "Hellenisme_NOUN primitif_X",
+        "upper": "Highway_NOUN BURWOOD"
+      },
+      "raw_sha256": "602b17a4a9e4bcd1c09d52d90b07f2cf52992863d7a8e317f8a83bc6992c8e23",
+      "scanned_records": 3405526,
+      "extracted_at": "2026-10-13T18:37:47.444537+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00162-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00162-of-00589.gz",
+        "size": 532879955,
+        "etag": "\"5c88ea00899a84bb7ff1adbb9a872296\"",
+        "md5": "XIjqAImahLt/8a27mocilg==",
+        "lower": "Highway_NOUN BURWOOD",
+        "upper": "Holyoke series_NOUN"
+      },
+      "raw_sha256": "8a69383be190e40f90f4f14610b939d0a33242d90a448f20bd341f033fadef0e",
+      "scanned_records": 3271525,
+      "extracted_at": "2026-10-13T18:56:08.854107+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00163-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00163-of-00589.gz",
+        "size": 534176056,
+        "etag": "\"39e7a37ee4ec4027df333664a9369377\"",
+        "md5": "OeejfuTsQCffMzZkqTaTdw==",
+        "lower": "Holyoke series_NOUN",
+        "upper": "Huffmann_NOUN -"
+      },
+      "raw_sha256": "53dc740117288b0ed0f1e0fff2561be535d55ef3f9f6232f9ae5d7c036724f90",
+      "scanned_records": 3376867,
+      "extracted_at": "2026-10-13T19:15:11.940314+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00164-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00164-of-00589.gz",
+        "size": 548568383,
+        "etag": "\"63eeb520055432d08b90d5031c1e2ebd\"",
+        "md5": "Y+61IAVUMtCLkNUDHB4uvQ==",
+        "lower": "Huffmann_NOUN -",
+        "upper": "I._NOUN Balkan_NOUN"
+      },
+      "raw_sha256": "ab932c4e0c39fe647b24ada1d801daf3fe7b8cff65a4de253299c1df18c887af",
+      "scanned_records": 3461843,
+      "extracted_at": "2026-10-13T19:20:38.496627+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00167-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00167-of-00589.gz",
+        "size": 527615307,
+        "etag": "\"5587174961f5051ea85678c57350a953\"",
+        "md5": "VYcXSWH1BR6oVnjFc1CpUw==",
+        "lower": "IV GUY_NOUN",
+        "upper": "Illustrated_NOUN be_VERB"
+      },
+      "raw_sha256": "76d81805306a04a21ae852095226037d04599dc7b404f568bb104982ff5c148a",
+      "scanned_records": 3244304,
+      "extracted_at": "2026-10-13T18:33:50.768520+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00168-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00168-of-00589.gz",
+        "size": 545254215,
+        "etag": "\"7ee81e4731dd9ae81c40c911452cd7e2\"",
+        "md5": "fugeRzHdmugcQMkRRSzX4g==",
+        "lower": "Illustrated_NOUN be_VERB",
+        "upper": "Inclusive. -"
+      },
+      "raw_sha256": "3049ee931357a9a7699598d5a7524cfef55f482e4b1b6a6876c316ef8313a5c2",
+      "scanned_records": 3380712,
+      "extracted_at": "2026-10-13T18:57:14.502799+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00171-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00171-of-00589.gz",
+        "size": 560172389,
+        "etag": "\"1c7e7b7041e6080cac567eb93d96eb19\"",
+        "md5": "HH57cEHmCAysVn65PZbrGQ==",
+        "lower": "IoI Fed_NOUN",
+        "upper": "Its Volcanoes"
+      },
+      "raw_sha256": "add50cbda7e1178825aaaafa8dfb86af6ee1ffc95cddd3fd7a95290315752d8b",
+      "scanned_records": 3418960,
+      "extracted_at": "2026-10-13T18:41:46.473608+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00172-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00172-of-00589.gz",
+        "size": 504708596,
+        "etag": "\"2be3aacf40e8c23bee797e264360ee98\"",
+        "md5": "K+Oqz0DowjvueX4mQ2DumA==",
+        "lower": "Its Volcanoes",
+        "upper": "JOUNCING_NOUN _NOUN_"
+      },
+      "raw_sha256": "24b08b750c1ee0fd787e82f69faa268a2fcb1b3fa01cfb25db3b743267f91af0",
+      "scanned_records": 3331238,
+      "extracted_at": "2026-10-13T19:18:12.861164+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00173-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00173-of-00589.gz",
+        "size": 526047824,
+        "etag": "\"fc331498ba8714c50b13c1c58977a5c6\"",
+        "md5": "/DMUmLqHFMULE8HFiXelxg==",
+        "lower": "JOUNCING_NOUN _NOUN_",
+        "upper": "Jeannine_NOUN Sims"
+      },
+      "raw_sha256": "0e917b21fad707e37abc89acb0aed7538bccb81cfb3ede88da2ec248b287c2ee",
+      "scanned_records": 3485885,
+      "extracted_at": "2026-10-13T18:35:38.303332+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00174-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00174-of-00589.gz",
+        "size": 501582670,
+        "etag": "\"190c7b5e8ad8731179eca33f604e3ad5\"",
+        "md5": "GQx7XorYcxF57KM/YE461Q==",
+        "lower": "Jeannine_NOUN Sims",
+        "upper": "John_NOUN Sulley_NOUN"
+      },
+      "raw_sha256": "665012e6c9888a640fb61924789e10d302d3e8e1b7e59030ca8c7e9d8e4bcf2b",
+      "scanned_records": 3185924,
+      "extracted_at": "2026-10-13T18:37:02.938470+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00175-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00175-of-00589.gz",
+        "size": 539512096,
+        "etag": "\"e207a7d0e873ed39b56e73c7ac471575\"",
+        "md5": "4gen0Ohz7Tm1bnPHrEcVdQ==",
+        "lower": "John_NOUN Sulley_NOUN",
+        "upper": "Jurreit_NOUN ,_."
+      },
+      "raw_sha256": "79add50f297630b9b65c242b5999c8007313e03e62e20a59a031a7da25317b8a",
+      "scanned_records": 3399413,
+      "extracted_at": "2026-10-13T18:40:49.274702+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00176-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00176-of-00589.gz",
+        "size": 459556855,
+        "etag": "\"dfef553f0c0230daf1ed6bae52065366\"",
+        "md5": "3+9VPwwCMNrx7WuuUgZTZg==",
+        "lower": "Jurreit_NOUN ,_.",
+        "upper": "Kamigamo ,_."
+      },
+      "raw_sha256": "682bc73200eaf71c439fcf80652bb0e7611941473e284b60c4e3191e1002305a",
+      "scanned_records": 3467109,
+      "extracted_at": "2026-10-13T19:12:43.591018+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00177-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00177-of-00589.gz",
+        "size": 445307678,
+        "etag": "\"5598cd13e00293a1f6cda2b3445e5ea7\"",
+        "md5": "VZjNE+ACk6H2zaKzRF5epw==",
+        "lower": "Kamigamo ,_.",
+        "upper": "Kerguelen_X de_X"
+      },
+      "raw_sha256": "ec6ca192bc0ca300285cf895b9d3426272654cd6fe3d7c9c27f8d114bc99e0d0",
+      "scanned_records": 3312652,
+      "extracted_at": "2026-10-13T18:37:46.050994+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00178-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00178-of-00589.gz",
+        "size": 450605628,
+        "etag": "\"dee5045ce4901ae92e57aeae349a1634\"",
+        "md5": "3uUEXOSQGukuV66uNJoWNA==",
+        "lower": "Kerguelen_X de_X",
+        "upper": "Knapton PJ"
+      },
+      "raw_sha256": "ffba7b1e66b70eee242b8d9bfb2167d367a4c0babb9831b9adf7960229dbddd0",
+      "scanned_records": 3223332,
+      "extracted_at": "2026-10-13T19:25:05.203287+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00179-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00179-of-00589.gz",
+        "size": 451202663,
+        "etag": "\"d2052bce60657662b20c3aeabef26004\"",
+        "md5": "0gUrzmBldmKyDDrqvvJgBA==",
+        "lower": "Knapton PJ",
+        "upper": "Kweiling ."
+      },
+      "raw_sha256": "2704871c0be81c124cf903b4b712ebde1b939a1da1d0ceb5bdd74569b844eaba",
+      "scanned_records": 3473293,
+      "extracted_at": "2026-10-13T18:39:34.312538+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00180-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00180-of-00589.gz",
+        "size": 467398615,
+        "etag": "\"c63c28c8f4b11058b72e0652a0bf8205\"",
+        "md5": "xjwoyPSxEFi3LgZSoL+CBQ==",
+        "lower": "Kweiling .",
+        "upper": "LEVA _VERB_"
+      },
+      "raw_sha256": "41f84d1c6b54dd3de3120bb62e4d5ab39fd2e718e3f44cd9513c9edf7999da93",
+      "scanned_records": 3267127,
+      "extracted_at": "2026-10-13T19:22:29.311182+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00182-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00182-of-00589.gz",
+        "size": 502650667,
+        "etag": "\"40f1158aabe49cfe8b2edb556548cbbf\"",
+        "md5": "QPEViqvknP6LLttVZUjLvw==",
+        "lower": "Ladies Especially_ADV",
+        "upper": "Laughlin Visitor"
+      },
+      "raw_sha256": "cea43fb71c46062886a5a4769ab0a9d1ea7df8ab3d30f8fa21ea189b07725fa4",
+      "scanned_records": 3307337,
+      "extracted_at": "2026-10-13T18:45:46.567265+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00183-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00183-of-00589.gz",
+        "size": 498100339,
+        "etag": "\"bcc6f5ccc5346c9adc98ea17e9d4c7a1\"",
+        "md5": "vMb1zMU0bJrcmOoX6dTHoQ==",
+        "lower": "Laughlin Visitor",
+        "upper": "Length_NOUN 333_NUM"
+      },
+      "raw_sha256": "cd01e6415a3f5f06efb4a526c7125109f88df60dc869d267f79f1385e75c0416",
+      "scanned_records": 3292480,
+      "extracted_at": "2026-10-13T18:59:09.188708+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00184-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00184-of-00589.gz",
+        "size": 510914704,
+        "etag": "\"f7efb2ebbbf150c6f09c04de9af11b87\"",
+        "md5": "9++y67vxUMbwnATemvEbhw==",
+        "lower": "Length_NOUN 333_NUM",
+        "upper": "Liisa_NOUN in_ADP"
+      },
+      "raw_sha256": "b9b7e8f5237a465d8b2dad5b3cb5715a6c150f246bc58028cd3f1a96a929c2f4",
+      "scanned_records": 3380320,
+      "extracted_at": "2026-10-13T18:59:43.110547+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00185-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00185-of-00589.gz",
+        "size": 500618676,
+        "etag": "\"861b4410b929b09cf173966f7808cb92\"",
+        "md5": "hhtEELkpsJzxc5ZveAjLkg==",
+        "lower": "Liisa_NOUN in_ADP",
+        "upper": "Local discontinuity_NOUN"
+      },
+      "raw_sha256": "9e5c8133125a5337c44d83c93927ecba7674aa8e6225373dae33ec925b33a2d0",
+      "scanned_records": 3390906,
+      "extracted_at": "2026-10-13T19:24:00.870764+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00186-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00186-of-00589.gz",
+        "size": 551370932,
+        "etag": "\"0d683a9d091146e430ac2996e1908fa8\"",
+        "md5": "DWg6nQkRRuQwrCmW4ZCPqA==",
+        "lower": "Local discontinuity_NOUN",
+        "upper": "Ltd 6-10"
+      },
+      "raw_sha256": "0dec9878d012e5c7c2b083c5a04dcf40a402176242cc0eeeacede869701a7bbe",
+      "scanned_records": 3418555,
+      "extracted_at": "2026-10-13T18:47:15.338263+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00187-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00187-of-00589.gz",
+        "size": 502381392,
+        "etag": "\"c20748fcaa1f3d5c737252e641f001a8\"",
+        "md5": "wgdI/KofPVxzclLmQfABqA==",
+        "lower": "Ltd 6-10",
+        "upper": "M.R.K._NOUN ("
+      },
+      "raw_sha256": "3b0f9aa32105defe61a41055a4df699d02660555433ceca8b2154cad052f8c49",
+      "scanned_records": 3415795,
+      "extracted_at": "2026-10-13T18:44:51.941749+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00190-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00190-of-00589.gz",
+        "size": 507215449,
+        "etag": "\"8fc6c29618ebb72ad0c0e7c647c8facf\"",
+        "md5": "j8bClhjrtyrQwOfGR8j6zw==",
+        "lower": "MURDOCK1_NOUN ,",
+        "upper": "Maitland protested_VERB"
+      },
+      "raw_sha256": "750c3b0a6d29cb8e7ae24adbfde2e6314e844a4463a2dc79128a3ab94dfd65e4",
+      "scanned_records": 3453184,
+      "extracted_at": "2026-10-13T19:31:06.127236+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00191-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00191-of-00589.gz",
+        "size": 504632127,
+        "etag": "\"27b5bf99de8d7aae2376fbedc2ff6da3\"",
+        "md5": "J7W/md6Neq4jdvvtwv9tow==",
+        "lower": "Maitland protested_VERB",
+        "upper": "Maodonald in"
+      },
+      "raw_sha256": "12a225d1e75dc3defd086bf46b6a6543c4128ae8b6cd64b269c9e1f4412f2c84",
+      "scanned_records": 3371891,
+      "extracted_at": "2026-10-13T18:40:37.982513+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00192-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00192-of-00589.gz",
+        "size": 492632032,
+        "etag": "\"6a0fb33e7d52af6e8e3a8b1536c72beb\"",
+        "md5": "ag+zPn1Sr26OOosVNscr6w==",
+        "lower": "Maodonald in",
+        "upper": "Mary Longden"
+      },
+      "raw_sha256": "fc1a36735eb1bfd912e0450b7031e4ddf90891c28d2dbf3138b0779dd8a4af4f",
+      "scanned_records": 3327842,
+      "extracted_at": "2026-10-13T18:41:50.768077+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00193-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00193-of-00589.gz",
+        "size": 517919902,
+        "etag": "\"aec3b03a4ed18f27ee0ebd87842ffe63\"",
+        "md5": "rsOwOk7RjyfuDr2HhC/+Yw==",
+        "lower": "Mary Longden",
+        "upper": "McCain_NOUN why"
+      },
+      "raw_sha256": "afe06c5695b30f8ccfea785890573fcdd566044c484651ee22e93e1c68f7fee5",
+      "scanned_records": 3426901,
+      "extracted_at": "2026-10-13T18:43:30.645468+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00195-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00195-of-00589.gz",
+        "size": 486108361,
+        "etag": "\"4fc9dac974f82e0c01ab2e1dd04be9a1\"",
+        "md5": "T8nayXT4LgwBqy4d0EvpoQ==",
+        "lower": "Mell W.",
+        "upper": "Mezhidov and"
+      },
+      "raw_sha256": "0ab0623a7ef58d8f9b8abae71d28d3873ba3b59bda383d0db4245f4607c6421e",
+      "scanned_records": 3227937,
+      "extracted_at": "2026-10-13T19:04:56.022559+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00196-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00196-of-00589.gz",
+        "size": 482964330,
+        "etag": "\"52ff4fb692e0a6e0e7b3aa753b5a65ac\"",
+        "md5": "Uv9PtpLgpuDns6p1O1plrA==",
+        "lower": "Mezhidov and",
+        "upper": "Minister 01_NOUN"
+      },
+      "raw_sha256": "aab977c37d96946dd4814829fef167be7bb1d86df00a45cad63a5b635f10b4b7",
+      "scanned_records": 3366514,
+      "extracted_at": "2026-10-13T19:23:57.848191+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00197-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00197-of-00589.gz",
+        "size": 499169662,
+        "etag": "\"9efef314190de555da3b1c354a11a0b8\"",
+        "md5": "nv7zFBkN5VXaOxw1ShGguA==",
+        "lower": "Minister 01_NOUN",
+        "upper": "Mogilnicka_NOUN _NOUN_"
+      },
+      "raw_sha256": "0bb6f2192dffe365ffeafc18bd4af1d07db9da772a213fff89a2e0a660de179c",
+      "scanned_records": 3336914,
+      "extracted_at": "2026-10-13T19:24:11.807939+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00198-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00198-of-00589.gz",
+        "size": 521241880,
+        "etag": "\"c43762d8cd1ac1c573b250211ce14d8b\"",
+        "md5": "xDdi2M0awcVzslAhHOFNiw==",
+        "lower": "Mogilnicka_NOUN _NOUN_",
+        "upper": "Mortsel_NOUN ;_."
+      },
+      "raw_sha256": "c6361b1f62ff59216dff0fb8a290616b3ff9a601bbd08dcf96a1e4e4de6250ae",
+      "scanned_records": 3410149,
+      "extracted_at": "2026-10-13T19:32:08.386532+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00199-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00199-of-00589.gz",
+        "size": 570998025,
+        "etag": "\"d8c4f329cd817f713d92de187bdb4bcf\"",
+        "md5": "2MTzKc2Bf3E9kt4Ye9tLzw==",
+        "lower": "Mortsel_NOUN ;_.",
+        "upper": "Ms. Nicoletta"
+      },
+      "raw_sha256": "ff9e90c004c67a5b27c2d056308b3685b6080ae777cbc3b284740c34f3dddc4e",
+      "scanned_records": 3326028,
+      "extracted_at": "2026-10-13T19:27:17.075050+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00200-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00200-of-00589.gz",
+        "size": 483490642,
+        "etag": "\"2f5c9ccddcc2d775b200dbb02e96686a\"",
+        "md5": "L1yczdzC13WyANuwLpZoag==",
+        "lower": "Ms. Nicoletta",
+        "upper": "N ii"
+      },
+      "raw_sha256": "ec23b52b0297dd5f697ac86edb7142d970c5430fccb7d3b33fc5d301a119a0e9",
+      "scanned_records": 3292492,
+      "extracted_at": "2026-10-13T19:12:31.053846+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00202-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00202-of-00589.gz",
+        "size": 427200329,
+        "etag": "\"f7eff5b4f55a173d9ff13d01de23ea61\"",
+        "md5": "9+/1tPVaFz2f8T0B3iPqYQ==",
+        "lower": "NINo :_.",
+        "upper": "Naquitz_NOUN phase_NOUN"
+      },
+      "raw_sha256": "45ae8fa3918654780c941cf30acead640ea73ff06c27404bc19ed99ff9ebc3b2",
+      "scanned_records": 3420434,
+      "extracted_at": "2026-10-13T18:54:38.560969+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00203-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00203-of-00589.gz",
+        "size": 508704801,
+        "etag": "\"089ece19dd28ee7a2a1f2e1e0804cb23\"",
+        "md5": "CJ7OGd0o7noqHy4eCATLIw==",
+        "lower": "Naquitz_NOUN phase_NOUN",
+        "upper": "Nestorians_NOUN regarded_VERB"
+      },
+      "raw_sha256": "0dadb591326c9615282b8713c5430776c4c0ac652bc52a65e528b69c10ca5e8d",
+      "scanned_records": 3397807,
+      "extracted_at": "2026-10-13T18:49:10.936726+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00204-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00204-of-00589.gz",
+        "size": 498111801,
+        "etag": "\"4d830e9baacc45d7eca88874d947d10e\"",
+        "md5": "TYMOm6rMRdfsqIh02UfRDg==",
+        "lower": "Nestorians_NOUN regarded_VERB",
+        "upper": "Njuguna language"
+      },
+      "raw_sha256": "da29c68684b0f46cef3a57dbfcffffb1a7778c58aea36705145070855e1188cb",
+      "scanned_records": 3398749,
+      "extracted_at": "2026-10-13T18:57:20.162667+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00205-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00205-of-00589.gz",
+        "size": 448894353,
+        "etag": "\"5a3cb465d6d02e08167d7f87a0e16fee\"",
+        "md5": "Wjy0ZdbQLggWfX+HoOFv7g==",
+        "lower": "Njuguna language",
+        "upper": "Norman_NOUN Gabay"
+      },
+      "raw_sha256": "f9cdfac42175a088f34ccb9a3e73721fc5722779241d29c8d2323245a25b1d9b",
+      "scanned_records": 3200978,
+      "extracted_at": "2026-10-13T19:12:20.189331+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00206-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00206-of-00589.gz",
+        "size": 530607176,
+        "etag": "\"841698b545485f012d17e4ee135e8095\"",
+        "md5": "hBaYtUVIXwEtF+TuE16AlQ==",
+        "lower": "Norman_NOUN Gabay",
+        "upper": "O'Connor_NOUN research"
+      },
+      "raw_sha256": "cc5e28cc473abeecbba77d2897857505e40eb4a4ca94de44650ec89414e2c06a",
+      "scanned_records": 3358430,
+      "extracted_at": "2026-10-13T19:25:38.398608+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00208-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00208-of-00589.gz",
+        "size": 492391079,
+        "etag": "\"369fb7a9cbc4d5b7f188191d22c50f42\"",
+        "md5": "Np+3qcvE1bfxiBkdIsUPQg==",
+        "lower": "OP_NOUN Object",
+        "upper": "Of_ADP 1,604_NUM"
+      },
+      "raw_sha256": "c149db508faa7f6ff04c5bc0830439b55706ef56ea78440b1d1d21b3bd21ebba",
+      "scanned_records": 3282886,
+      "extracted_at": "2026-10-13T19:30:41.077070+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00209-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00209-of-00589.gz",
+        "size": 556082300,
+        "etag": "\"f08e7aa78e99b96ecf28b79e89350309\"",
+        "md5": "8I56p46ZuW7PKLeeiTUDCQ==",
+        "lower": "Of_ADP 1,604_NUM",
+        "upper": "Ongoing spontaneous_ADJ"
+      },
+      "raw_sha256": "e35641bb45e168f43f2fcfaeb278695d59b71b95b3cf3274eae4af7aa766e4b1",
+      "scanned_records": 3406478,
+      "extracted_at": "2026-10-13T19:05:28.271952+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00211-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00211-of-00589.gz",
+        "size": 523916927,
+        "etag": "\"9f5bbdc0e7052476c3a1726b943421fc\"",
+        "md5": "n1u9wOcFJHbDoXJrlDQh/A==",
+        "lower": "Orthodox Metropolis",
+        "upper": "P. DeMund"
+      },
+      "raw_sha256": "a963b3e3c598536e93de8532efdd994917331ef7cca9024297100a17733b0e5b",
+      "scanned_records": 3341144,
+      "extracted_at": "2026-10-13T18:57:58.748862+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00214-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00214-of-00589.gz",
+        "size": 476929694,
+        "etag": "\"580b3fdb2c05d34885b7f09e7ae8f377\"",
+        "md5": "WAs/2ywF00iFt/Ceeujzdw==",
+        "lower": "PROCEDURE_NOUN Apart",
+        "upper": "Paliss _._"
+      },
+      "raw_sha256": "94457615695866523f0f26ffae0db3dbd249884dc737c8a354ba785ef2d753c4",
+      "scanned_records": 3435159,
+      "extracted_at": "2026-10-13T19:04:50.215404+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00216-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00216-of-00589.gz",
+        "size": 504808478,
+        "etag": "\"d7fa17c7de48c7526bb4a5cc975c52ef\"",
+        "md5": "1/oXx95Ix1JrtKXMl1xS7w==",
+        "lower": "Passage_NOUN once_ADV",
+        "upper": "Pennsylvania 48.0"
+      },
+      "raw_sha256": "05e0b46d5fefea52a11b7786b82fd3f7112560020ef23bdb3f7bda47d8fb4ca1",
+      "scanned_records": 3350007,
+      "extracted_at": "2026-10-13T18:45:45.280817+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00217-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00217-of-00589.gz",
+        "size": 500250163,
+        "etag": "\"978741ff337c9e70a337f8876e3adfec\"",
+        "md5": "l4dB/zN8nnCjN/iHbjrf7A==",
+        "lower": "Pennsylvania 48.0",
+        "upper": "Pflugmacher_NOUN and"
+      },
+      "raw_sha256": "3cd9dc1c5bcee5bbe804b5d40ca1ce6afcb54b32242d25312d2acebe71930e5e",
+      "scanned_records": 3292088,
+      "extracted_at": "2026-10-13T19:36:02.648569+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00218-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00218-of-00589.gz",
+        "size": 479574228,
+        "etag": "\"ed3da36a31e02bd5af97ea1f4904cccb\"",
+        "md5": "7T2jajHgK9Wvl+ofSQTMyw==",
+        "lower": "Pflugmacher_NOUN and",
+        "upper": "Pine zones_NOUN"
+      },
+      "raw_sha256": "c4b8aa8579feda1ab5042c2d532f511c113ada554c55321b9597b922bc115503",
+      "scanned_records": 3210831,
+      "extracted_at": "2026-10-13T19:05:28.641306+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00219-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00219-of-00589.gz",
+        "size": 534739274,
+        "etag": "\"45bf51913e4de5bad82eb4c73ef73d88\"",
+        "md5": "Rb9RkT5N5brYLrTHPvc9iA==",
+        "lower": "Pine zones_NOUN",
+        "upper": "Poland somehow_ADV"
+      },
+      "raw_sha256": "47a8b8b0f3e8a82464528c40dfeab3da644087df409ee8478465f6bdd60dda42",
+      "scanned_records": 3533682,
+      "extracted_at": "2026-10-13T19:07:50.676777+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00220-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00220-of-00589.gz",
+        "size": 509944728,
+        "etag": "\"9048992715d31e94bae67b91564c90e1\"",
+        "md5": "kEiZJxXTHpS65nuRVkyQ4Q==",
+        "lower": "Poland somehow_ADV",
+        "upper": "Pounden was"
+      },
+      "raw_sha256": "cdf376055008f9d9cfd29a6a2394c48c36c39fa1ba376971c7d48f8cc525607b",
+      "scanned_records": 3373703,
+      "extracted_at": "2026-10-13T19:28:50.843477+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00221-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00221-of-00589.gz",
+        "size": 483859671,
+        "etag": "\"09c962008f5c624073d00ca7dce0086f\"",
+        "md5": "CcliAI9cYkBz0Ayn3OAIbw==",
+        "lower": "Pounden was",
+        "upper": "Primary_NOUN God_NOUN"
+      },
+      "raw_sha256": "c5e0d4062defdfbddd476c9de44f45de95482b5ed30352b5f8e6eb27837648f2",
+      "scanned_records": 3206181,
+      "extracted_at": "2026-10-13T19:37:43.805132+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00222-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00222-of-00589.gz",
+        "size": 501136842,
+        "etag": "\"41b4c25b77a431049bd98b6484659f5c\"",
+        "md5": "QbTCW3ekMQSb2YtkhGWfXA==",
+        "lower": "Primary_NOUN God_NOUN",
+        "upper": "Properly objected_VERB"
+      },
+      "raw_sha256": "1254591939bc3637f3912189bd63afa6170a46e7d2868ef466c90941db909f22",
+      "scanned_records": 3390236,
+      "extracted_at": "2026-10-13T18:49:39.792263+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00227-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00227-of-00589.gz",
+        "size": 468649130,
+        "etag": "\"c8aa4237c24c6076f0ccf6d91bc4365e\"",
+        "md5": "yKpCN8JMYHbwzPbZG8Q2Xg==",
+        "lower": "Radiator_NOUN division_NOUN",
+        "upper": "Re_NOUN policy"
+      },
+      "raw_sha256": "63cc13e57bbf8de77750a976ff8ed5535495e5b7f24eaa8113968c80eab19bd1",
+      "scanned_records": 3297566,
+      "extracted_at": "2026-10-13T18:46:54.609195+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00229-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00229-of-00589.gz",
+        "size": 493670164,
+        "etag": "\"508725a1ff4fb8dd716fe4b8b8304734\"",
+        "md5": "UIclof9PuN1xb+S4uDBHNA==",
+        "lower": "Regional_NOUN Transitions_NOUN",
+        "upper": "Res_NOUN Quotidianae"
+      },
+      "raw_sha256": "58481f7af7a833c544eca0392941b5190fafd90e41bca146dee379b59ca7a67b",
+      "scanned_records": 3371536,
+      "extracted_at": "2026-10-13T18:50:33.071596+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00230-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00230-of-00589.gz",
+        "size": 513034797,
+        "etag": "\"6c95dff91e29c9f8c5be27b9bb20c8b6\"",
+        "md5": "bJXf+R4pyfjFvie5uyDItg==",
+        "lower": "Res_NOUN Quotidianae",
+        "upper": "Richenbach ,"
+      },
+      "raw_sha256": "d9f54dc283233e60f90c726e175aec0568ee6af935c4ec78916c6196cc47a1b0",
+      "scanned_records": 3440987,
+      "extracted_at": "2026-10-13T19:21:14.974189+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00231-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00231-of-00589.gz",
+        "size": 503992074,
+        "etag": "\"29970e03601a881c353c922cf3eb0ee8\"",
+        "md5": "KZcOA2AaiBw1PJIs8+sO6A==",
+        "lower": "Richenbach ,",
+        "upper": "Rogerson_NOUN of"
+      },
+      "raw_sha256": "dabeb979e018f3982d4540f667d987a2b72369a0bffd21543ef8fc54ffa27148",
+      "scanned_records": 3322765,
+      "extracted_at": "2026-10-13T19:05:31.507545+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00232-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00232-of-00589.gz",
+        "size": 499899627,
+        "etag": "\"02b051e8f12a728f287aefed3b9fcd49\"",
+        "md5": "ArBR6PEqco8oeu/tO5/NSQ==",
+        "lower": "Rogerson_NOUN of",
+        "upper": "Rudolf Steiner"
+      },
+      "raw_sha256": "32ad6835739b1a3d93f1294158268240e14ce45cbe7235ff36994d4b1a47f2dd",
+      "scanned_records": 3335781,
+      "extracted_at": "2026-10-13T18:22:32.773289+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00233-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00233-of-00589.gz",
+        "size": 524581800,
+        "etag": "\"2e6b30c42e54b34d007a87e090234add\"",
+        "md5": "LmswxC5Us00AeofgkCNK3Q==",
+        "lower": "Rudolf Steiner",
+        "upper": "S._NOUN chester"
+      },
+      "raw_sha256": "2fb00218b2cb20d6a7f996d5ef033c9d1948ba6be20f8cfdce4e2b62c41e0cd7",
+      "scanned_records": 3361146,
+      "extracted_at": "2026-10-13T19:01:29.748144+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00237-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00237-of-00589.gz",
+        "size": 495827962,
+        "etag": "\"4ce20dc658ca80b6a1352afd5383897a\"",
+        "md5": "TOINxljKgLahNSr9U4OJeg==",
+        "lower": "Sachon_NOUN River",
+        "upper": "Sapindaceae for_ADP"
+      },
+      "raw_sha256": "c578e0344bbf79a6b0083673c4dec2f10a5077262f0eca34307a9c7c59d1681c",
+      "scanned_records": 3320033,
+      "extracted_at": "2026-10-13T18:52:30.891596+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00238-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00238-of-00589.gz",
+        "size": 509565637,
+        "etag": "\"c3ab174446784f3768280faf05f622fa\"",
+        "md5": "w6sXREZ4TzdoKA+vBfYi+g==",
+        "lower": "Sapindaceae for_ADP",
+        "upper": "Schools_NOUN Sold"
+      },
+      "raw_sha256": "681bb251c03613b54d19986fb0694d1e456da658b487dc54f128dcb698fb957f",
+      "scanned_records": 3406471,
+      "extracted_at": "2026-10-13T19:32:56.558252+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00240-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00240-of-00589.gz",
+        "size": 515256432,
+        "etag": "\"77d8a41fe8aa70982f84c852632e1630\"",
+        "md5": "d9ikH+iqcJgvhMhSYy4WMA==",
+        "lower": "Sectional type_NOUN",
+        "upper": "Sentrale_NOUN Statistiekdiens_NOUN"
+      },
+      "raw_sha256": "372b771f413ccc123a5a3808bea6d99c92727c7b3a262f61616fd37e22755987",
+      "scanned_records": 3416733,
+      "extracted_at": "2026-10-13T19:35:19.454996+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00241-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00241-of-00589.gz",
+        "size": 487385153,
+        "etag": "\"424bbeb45dbad08b79f6609fa3e29e11\"",
+        "md5": "Qku+tF260It59mCfo+KeEQ==",
+        "lower": "Sentrale_NOUN Statistiekdiens_NOUN",
+        "upper": "Shared_NOUN team_NOUN"
+      },
+      "raw_sha256": "19853d7b5585e68eee92f4acb841e7928b155f31d49537093d819bbfbb5b9548",
+      "scanned_records": 3251321,
+      "extracted_at": "2026-10-13T19:35:19.163625+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00243-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00243-of-00589.gz",
+        "size": 475162816,
+        "etag": "\"b2890a7b65cbacf29b0ee64b586fa39c\"",
+        "md5": "sokKe2XLrPKbDuZLWG+jnA==",
+        "lower": "Sid_NOUN ....................",
+        "upper": "SixtyNine_NOUN _._"
+      },
+      "raw_sha256": "f57a7f8ba174470b3aca187f2a5fd67d13dbb28228ae4a2fe8e1c834f15fefbe",
+      "scanned_records": 3193076,
+      "extracted_at": "2026-10-13T19:02:29.047218+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00245-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00245-of-00589.gz",
+        "size": 541154714,
+        "etag": "\"9fdf685c7497465ce9b6219a1302abba\"",
+        "md5": "n99oXHSXRlzptiGaEwKrug==",
+        "lower": "Soehnlen_NOUN Piping",
+        "upper": "Spaniards.2_NOUN This"
+      },
+      "raw_sha256": "5170ac8522199c45717e7ce280fcc7369612248f303fe520bf3370d1a5f88e4c",
+      "scanned_records": 3474358,
+      "extracted_at": "2026-10-13T18:48:12.930398+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00247-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00247-of-00589.gz",
+        "size": 524423481,
+        "etag": "\"3ceeb22fbfa760ff01f2f80499a76f04\"",
+        "md5": "PO6yL7+nYP8B8vgEmadvBA==",
+        "lower": "Stacy Fox_NOUN",
+        "upper": "Steriamus_NOUN _._"
+      },
+      "raw_sha256": "b4e2bd3f6ec47c94a56b5f2d536e9b711907c4c40d725f667b48a3dc46652394",
+      "scanned_records": 3321096,
+      "extracted_at": "2026-10-13T18:54:03.332395+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00250-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00250-of-00589.gz",
+        "size": 500416182,
+        "etag": "\"6c4eb839034a2e53dccc9237651d0518\"",
+        "md5": "bE64OQNKLlPczJI3ZR0FGA==",
+        "lower": "Super_NOUN Spy_NOUN",
+        "upper": "Synthetic Office_NOUN"
+      },
+      "raw_sha256": "7f2288db177327e9b54d0ce6d4a23ec653e882356877713f1b4c7da51552ebe8",
+      "scanned_records": 3407091,
+      "extracted_at": "2026-10-13T18:49:31.492939+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00251-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00251-of-00589.gz",
+        "size": 463936804,
+        "etag": "\"0c140fa879b39cb3bc92c5be16c5cd1f\"",
+        "md5": "DBQPqHmznLO8ksW+FsXNHw==",
+        "lower": "Synthetic Office_NOUN",
+        "upper": "THB_NOUN by_ADP"
+      },
+      "raw_sha256": "369b8790148eda569c7220490a056137f0adddc8f5342ac70c19a2da64523f43",
+      "scanned_records": 3396308,
+      "extracted_at": "2026-10-13T19:07:48.577851+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00253-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00253-of-00589.gz",
+        "size": 472885826,
+        "etag": "\"7b5437a8a458fd395970a83e4f343bf5\"",
+        "md5": "e1Q3qKRY/TlZcKg+TzQ79Q==",
+        "lower": "TRANSPORT Table",
+        "upper": "Tape_NOUN 29"
+      },
+      "raw_sha256": "a3fb6a818f34b7a8a21e3cb0704bbe822a2f5d25c2fd645b5ab76bd7d92c4157",
+      "scanned_records": 3462917,
+      "extracted_at": "2026-10-13T19:32:59.593782+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00257-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00257-of-00589.gz",
+        "size": 662936947,
+        "etag": "\"d49f74e796381b0e1b5e1182b06c538b\"",
+        "md5": "1J9055Y4Gw4bXhGCsGxTiw==",
+        "lower": "Their u_NOUN",
+        "upper": "Those gleams_NOUN"
+      },
+      "raw_sha256": "2537442b1ecca2b63694f754e4a28d91d3110079597143cfac159480d074e7a0",
+      "scanned_records": 3473782,
+      "extracted_at": "2026-10-13T19:23:17.250070+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00258-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00258-of-00589.gz",
+        "size": 516472598,
+        "etag": "\"dbfb8409f57975ae2fd0a143607538db\"",
+        "md5": "2/uECfV5da4v0KFDYHU42w==",
+        "lower": "Those gleams_NOUN",
+        "upper": "Tln_NOUN _PRT_"
+      },
+      "raw_sha256": "826684198cd3223ad4225c0590d004b38938e2dce83c09ad59cbd2901df278b6",
+      "scanned_records": 3245874,
+      "extracted_at": "2026-10-13T19:07:56.389381+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00260-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00260-of-00589.gz",
+        "size": 494137576,
+        "etag": "\"9765898d55142beaae273e790a002bf3\"",
+        "md5": "l2WJjVUUK+quJz55CgAr8w==",
+        "lower": "Toxin_NOUN Edema",
+        "upper": "Trojani case_NOUN"
+      },
+      "raw_sha256": "04d0d6fca04bb6e0b91a04892e3173b2ecb55dc01e7e52807e1ce726cc6c07c4",
+      "scanned_records": 3421980,
+      "extracted_at": "2026-10-13T18:49:57.121462+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00261-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00261-of-00589.gz",
+        "size": 478367820,
+        "etag": "\"fb8c1788ccea967539cc7d0cf5f23183\"",
+        "md5": "+4wXiMzqlnU5zH0M9fIxgw==",
+        "lower": "Trojani case_NOUN",
+        "upper": "Tylor referred_VERB"
+      },
+      "raw_sha256": "d71ecd65c9859f32386f6960e2c104b3141d245f14e0e697fb59a890bcfd6782",
+      "scanned_records": 3128061,
+      "extracted_at": "2026-10-13T19:38:36.567225+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00263-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00263-of-00589.gz",
+        "size": 465810099,
+        "etag": "\"ed2bac5a8efdadb62b1e4dc0c981fc61\"",
+        "md5": "7SusWo79rbYrHk3AyYH8YQ==",
+        "lower": "USE Priorities",
+        "upper": "University_NOUN Peabody_NOUN"
+      },
+      "raw_sha256": "5a57f37adf135a7736791bdbe3104f0be95fbed1330a688988ba775a3be280f5",
+      "scanned_records": 3373725,
+      "extracted_at": "2026-10-13T18:55:05.767262+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00265-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00265-of-00589.gz",
+        "size": 457334257,
+        "etag": "\"8f51e6ef94ec77995e6fbe4b8e98c58a\"",
+        "md5": "j1Hm75Tsd5leb75LjpjFig==",
+        "lower": "VALUE MEASURE",
+        "upper": "Varaize_NOUN ,"
+      },
+      "raw_sha256": "5412ecc535c6773d61e2ff2d51f36343e8a1b573fabd9b48912c9c0d33f8c455",
+      "scanned_records": 3298691,
+      "extracted_at": "2026-10-13T19:08:48.992207+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00266-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00266-of-00589.gz",
+        "size": 491654430,
+        "etag": "\"0a816971ca51a53ff478662329df71d1\"",
+        "md5": "CoFpccpRpT/0eGYjKd9x0Q==",
+        "lower": "Varaize_NOUN ,",
+        "upper": "Vie thought"
+      },
+      "raw_sha256": "9e7f4e0aaa792142653a92186fc39c6f525c4ffe2e86177b7c0b723413c48495",
+      "scanned_records": 3320970,
+      "extracted_at": "2026-10-13T18:51:03.664002+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00267-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00267-of-00589.gz",
+        "size": 495060733,
+        "etag": "\"a0f95ddccd840413a14b8cf711ea3ad8\"",
+        "md5": "oPld3M2EBBOhS4z3Eeo62A==",
+        "lower": "Vie thought",
+        "upper": "W allr"
+      },
+      "raw_sha256": "6c790fb3721c70ba4d6302a15a216e2c2be81887a81fe455cf6c4448d2b6c33a",
+      "scanned_records": 3425421,
+      "extracted_at": "2026-10-13T18:58:44.190988+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00269-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00269-of-00589.gz",
+        "size": 498650938,
+        "etag": "\"7f43924db06c3cc2ee0dd8686352ac38\"",
+        "md5": "f0OSTbBsPMLuDdhoY1KsOA==",
+        "lower": "WITHOUT_ADP TAXING",
+        "upper": "Wartime_NOUN Sarajevo"
+      },
+      "raw_sha256": "25157329db2033d8d7ced9252cb389f291b0bd048c2ef4a0f726020d1ba1c767",
+      "scanned_records": 3378480,
+      "extracted_at": "2026-10-13T19:03:08.179085+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00270-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00270-of-00589.gz",
+        "size": 535131607,
+        "etag": "\"aeb02a5687ee1a4bff4eae935ed9c8d9\"",
+        "md5": "rrAqVofuGkv/Tq6TXtnI2Q==",
+        "lower": "Wartime_NOUN Sarajevo",
+        "upper": "Wessex_ADJ Wholesale"
+      },
+      "raw_sha256": "ae662bda733aceadee884c5fdc879140aae49d39ce239c54f670267c45f25d37",
+      "scanned_records": 3354777,
+      "extracted_at": "2026-10-13T19:17:59.542887+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00272-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00272-of-00589.gz",
+        "size": 523801471,
+        "etag": "\"bab05ad2ca686246d727ac9683cdc65f\"",
+        "md5": "urBa0spoYkbXJ6yWg83GXw==",
+        "lower": "Whole Held_NOUN",
+        "upper": "Wissett_NOUN _PRT_"
+      },
+      "raw_sha256": "d4321a19d4fee6c9f544ca8c1f3281ab21d7f5066bafc0caa428bf1756f0d544",
+      "scanned_records": 3224484,
+      "extracted_at": "2026-10-13T18:22:47.290313+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00273-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00273-of-00589.gz",
+        "size": 555341692,
+        "etag": "\"1fba418211e2819745abd9698a49a0a4\"",
+        "md5": "H7pBghHigZdFq9lpikmgpA==",
+        "lower": "Wissett_NOUN _PRT_",
+        "upper": "Wycherly_NOUN who"
+      },
+      "raw_sha256": "adccffe24cb397ba2529462d3adcca71b472c866d4328fe74eaa00aa0c3b5381",
+      "scanned_records": 3475888,
+      "extracted_at": "2026-10-13T19:13:10.793981+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00274-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00274-of-00589.gz",
+        "size": 472562367,
+        "etag": "\"7b23574aeb15c0dfacde81272d7f941c\"",
+        "md5": "eyNXSusVwN+s3oEnLX+UHA==",
+        "lower": "Wycherly_NOUN who",
+        "upper": "Year_NOUN Kanoto_NOUN"
+      },
+      "raw_sha256": "897a16121afd3ba9be648166d852f9bd53812efcfd7265456caf20e44712d7ac",
+      "scanned_records": 3389820,
+      "extracted_at": "2026-10-13T19:30:48.243590+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00275-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00275-of-00589.gz",
+        "size": 493972424,
+        "etag": "\"f1b72f7113fb29f3ceccdc57030e118f\"",
+        "md5": "8bcvcRP7KfPOzNxXAw4Rjw==",
+        "lower": "Year_NOUN Kanoto_NOUN",
+        "upper": "Zaverbhai _NOUN_"
+      },
+      "raw_sha256": "abb9f8edba7e00ad64513c2b33ac8d3ea977b159fdd6e1baed704c4d9b8c2a67",
+      "scanned_records": 3387955,
+      "extracted_at": "2026-10-13T19:35:27.681971+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00276-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00276-of-00589.gz",
+        "size": 497653208,
+        "etag": "\"f3c9319bdf9e78da6bb6d6dc669c0b7e\"",
+        "md5": "88kxm9+eeNprttbcZpwLfg==",
+        "lower": "Zaverbhai _NOUN_",
+        "upper": "\\_. Vhatevcr_NOUN"
+      },
+      "raw_sha256": "3ab167e6bf67de3cf058b1affe328938bf5674c2b7cef6b953ff3ae2f194ddd2",
+      "scanned_records": 3425129,
+      "extracted_at": "2026-10-13T19:35:15.627477+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "2-00587-of-00589.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00587-of-00589.gz",
+        "size": 509835709,
+        "etag": "\"9adb53de703e7ac78a59f5d29cb9b37e\"",
+        "md5": "mttT3nA+eseKWfXSnLmzfg==",
+        "lower": "§_NUM 12940_NUM",
+        "upper": "θp ,_."
+      },
+      "raw_sha256": "cb4845bfc9c01811baf535c58ccc46c2366ac0c65d24f41a6f9a581238c7e8d2",
+      "scanned_records": 3491568,
+      "extracted_at": "2026-10-13T19:04:17.915737+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00705-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00705-of-06881.gz",
+        "size": 415955591,
+        "etag": "\"a3da116dda284e928ed85562cdc2a96d\"",
+        "md5": "o9oRbdooTpKO2FVizcKpbQ==",
+        "lower": "Acetaminophen_NOUN Elixir_NOUN (",
+        "upper": "Act ,_. N.D.Ohio"
+      },
+      "raw_sha256": "a97add2ba562b56f2ad7df0f8bac06b6a9e7d17b8ea4df36c64e5ef493f83e71",
+      "scanned_records": 3467153,
+      "extracted_at": "2026-10-13T15:46:09.837372+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-00711-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00711-of-06881.gz",
+        "size": 441404038,
+        "etag": "\"b1f5fbdc58a8ac8ec52a946de3bc2c3f\"",
+        "md5": "sfX73FiorI7FKpRt47wsPw==",
+        "lower": "Administration_NOUN _NOUN_ 718",
+        "upper": "Adrenergic action _ADP_"
+      },
+      "raw_sha256": "61081749fff25aa8cbbff9ae524387a870aee9d0b9122467c095977d484c944d",
+      "scanned_records": 3481704,
+      "extracted_at": "2026-10-13T15:54:43.756533+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-00712-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00712-of-06881.gz",
+        "size": 395486921,
+        "etag": "\"0de019cef104a80b0b5c9e9b3290ab62\"",
+        "md5": "DeAZzvEEqAsLXJ6bMpCrYg==",
+        "lower": "Adrenergic action _ADP_",
+        "upper": "Advisor ( DNAB"
+      },
+      "raw_sha256": "9ac88b3f11042eb866eca9f4fc21eda0e1bbd34d678155454e059886ef10c3c2",
+      "scanned_records": 3266848,
+      "extracted_at": "2026-10-13T15:57:43.946719+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-00723-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00723-of-06881.gz",
+        "size": 392867512,
+        "etag": "\"36066bd7888326cdaa099f3c106381ab\"",
+        "md5": "NgZr14iDJs2qCZ88EGOBqw==",
+        "lower": "Albany_NOUN a full",
+        "upper": "Alden was probably"
+      },
+      "raw_sha256": "d43713e6c22b521ca48aa2738b9b246a1d0ecac8ff40aaabeb0666ee288307d1",
+      "scanned_records": 3154039,
+      "extracted_at": "2026-10-13T18:24:24.011801+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00724-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00724-of-06881.gz",
+        "size": 452269797,
+        "etag": "\"af1abe77ce41dea13111db3d2ed949e2\"",
+        "md5": "rxq+d85B3qExEds9LtlJ4g==",
+        "lower": "Alden was probably",
+        "upper": "Alexandrovo_NOUN _._ _PRON_"
+      },
+      "raw_sha256": "365b0514521aba0817b88eb7c3f9fa809d028f8a4378378fad5832ccba2385e0",
+      "scanned_records": 3548749,
+      "extracted_at": "2026-10-13T18:24:33.533645+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00725-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00725-of-06881.gz",
+        "size": 385445132,
+        "etag": "\"5b9a088c0ace11c88b53fa769db29baf\"",
+        "md5": "W5oIjArOEciLU/p2nbKbrw==",
+        "lower": "Alexandrovo_NOUN _._ _PRON_",
+        "upper": "Alice_NOUN _._ Ref"
+      },
+      "raw_sha256": "8b9bc9290bd607311260cdbcf0f16d42f9a669a8931adcfea0b514a4135f4e96",
+      "scanned_records": 3178659,
+      "extracted_at": "2026-10-13T18:34:18.898214+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00730-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00730-of-06881.gz",
+        "size": 439601790,
+        "etag": "\"4c231525620bc1e23b235d07f8d4b192\"",
+        "md5": "TCMVJWILweI7I10H+NSxkg==",
+        "lower": "Alouini , _NUM_",
+        "upper": "Alternate Friday_NOUN ,"
+      },
+      "raw_sha256": "277a75e5cf3a9d4560db074a212dd4a80e474d3242de416eda5f1ef170ca53f7",
+      "scanned_records": 3459873,
+      "extracted_at": "2026-10-13T18:31:22.818795+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00733-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00733-of-06881.gz",
+        "size": 372333127,
+        "etag": "\"cc55e9bbda7563e5d5fc5dbf81f90da7\"",
+        "md5": "zFXpu9p1Y+XV/F2/gfkNpw==",
+        "lower": "Am_NOUN Bahamas_NOUN _._",
+        "upper": "Amend ment_NOUN would"
+      },
+      "raw_sha256": "719f040665887c1fe1abd24fb6913c7de607845645d9d39452eb1cf22283b758",
+      "scanned_records": 3158310,
+      "extracted_at": "2026-10-13T18:28:46.883068+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00747-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00747-of-06881.gz",
+        "size": 431957304,
+        "etag": "\"e13439ce3ac541e9d43c7f487aa56ed0\"",
+        "md5": "4TQ5zjrFQenUPH9IeqVu0A==",
+        "lower": "Angola_NOUN border ,",
+        "upper": "Annals_NOUN included _DET_"
+      },
+      "raw_sha256": "fa89b626b566fae20a43573cfbe9360b61b54f0323fbd592ef9ed308151a1c8f",
+      "scanned_records": 3521516,
+      "extracted_at": "2026-10-13T18:38:43.580484+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00748-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00748-of-06881.gz",
+        "size": 425009092,
+        "etag": "\"bcac4ed6b1d04ec82491f305bbcb6fda\"",
+        "md5": "vKxO1rHQTsgkkfMFu8tv2g==",
+        "lower": "Annals_NOUN included _DET_",
+        "upper": "Annunciator_NOUN \"_. _VERB_"
+      },
+      "raw_sha256": "5308bc1f7a99be64529ac15e10f85d871d513b82bc4ef3090c83c880f3361fe0",
+      "scanned_records": 3273431,
+      "extracted_at": "2026-10-13T18:43:44.370480+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00751-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00751-of-06881.gz",
+        "size": 459190525,
+        "etag": "\"cd62194163964edb37e09af285be9d73\"",
+        "md5": "zWIZQWOWTts34Jryhb6dcw==",
+        "lower": "Antimony_NOUN )_. ._.",
+        "upper": "Any summons_VERB described"
+      },
+      "raw_sha256": "499bde51a63a3d687648fcbfea744f7db49b88def19ae292d0ce8504bd95f9d4",
+      "scanned_records": 3569693,
+      "extracted_at": "2026-10-13T18:34:10.620561+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00777-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00777-of-06881.gz",
+        "size": 424441286,
+        "etag": "\"9edd4f00b55bb56663040edbbebc0cb8\"",
+        "md5": "nt1PALVbtWZjBA7bvrwMuA==",
+        "lower": "August l9_NUM ._.",
+        "upper": "Aussage ] _._"
+      },
+      "raw_sha256": "9df0a800dab302475b83d53ef619f5456a07e39a507d8f5e3ed2019a1dbbf250",
+      "scanned_records": 3140834,
+      "extracted_at": "2026-10-13T18:36:54.036918+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00778-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00778-of-06881.gz",
+        "size": 469016403,
+        "etag": "\"216c23d9a4d44fd58f1b14a6d1e11b7e\"",
+        "md5": "IWwj2aTUT9WPGxSm0eEbfg==",
+        "lower": "Aussage ] _._",
+        "upper": "Austrian Consulates_NOUN ,_."
+      },
+      "raw_sha256": "eee14ab176bcdc5862fd2cd6a11a2b7b24f210fdcd2e427d1a7a24f2a6e741da",
+      "scanned_records": 3585904,
+      "extracted_at": "2026-10-13T18:46:40.652679+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00813-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00813-of-06881.gz",
+        "size": 411745732,
+        "etag": "\"6162e15705db91c52cbd71fb3832ade0\"",
+        "md5": "YWLhVwXbkcUsvXH7ODKt4A==",
+        "lower": "Benefit : Increase_NOUN",
+        "upper": "Benson_NOUN and Emma"
+      },
+      "raw_sha256": "3f053045ca5e5ef8ec807a81a1dca55851d80727c8986b64f358dcc68b3bcd44",
+      "scanned_records": 3218154,
+      "extracted_at": "2026-10-13T18:38:03.701668+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00816-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00816-of-06881.gz",
+        "size": 444499002,
+        "etag": "\"d07c939669b88886df5c0482ce7a7f3c\"",
+        "md5": "0HyTlmm4iIbfXASCznp/PA==",
+        "lower": "Bert realized that_ADP",
+        "upper": "Bethany_NOUN ,_. to"
+      },
+      "raw_sha256": "362b4ed722fb8fdcd4aea79d36fcc451d682e467d155c321fef7cd3d55ba0025",
+      "scanned_records": 3576306,
+      "extracted_at": "2026-10-13T18:53:14.631119+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00884-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00884-of-06881.gz",
+        "size": 444828973,
+        "etag": "\"970f2d49908f275b9ded45096841e7aa\"",
+        "md5": "lw8tSZCPJ1ud7UUJaEHnqg==",
+        "lower": "Came Out_PRT The",
+        "upper": "Can _DET_ spear_NOUN"
+      },
+      "raw_sha256": "5bad50ec37e9a61d2027a0874e6c613e4f1fdb162a17a7a5075dee4f2b6b33cd",
+      "scanned_records": 3516097,
+      "extracted_at": "2026-10-13T18:36:03.160574+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00895-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00895-of-06881.gz",
+        "size": 412637558,
+        "etag": "\"42fa5de30d3c561f8aa1acdf6967234c\"",
+        "md5": "Qvpd4w08Vh+KoazfaWcjTA==",
+        "lower": "Casey_NOUN , J.M.",
+        "upper": "Castle_NOUN for ten"
+      },
+      "raw_sha256": "0aa8650271edfd6d495cb7f58906fc71a36a2b6037f3cdc07976033317e2d722",
+      "scanned_records": 3227642,
+      "extracted_at": "2026-10-13T15:45:13.727755+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-00907-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00907-of-06881.gz",
+        "size": 523968818,
+        "etag": "\"88461e366cbd96b7a187b18e2ebbf1bb\"",
+        "md5": "iEYeNmy9lrehh7GOLrvxuw==",
+        "lower": "Charge_NOUN ll .",
+        "upper": "Charles_NOUN _NOUN_ Roslyn"
+      },
+      "raw_sha256": "d323341057f3b9c53bdb85a0ea1777e8822c37c7a4fb5f1ad99b0a385036b22d",
+      "scanned_records": 3520527,
+      "extracted_at": "2026-10-13T18:42:24.620319+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00917-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00917-of-06881.gz",
+        "size": 529342401,
+        "etag": "\"0ec6a894c1b776b57d0e9fba793eba85\"",
+        "md5": "DsaolMG3drV9Dp+6eT66hQ==",
+        "lower": "Christ_NOUN rules in",
+        "upper": "Christianity_NOUN declared_VERB a_DET"
+      },
+      "raw_sha256": "1153a93ea761871048c54f876d7436b90e7af0291c560ee7f1824d708f3dec59",
+      "scanned_records": 3394268,
+      "extracted_at": "2026-10-13T18:46:26.657972+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00954-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00954-of-06881.gz",
+        "size": 412701840,
+        "etag": "\"ac2ab5acada1cb5bce59ca8ea618c2fc\"",
+        "md5": "rCq1rK2hy1vOWcqOphjC/A==",
+        "lower": "Consider _DET_ purple",
+        "upper": "Constellation_NOUN diagram_NOUN _NOUN_"
+      },
+      "raw_sha256": "022560f84ae5e0525f41f36568f24aa0dc8b316704a63c2248ab5663b844b5bf",
+      "scanned_records": 3168843,
+      "extracted_at": "2026-10-13T18:48:20.709861+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00965-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00965-of-06881.gz",
+        "size": 414061177,
+        "etag": "\"2a955f815915e1409f389c8bcbad1b96\"",
+        "md5": "KpVfgVkV4UCfOJyLy60blg==",
+        "lower": "Corsicana from _DET_",
+        "upper": "Cotford_NOUN _NOUN_ _VERB_"
+      },
+      "raw_sha256": "1af860bdf39a74fc4c8c43de3b77439878f6d5f4391b009e70995f94114bfc5e",
+      "scanned_records": 3371155,
+      "extracted_at": "2026-10-13T18:47:55.992486+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00995-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00995-of-06881.gz",
+        "size": 424606628,
+        "etag": "\"57b62ed890a854ae8b42d36ace771f4d\"",
+        "md5": "V7Yu2JCoVK6LQtNqzncfTQ==",
+        "lower": "Damages_NOUN and_CONJ Settlement",
+        "upper": "Daniel looked alarmed_VERB"
+      },
+      "raw_sha256": "0b8689992c78c94261f453e719141c48954ce38ac9c05dadf93089c08189a56e",
+      "scanned_records": 3478755,
+      "extracted_at": "2026-10-13T18:34:58.231808+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00996-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00996-of-06881.gz",
+        "size": 381004962,
+        "etag": "\"aef0caa2b6778e92f7389e119725e7ff\"",
+        "md5": "rvDKorZ3jpL3OJ4RlyXn/w==",
+        "lower": "Daniel looked alarmed_VERB",
+        "upper": "Darien felt a"
+      },
+      "raw_sha256": "0e2b1785ac97de07d33e508402573299d4b4ae85cc2c62c861e8f93ecb20cfaa",
+      "scanned_records": 3162343,
+      "extracted_at": "2026-10-13T18:55:57.018372+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00997-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00997-of-06881.gz",
+        "size": 407297227,
+        "etag": "\"4d679bbec2746b4f1a0c4d843beae1fe\"",
+        "md5": "TWebvsJ0a08aDE2EO+rh/g==",
+        "lower": "Darien felt a",
+        "upper": "Data_NOUN Rearranged _ADP_"
+      },
+      "raw_sha256": "edac80f3fcd3e5cb8caba7889779d11a2ef7db200f0768e0ef83ffe70e8f1ab7",
+      "scanned_records": 3533373,
+      "extracted_at": "2026-10-13T18:57:26.761794+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-00998-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00998-of-06881.gz",
+        "size": 393652673,
+        "etag": "\"969ef616823824805e6afba9a8aab752\"",
+        "md5": "lp72FoI4JIBeavupqKq3Ug==",
+        "lower": "Data_NOUN Rearranged _ADP_",
+        "upper": "David McGlashan ,_."
+      },
+      "raw_sha256": "ca10b62b18c3598230358464830447a7f9f2e7358fad218a47e9762a89f90af5",
+      "scanned_records": 3258588,
+      "extracted_at": "2026-10-13T18:52:48.077571+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01029-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01029-of-06881.gz",
+        "size": 436412587,
+        "etag": "\"5fa5bed5e032b5fbe1366ccf5f775f34\"",
+        "md5": "X6W+1eAytfvhNmzPX3dfNA==",
+        "lower": "Domain was_VERB very",
+        "upper": "Donald_NOUN _NOUN_ standing_NOUN"
+      },
+      "raw_sha256": "d691ec1849879f7ddafa80f5db774df3d0bdf967f93ba112c57fd7fcfdae4f7b",
+      "scanned_records": 3525618,
+      "extracted_at": "2026-10-13T18:50:01.996487+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01066-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01066-of-06881.gz",
+        "size": 460993190,
+        "etag": "\"c7c1369eae8f73358432ba8c74c0d76a\"",
+        "md5": "x8E2nq6PczWEMrqMdMDXag==",
+        "lower": "Elias_NOUN _VERB_ building",
+        "upper": "Ellar ,_. _ADJ_"
+      },
+      "raw_sha256": "d3a8f75da3fb23a8aa9d5607f05acc4c162e6d27f4552d67d5d773825cf83f39",
+      "scanned_records": 3523435,
+      "extracted_at": "2026-10-13T18:59:54.671748+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01067-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01067-of-06881.gz",
+        "size": 397416140,
+        "etag": "\"6409b6f41fc7a5dc786f8d1851af3e48\"",
+        "md5": "ZAm29B/Hpdx4b40YUa8+SA==",
+        "lower": "Ellar ,_. _ADJ_",
+        "upper": "Elsman _VERB_ _DET_"
+      },
+      "raw_sha256": "0f6ef7149e1a4137df69af04f15f66587bda0967101910008d82544401bfd7b9",
+      "scanned_records": 3230921,
+      "extracted_at": "2026-10-13T15:56:47.966757+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-01068-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01068-of-06881.gz",
+        "size": 420942625,
+        "etag": "\"ac6e5e8a44479b201aa5857f698e5fbc\"",
+        "md5": "rG5eikRHmyAapYV/aY5fvA==",
+        "lower": "Elsman _VERB_ _DET_",
+        "upper": "Emilie L._NOUN Bergman_NOUN"
+      },
+      "raw_sha256": "ef4e638592221bee4859b1adc08a2aa027d8e0e46e9ee78daa9a143dc7dabae4",
+      "scanned_records": 3533730,
+      "extracted_at": "2026-10-13T19:02:52.903524+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01076-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01076-of-06881.gz",
+        "size": 369952183,
+        "etag": "\"ec3e88654b4c403cdb56a52f871e9bf7\"",
+        "md5": "7D6IZUtMQDzbVqUvhx6b9w==",
+        "lower": "Enquiry_NOUN _NOUN_ if_ADP",
+        "upper": "Entwicklung_NOUN der Potentialtheorie"
+      },
+      "raw_sha256": "5b9dbd1157e13eecb745f62c66f2542517467fea882d6fe423d38e6e618c85ac",
+      "scanned_records": 3231569,
+      "extracted_at": "2026-10-13T18:36:50.146372+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01080-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01080-of-06881.gz",
+        "size": 382405815,
+        "etag": "\"8607c21e2b56ca6185d49856a3c4add3\"",
+        "md5": "hgfCHitWymGF1JhWo8St0w==",
+        "lower": "Ernest _._ tr_NOUN",
+        "upper": "Esophagogastric_NOUN Junction _._"
+      },
+      "raw_sha256": "b0b4ddb522230ccf617cfb29bfa0dc5bfab9cacd9945eb83504e0addc1a27096",
+      "scanned_records": 3191522,
+      "extracted_at": "2026-10-13T18:48:16.326567+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01081-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01081-of-06881.gz",
+        "size": 464252629,
+        "etag": "\"086410859b7725ff9d042998b9ffc4c8\"",
+        "md5": "CGQQhZt3Jf+dBCmYuf/EyA==",
+        "lower": "Esophagogastric_NOUN Junction _._",
+        "upper": "Estates of_ADP Peers"
+      },
+      "raw_sha256": "917648f5d95d284bd6160636f46169f30c1ce30063b86fbc2e6a4b6185297233",
+      "scanned_records": 3518520,
+      "extracted_at": "2026-10-13T19:05:19.123695+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01083-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01083-of-06881.gz",
+        "size": 417074561,
+        "etag": "\"5f26cebb66aef5462a3b12a38832636d\"",
+        "md5": "XybOu2au9UYqOxKjiDJjbQ==",
+        "lower": "Ethelwold_NOUN ,_. or_CONJ",
+        "upper": "Euler_NOUN _PRT_ work_VERB"
+      },
+      "raw_sha256": "2ecc3c8b23fb617ae6a618d985b6e4ae62ab83a6be48a1a0af90c5b2f1f647c7",
+      "scanned_records": 3477312,
+      "extracted_at": "2026-10-13T18:38:41.611069+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01084-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01084-of-06881.gz",
+        "size": 421315574,
+        "etag": "\"383d112987002f09dca068a99da47882\"",
+        "md5": "OD0RKYcALwncoGipnaR4gg==",
+        "lower": "Euler_NOUN _PRT_ work_VERB",
+        "upper": "European Parli _._"
+      },
+      "raw_sha256": "3637a1403fa982773594633ea97bd8dd46733c9b3df013234a128dc3a50d5357",
+      "scanned_records": 3203505,
+      "extracted_at": "2026-10-13T18:41:02.255249+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01096-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01096-of-06881.gz",
+        "size": 453505892,
+        "etag": "\"db7322519da3e38ce75bcc35d0c8c102\"",
+        "md5": "23MiUZ2j44znW8w10MjBAg==",
+        "lower": "F. Cbace_NOUN Calvert",
+        "upper": "F.Supp.2d 886 (_."
+      },
+      "raw_sha256": "48d1973bb2b3bd691b9e1e8011333bd773625563e88350bf22ff67100181d5a6",
+      "scanned_records": 3533190,
+      "extracted_at": "2026-10-13T18:43:08.905487+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01115-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01115-of-06881.gz",
+        "size": 434186408,
+        "etag": "\"e024751541aa2e253e2703893386599f\"",
+        "md5": "4CR1FUGqLiU+JwOJM4ZZnw==",
+        "lower": "Fellenberg_NOUN _VERB_ as",
+        "upper": "Fernand _._ no_DET"
+      },
+      "raw_sha256": "c77407f8c4bac8f0bc629e8bfd3267447f845d1e1d114a8754d2f6cd00743279",
+      "scanned_records": 3532136,
+      "extracted_at": "2026-10-13T18:50:17.339098+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01139-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01139-of-06881.gz",
+        "size": 411909287,
+        "etag": "\"7b4337e406793a8de9702b6612beccea\"",
+        "md5": "e0M35AZ5Oo3pcCtmEr7M6g==",
+        "lower": "Francesca_NOUN called_VERB _ADV_",
+        "upper": "Frank Begbie_NOUN _._"
+      },
+      "raw_sha256": "e928cc6b4560962b9e5dbf6318ef6478ffe7110562054783b62505f394dd9dd7",
+      "scanned_records": 3045175,
+      "extracted_at": "2026-10-13T18:41:49.778113+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01140-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01140-of-06881.gz",
+        "size": 466293475,
+        "etag": "\"cb4ec1732552129fba3aa64669d1b537\"",
+        "md5": "y07BcyVSEp+6OqZGadG1Nw==",
+        "lower": "Frank Begbie_NOUN _._",
+        "upper": "Fraternal Societies_NOUN Doing"
+      },
+      "raw_sha256": "7ca40b21f013c996baa77141fa18e8591737cdaad6a7f3e8eac4b3f6893cbfb7",
+      "scanned_records": 3580379,
+      "extracted_at": "2026-10-13T18:59:18.334139+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01145-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01145-of-06881.gz",
+        "size": 427754903,
+        "etag": "\"3127f95576345cd44ea35fa0b76e56b1\"",
+        "md5": "MSf5VXY0XNROo1+gt25WsQ==",
+        "lower": "Friend_NOUN and The_DET",
+        "upper": "From buildings_NOUN _VERB_"
+      },
+      "raw_sha256": "2352a0ab171454bdd7f9108dedabd410a8fe134ae1455fbb3f56928af9329596",
+      "scanned_records": 3160737,
+      "extracted_at": "2026-10-13T19:10:55.278539+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01147-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01147-of-06881.gz",
+        "size": 374671316,
+        "etag": "\"0f75f4b1378a9f3ce486e5cc205ea605\"",
+        "md5": "D3X0sTeKnzzkhuXMIF6mBQ==",
+        "lower": "Frontier_NOUN Hockey _NOUN_",
+        "upper": "Fulbright_NOUN Scholarships _NOUN_"
+      },
+      "raw_sha256": "022851a0af033bc3b466d3a65327d916c877cea93d4a5b6ba8d6adcab4a92821",
+      "scanned_records": 3163128,
+      "extracted_at": "2026-10-13T19:13:10.701147+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01150-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01150-of-06881.gz",
+        "size": 401940083,
+        "etag": "\"463fd76e175a29f93969ccd6709e2464\"",
+        "md5": "Rj/XbhdaKfk5aczWcJ4kZA==",
+        "lower": "Furthermore_ADV , appetite_NOUN",
+        "upper": "G. CHEYNEY_NOUN ._."
+      },
+      "raw_sha256": "84b20b4be94906f8c78319f69c3a70d0be0346066292656026b56884434fc210",
+      "scanned_records": 3399727,
+      "extracted_at": "2026-10-13T19:09:57.010167+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01164-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01164-of-06881.gz",
+        "size": 420567517,
+        "etag": "\"d77b4341b84e80ae433d7dc1de458d65\"",
+        "md5": "13tDQbhOgK5DPX3B3kWNZQ==",
+        "lower": "Gemayel government_NOUN and_CONJ",
+        "upper": "General Yuichi_NOUN Ichikawa_NOUN"
+      },
+      "raw_sha256": "6287a535f9a98a4e1e8c1bc1d4d1bc5a8ec5d68ca9beee0bfc8ebf541e6bb965",
+      "scanned_records": 3224869,
+      "extracted_at": "2026-10-13T19:10:44.123414+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01167-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01167-of-06881.gz",
+        "size": 440268267,
+        "etag": "\"b0d3e3bdca20b360971259ae0f6ba848\"",
+        "md5": "sNPjvcogs2CXElmuD2uoSA==",
+        "lower": "Gentile_NOUN ideas_NOUN ._.",
+        "upper": "George ) Stewart_NOUN"
+      },
+      "raw_sha256": "163122a47fee764e862b10ef727afa4eea50ffd3f1e7e7d564412fe4c8ea97d8",
+      "scanned_records": 3496225,
+      "extracted_at": "2026-10-13T19:01:16.583348+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01168-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01168-of-06881.gz",
+        "size": 504123119,
+        "etag": "\"77c57ae55806f969cf67ddc9acb5dfc1\"",
+        "md5": "d8V65VgG+WnPZ93JrLXfwQ==",
+        "lower": "George ) Stewart_NOUN",
+        "upper": "Georgetown Record (_."
+      },
+      "raw_sha256": "732bca89809246893c204b72b5e38ba276a44ee8d1cd8f7400b878ff18a9e6e1",
+      "scanned_records": 3299368,
+      "extracted_at": "2026-10-13T18:45:47.683643+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01169-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01169-of-06881.gz",
+        "size": 437156979,
+        "etag": "\"718d346f9aeda4b2a9634172e696edce\"",
+        "md5": "cY00b5rtpLKpY0Fy5pbtzg==",
+        "lower": "Georgetown Record (_.",
+        "upper": "German civilian_ADJ scientists_NOUN"
+      },
+      "raw_sha256": "66db327f8199f2415f22d43bdb4a75df4237d85ff92f52fdaacfa0c0ebb63396",
+      "scanned_records": 3493605,
+      "extracted_at": "2026-10-13T18:51:11.722021+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01171-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01171-of-06881.gz",
+        "size": 445505035,
+        "etag": "\"2ea6385337dd1bc0a9023892b118db24\"",
+        "md5": "LqY4UzfdG8CpAjiSsRjbJA==",
+        "lower": "Germans_NOUN rejoice_VERB _ADP_",
+        "upper": "Get _DET_ draft_NOUN"
+      },
+      "raw_sha256": "89785ff27bb545925f35722017bfe5a92ed9964a8fc70df519892b69deb68324",
+      "scanned_records": 3455735,
+      "extracted_at": "2026-10-13T19:27:44.241842+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01174-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01174-of-06881.gz",
+        "size": 439677792,
+        "etag": "\"27a0440cc8684e95a039449d947976ec\"",
+        "md5": "J6BEDMhoTpWgOUSdlHl27A==",
+        "lower": "Gilman 's stories_NOUN",
+        "upper": "Given solve the"
+      },
+      "raw_sha256": "e03e7df3c43ab2178122cc00dffc68ffea468b6a1802ab636d802688fba95d6c",
+      "scanned_records": 3619317,
+      "extracted_at": "2026-10-13T19:02:02.344461+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01179-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01179-of-06881.gz",
+        "size": 385367172,
+        "etag": "\"6ea0266b0da623c0cf10c5c788eaadd0\"",
+        "md5": "bqAmaw2mI8DPEMXHiOqt0A==",
+        "lower": "Goethe_NOUN 's_PRT independence_NOUN",
+        "upper": "Goliath _VERB_ given_VERB"
+      },
+      "raw_sha256": "01daa22309fef07a001cc91518d55f6e790e31f93daa9c23cd661095c4f2f0aa",
+      "scanned_records": 3088927,
+      "extracted_at": "2026-10-13T18:48:25.706125+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01181-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01181-of-06881.gz",
+        "size": 380744908,
+        "etag": "\"48abf8477cc507fcd3a9d17904d02927\"",
+        "md5": "SKv4R3zFB/zTqdF5BNApJw==",
+        "lower": "Goodwill_NOUN reflects the_DET",
+        "upper": "Gospel_NOUN _VERB_ witness_VERB"
+      },
+      "raw_sha256": "44c146d06f3bd11c1a527a7c22a966750a11a2d2686ebd4fec72b47aa5151196",
+      "scanned_records": 3131409,
+      "extracted_at": "2026-10-13T18:44:45.987328+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01194-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01194-of-06881.gz",
+        "size": 383684109,
+        "etag": "\"8290c6ccaf188e7194741fdca5b3bd0d\"",
+        "md5": "gpDGzK8YjnGUdB/cpbO9DQ==",
+        "lower": "Guard room_NOUN _NOUN_",
+        "upper": "Guide_VERB _PRT_ Related"
+      },
+      "raw_sha256": "60b41b3da00f9d74981469edd394d0e45351c463de6958573ef025cf660db1a5",
+      "scanned_records": 3197931,
+      "extracted_at": "2026-10-13T18:29:05.329713+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01195-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01195-of-06881.gz",
+        "size": 424912682,
+        "etag": "\"befa5bbe91477f767285dcdb2f58286e\"",
+        "md5": "vvpbvpFHf3ZyhdzbL1gobg==",
+        "lower": "Guide_VERB _PRT_ Related",
+        "upper": "Gunnar Ekelof _PRT_"
+      },
+      "raw_sha256": "32228fc0d3c763bf84a33bad0c2c2cf65ee7fc4caa2afe97f3fefe4b7521b339",
+      "scanned_records": 3568102,
+      "extracted_at": "2026-10-13T18:39:26.799626+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01196-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01196-of-06881.gz",
+        "size": 361667140,
+        "etag": "\"e774681950930dfe3e4069394bd0f434\"",
+        "md5": "53RoGVCTDf4+QGk5S9D0NA==",
+        "lower": "Gunnar Ekelof _PRT_",
+        "upper": "Gyartah_NOUN ? _END_"
+      },
+      "raw_sha256": "cbad44ed295e402f10e007e43233e720f187f603df51a9b19b7af9b0a74bcf61",
+      "scanned_records": 3169305,
+      "extracted_at": "2026-10-13T18:52:29.539240+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01211-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01211-of-06881.gz",
+        "size": 418879307,
+        "etag": "\"cf21faf7d3c50a509ab344110966e553\"",
+        "md5": "zyH699PFClCas0QRCWblUw==",
+        "lower": "Handasyd_NOUN Perkins_NOUN _CONJ_",
+        "upper": "Hans_NOUN between_ADP the"
+      },
+      "raw_sha256": "49140683e1f62d1e3ad16a41563bf2d601bdddb706e47c91995b1823175416d2",
+      "scanned_records": 3502424,
+      "extracted_at": "2026-10-13T19:15:58.684265+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01223-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01223-of-06881.gz",
+        "size": 436296758,
+        "etag": "\"0b52f8082f0f105cd2edfa4163ed9939\"",
+        "md5": "C1L4CC8PEFzS7fpBY+2ZOQ==",
+        "lower": "Heather Wolf_NOUN ,_.",
+        "upper": "Heerden , I.L."
+      },
+      "raw_sha256": "1981ceb724523af8e6ce5a81ad1a5450327b9c0b6a2724f3001d53155e82deba",
+      "scanned_records": 3259932,
+      "extracted_at": "2026-10-13T18:51:52.307899+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01224-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01224-of-06881.gz",
+        "size": 425953887,
+        "etag": "\"e0dba2cf3003cea41b2539cc679d5801\"",
+        "md5": "4NuizzADzqQbJTnMZ51YAQ==",
+        "lower": "Heerden , I.L.",
+        "upper": "Helene _NOUN_ Dillard_NOUN"
+      },
+      "raw_sha256": "e30cd44364296b8dcd55e3f492e3ef36b74cfcd4f04ba3f4b25b46154ef65ace",
+      "scanned_records": 3539306,
+      "extracted_at": "2026-10-13T19:17:36.463968+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01226-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01226-of-06881.gz",
+        "size": 485843337,
+        "etag": "\"b4472da1eb5ee007923f4d1b9d66e0c4\"",
+        "md5": "tEctoete4AeSP00bnWbgxA==",
+        "lower": "Hemiramphidae _._ of",
+        "upper": "Henry Gosson_NOUN _X_"
+      },
+      "raw_sha256": "5a246a0e626e980f8cb871b11b92f5d056ee6a3c97c48f6ee27d3b9cee8c8b07",
+      "scanned_records": 3611691,
+      "extracted_at": "2026-10-13T19:06:59.314064+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01227-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01227-of-06881.gz",
+        "size": 480652354,
+        "etag": "\"279f188cf81eac6f0c0ed3bedcb763d4\"",
+        "md5": "J58YjPgerG8MDtO+3Ldj1A==",
+        "lower": "Henry Gosson_NOUN _X_",
+        "upper": "Her fingers_NOUN crushed"
+      },
+      "raw_sha256": "4bbbfd800f96cd9b0187249816096441276d87d551a0a9d500b193f4411be116",
+      "scanned_records": 3235396,
+      "extracted_at": "2026-10-13T19:09:02.752506+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01234-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01234-of-06881.gz",
+        "size": 453364700,
+        "etag": "\"3a821c7d0c1b46895295e523688872f7\"",
+        "md5": "OoIcfQwbRolSleUjaIhy9w==",
+        "lower": "Hills_NOUN _NOUN_ JAMES",
+        "upper": "Hintze , with"
+      },
+      "raw_sha256": "6aeb0511d0122cc9a8969b2bd492cd7a298c0e54b3b42db474d26b55c6f4ad32",
+      "scanned_records": 3356987,
+      "extracted_at": "2026-10-13T18:57:28.767598+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01254-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01254-of-06881.gz",
+        "size": 445293392,
+        "etag": "\"c3f1d639134347e97f1e242b8cffb15d\"",
+        "md5": "w/HWORNDR+l/HiQrjP+xXQ==",
+        "lower": "Hyperspace Locus (",
+        "upper": "I LESS :_."
+      },
+      "raw_sha256": "235b3c37e39cc45be1e8410c481398bb22c04501788ecc7817399fd5693fc758",
+      "scanned_records": 3264610,
+      "extracted_at": "2026-10-13T19:15:05.160619+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01277-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01277-of-06881.gz",
+        "size": 529085977,
+        "etag": "\"bbe205a99e627e40b4e2abae01d2fcfc\"",
+        "md5": "u+IFqZ5ifkC04quuAdL8/A==",
+        "lower": "If_ADP _DET_ recordation_NOUN",
+        "upper": "Ignition_NOUN batteries _ADP_"
+      },
+      "raw_sha256": "d0a5f4b685aa493fbcb0a28e8a952cfc59d9c4e9450dba7c72e711255f63a137",
+      "scanned_records": 3389270,
+      "extracted_at": "2026-10-13T19:15:38.937360+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01312-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01312-of-06881.gz",
+        "size": 477812240,
+        "etag": "\"fa38582dc58d75340f25205029e266de\"",
+        "md5": "+jhYLcWNdTQPJSBQKeJm3g==",
+        "lower": "Israel_NOUN does_VERB _PRT_",
+        "upper": "It cuts up_ADV"
+      },
+      "raw_sha256": "3014070accd4f1c531a29619865b9bec5b46906d7d76b5211f6208965b4e88a0",
+      "scanned_records": 3428894,
+      "extracted_at": "2026-10-13T19:31:20.400374+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01325-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01325-of-06881.gz",
+        "size": 405160847,
+        "etag": "\"a2a2c0cbc2cf28e3b98dd52a3e1cb936\"",
+        "md5": "oqLAy8LPKOO5jdUqPhy5Ng==",
+        "lower": "Jacob_NOUN of_ADP Hoogstraten",
+        "upper": "Jamal Mohammed ._."
+      },
+      "raw_sha256": "4837006750fcb2abc5848038c053752647b0b6daca56614404103b4fd2b4a56c",
+      "scanned_records": 3524162,
+      "extracted_at": "2026-10-13T19:17:03.168325+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01326-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01326-of-06881.gz",
+        "size": 481234037,
+        "etag": "\"b16b4a4a58049fdfbfd988caa53a1bb0\"",
+        "md5": "sWtKSlgEn9+/2YjKpTobsA==",
+        "lower": "Jamal Mohammed ._.",
+        "upper": "James_NOUN _._ This"
+      },
+      "raw_sha256": "1111f5d82874a51130a74bd104ecf08c64b7ccf66b66e149eb52c7b11a667497",
+      "scanned_records": 3145098,
+      "extracted_at": "2026-10-13T19:18:08.985642+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01327-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01327-of-06881.gz",
+        "size": 446628289,
+        "etag": "\"a575ad61388a08b0dcbf630668bc9235\"",
+        "md5": "pXWtYTiKCLDcv2MGaLySNQ==",
+        "lower": "James_NOUN _._ This",
+        "upper": "Janitor _ADP_ their_PRON"
+      },
+      "raw_sha256": "143fbf246849efbf2423dc3f05aad35c28509ce947227637e683db2e02371bc5",
+      "scanned_records": 3501132,
+      "extracted_at": "2026-10-13T19:00:46.633139+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01330-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01330-of-06881.gz",
+        "size": 371234501,
+        "etag": "\"4ea1c999997153f3e3b0373a61e3130f\"",
+        "md5": "TqHJmZlxU/PjsDc6YeMTDw==",
+        "lower": "Jasons_NOUN _VERB_ _PRON_",
+        "upper": "Jeeves _PRT_ a_DET"
+      },
+      "raw_sha256": "6e077398d5eb01cd5236e0d650ef304d97e3bc77f58131e754bae70efea84e59",
+      "scanned_records": 3262882,
+      "extracted_at": "2026-10-13T19:02:30.308197+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01331-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01331-of-06881.gz",
+        "size": 416346872,
+        "etag": "\"a7b154d0908afcb58336c16371dd5377\"",
+        "md5": "p7FU0JCK/LWDNsFjcd1Tdw==",
+        "lower": "Jeeves _PRT_ a_DET",
+        "upper": "Jensen_NOUN _._ Johnsrud_NOUN"
+      },
+      "raw_sha256": "1ee9c9eec301fff634728a8607906de5c7f9c565b1d53c621265c49eec7307ba",
+      "scanned_records": 3445903,
+      "extracted_at": "2026-10-13T19:14:02.751575+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01333-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01333-of-06881.gz",
+        "size": 469562441,
+        "etag": "\"1a53270947352b4baf090692d346225b\"",
+        "md5": "GlMnCUc1K0uvCQaS00YiWw==",
+        "lower": "Jesse Helms is_VERB",
+        "upper": "Jewish and_CONJ deeply"
+      },
+      "raw_sha256": "4833e1e9f651b80dbb340e3891491d069cb31d6c856161a8751e91e7f18d4ca9",
+      "scanned_records": 3390248,
+      "extracted_at": "2026-10-13T18:57:49.499863+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01335-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01335-of-06881.gz",
+        "size": 389062165,
+        "etag": "\"25a4635c7f2bd42a72305821ed11d264\"",
+        "md5": "JaRjXH8r1CpyMFgh7RHSZA==",
+        "lower": "Jim one _ADP_",
+        "upper": "Jobs and_CONJ Environment"
+      },
+      "raw_sha256": "38837f12a68df8b7c4d7b3b280000e905b6ede19e45c11c737771cb6a00bfef1",
+      "scanned_records": 3332416,
+      "extracted_at": "2026-10-13T19:24:03.099242+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01336-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01336-of-06881.gz",
+        "size": 434221276,
+        "etag": "\"82ce1a1dab7d70ab06d13289c4a07483\"",
+        "md5": "gs4aHat9cKsG0TKJxKB0gw==",
+        "lower": "Jobs and_CONJ Environment",
+        "upper": "John Folster_NOUN _._"
+      },
+      "raw_sha256": "86c2931204baa6f85eab8795adf085fcbf59997b3e63fb513ca3554395195e81",
+      "scanned_records": 3346052,
+      "extracted_at": "2026-10-13T19:14:41.296149+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01337-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01337-of-06881.gz",
+        "size": 545062348,
+        "etag": "\"c97b49421662d372b413f9befef9d72d\"",
+        "md5": "yXtJQhZi03K0E/m+/vnXLQ==",
+        "lower": "John Folster_NOUN _._",
+        "upper": "John_NOUN E_NOUN Jr._NOUN"
+      },
+      "raw_sha256": "cff91747506645a4d65f4cb5672473032c2c4957cd140df940a7201030e5580f",
+      "scanned_records": 3439179,
+      "extracted_at": "2026-10-13T19:21:18.922492+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01340-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01340-of-06881.gz",
+        "size": 459298598,
+        "etag": "\"c06cff04a1975eb5d1c31a6324e2633e\"",
+        "md5": "wGz/BKGXXrXRwxpjJOJjPg==",
+        "lower": "Jonathan W. Harris_NOUN",
+        "upper": "Joseph Alpert _._"
+      },
+      "raw_sha256": "5266914b073270fa2bfea6ad7727a649a2a0cd7f9b90c25dfdf0e12e7b807f99",
+      "scanned_records": 3521541,
+      "extracted_at": "2026-10-13T18:52:12.579271+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01341-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01341-of-06881.gz",
+        "size": 440829476,
+        "etag": "\"9c73ca3239874e952df51cf1b0dad2be\"",
+        "md5": "nHPKMjmHTpUt9RzxsNrSvg==",
+        "lower": "Joseph Alpert _._",
+        "upper": "Joule loss of_ADP"
+      },
+      "raw_sha256": "0cb93fc7c95cb09892d8c6e0f05eae20074be4f411967496240c861afb4ba3bb",
+      "scanned_records": 3251870,
+      "extracted_at": "2026-10-13T19:15:21.722920+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01344-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01344-of-06881.gz",
+        "size": 446606579,
+        "etag": "\"33c11ab05bed4b7d3bb4e363b9926757\"",
+        "md5": "M8EasFvtS307tONjuZJnVw==",
+        "lower": "Judgement \" and",
+        "upper": "Julietta ,_. _ADJ_"
+      },
+      "raw_sha256": "e39b932b818e035267a4892a71f9033ace812233774b1be884caadbd217afb79",
+      "scanned_records": 3512900,
+      "extracted_at": "2026-10-13T19:21:40.640527+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01354-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01354-of-06881.gz",
+        "size": 364288229,
+        "etag": "\"8ca1975908c6725377212ebaaf3dd5c1\"",
+        "md5": "jKGXWQjGclN3IS66rz3VwQ==",
+        "lower": "Karibu_NOUN _NOUN_ !_.",
+        "upper": "Kathleen_NOUN Road_NOUN Lakeland"
+      },
+      "raw_sha256": "1da210f70edc268713147cc23510ea5659ad92a9cc8c23d14b13be4e39088a94",
+      "scanned_records": 3374371,
+      "extracted_at": "2026-10-13T18:54:59.812980+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01355-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01355-of-06881.gz",
+        "size": 351369940,
+        "etag": "\"e389a1a8e63e16caa7142702096b646e\"",
+        "md5": "44mhqOY+FsqnFCcCCWtkbg==",
+        "lower": "Kathleen_NOUN Road_NOUN Lakeland",
+        "upper": "Keck , 2000_NUM"
+      },
+      "raw_sha256": "21e8f48969ec421c93bf614bc06150695b466b148faead0949d27cdfb509d426",
+      "scanned_records": 3320766,
+      "extracted_at": "2026-10-13T18:59:01.994261+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01356-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01356-of-06881.gz",
+        "size": 411518223,
+        "etag": "\"0ae4e8ab8a60e29ae768bd5c0f40eda5\"",
+        "md5": "CuToq4pg4prnaL1cD0DtpQ==",
+        "lower": "Keck , 2000_NUM",
+        "upper": "Kelsall_NOUN , Keith"
+      },
+      "raw_sha256": "99745ca5cac41089849d5afcfc272396305be945b4ff07788c1af560227d59ee",
+      "scanned_records": 3422182,
+      "extracted_at": "2026-10-13T18:43:24.315709+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01388-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01388-of-06881.gz",
+        "size": 421557317,
+        "etag": "\"2e6e75a9d5b2519a93d5fb88e6bd3022\"",
+        "md5": "Lm51qdWyUZqT1fuI5r0wIg==",
+        "lower": "Latin_NOUN , begged_VERB",
+        "upper": "Lautenberger_NOUN _._ 16_NUM"
+      },
+      "raw_sha256": "5eaf6bdf073a1b61e0826a27cf2851ed7b74aa2415bac46ec91791373d87e175",
+      "scanned_records": 3521075,
+      "extracted_at": "2026-10-13T19:28:19.955524+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01392-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01392-of-06881.gz",
+        "size": 439662635,
+        "etag": "\"3f878a5cc5fa3c65798f22720889d068\"",
+        "md5": "P4eKXMX6PGV5jyJyCInQaA==",
+        "lower": "League_NOUN predicts_VERB that_ADP",
+        "upper": "Leblang_NOUN _NOUN_ _NOUN_"
+      },
+      "raw_sha256": "34cb796cb463da8fa36a5fd07c02dbdc810e618d8981775c4e3bf4aedee16001",
+      "scanned_records": 3562969,
+      "extracted_at": "2026-10-13T18:42:37.837463+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01416-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01416-of-06881.gz",
+        "size": 405089245,
+        "etag": "\"31799285f986f7889710bcbc831af2e6\"",
+        "md5": "MXmShfmG94iXELy8gxry5g==",
+        "lower": "Lorikeets , _DET_",
+        "upper": "Louis Brandeis once_ADV"
+      },
+      "raw_sha256": "cdde39246ab367d4e79af1cfce597fc71a66fca2526476cf69480dc4d9a7a5fa",
+      "scanned_records": 3173490,
+      "extracted_at": "2026-10-13T19:18:07.640434+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01417-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01417-of-06881.gz",
+        "size": 477499209,
+        "etag": "\"b3dc28a4439b195ccbc8c8b1fe97083b\"",
+        "md5": "s9wopEObGVzLyMix/pcIOw==",
+        "lower": "Louis Brandeis once_ADV",
+        "upper": "Love_NOUN ---_. _DET_"
+      },
+      "raw_sha256": "366939a48a4a07d222d29d880473c4bac2c47922822541e5a191d8c7860df4b5",
+      "scanned_records": 3506905,
+      "extracted_at": "2026-10-13T19:18:45.138784+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01420-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01420-of-06881.gz",
+        "size": 388019621,
+        "etag": "\"cd2a5be15e80fb2e0a6ed9d33548b49f\"",
+        "md5": "zSpb4V6A+y4KbtnTNUi0nw==",
+        "lower": "Lucas_NOUN ,_. yet",
+        "upper": "Luisa _NOUN_ New"
+      },
+      "raw_sha256": "af153c332f1e224a9dbec3b6d26c2623ee651540b426f9fd992d8155f466fc15",
+      "scanned_records": 3215718,
+      "extracted_at": "2026-10-13T19:29:55.557730+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01423-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01423-of-06881.gz",
+        "size": 429288539,
+        "etag": "\"eb7b7f28cb2862f2ec7573064d64fa10\"",
+        "md5": "63t/KMsoYvLsdXMGTWT6EA==",
+        "lower": "Lynne ,_. Elizabeth",
+        "upper": "M. , Lindblad"
+      },
+      "raw_sha256": "72caa759c37eec845e1f0f6a4c9b66bed3dcac7fd6110d62e98cd5a49723d6df",
+      "scanned_records": 3462896,
+      "extracted_at": "2026-10-13T19:01:08.270930+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01424-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01424-of-06881.gz",
+        "size": 439000149,
+        "etag": "\"1580348b9ab96cc76a683cd284a90260\"",
+        "md5": "FYA0i5q5bMdqaDzShKkCYA==",
+        "lower": "M. , Lindblad",
+        "upper": "M. Tutu of_ADP"
+      },
+      "raw_sha256": "bdaa25a97e35043ce1900e7eb885e04f2b9f4b7f5230fcb8d456a3b3fb7c0aa7",
+      "scanned_records": 3418047,
+      "extracted_at": "2026-10-13T19:35:40.649129+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01440-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01440-of-06881.gz",
+        "size": 449559415,
+        "etag": "\"fef5bc1614299853b14ed1b35c1a6d39\"",
+        "md5": "/vW8FhQpmFOxTtGzXBptOQ==",
+        "lower": "Madras the_DET Tamil_NOUN",
+        "upper": "Magnetic_ADJ tapes in_ADP"
+      },
+      "raw_sha256": "aeb065127bdfb4e9ce31c4b4379018e9fcb93c9fec7927ae83f4677387cfd025",
+      "scanned_records": 3548139,
+      "extracted_at": "2026-10-13T19:35:49.437129+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01442-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01442-of-06881.gz",
+        "size": 456338218,
+        "etag": "\"3b3b71b819f44345f1266b61e719deac\"",
+        "md5": "OztxuBn0Q0XxJmth5xnerA==",
+        "lower": "Mail_NOUN _DET_ applications",
+        "upper": "Majesty_ADJ hath forgiven"
+      },
+      "raw_sha256": "c2336febfd09b022ff2d54219837793c5389045ab74125e89411c7bef2e4ee93",
+      "scanned_records": 3502329,
+      "extracted_at": "2026-10-13T18:57:30.912428+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01456-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01456-of-06881.gz",
+        "size": 433164494,
+        "etag": "\"e67bdc239d88d3e1943a3a0ee39b8d1f\"",
+        "md5": "5nvcI52I0+GUOjoO45uNHw==",
+        "lower": "Marsha_NOUN smiled_VERB _._",
+        "upper": "Martin_NOUN announced it"
+      },
+      "raw_sha256": "2d4f67555ae50dce1bb17d2f938cb398193a43766ff10d576458078b5e7266c1",
+      "scanned_records": 3291220,
+      "extracted_at": "2026-10-13T19:21:45.674464+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01462-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01462-of-06881.gz",
+        "size": 389952300,
+        "etag": "\"0093455943e8765af52f977d1431da57\"",
+        "md5": "AJNFWUPodlr1L5d9FDHaVw==",
+        "lower": "Matthew Humberston_NOUN of",
+        "upper": "Max --_. 3_ADJ"
+      },
+      "raw_sha256": "eb71ec156049cafe96ef9a2e5a368fbc28854318afe4ac7051e90a3168f7e042",
+      "scanned_records": 3249368,
+      "extracted_at": "2026-10-13T18:51:40.805286+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01480-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01480-of-06881.gz",
+        "size": 403745538,
+        "etag": "\"954efa0cde2272c070d1cf715a45e6be\"",
+        "md5": "lU76DN4icsBw0c9xWkXmvg==",
+        "lower": "Mich._NOUN Renewed December_NOUN",
+        "upper": "Michigan_NOUN Missouri_NOUN ...."
+      },
+      "raw_sha256": "393635eb1d42f8353d3b207955e856f685622c4c977db16b6447c6e6ea832c13",
+      "scanned_records": 3419114,
+      "extracted_at": "2026-10-13T19:20:34.651538+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01482-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01482-of-06881.gz",
+        "size": 426858413,
+        "etag": "\"1db8565fca9749f50aa0ac2cb0914b54\"",
+        "md5": "HbhWX8qXSfUKoKwssJFLVA==",
+        "lower": "Middle_NOUN _ADP_ dark",
+        "upper": "Miksicek_NOUN . _END_"
+      },
+      "raw_sha256": "5dcbb48437cfdc6b8697215952ea316e44043358717eae54fa9c65c16b40131e",
+      "scanned_records": 3617893,
+      "extracted_at": "2026-10-13T19:26:06.394296+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01488-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01488-of-06881.gz",
+        "size": 409539848,
+        "etag": "\"1eea335196aa77e1890791a915331d84\"",
+        "md5": "HuozUZaqd+GJB5GpFTMdhA==",
+        "lower": "Miocene_NOUN _NOUN_ Rosa",
+        "upper": "Miss LaPrade consistently_ADV"
+      },
+      "raw_sha256": "034ca3c351587ca2dd44cce4317b12ba9093b649db07727857105097fffc777a",
+      "scanned_records": 3289100,
+      "extracted_at": "2026-10-13T18:53:22.043230+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01493-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01493-of-06881.gz",
+        "size": 397535775,
+        "etag": "\"8381edec4236234dea8c8642bb7707b1\"",
+        "md5": "g4Ht7EI2I03qjIZCu3cHsQ==",
+        "lower": "Moderne _ADP_ Postmoderne",
+        "upper": "Molecular Diagnostic_NOUN Testing_NOUN"
+      },
+      "raw_sha256": "0b157e598192134e657d48fd1adb0cd14c096abba6e2529dfc60989fe809b9ec",
+      "scanned_records": 3520321,
+      "extracted_at": "2026-10-13T19:28:00.624601+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01516-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01516-of-06881.gz",
+        "size": 463610448,
+        "etag": "\"b8b4f2c1e526dcc4a589560df1a632ec\"",
+        "md5": "uLTyweUm3MSliVYN8aYy7A==",
+        "lower": "My_PRON Mrs_NOUN _VERB_",
+        "upper": "Myung_NOUN -_. won_NOUN"
+      },
+      "raw_sha256": "7f24bce0269a296c3a20ad0b656b01344c18897074c67ddcbc601eaa73a13102",
+      "scanned_records": 3531154,
+      "extracted_at": "2026-10-13T19:28:29.870208+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01535-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01535-of-06881.gz",
+        "size": 456962332,
+        "etag": "\"f3f0beac0fb00258a4b92211fed946b3\"",
+        "md5": "8/C+rA+wAlikuSIR/tlGsw==",
+        "lower": "Negro_NOUN Scientist of_ADP",
+        "upper": "Neoarsphenamine _._ _ADV_"
+      },
+      "raw_sha256": "afbfc063ed31c5b10b951b627c8dc8501e7fc03e2571e2cc6fecbec16a5f334c",
+      "scanned_records": 3685772,
+      "extracted_at": "2026-10-13T18:44:42.829042+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01614-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01614-of-06881.gz",
+        "size": 364628333,
+        "etag": "\"a60234e987500bf155aa6407ed5e9a16\"",
+        "md5": "pgI06YdQC/FVqmQH7V6aFg==",
+        "lower": "Panama_NOUN _._ Agencias",
+        "upper": "Paper , there_DET"
+      },
+      "raw_sha256": "02bab033b53c7f5138e3882cab7a74384ac11ed6c8c9ab1feafea34c9b8facc6",
+      "scanned_records": 3187800,
+      "extracted_at": "2026-10-13T19:21:59.847221+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01623-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01623-of-06881.gz",
+        "size": 446181335,
+        "etag": "\"7ecb9054cae552c430772eced3f502bc\"",
+        "md5": "fsuQVMrlUsQwdy7O0/UCvA==",
+        "lower": "Patterns and_CONJ Course_NOUN",
+        "upper": "Pauli ,_. Learning_NOUN"
+      },
+      "raw_sha256": "2c78b94d6545916fd82fe3175c8b531af08625ac701167ce714a7b69c8efee57",
+      "scanned_records": 3359534,
+      "extracted_at": "2026-10-13T19:28:12.057112+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01626-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01626-of-06881.gz",
+        "size": 412224069,
+        "etag": "\"e863b5cf3da3997ae573e9d3e449ce17\"",
+        "md5": "6GO1zz2jmXrlc+nT5EnOFw==",
+        "lower": "Peculiar circumstances _._",
+        "upper": "Pelvic_ADJ examination showed"
+      },
+      "raw_sha256": "beb54f871cfb60fdd7177ad58471baf7d138d8412a58931813c7a9927434f27a",
+      "scanned_records": 3411712,
+      "extracted_at": "2026-10-13T19:32:42.598669+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01629-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01629-of-06881.gz",
+        "size": 405255012,
+        "etag": "\"358d834e79259e95edb43e6d00d5280f\"",
+        "md5": "NY2DTnklnpXttD5tANUoDw==",
+        "lower": "People_NOUN v._CONJ Swallow_NOUN",
+        "upper": "Perennis_NOUN and_CONJ _PRON_"
+      },
+      "raw_sha256": "ddb630eff8e7d0dd838c866242de0a8d8f20d184d6ea763672cae0ef8360dffe",
+      "scanned_records": 3244181,
+      "extracted_at": "2026-10-13T19:19:44.018110+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01633-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01633-of-06881.gz",
+        "size": 403825170,
+        "etag": "\"0567192a53bf07184f8e5d54ecde52f3\"",
+        "md5": "BWcZKlO/BxhPjl1U7N5S8w==",
+        "lower": "Peru_NOUN _._ steeped_VERB",
+        "upper": "Peter_NOUN peered_VERB over_ADP"
+      },
+      "raw_sha256": "f422d85952207bb0a307cee637420b4504f011653b4952ca0f17f18916481b2c",
+      "scanned_records": 3179686,
+      "extracted_at": "2026-10-13T19:37:20.461967+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01634-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01634-of-06881.gz",
+        "size": 444672271,
+        "etag": "\"5da77f49f57389e72db45b63cae5b025\"",
+        "md5": "Xad/SfVziecttFtjyuWwJQ==",
+        "lower": "Peter_NOUN peered_VERB over_ADP",
+        "upper": "Peugeot_NOUN is ,_."
+      },
+      "raw_sha256": "016159b4e865e29c1d2ddd54ee1c2005f7505e7a930503017ac4834f2cbda989",
+      "scanned_records": 3505647,
+      "extracted_at": "2026-10-13T19:28:21.381110+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01635-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01635-of-06881.gz",
+        "size": 374949802,
+        "etag": "\"7a2856bc87b8627328fc15b12ea23fd0\"",
+        "md5": "eihWvIe4YnMo/BWxLqI/0A==",
+        "lower": "Peugeot_NOUN is ,_.",
+        "upper": "Phasen von _NOUN_"
+      },
+      "raw_sha256": "310418140900914081188afd84e2c18745485cf0a51db59753a69f4a320b584a",
+      "scanned_records": 3168516,
+      "extracted_at": "2026-10-13T19:25:09.266742+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01636-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01636-of-06881.gz",
+        "size": 476760662,
+        "etag": "\"e6c77cdaf2ff30dd9a0e011ee49220f9\"",
+        "md5": "5sd82vL/MN2aDgEe5JIg+Q==",
+        "lower": "Phasen von _NOUN_",
+        "upper": "Philippi _CONJ_ its"
+      },
+      "raw_sha256": "9911a208ebcea18955863c6818a9abe6363df602c68c179d5ec86a8a62cdba61",
+      "scanned_records": 3536570,
+      "extracted_at": "2026-10-13T18:59:25.170753+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01640-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01640-of-06881.gz",
+        "size": 444476772,
+        "etag": "\"c1591c9bb0b784c72c0f0d2764d7a71d\"",
+        "md5": "wVkcm7C3hMcsDw0nZNenHQ==",
+        "lower": "Pickens_NOUN _._ piano_NOUN",
+        "upper": "Pigs ..._. Sheep"
+      },
+      "raw_sha256": "1d4611b9b043d90ee7746030d0ce673932a6d0d923165f8735d1ebb9233d2750",
+      "scanned_records": 3501401,
+      "extracted_at": "2026-10-13T19:25:49.897693+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01664-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01664-of-06881.gz",
+        "size": 477313280,
+        "etag": "\"09ae2722ff8719234e14b18c97ce19ff\"",
+        "md5": "Ca4nIv+HGSNOFLGMl84Z/w==",
+        "lower": "Primer _CONJ_ all_DET",
+        "upper": "Print_NOUN to Film"
+      },
+      "raw_sha256": "1d6b478c5969ef32c413f9f63cfc8b028f87d6d4f139a17380bf842f869eaec5",
+      "scanned_records": 3397843,
+      "extracted_at": "2026-10-13T19:37:39.150072+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01673-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01673-of-06881.gz",
+        "size": 387919159,
+        "etag": "\"7cf9a93cbd543099b8fdcaf9c77f0900\"",
+        "md5": "fPmpPL1UMJm4/cr5x38JAA==",
+        "lower": "Propped_VERB by a",
+        "upper": "Protestant nuclear_ADJ family"
+      },
+      "raw_sha256": "4d6e9f3027f899498876365f492005cf2a7aae67783e6dc419e7b3382de8dfac",
+      "scanned_records": 3176440,
+      "extracted_at": "2026-10-13T19:37:16.825569+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01680-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01680-of-06881.gz",
+        "size": 451850930,
+        "etag": "\"08ba3327d07e79284e3c514ec8831a8e\"",
+        "md5": "CLozJ9B+eShOPFFOyIMajg==",
+        "lower": "Pustovitov_NOUN _._ V.D.",
+        "upper": "Q._NOUN Elizabeth_NOUN I"
+      },
+      "raw_sha256": "a8a74c87d9c8b2b7a9ca1dea9c25bc67fa8f21a25f605831b5528d4b91325996",
+      "scanned_records": 3502269,
+      "extracted_at": "2026-10-13T19:33:33.803566+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01697-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01697-of-06881.gz",
+        "size": 387753593,
+        "etag": "\"7e836bfea106f855d6e6b5dcd79a5866\"",
+        "md5": "foNr/qEG+FXW5rXc15pYZg==",
+        "lower": "Racial_ADJ Preference and",
+        "upper": "Rag_NOUN Classics _._"
+      },
+      "raw_sha256": "d7b1f863210990813c6b718fa9aeb4e01ac323a8f77bd86b59276f2c31179839",
+      "scanned_records": 3546728,
+      "extracted_at": "2026-10-13T19:28:52.078424+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01715-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01715-of-06881.gz",
+        "size": 374554567,
+        "etag": "\"2206654aa2d0253b1130de9e794a42d1\"",
+        "md5": "IgZlSqLQJTsRMN6eeUpC0Q==",
+        "lower": "Removal _CONJ_ possession",
+        "upper": "René_NOUN _NOUN_ pointed"
+      },
+      "raw_sha256": "c1d031ae4c193e81568b5b614f74ed5723dda6ea527790e5aca7e12ac631c616",
+      "scanned_records": 3139964,
+      "extracted_at": "2026-10-13T19:20:32.119065+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01732-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01732-of-06881.gz",
+        "size": 446691801,
+        "etag": "\"521cd348ca0e32eb8b70b04f3a7d0bb5\"",
+        "md5": "UhzTSMoOMuuLcLBPOn0LtQ==",
+        "lower": "Road_NOUN Civil _CONJ_",
+        "upper": "Robert_NOUN Allen ."
+      },
+      "raw_sha256": "a99f00ffd8f0a815787961f1eb0dbaa1da5c88cecf930b6b3bda8cb305100806",
+      "scanned_records": 3349521,
+      "extracted_at": "2026-10-13T19:00:31.389819+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01742-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01742-of-06881.gz",
+        "size": 366863142,
+        "etag": "\"a6b730b9fc5dd1feb6e2cc4da05be717\"",
+        "md5": "prcwufxd0f624sxNoFvnFw==",
+        "lower": "Royston_NOUN ;_. \"_.",
+        "upper": "Rugge_NOUN , bishop_NOUN"
+      },
+      "raw_sha256": "226d941f1e69f364dd392e1c96b261b5205190380e682af6cfa6ec394a2bdfdd",
+      "scanned_records": 3146150,
+      "extracted_at": "2026-10-13T19:34:00.646148+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01769-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01769-of-06881.gz",
+        "size": 415435767,
+        "etag": "\"c059cafd5c8277af23d78b77d6e1da76\"",
+        "md5": "wFnK/VyCd68j14t31uHadg==",
+        "lower": "Salvation_NOUN _ADP_ Italy",
+        "upper": "Sampson_NOUN 's chapter"
+      },
+      "raw_sha256": "4745262125f49e6579407aa3f1cd2029d33050f5a5b9a7a802dfb4f664279e68",
+      "scanned_records": 3490441,
+      "extracted_at": "2026-10-13T19:29:47.301608+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01770-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01770-of-06881.gz",
+        "size": 460033911,
+        "etag": "\"2207a21c4aa78622166871e0d1353ac2\"",
+        "md5": "IgeiHEqnhiIWaHHg0TU6wg==",
+        "lower": "Sampson_NOUN 's chapter",
+        "upper": "Sandakan_NOUN ,_. via_ADP"
+      },
+      "raw_sha256": "3707b7e15a014a2483fec2ddc1a5a375cae821c204916e169927a09d2070f330",
+      "scanned_records": 3231783,
+      "extracted_at": "2026-10-13T19:30:31.615316+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01842-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01842-of-06881.gz",
+        "size": 429131133,
+        "etag": "\"175369f7c25d54f7d88f0e8e0fba6d98\"",
+        "md5": "F1Np98JdVPfYjw6OD7ptmA==",
+        "lower": "Standing_NOUN Committees made_VERB",
+        "upper": "Start_NOUN Centers_NOUN across_ADP"
+      },
+      "raw_sha256": "990400ec3190f988b6c57d4ec22b132ea4b36aeb6c613f7f1fd4ae8d2c28513a",
+      "scanned_records": 3474388,
+      "extracted_at": "2026-10-13T19:37:45.309260+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01936-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01936-of-06881.gz",
+        "size": 413364110,
+        "etag": "\"a2fc3783f27a1fefcbd44af4e1909c66\"",
+        "md5": "ovw3g/J6H+/L1Er04ZCcZg==",
+        "lower": "Theo _NOUN_ entered_VERB",
+        "upper": "There _VERB_ 286_NUM"
+      },
+      "raw_sha256": "594719513d0cb95f169d78034ca198f7eef7d95d13d68a2a7ba02d911706423d",
+      "scanned_records": 3273846,
+      "extracted_at": "2026-10-13T19:37:50.789885+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01947-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01947-of-06881.gz",
+        "size": 543508140,
+        "etag": "\"25cb07daf8b13f89a586b85d30a9ab05\"",
+        "md5": "JcsH2vixP4mlhrhdMKmrBQ==",
+        "lower": "This_DET symphony and",
+        "upper": "Thomas_NOUN Emery_NOUN Armed"
+      },
+      "raw_sha256": "190586e80dac26eb33149debb2ee3c19e78be420796496ec2faf82df8d2d0e9d",
+      "scanned_records": 3566456,
+      "extracted_at": "2026-10-13T19:23:46.071260+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01955-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01955-of-06881.gz",
+        "size": 400291141,
+        "etag": "\"7bcd345ca6ea5d7c7fa0bb153d82b1a8\"",
+        "md5": "e800XKbqXXx/oLsVPYKxqA==",
+        "lower": "Times_NOUN astrology_NOUN _NOUN_",
+        "upper": "Tissues_NOUN and cell_NOUN"
+      },
+      "raw_sha256": "8653acf596c4eb19288691e59cd2eb1e85cab303e8648dbc54b20add76f9c45a",
+      "scanned_records": 3241290,
+      "extracted_at": "2026-10-13T19:37:48.838948+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01956-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01956-of-06881.gz",
+        "size": 481727152,
+        "etag": "\"1035ba30d01d2d50e9c5759e994ce43a\"",
+        "md5": "EDW6MNAdLVDpxXWemUzkOg==",
+        "lower": "Tissues_NOUN and cell_NOUN",
+        "upper": "To achieve size"
+      },
+      "raw_sha256": "c3413deb39276f0725f76cd2825f680104d8b41f5b309b4adee2fdcda7cd7699",
+      "scanned_records": 3503789,
+      "extracted_at": "2026-10-13T19:38:07.472125+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-01994-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01994-of-06881.gz",
+        "size": 451318970,
+        "etag": "\"51c73a2e4db884cc488cc27e47ff3cf1\"",
+        "md5": "Ucc6Lk24hMxIjMJ+R/888Q==",
+        "lower": "Upadesa on the_DET",
+        "upper": "Urbom of the"
+      },
+      "raw_sha256": "d8f2ad53b90d5d8e7f7497ff3e69aba1555f472368c2daf811d4a0bc220f1629",
+      "scanned_records": 3451494,
+      "extracted_at": "2026-10-13T19:11:45.814893+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-02002-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02002-of-06881.gz",
+        "size": 422679695,
+        "etag": "\"a1f019ee15507dd84eca8fcfa9f8903d\"",
+        "md5": "ofAZ7hVQfdhOyo/PqfiQPQ==",
+        "lower": "V_NOUN also forms_VERB",
+        "upper": "Valette _._ Minister"
+      },
+      "raw_sha256": "051ecff898e8219d61da495d8f2f072d3c49ed98e8aa02ccc6b4fc039d335d95",
+      "scanned_records": 3498524,
+      "extracted_at": "2026-10-13T18:55:12.113385+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-02010-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02010-of-06881.gz",
+        "size": 426913513,
+        "etag": "\"318748ebf4c8326835432c3b3ef7d9eb\"",
+        "md5": "MYdI6/TIMmg1Qyw7PvfZ6w==",
+        "lower": "Vice President .................................................._PRT",
+        "upper": "Viem_NOUN _ADP_ _DET_"
+      },
+      "raw_sha256": "6dccd19225fab2c1a0fa3b0d4ef1b726ef97dcad7f6e1c5ebf3f169331301d10",
+      "scanned_records": 3511544,
+      "extracted_at": "2026-10-13T19:33:55.765312+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-02012-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02012-of-06881.gz",
+        "size": 399662170,
+        "etag": "\"899cdbea99c50edabe4ecace13134da1\"",
+        "md5": "iZzb6pnFDtq+TsrOExNNoQ==",
+        "lower": "Village PA _NUM_",
+        "upper": "Viral_ADJ _NOUN_ How"
+      },
+      "raw_sha256": "f50670874bd31c8c20ee0d415dab7a847053084ec64a98429f6d2704ecb3e40a",
+      "scanned_records": 3286425,
+      "extracted_at": "2026-10-13T15:42:00.821380+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "3-02017-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02017-of-06881.gz",
+        "size": 463538974,
+        "etag": "\"d2619b79dc3207343fd902d1dd82eefb\"",
+        "md5": "0mGbedwyBzQ/2QLR3YLu+w==",
+        "lower": "Vule_NOUN _NOUN_ ,",
+        "upper": "W. Lankshear_NOUN _._"
+      },
+      "raw_sha256": "a298c040f2c3d7dd28ffae90e2c856c9d8bc08e854ffaeb85f2956850cae152a",
+      "scanned_records": 3348733,
+      "extracted_at": "2026-10-13T19:08:17.092363+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-02053-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02053-of-06881.gz",
+        "size": 521687555,
+        "etag": "\"9f76589ed5a6289dc7dab88348099cbb\"",
+        "md5": "n3ZYntWmKJ3H2riDSAmcuw==",
+        "lower": "Willard_NOUN Gage_NOUN _._",
+        "upper": "William_NOUN Kent_NOUN John"
+      },
+      "raw_sha256": "c1b8cb6fd3964bdc974a399ab85dada222d9cfc558e6c03359a28bdb2fbf5ce9",
+      "scanned_records": 3376165,
+      "extracted_at": "2026-10-13T19:33:41.721037+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "3-06873-of-06881.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-06873-of-06881.gz",
+        "size": 420622394,
+        "etag": "\"1506a8512aa4a99f8fb87be49e1069d8\"",
+        "md5": "FQaoUSqkqZ+PuHvknhBp2A==",
+        "lower": "» n 20_NUM",
+        "upper": "équipage_X , _._"
+      },
+      "raw_sha256": "b01e7e7849e81d3824e12d497b7d995803e50aa144142d0308e6c37faabb9126",
+      "scanned_records": 3572363,
+      "extracted_at": "2026-10-13T19:12:58.009634+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00532-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00532-of-06668.gz",
+        "size": 402313499,
+        "etag": "\"e1a596e85a4a83b37fea55388d7202bd\"",
+        "md5": "4aWW6FpKg7N/6lU4jXICvQ==",
+        "lower": "A_X )_. CERTAIN_ADJ MINISTERS_NOUN",
+        "upper": "About_ADP 2.6_NUM billion_NUM people_NOUN"
+      },
+      "raw_sha256": "befbd0fab00e06ffd493597f4313957b8d09afcbb52a9ff2c4d9734d1ffb4a0b",
+      "scanned_records": 3447448,
+      "extracted_at": "2026-10-13T15:53:44.119902+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "4-00546-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00546-of-06668.gz",
+        "size": 382405514,
+        "etag": "\"b24f0a38905b4877fc73f33d7ec0011b\"",
+        "md5": "sk8KOJBbSHf8c/M9fsABGw==",
+        "lower": "Ala._NOUN ,_. to_PRT remove_VERB",
+        "upper": "Alcock _VERB_ _NUM_ _NUM_"
+      },
+      "raw_sha256": "0c0d7c934cb1068ad0557eba1919c63a2bd193ff0ccc5bf7592a35ce980e300a",
+      "scanned_records": 3369149,
+      "extracted_at": "2026-10-13T18:29:24.560354+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00552-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00552-of-06668.gz",
+        "size": 378519891,
+        "etag": "\"7bae96d53cad5d87eb5355f1ec600345\"",
+        "md5": "e66W1TytXYfrU1Xx7GADRQ==",
+        "lower": "Although _NOUN_ managed _DET_",
+        "upper": "Amarna _._ III ,"
+      },
+      "raw_sha256": "d2ef961f15bb79c5a937d3ad2982014c2019a9f5e56bdcdcd4a06aaa5b5c4a34",
+      "scanned_records": 3389891,
+      "extracted_at": "2026-10-13T15:51:42.206440+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "4-00557-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00557-of-06668.gz",
+        "size": 433462862,
+        "etag": "\"9eec254c3489dac972fc78c4e044ad09\"",
+        "md5": "nuwlTDSJ2sly/HjE4EStCQ==",
+        "lower": "Among the sentences is",
+        "upper": "An accomplished politician _._"
+      },
+      "raw_sha256": "2cdef8cb7b7b50cdbf9e231d48c2782febfa52750d6f2db55a289e57e9f4fc14",
+      "scanned_records": 3369926,
+      "extracted_at": "2026-10-13T18:40:20.013097+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00596-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00596-of-06668.gz",
+        "size": 385444959,
+        "etag": "\"9f074a7c912ecb40eba6d8cbd477bb6d\"",
+        "md5": "nwdKfJEuy0DrptjL1He7bQ==",
+        "lower": "Barclay , _ADJ_ ,",
+        "upper": "Bartholomew_NOUN 's_PRT ,_. Newcastle_NOUN"
+      },
+      "raw_sha256": "0ecc366f81ca6cb9b076d7ffc9e7152de630598cc223058e0f98822ed6b15df5",
+      "scanned_records": 3333557,
+      "extracted_at": "2026-10-13T18:35:23.891906+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00632-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00632-of-06668.gz",
+        "size": 417066254,
+        "etag": "\"ae3215dd6225742c224f5f529155ac0a\"",
+        "md5": "rjIV3WIldCwiT19SkVWsCg==",
+        "lower": "C. A bottle of",
+        "upper": "C. _NOUN_ Grosvenor is"
+      },
+      "raw_sha256": "655f8181f9596944c37506f44102fbcfe33398ff1dd55b15687d463af6887f89",
+      "scanned_records": 3435456,
+      "extracted_at": "2026-10-13T18:29:13.083310+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00658-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00658-of-06668.gz",
+        "size": 421991823,
+        "etag": "\"e3dcd966bc4b1156b25d345023e08614\"",
+        "md5": "49zZZrxLEVayXTRQI+CGFA==",
+        "lower": "Charles Merz _._ in",
+        "upper": "Chatta _PRT_ _NOUN_ _CONJ_"
+      },
+      "raw_sha256": "e9371d88b67b46bd305d64f7e9fd393acde38209dd0f45d64a7a3bec940c420f",
+      "scanned_records": 3392588,
+      "extracted_at": "2026-10-13T18:59:39.751072+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00740-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00740-of-06668.gz",
+        "size": 414916394,
+        "etag": "\"18526c6b4e1f675bd9120729eacf604e\"",
+        "md5": "GFJsa04fZ1vZEgcp6s9gTg==",
+        "lower": "E. 671 , _ADP_",
+        "upper": "E. _NOUN_ of Hay"
+      },
+      "raw_sha256": "fd119f0beec14289b07391042116ec33a4010a2c67623edab7e90db05f61160e",
+      "scanned_records": 3379158,
+      "extracted_at": "2026-10-13T18:53:54.693804+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00749-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00749-of-06668.gz",
+        "size": 407730356,
+        "etag": "\"2cc2a85aa6d1e21b0c5a562699a49323\"",
+        "md5": "LMKoWqbR4hsMWlYmmaSTIw==",
+        "lower": "Editorial _X_ 13 _NOUN_",
+        "upper": "Edward Plumstead _._ _NOUN_"
+      },
+      "raw_sha256": "e7fa76036e987e6a59d108368829988c3ac2f8094b7e1403ed318c2228f8fb1a",
+      "scanned_records": 3429678,
+      "extracted_at": "2026-10-13T18:50:02.091357+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00755-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00755-of-06668.gz",
+        "size": 384371332,
+        "etag": "\"786f302ca2ff7da5a6c7bca7b2c47ab3\"",
+        "md5": "eG8wLKL/faWmx7ynssR6sw==",
+        "lower": "Emerson_NOUN is_VERB a_DET very_ADV",
+        "upper": "Employment Certificate _._ _END_"
+      },
+      "raw_sha256": "ca320a941e9a59d0ad0aa3383c0eaf912463f18e83e492357273a0f6dffcbe29",
+      "scanned_records": 3362070,
+      "extracted_at": "2026-10-13T18:46:13.112694+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00764-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00764-of-06668.gz",
+        "size": 378001774,
+        "etag": "\"a3879a05a2794059769db43fcb625e99\"",
+        "md5": "o4eaBaJ5QFl2nbQ/y2JemQ==",
+        "lower": "Eucharist _._ Groundwork for",
+        "upper": "European Union Ambassador _NOUN_"
+      },
+      "raw_sha256": "e55ced602967b0f5007f3526da76fe51402ed366e27d61b45d9742287114a731",
+      "scanned_records": 3187400,
+      "extracted_at": "2026-10-13T18:51:27.607033+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00797-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00797-of-06668.gz",
+        "size": 436754963,
+        "etag": "\"784f8e058a8350f78f71d1d219ad2d68\"",
+        "md5": "eE+OBYqDUPePcdHSGa0taA==",
+        "lower": "Frame _._ David W.",
+        "upper": "Francisco _._ _ADJ_ Bechtel"
+      },
+      "raw_sha256": "9e799ea7faf7f7ad341e1e57e583b487655540336fe55e3e5e264318e150ab75",
+      "scanned_records": 3398196,
+      "extracted_at": "2026-10-13T18:53:29.740714+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00801-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00801-of-06668.gz",
+        "size": 405034967,
+        "etag": "\"1f57268f3964f0e1dd98b64045210830\"",
+        "md5": "H1cmjzlk8OHdmLZARSEIMA==",
+        "lower": "Freshwater_NOUN Prawn_NOUN Culture_NOUN ._.",
+        "upper": "From _DET_ Oxyrhynchus _NOUN_"
+      },
+      "raw_sha256": "9215de7f95d690420497622eb9a467d394a2f7d195844e354a46240240d6cfed",
+      "scanned_records": 3411801,
+      "extracted_at": "2026-10-13T19:23:14.078635+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00802-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00802-of-06668.gz",
+        "size": 463437774,
+        "etag": "\"b0d0200315d14e14cd354adb7757d75e\"",
+        "md5": "sNAgAxXRThTNNUrbd1fXXg==",
+        "lower": "From _DET_ Oxyrhynchus _NOUN_",
+        "upper": "Fu ? _._ _END_"
+      },
+      "raw_sha256": "e433d30d263ecb12814c104f08bf9f14687df04ce3ef21e26b98715ff1504c88",
+      "scanned_records": 3529034,
+      "extracted_at": "2026-10-13T19:09:54.722671+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00815-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00815-of-06668.gz",
+        "size": 388602497,
+        "etag": "\"7f4725c724c5e01e03874eacd38fc8ef\"",
+        "md5": "f0clxyTF4B4Dh06s04/I7w==",
+        "lower": "George _PRT_ grow up",
+        "upper": "German aircraft based _ADP_"
+      },
+      "raw_sha256": "f3e7f3ab4f876f3eeb4d0705ad3528df7e508f5dcf6921cfc54cafc4fcc6d5a5",
+      "scanned_records": 3252826,
+      "extracted_at": "2026-10-13T19:13:18.027806+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00818-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00818-of-06668.gz",
+        "size": 384891843,
+        "etag": "\"7b7b467aec11380683c4c5733111cb48\"",
+        "md5": "e3tGeuwROAaDxMVzMRHLSA==",
+        "lower": "Gigling , _NOUN_ _NOUN_",
+        "upper": "Givens_NOUN Trophy_NOUN Awards_NOUN ,_."
+      },
+      "raw_sha256": "897bff6ed023bb4714fae0a48aa970969879e5e7b4eaae6d831ca75e17efb824",
+      "scanned_records": 3394230,
+      "extracted_at": "2026-10-13T19:14:05.819771+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00832-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00832-of-06668.gz",
+        "size": 370861046,
+        "etag": "\"039f230644314af07533361ca426b4af\"",
+        "md5": "A58jBkQxSvB1MzYcpCa0rw==",
+        "lower": "Gulf Coast _CONJ_ south",
+        "upper": "H _._ lot _NUM_"
+      },
+      "raw_sha256": "4347a234f7995d501b66746f065a69e38a632f5db87d3b82048281a47d3b08b8",
+      "scanned_records": 3359158,
+      "extracted_at": "2026-10-13T19:15:55.463367+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00851-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00851-of-06668.gz",
+        "size": 430693133,
+        "etag": "\"2c13abd62cdc59f0448735c4f52dc8b1\"",
+        "md5": "LBOr1izcWfBEhzXE9S3IsQ==",
+        "lower": "Hence , _ADJ_ teachers",
+        "upper": "Henry_NOUN and_CONJ I_PRON kept_VERB"
+      },
+      "raw_sha256": "ea4039ba56f91277cf0258d359ba39a5ed9374572682f7b7909912aab1804344",
+      "scanned_records": 3295626,
+      "extracted_at": "2026-10-13T18:54:21.356774+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00917-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00917-of-06668.gz",
+        "size": 412781574,
+        "etag": "\"4bb29c89bfc80de07e7160be10fda87b\"",
+        "md5": "S7Kcib/IDeB+cWC+EP2oew==",
+        "lower": "J. Dixon ( ed.",
+        "upper": "J. _NOUN_ Franklin to"
+      },
+      "raw_sha256": "334d353370a40ea4989582d6bd5f274193e855caea6c01fd336ab579d77c076c",
+      "scanned_records": 3415925,
+      "extracted_at": "2026-10-13T19:16:21.194404+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00924-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00924-of-06668.gz",
+        "size": 372197693,
+        "etag": "\"538b0a8c267ffc7127841db58c071cad\"",
+        "md5": "U4sKjCZ//HEnhB21jAccrQ==",
+        "lower": "Java _._ the official",
+        "upper": "Jensen v. Cooks _CONJ_"
+      },
+      "raw_sha256": "8d7d2b82f94666273ef700d49be8eef8e579c7bfba70a93e2106bc65c5b91fe1",
+      "scanned_records": 3389862,
+      "extracted_at": "2026-10-13T19:12:47.365598+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00927-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00927-of-06668.gz",
+        "size": 395060435,
+        "etag": "\"e118319e3df1cb51a8e3f1b1c3bcf38c\"",
+        "md5": "4Rgxnj3xy1Go4/Gxw7zzjA==",
+        "lower": "Jim _NOUN_ , Boss",
+        "upper": "John Brown _PRT_ letter"
+      },
+      "raw_sha256": "c53553c79fb21b64d07bbd47a70374795164bfe2a83b404a49e1f93540635a14",
+      "scanned_records": 3497514,
+      "extracted_at": "2026-10-13T19:15:16.075273+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00931-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00931-of-06668.gz",
+        "size": 402633977,
+        "etag": "\"8740818e389fff558e3ad1a8626b3ad0\"",
+        "md5": "h0CBjjif/1WOOtGoYms60A==",
+        "lower": "Joseph _NUM_ _NOUN_ City",
+        "upper": "Jr. _NOUN_ Eliot _._"
+      },
+      "raw_sha256": "03af4e48236ef44f07a68e469c4bc971eaca2902be1be434e142ad2f321c0762",
+      "scanned_records": 3290034,
+      "extracted_at": "2026-10-13T18:41:25.216593+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00932-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00932-of-06668.gz",
+        "size": 407369336,
+        "etag": "\"bb004f8b0af22ce732105b8c69f44d48\"",
+        "md5": "uwBPiwryLOcyEFuMafRNSA==",
+        "lower": "Jr. _NOUN_ Eliot _._",
+        "upper": "Juha Siltala , _NOUN_"
+      },
+      "raw_sha256": "cbbb39748d877cdafa8fa3e5153e9c6049c46c2f9bf9429f7b0645c62c051702",
+      "scanned_records": 3262266,
+      "extracted_at": "2026-10-13T19:18:42.947289+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00933-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00933-of-06668.gz",
+        "size": 430737834,
+        "etag": "\"1ae0045b9ed8a1692234255bba3f99ab\"",
+        "md5": "GuAEW57YoWkiNCVbuj+Zqw==",
+        "lower": "Juha Siltala , _NOUN_",
+        "upper": "June 1927 _._ 17"
+      },
+      "raw_sha256": "4f3339dd77fb8937b4425585d9cc306d2b3c148f00fdc2115d83f0a6a8bde09b",
+      "scanned_records": 3370321,
+      "extracted_at": "2026-10-13T19:26:05.354264+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00969-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00969-of-06668.gz",
+        "size": 404691342,
+        "etag": "\"6cb07833092ddb0b5b756fb8214b08d4\"",
+        "md5": "bLB4Mwkt2wtbdW+4IUsI1A==",
+        "lower": "Little League parents ,",
+        "upper": "Loan stock with _DET_"
+      },
+      "raw_sha256": "5dd3f38e71c744b042397f75229cdc5bd4cba85364073df5b03f1c972e34f33b",
+      "scanned_records": 3418147,
+      "extracted_at": "2026-10-13T19:17:08.487652+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00976-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00976-of-06668.gz",
+        "size": 382862301,
+        "etag": "\"62a6eff328033a80072b9f8a22f75070\"",
+        "md5": "Yqbv8ygDOoAHK5+KIvdQcA==",
+        "lower": "Ltd. _CONJ_ Phibro _NOUN_",
+        "upper": "Lunar satellite _NOUN_ USE"
+      },
+      "raw_sha256": "b7075db7b6c2ec2d0f47ad10ac9351cf37cab3f09ecce0adf9cb6a754a1128de",
+      "scanned_records": 3447368,
+      "extracted_at": "2026-10-13T19:29:16.930837+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-00991-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00991-of-06668.gz",
+        "size": 393573539,
+        "etag": "\"ed9b5778a08f36bc41432d268db3ecc8\"",
+        "md5": "7ZtXeKCPNrxBQy0mjbPsyA==",
+        "lower": "Manitoba _VERB_ _._ _NUM_",
+        "upper": "Many _VERB_ _PRON_ patients"
+      },
+      "raw_sha256": "1198f14de13b824c1302d8adf3850f3cc9ea1cf5bbde50b6eeff5c38073ccd38",
+      "scanned_records": 3247924,
+      "extracted_at": "2026-10-13T19:25:59.921933+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01099-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01099-of-06668.gz",
+        "size": 394467715,
+        "etag": "\"26cd8eea9f8b8c0d43f66bf2b80aa37e\"",
+        "md5": "Js2O6p+LjA1D9mvyuAqjfg==",
+        "lower": "People _VERB_ the images",
+        "upper": "Perhaps a good parallel"
+      },
+      "raw_sha256": "15802c8eef716420df3454f53aec666cf2caede9e55ccc409d29a1e96c5a7090",
+      "scanned_records": 3428448,
+      "extracted_at": "2026-10-13T19:19:58.140582+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01105-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01105-of-06668.gz",
+        "size": 385931680,
+        "etag": "\"0c228e6aa730b7a7388c4d72a77c00f7\"",
+        "md5": "DCKOaqcwt6c4jE1yp3wA9w==",
+        "lower": "Physical _NOUN_ _VERB_ _PRT_",
+        "upper": "Piety , \" Church"
+      },
+      "raw_sha256": "2cba3d60e2fde808c19c0cdbe4ad1d2a155d91544164822b38c33708e70ad8f5",
+      "scanned_records": 3332571,
+      "extracted_at": "2026-10-13T19:23:30.716077+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01161-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01161-of-06668.gz",
+        "size": 397677410,
+        "etag": "\"1972f96b02622066a3589f169855058e\"",
+        "md5": "GXL5awJiIGajWJ8WmFUFjg==",
+        "lower": "Rodríguez_NOUN ,_. A._NOUN B._NOUN",
+        "upper": "Roman_NOUN Bronzes_NOUN (_. 1929_NUM"
+      },
+      "raw_sha256": "e7d7492dbc6fc0e6abc662124ba6a46c27af43ef349708664f144f8501e31df7",
+      "scanned_records": 3290524,
+      "extracted_at": "2026-10-13T19:06:52.181891+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01165-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01165-of-06668.gz",
+        "size": 360400415,
+        "etag": "\"6ca2834a434c843eaeb1fa7a148a8f9b\"",
+        "md5": "bKKDSkNMhD6usfp6FIqPmw==",
+        "lower": "Rte. 12 . )",
+        "upper": "Runnable in the _NOUN_"
+      },
+      "raw_sha256": "dbf2e8dd7355c178eb368e52ef92f748db1220e01fb286811f3b380936a838e8",
+      "scanned_records": 3170955,
+      "extracted_at": "2026-10-13T19:10:24.749133+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01179-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01179-of-06668.gz",
+        "size": 410222671,
+        "etag": "\"ccf857de03e61877cff29ad3ea661058\"",
+        "md5": "zPhX3gPmGHfP8prT6mYQWA==",
+        "lower": "Salvador should , _ADP_",
+        "upper": "San _NOUN_ _._ Patillas"
+      },
+      "raw_sha256": "e820c7c62ef214192b75c636e351100a6e5983b335918f7daa54b4498b307320",
+      "scanned_records": 3450326,
+      "extracted_at": "2026-10-13T19:11:35.332675+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01343-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01343-of-06668.gz",
+        "size": 374303428,
+        "etag": "\"e9c503fc06b3bce1c916c60eb6da615b\"",
+        "md5": "6cUD/AazvOHJFsYOttphWw==",
+        "lower": "Visitor , _PRON_ will",
+        "upper": "Volunteer Services _._ Office"
+      },
+      "raw_sha256": "301abf1dd052ffd6d8a412ad5f7bfb75c8b8670d1eb6a3041cd360764f1eadef",
+      "scanned_records": 3435575,
+      "extracted_at": "2026-10-13T19:32:28.733393+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "4-01368-of-06668.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-01368-of-06668.gz",
+        "size": 430247582,
+        "etag": "\"5534be325db71393406c43c2979752d5\"",
+        "md5": "VTS+Ml23E5NAbEPCl5dS1Q==",
+        "lower": "Wilfred_NOUN Beckerman_NOUN and_CONJ Joanna_NOUN",
+        "upper": "William _._ residing on"
+      },
+      "raw_sha256": "b356a791dba5a033de0caa99fdf0db9ce26b173c9fece8544953d2fc88e83aeb",
+      "scanned_records": 3319837,
+      "extracted_at": "2026-10-13T19:33:06.283952+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-01363-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01363-of-19423.gz",
+        "size": 368592794,
+        "etag": "\"dd0477134ea20ca2b0640de3f5a8d0df\"",
+        "md5": "3QR3E06iDKKwZA3j9ajQ3w==",
+        "lower": "Administrator may _VERB_ the appropriate",
+        "upper": "Adult ego - _NOUN_ _._"
+      },
+      "raw_sha256": "90a32126fce7a52e26b0768dc4061318fa7acd2b7a8ab7034d858bd928431034",
+      "scanned_records": 3528990,
+      "extracted_at": "2026-10-13T16:04:00.634632+00:00",
+      "reused_from": "outputs/ngram_key_sample_50"
+    },
+    {
+      "file": "5-01603-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01603-of-19423.gz",
+        "size": 416789467,
+        "etag": "\"e394139bba767d58577d5acdd67f16e0\"",
+        "md5": "45QTm7p2fVhXfVrN1n8W4A==",
+        "lower": "Charles Williams _._ An _NOUN_",
+        "upper": "Charlotte Hay , _ADJ_ daughter"
+      },
+      "raw_sha256": "3c562c32018ad0be3f43faa7e3e9e73aabc1cf5cedd6260dcc935478ecff7312",
+      "scanned_records": 3468141,
+      "extracted_at": "2026-10-13T18:44:59.921134+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-01837-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01837-of-19423.gz",
+        "size": 297250901,
+        "etag": "\"c925a91ae93ef9d7c80eaff526f2e60e\"",
+        "md5": "ySWpGuk++dfIDq/1JvLmDg==",
+        "lower": "FR_NOUN 10777_NUM ,_. Dec._NOUN 29_NUM",
+        "upper": "Face _VERB_ not _DET_ _ADJ_"
+      },
+      "raw_sha256": "3244029b76a331d192678c815b8f32046b4e70de3c403c3e2f11e0cdd149c84e",
+      "scanned_records": 3437425,
+      "extracted_at": "2026-10-13T19:18:46.329542+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-01847-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01847-of-19423.gz",
+        "size": 305587750,
+        "etag": "\"2290bd6f76e22e107fb5ee0aff996619\"",
+        "md5": "IpC9b3biLhB/te4K/5lmGQ==",
+        "lower": "Federal employees , _ADJ_ employee",
+        "upper": "Feeding _DET_ _NOUN_ Academy of"
+      },
+      "raw_sha256": "5f2dcc8ff595a080d2d196a82bb242f35acfd10ae3d9dad2d6d824ed1abf4517",
+      "scanned_records": 3131080,
+      "extracted_at": "2026-10-13T19:02:44.577785+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-01964-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01964-of-19423.gz",
+        "size": 377996215,
+        "etag": "\"474261b7e5955d28c734cfb8e185fb99\"",
+        "md5": "R0Jht+WVXSjHNM+44YX7mQ==",
+        "lower": "Hanley _._ Stephen _NOUN_ _._",
+        "upper": "Harbour _NOUN_ Bill : _CONJ_"
+      },
+      "raw_sha256": "6b08a8e7d0a1be794146dd9fdac87b1b6edae34a0d5f4fa118bcb2b97cae68c5",
+      "scanned_records": 3617211,
+      "extracted_at": "2026-10-13T19:16:51.705504+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02166-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02166-of-19423.gz",
+        "size": 350975674,
+        "etag": "\"81b9eed3187af75f9486300157c9350a\"",
+        "md5": "gbnu0xh691+UhjABV8k1Cg==",
+        "lower": "JavaScript _VERB_ _ADV_ _ADV_ as",
+        "upper": "Jeffersonian _NOUN_ _._ _VERB_ _NOUN_"
+      },
+      "raw_sha256": "6614888d09d8cdf78dca81979cda2334b9771433193d8b2359539b9676fa2c2a",
+      "scanned_records": 3438268,
+      "extracted_at": "2026-10-13T19:21:37.142414+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02179-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02179-of-19423.gz",
+        "size": 374179773,
+        "etag": "\"f32bf74b16d654347ff8b24fb2eb5cd4\"",
+        "md5": "8yv3SxbWVDR/+LJPsutc1A==",
+        "lower": "Jonson as \" _NOUN_ 's",
+        "upper": "Joseph _NOUN_ _VERB_ an inquiry"
+      },
+      "raw_sha256": "45d34a937bf047e71aa032c86b3663c5d407c636c486e358a4d4d247d730f756",
+      "scanned_records": 3361121,
+      "extracted_at": "2026-10-13T19:20:02.881128+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02180-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02180-of-19423.gz",
+        "size": 385837820,
+        "etag": "\"8dc139515c03a4433b513ba5137ad5cc\"",
+        "md5": "jcE5UVwDpEM7UTulE3rVzA==",
+        "lower": "Joseph _NOUN_ _VERB_ an inquiry",
+        "upper": "Journal _NUM_ _._ 143-152 _._"
+      },
+      "raw_sha256": "d6983ffdb7f18bc97eec0e5052a089f551d2027ef8e7567b2e05514a8c0ca878",
+      "scanned_records": 3382684,
+      "extracted_at": "2026-10-13T19:18:39.223150+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02194-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02194-of-19423.gz",
+        "size": 336429991,
+        "etag": "\"dc7644c21cb6bfe5fdeb1dbd78d544a3\"",
+        "md5": "3HZEwhy2v+X96x29eNVEow==",
+        "lower": "Kano has been _DET_ _ADJ_",
+        "upper": "Karl _NOUN_ M _NOUN_ ,"
+      },
+      "raw_sha256": "e177a8ec9a117dab020a83c3422b8590e56f143d05cd5773d8c8e8bec280e8b4",
+      "scanned_records": 3360242,
+      "extracted_at": "2026-10-13T19:26:27.873989+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02299-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02299-of-19423.gz",
+        "size": 354260042,
+        "etag": "\"28e4b81ef24ac410445c4ba9eedee8cb\"",
+        "md5": "KOS4HvJKxBBEXEup7t7oyw==",
+        "lower": "Marina _._ the wife of",
+        "upper": "Mark _NOUN_ _PRT_ _PRT_ Oration"
+      },
+      "raw_sha256": "09e3e9defc9882489f5e9c4afa5ff295df7f8169cd47773f561f542396dcdd12",
+      "scanned_records": 3453924,
+      "extracted_at": "2026-10-13T19:30:41.940394+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02469-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02469-of-19423.gz",
+        "size": 395850245,
+        "etag": "\"083f650cfdf4fbf3dd45e6cdec239cd7\"",
+        "md5": "CD9lDP30+/PdRebN7COc1w==",
+        "lower": "Otto _NOUN_ _._ Bart _._",
+        "upper": "Our _VERB_ _ADV_ _DET_ farmers"
+      },
+      "raw_sha256": "0f9f714aa0ad3bd08ec046e7dbbeb60740a12d26785f6ef33ad55b522c7dc2d2",
+      "scanned_records": 3297257,
+      "extracted_at": "2026-10-13T19:35:44.878052+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-02583-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02583-of-19423.gz",
+        "size": 385438726,
+        "etag": "\"169a82571b2df745048511497751759e\"",
+        "md5": "FpqCVxst90UEhRFJd1F1ng==",
+        "lower": "Raiko _._ _NOUN_ _._ _ADJ_",
+        "upper": "Rain and rainfall -- Oregon"
+      },
+      "raw_sha256": "4e81b66bccd260948eb144f21f6ac747cceb6305a875f364a5ba7bc465600ff2",
+      "scanned_records": 3523566,
+      "extracted_at": "2026-10-13T19:31:25.990307+00:00",
+      "reused_from": null
+    },
+    {
+      "file": "5-19416-of-19423.gz",
+      "source": {
+        "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-19416-of-19423.gz",
+        "size": 379524640,
+        "etag": "\"5b7c3766669f686cf0c1c492ab4eb9d7\"",
+        "md5": "W3w3ZmafaGzwwcSSq0651w==",
+        "lower": "º usiness of the House",
+        "upper": "écrivain _X_ _X_ _X_ _._"
+      },
+      "raw_sha256": "65ab8acfe59685c67817af95815c24b3aec39b5d7ca66a7ee0f695c6fae13e98",
+      "scanned_records": 3466101,
+      "extracted_at": "2026-10-13T19:25:57.062988+00:00",
+      "reused_from": null
+    }
+  ],
+  "totalcounts_sha256": {
+    "totalcounts-2": "ff9a3c4e2c514820e24eecab563501d6bc22f52731f1ea42a918ce05bad20047",
+    "totalcounts-3": "abecf3356b3782f30bf77b8af11e9b3ef0d0bc31c48654ab1869d90445368af6",
+    "totalcounts-4": "635d55fc5fc740e9254aedf5c6d8311a8b3ca064239944948d9ddbd3e5b3e49f",
+    "totalcounts-5": "0f5d91c740bf8b08382c340bc44fb188b45a914440c0f8c581ab5b878b463418"
+  },
+  "data_sha256": "03201b44ccd5a230fb362286ce2013f9b365ba9ed6e526fbd1c491c21c1da653",
+  "artists_sha256": "2a156c2d562a86ac285c5766e4804d8c2f1fd7d910c5a2e3dde16bfeb212504f"
+}

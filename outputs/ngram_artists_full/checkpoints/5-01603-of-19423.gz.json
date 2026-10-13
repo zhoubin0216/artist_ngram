@@ -1,0 +1,20 @@
+{
+  "sha256": "ff7d73f1772e09168b3bc0647de01e9e743e7e5dbc104e710b9aa3f3c41227ab",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-01603-of-19423.gz",
+      "size": 416789467,
+      "etag": "\"e394139bba767d58577d5acdd67f16e0\"",
+      "md5": "45QTm7p2fVhXfVrN1n8W4A==",
+      "lower": "Charles Williams _._ An _NOUN_",
+      "upper": "Charlotte Hay , _ADJ_ daughter"
+    },
+    "queries": [
+      "Charles-Alexandre Coëssin de la Fosse"
+    ],
+    "raw_sha256": "3c562c32018ad0be3f43faa7e3e9e73aabc1cf5cedd6260dcc935478ecff7312",
+    "scanned_records": 3468141,
+    "extracted_at": "2026-10-13T18:44:59.921134+00:00",
+    "found": {}
+  }
+}

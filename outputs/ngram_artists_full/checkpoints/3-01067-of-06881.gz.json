@@ -1,0 +1,21 @@
+{
+  "sha256": "b0b519af591d5df9f5ea461df73da638dcffff6f94190400bc6218e4d0b4f617",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01067-of-06881.gz",
+      "size": 397416140,
+      "etag": "\"6409b6f41fc7a5dc786f8d1851af3e48\"",
+      "md5": "ZAm29B/Hpdx4b40YUa8+SA==",
+      "lower": "Ellar ,_. _ADJ_",
+      "upper": "Elsman _VERB_ _DET_"
+    },
+    "queries": [
+      "Elsa von Freytag-Loringhoven"
+    ],
+    "raw_sha256": "0f6ef7149e1a4137df69af04f15f66587bda0967101910008d82544401bfd7b9",
+    "scanned_records": 3230921,
+    "extracted_at": "2026-10-13T15:56:47.966757+00:00",
+    "found": {},
+    "reused_from": "outputs/ngram_key_sample_50"
+  }
+}

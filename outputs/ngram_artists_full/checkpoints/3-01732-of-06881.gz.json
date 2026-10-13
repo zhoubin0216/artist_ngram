@@ -1,0 +1,20 @@
+{
+  "sha256": "e5a2b11e49b9492b2fd17dec73f5ef6f51604489bf88f05aca5763e0987bb2e4",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01732-of-06881.gz",
+      "size": 446691801,
+      "etag": "\"521cd348ca0e32eb8b70b04f3a7d0bb5\"",
+      "md5": "UhzTSMoOMuuLcLBPOn0LtQ==",
+      "lower": "Road_NOUN Civil _CONJ_",
+      "upper": "Robert_NOUN Allen ."
+    },
+    "queries": [
+      "Robert Antoine Pinchon"
+    ],
+    "raw_sha256": "a99f00ffd8f0a815787961f1eb0dbaa1da5c88cecf930b6b3bda8cb305100806",
+    "scanned_records": 3349521,
+    "extracted_at": "2026-10-13T19:00:31.389819+00:00",
+    "found": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sha256": "d6da549f34c254abfbf78c5c5c68423bb028eeea6d86f3afcbce7a79b51ccbb0",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00755-of-06668.gz",
+      "size": 384371332,
+      "etag": "\"786f302ca2ff7da5a6c7bca7b2c47ab3\"",
+      "md5": "eG8wLKL/faWmx7ynssR6sw==",
+      "lower": "Emerson_NOUN is_VERB a_DET very_ADV",
+      "upper": "Employment Certificate _._ _END_"
+    },
+    "queries": [
+      "Emmanuel de La Villéon"
+    ],
+    "raw_sha256": "ca320a941e9a59d0ad0aa3383c0eaf912463f18e83e492357273a0f6dffcbe29",
+    "scanned_records": 3362070,
+    "extracted_at": "2026-10-13T18:46:13.112694+00:00",
+    "found": {}
+  }
+}

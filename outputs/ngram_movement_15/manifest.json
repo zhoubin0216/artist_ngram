@@ -1,0 +1,430 @@
+{
+  "schema": 1,
+  "entity_type": "movement",
+  "created_at": "2026-10-13T17:53:59.912692+00:00",
+  "corpus": "eng",
+  "version": "20200217",
+  "start_year": 1800,
+  "end_year": 2019,
+  "matching": "Case-sensitive exact normalized ngram; one reviewed primary query per movement; no alias aggregation.",
+  "source": "https://storage.googleapis.com/books/ngrams/books/datasetsv3.html",
+  "license": "CC BY 3.0; Google Books Ngram data",
+  "movements": [
+    {
+      "movement_id": "M01",
+      "wikidata_qid": "Q14378",
+      "movement_slug": "neoclassicism",
+      "name_zh": "新古典主义",
+      "dictionary_label": "Neoclassicism",
+      "requested_query": "Neoclassicism",
+      "query": "Neoclassicism",
+      "n": 1,
+      "shard": "1-00012-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Neoclassicism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Neoclassicism",
+        "returned_ngram": "Neoclassicism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:52.744356+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M02",
+      "wikidata_qid": "Q37068",
+      "movement_slug": "romanticism",
+      "name_zh": "浪漫主义",
+      "dictionary_label": "Romanticism",
+      "requested_query": "Romanticism",
+      "query": "Romanticism",
+      "n": 1,
+      "shard": "1-00013-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Romanticism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Romanticism",
+        "returned_ngram": "Romanticism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:53.586595+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M03",
+      "wikidata_qid": "Q10857409",
+      "movement_slug": "realism",
+      "name_zh": "现实主义",
+      "dictionary_label": "realism",
+      "requested_query": "Realism",
+      "query": "Realism",
+      "n": 1,
+      "shard": "1-00013-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Realism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Realism",
+        "returned_ngram": "Realism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:54.051597+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M04",
+      "wikidata_qid": "Q189458",
+      "movement_slug": "academic_art",
+      "name_zh": "学院派艺术",
+      "dictionary_label": "academic art",
+      "requested_query": "academic art",
+      "query": "academic art",
+      "n": 2,
+      "shard": "2-00320-of-00589.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=academic+art&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "academic art",
+        "returned_ngram": "academic art",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:54.384316+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M05",
+      "wikidata_qid": "Q40415",
+      "movement_slug": "impressionism",
+      "name_zh": "印象派",
+      "dictionary_label": "Impressionism",
+      "requested_query": "Impressionism",
+      "query": "Impressionism",
+      "n": 1,
+      "shard": "1-00010-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Impressionism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Impressionism",
+        "returned_ngram": "Impressionism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:55.266559+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M06",
+      "wikidata_qid": "Q166713",
+      "movement_slug": "post_impressionism",
+      "name_zh": "后印象派",
+      "dictionary_label": "Post-impressionism",
+      "requested_query": "Post-Impressionism",
+      "query": "Post - Impressionism",
+      "n": 3,
+      "shard": "3-01654-of-06881.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Post-Impressionism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Post-Impressionism",
+        "returned_ngram": "Post - Impressionism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:55.637146+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M07",
+      "wikidata_qid": "Q164800",
+      "movement_slug": "symbolism",
+      "name_zh": "象征主义",
+      "dictionary_label": "Symbolism",
+      "requested_query": "Symbolism",
+      "query": "Symbolism",
+      "n": 1,
+      "shard": "1-00014-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Symbolism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Symbolism",
+        "returned_ngram": "Symbolism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:56.738420+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M08",
+      "wikidata_qid": "Q34636",
+      "movement_slug": "art_nouveau",
+      "name_zh": "新艺术运动",
+      "dictionary_label": "Art Nouveau",
+      "requested_query": "Art Nouveau",
+      "query": "Art Nouveau",
+      "n": 2,
+      "shard": "2-00097-of-00589.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Art+Nouveau&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Art Nouveau",
+        "returned_ngram": "Art Nouveau",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:57.191751+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M09",
+      "wikidata_qid": "Q166593",
+      "movement_slug": "fauvism",
+      "name_zh": "野兽派",
+      "dictionary_label": "Fauvism",
+      "requested_query": "Fauvism",
+      "query": "Fauvism",
+      "n": 1,
+      "shard": "1-00009-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Fauvism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Fauvism",
+        "returned_ngram": "Fauvism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:57.645381+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M10",
+      "wikidata_qid": "Q80113",
+      "movement_slug": "expressionism",
+      "name_zh": "表现主义",
+      "dictionary_label": "Expressionism",
+      "requested_query": "Expressionism",
+      "query": "Expressionism",
+      "n": 1,
+      "shard": "1-00009-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Expressionism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Expressionism",
+        "returned_ngram": "Expressionism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:58.171565+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M11",
+      "wikidata_qid": "Q42934",
+      "movement_slug": "cubism",
+      "name_zh": "立体主义",
+      "dictionary_label": "cubism",
+      "requested_query": "Cubism",
+      "query": "Cubism",
+      "n": 1,
+      "shard": "1-00008-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Cubism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Cubism",
+        "returned_ngram": "Cubism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:58.565333+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M12",
+      "wikidata_qid": "Q131221",
+      "movement_slug": "futurism",
+      "name_zh": "未来主义",
+      "dictionary_label": "Futurism",
+      "requested_query": "Futurism",
+      "query": "Futurism",
+      "n": 1,
+      "shard": "1-00009-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Futurism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Futurism",
+        "returned_ngram": "Futurism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:58.985595+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M13",
+      "wikidata_qid": "Q6034",
+      "movement_slug": "dada",
+      "name_zh": "达达主义",
+      "dictionary_label": "Dada",
+      "requested_query": "Dadaism",
+      "query": "Dadaism",
+      "n": 1,
+      "shard": "1-00008-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Dadaism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Dadaism",
+        "returned_ngram": "Dadaism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:59.178698+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M14",
+      "wikidata_qid": "Q39427",
+      "movement_slug": "surrealism",
+      "name_zh": "超现实主义",
+      "dictionary_label": "surrealism",
+      "requested_query": "Surrealism",
+      "query": "Surrealism",
+      "n": 1,
+      "shard": "1-00014-of-00024.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=Surrealism&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "Surrealism",
+        "returned_ngram": "Surrealism",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:59.504460+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    },
+    {
+      "movement_id": "M15",
+      "wikidata_qid": "Q128115",
+      "movement_slug": "abstract_art",
+      "name_zh": "抽象艺术",
+      "dictionary_label": "abstract art",
+      "requested_query": "abstract art",
+      "query": "abstract art",
+      "n": 2,
+      "shard": "2-00320-of-00589.gz",
+      "status": "planned",
+      "normalization": {
+        "url": "https://books.google.com/ngrams/json?content=abstract+art&year_start=1800&year_end=2019&corpus=26&smoothing=0",
+        "requested_query": "abstract art",
+        "returned_ngram": "abstract art",
+        "type": "NGRAM",
+        "checked_at": "2026-10-13T17:53:59.912578+00:00",
+        "purpose": "Tokenization metadata only; Viewer frequencies are not used as raw counts."
+      }
+    }
+  ],
+  "shards": [
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00012-of-00024.gz",
+      "file": "1-00012-of-00024.gz",
+      "size": 544641231,
+      "etag": "\"ad8b4a1b35921a654ad6e6ad943c252d\"",
+      "md5": "rYtKGzWSGmVK1uatlDwlLQ==",
+      "lower": "Mochloulis",
+      "upper": "Pelancaran",
+      "n": 1
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00013-of-00024.gz",
+      "file": "1-00013-of-00024.gz",
+      "size": 611684090,
+      "etag": "\"91cfc1983ff85c302e70caadc273ead2\"",
+      "md5": "kc/BmD/4XDAucMqtwnPq0g==",
+      "lower": "Pelancaran",
+      "upper": "Safikarshana_NOUN",
+      "n": 1
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00320-of-00589.gz",
+      "file": "2-00320-of-00589.gz",
+      "size": 568240440,
+      "etag": "\"e55f5fbe3656272a02d8a793e8aa2aef\"",
+      "md5": "5V9fvjZWJyoC2KeT6Koq7w==",
+      "lower": "abstract afterlife_NOUN",
+      "upper": "acid refining_NOUN",
+      "n": 2
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00010-of-00024.gz",
+      "file": "1-00010-of-00024.gz",
+      "size": 601722860,
+      "etag": "\"2935915afe71ba2efbcee9d218dbe93e\"",
+      "md5": "KTWRWv5xui77zunSGNvpPg==",
+      "lower": "HYPERCHLoRHYDRIA_NOUN",
+      "upper": "Kids1_NOUN",
+      "n": 1
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01654-of-06881.gz",
+      "file": "3-01654-of-06881.gz",
+      "size": 408581019,
+      "etag": "\"f8a91f3c26bb9c54e2924e61d37232d5\"",
+      "md5": "+KkfPCa7nFTikk5h03Iy1Q==",
+      "lower": "Portstewart_NOUN for _DET_",
+      "upper": "Post_NOUN - Climacteric_NOUN",
+      "n": 3
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00014-of-00024.gz",
+      "file": "1-00014-of-00024.gz",
+      "size": 620141271,
+      "etag": "\"f6b47dbf778fbbad0f90782580cba938\"",
+      "md5": "9rR9v3ePu60PkHglgMupOA==",
+      "lower": "Safikarshana_NOUN",
+      "upper": "Trajectog",
+      "n": 1
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00097-of-00589.gz",
+      "file": "2-00097-of-00589.gz",
+      "size": 504561550,
+      "etag": "\"a21820600314310120079f3f856ee46b\"",
+      "md5": "ohggYAMUMQEgB58/hW7kaw==",
+      "lower": "Arkansas Hale_NOUN",
+      "upper": "Asseeiation_NOUN _NOUN_",
+      "n": 2
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00009-of-00024.gz",
+      "file": "1-00009-of-00024.gz",
+      "size": 568490258,
+      "etag": "\"f1b0015fff37334ad1fb8afceb1c4c5e\"",
+      "md5": "8bABX/83M0rR+4r86xxMXg==",
+      "lower": "Ellang_NOUN",
+      "upper": "HYPERCHLoRHYDRIA_NOUN",
+      "n": 1
+    },
+    {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/1-00008-of-00024.gz",
+      "file": "1-00008-of-00024.gz",
+      "size": 627251491,
+      "etag": "\"c4a1f01b0847d0200df4ffd55f46c21b\"",
+      "md5": "xKHwGwhH0CAN9P/VX0bCGw==",
+      "lower": "Cerenkov_ADJ",
+      "upper": "Ellang_NOUN",
+      "n": 1
+    }
+  ],
+  "totals": {
+    "1": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/totalcounts-1",
+      "file": "totalcounts-1",
+      "size": 13546,
+      "etag": "\"fea9f8e9fe2c9b7b6862ec292a11e23d\"",
+      "md5": "/qn46f4sm3toYuwpKhHiPQ=="
+    },
+    "2": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/totalcounts-2",
+      "file": "totalcounts-2",
+      "size": 13557,
+      "etag": "\"dd43e7934ce41277a57f6ef54c53dda0\"",
+      "md5": "3UPnk0zkEnelf271TFPdoA=="
+    },
+    "3": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/totalcounts-3",
+      "file": "totalcounts-3",
+      "size": 13548,
+      "etag": "\"dfa60c23a9ce9736998995d5a340ec13\"",
+      "md5": "36YMI6nOlzaZiZXVo0DsEw=="
+    }
+  },
+  "download_bytes": 5055354861
+}

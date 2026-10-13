@@ -1,0 +1,20 @@
+{
+  "sha256": "d6e4bb8c32eea1f8d556f0df1771b15dbdd26833b292f265bd112c141bd025c6",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01456-of-06881.gz",
+      "size": 433164494,
+      "etag": "\"e67bdc239d88d3e1943a3a0ee39b8d1f\"",
+      "md5": "5nvcI52I0+GUOjoO45uNHw==",
+      "lower": "Marsha_NOUN smiled_VERB _._",
+      "upper": "Martin_NOUN announced it"
+    },
+    "queries": [
+      "Martin von Feuerstein"
+    ],
+    "raw_sha256": "2d4f67555ae50dce1bb17d2f938cb398193a43766ff10d576458078b5e7266c1",
+    "scanned_records": 3291220,
+    "extracted_at": "2026-10-13T19:21:45.674464+00:00",
+    "found": {}
+  }
+}

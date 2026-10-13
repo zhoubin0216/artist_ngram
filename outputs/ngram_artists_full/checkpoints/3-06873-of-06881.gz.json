@@ -1,0 +1,21 @@
+{
+  "sha256": "3d4cf83e9bfd771c3e0da5ab7dc9bfe8ef8075cb2c32a30bb4d0976f2ec30765",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-06873-of-06881.gz",
+      "size": 420622394,
+      "etag": "\"1506a8512aa4a99f8fb87be49e1069d8\"",
+      "md5": "FQaoUSqkqZ+PuHvknhBp2A==",
+      "lower": "» n 20_NUM",
+      "upper": "équipage_X , _._"
+    },
+    "queries": [
+      "Ángel María Cortellini",
+      "Ángeles Santos Torroella"
+    ],
+    "raw_sha256": "b01e7e7849e81d3824e12d497b7d995803e50aa144142d0308e6c37faabb9126",
+    "scanned_records": 3572363,
+    "extracted_at": "2026-10-13T19:12:58.009634+00:00",
+    "found": {}
+  }
+}

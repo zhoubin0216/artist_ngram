@@ -1,0 +1,20 @@
+{
+  "sha256": "ce4d38a89b5d8b5f8cdde4764d5cc7584724033cfa76e2d13f864592b885ed3c",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02194-of-19423.gz",
+      "size": 336429991,
+      "etag": "\"dc7644c21cb6bfe5fdeb1dbd78d544a3\"",
+      "md5": "3HZEwhy2v+X96x29eNVEow==",
+      "lower": "Kano has been _DET_ _ADJ_",
+      "upper": "Karl _NOUN_ M _NOUN_ ,"
+    },
+    "queries": [
+      "Karel de Nerée tot Babberich"
+    ],
+    "raw_sha256": "e177a8ec9a117dab020a83c3422b8590e56f143d05cd5773d8c8e8bec280e8b4",
+    "scanned_records": 3360242,
+    "extracted_at": "2026-10-13T19:26:27.873989+00:00",
+    "found": {}
+  }
+}

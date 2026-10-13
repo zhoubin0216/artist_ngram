@@ -1,0 +1,20 @@
+{
+  "sha256": "3be23057420b2c023fcfe1d029c8184414c161fcdbd97864c091e79b4c2f6431",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/2-00197-of-00589.gz",
+      "size": 499169662,
+      "etag": "\"9efef314190de555da3b1c354a11a0b8\"",
+      "md5": "nv7zFBkN5VXaOxw1ShGguA==",
+      "lower": "Minister 01_NOUN",
+      "upper": "Mogilnicka_NOUN _NOUN_"
+    },
+    "queries": [
+      "Mișu Popp"
+    ],
+    "raw_sha256": "0bb6f2192dffe365ffeafc18bd4af1d07db9da772a213fff89a2e0a660de179c",
+    "scanned_records": 3336914,
+    "extracted_at": "2026-10-13T19:24:11.807939+00:00",
+    "found": {}
+  }
+}

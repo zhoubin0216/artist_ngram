@@ -1,0 +1,21 @@
+{
+  "sha256": "377d2138237460392259fd88ddbe79fb2bd6a71e83377e342c62bd4ed6691ae8",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-00884-of-06881.gz",
+      "size": 444828973,
+      "etag": "\"970f2d49908f275b9ded45096841e7aa\"",
+      "md5": "lw8tSZCPJ1ud7UUJaEHnqg==",
+      "lower": "Came Out_PRT The",
+      "upper": "Can _DET_ spear_NOUN"
+    },
+    "queries": [
+      "Camille Nicolas Lambert",
+      "Camille Van Camp"
+    ],
+    "raw_sha256": "5bad50ec37e9a61d2027a0874e6c613e4f1fdb162a17a7a5075dee4f2b6b33cd",
+    "scanned_records": 3516097,
+    "extracted_at": "2026-10-13T18:36:03.160574+00:00",
+    "found": {}
+  }
+}

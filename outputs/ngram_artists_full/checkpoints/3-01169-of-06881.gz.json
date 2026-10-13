@@ -1,0 +1,20 @@
+{
+  "sha256": "597a96f3e563d317ee1578ded3cfb383bf41d42783d95a3e2ac17b638523f1d3",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01169-of-06881.gz",
+      "size": 437156979,
+      "etag": "\"718d346f9aeda4b2a9634172e696edce\"",
+      "md5": "cY00b5rtpLKpY0Fy5pbtzg==",
+      "lower": "Georgetown Record (_.",
+      "upper": "German civilian_ADJ scientists_NOUN"
+    },
+    "queries": [
+      "Ger van Iersel"
+    ],
+    "raw_sha256": "66db327f8199f2415f22d43bdb4a75df4237d85ff92f52fdaacfa0c0ebb63396",
+    "scanned_records": 3493605,
+    "extracted_at": "2026-10-13T18:51:11.722021+00:00",
+    "found": {}
+  }
+}

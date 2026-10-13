@@ -1,0 +1,20 @@
+{
+  "sha256": "90419a0b675c03a05ffd329bd732ecbf8632cd05445c13f33457574a5aa11c47",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01673-of-06881.gz",
+      "size": 387919159,
+      "etag": "\"7cf9a93cbd543099b8fdcaf9c77f0900\"",
+      "md5": "fPmpPL1UMJm4/cr5x38JAA==",
+      "lower": "Propped_VERB by a",
+      "upper": "Protestant nuclear_ADJ family"
+    },
+    "queries": [
+      "Prosper De Troyer"
+    ],
+    "raw_sha256": "4d6e9f3027f899498876365f492005cf2a7aae67783e6dc419e7b3382de8dfac",
+    "scanned_records": 3176440,
+    "extracted_at": "2026-10-13T19:37:16.825569+00:00",
+    "found": {}
+  }
+}

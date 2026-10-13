@@ -1,0 +1,22 @@
+{
+  "sha256": "c4230d8d5916a2ea213613e325ee7f51260f4f5f883fb4ba5159077b05fb47e7",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01340-of-06881.gz",
+      "size": 459298598,
+      "etag": "\"c06cff04a1975eb5d1c31a6324e2633e\"",
+      "md5": "wGz/BKGXXrXRwxpjJOJjPg==",
+      "lower": "Jonathan W. Harris_NOUN",
+      "upper": "Joseph Alpert _._"
+    },
+    "queries": [
+      "Josef Anton Trčka",
+      "Josep Tapiró Baró",
+      "Josep Ventosa Domènech"
+    ],
+    "raw_sha256": "5266914b073270fa2bfea6ad7727a649a2a0cd7f9b90c25dfdf0e12e7b807f99",
+    "scanned_records": 3521541,
+    "extracted_at": "2026-10-13T18:52:12.579271+00:00",
+    "found": {}
+  }
+}

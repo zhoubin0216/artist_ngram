@@ -1,0 +1,21 @@
+{
+  "sha256": "ee160976930bb85f308cfc16e7e4777baa52250a0488870c608a26b5f81b7567",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01344-of-06881.gz",
+      "size": 446606579,
+      "etag": "\"33c11ab05bed4b7d3bb4e363b9926757\"",
+      "md5": "M8EasFvtS307tONjuZJnVw==",
+      "lower": "Judgement \" and",
+      "upper": "Julietta ,_. _ADJ_"
+    },
+    "queries": [
+      "Jules Ernest Renoux",
+      "Jules Victor Génisson"
+    ],
+    "raw_sha256": "e39b932b818e035267a4892a71f9033ace812233774b1be884caadbd217afb79",
+    "scanned_records": 3512900,
+    "extracted_at": "2026-10-13T19:21:40.640527+00:00",
+    "found": {}
+  }
+}

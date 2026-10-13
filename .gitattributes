@@ -1,0 +1,5 @@
+# Preserve published data bytes (and SHA-256) across Windows/macOS checkouts.
+outputs/ngram_artists_full/** -text
+outputs/ngram_movement_15/** -text
+# Official totalcounts files deliberately contain leading/trailing whitespace.
+outputs/ngram_*/totalcounts/totalcounts-* -whitespace

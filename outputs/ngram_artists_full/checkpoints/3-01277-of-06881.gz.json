@@ -1,0 +1,87 @@
+{
+  "sha256": "208babf75d329cf58a988300a3c1c61a03dea8ada4469385caa6939484a1b3f2",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01277-of-06881.gz",
+      "size": 529085977,
+      "etag": "\"bbe205a99e627e40b4e2abae01d2fcfc\"",
+      "md5": "u+IFqZ5ifkC04quuAdL8/A==",
+      "lower": "If_ADP _DET_ recordation_NOUN",
+      "upper": "Ignition_NOUN batteries _ADP_"
+    },
+    "queries": [
+      "Ignacio Pinazo Camarlench"
+    ],
+    "raw_sha256": "d0a5f4b685aa493fbcb0a28e8a952cfc59d9c4e9450dba7c72e711255f63a137",
+    "scanned_records": 3389270,
+    "extracted_at": "2026-10-13T19:15:38.937360+00:00",
+    "found": {
+      "Ignacio Pinazo Camarlench": {
+        "1920": [
+          1,
+          1
+        ],
+        "1921": [
+          17,
+          17
+        ],
+        "1932": [
+          15,
+          7
+        ],
+        "1938": [
+          3,
+          3
+        ],
+        "1987": [
+          2,
+          2
+        ],
+        "1988": [
+          1,
+          1
+        ],
+        "1989": [
+          1,
+          1
+        ],
+        "1990": [
+          1,
+          1
+        ],
+        "1994": [
+          1,
+          1
+        ],
+        "1996": [
+          2,
+          1
+        ],
+        "1997": [
+          1,
+          1
+        ],
+        "2001": [
+          1,
+          1
+        ],
+        "2006": [
+          11,
+          4
+        ],
+        "2007": [
+          1,
+          1
+        ],
+        "2012": [
+          2,
+          2
+        ],
+        "2016": [
+          1,
+          1
+        ]
+      }
+    }
+  }
+}

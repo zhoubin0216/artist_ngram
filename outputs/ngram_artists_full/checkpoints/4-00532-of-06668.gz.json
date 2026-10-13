@@ -1,0 +1,21 @@
+{
+  "sha256": "302ded296d51b15c5086ad2caa1f866b17d97c4d9b4147e132d04ae621742f19",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/4-00532-of-06668.gz",
+      "size": 402313499,
+      "etag": "\"e1a596e85a4a83b37fea55388d7202bd\"",
+      "md5": "4aWW6FpKg7N/6lU4jXICvQ==",
+      "lower": "A_X )_. CERTAIN_ADJ MINISTERS_NOUN",
+      "upper": "About_ADP 2.6_NUM billion_NUM people_NOUN"
+    },
+    "queries": [
+      "Aart van den IJssel"
+    ],
+    "raw_sha256": "befbd0fab00e06ffd493597f4313957b8d09afcbb52a9ff2c4d9734d1ffb4a0b",
+    "scanned_records": 3447448,
+    "extracted_at": "2026-10-13T15:53:44.119902+00:00",
+    "found": {},
+    "reused_from": "outputs/ngram_key_sample_50"
+  }
+}

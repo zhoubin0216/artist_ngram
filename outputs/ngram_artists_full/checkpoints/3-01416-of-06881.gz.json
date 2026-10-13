@@ -1,0 +1,20 @@
+{
+  "sha256": "9677d405252f2f2be85eb2b105bebcf58b0b05c55d85c9f0add7eba754866036",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01416-of-06881.gz",
+      "size": 405089245,
+      "etag": "\"31799285f986f7889710bcbc831af2e6\"",
+      "md5": "MXmShfmG94iXELy8gxry5g==",
+      "lower": "Lorikeets , _DET_",
+      "upper": "Louis Brandeis once_ADV"
+    },
+    "queries": [
+      "Louis Anselme Longa"
+    ],
+    "raw_sha256": "cdde39246ab367d4e79af1cfce597fc71a66fca2526476cf69480dc4d9a7a5fa",
+    "scanned_records": 3173490,
+    "extracted_at": "2026-10-13T19:18:07.640434+00:00",
+    "found": {}
+  }
+}

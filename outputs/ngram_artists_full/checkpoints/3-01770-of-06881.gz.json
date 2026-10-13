@@ -1,0 +1,20 @@
+{
+  "sha256": "97550a81799de34c8a473df3e93556b1d891cabff035911edddc8bd339d7d011",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01770-of-06881.gz",
+      "size": 460033911,
+      "etag": "\"2207a21c4aa78622166871e0d1353ac2\"",
+      "md5": "IgeiHEqnhiIWaHHg0TU6wg==",
+      "lower": "Sampson_NOUN 's chapter",
+      "upper": "Sandakan_NOUN ,_. via_ADP"
+    },
+    "queries": [
+      "Samuel James Ainsley"
+    ],
+    "raw_sha256": "3707b7e15a014a2483fec2ddc1a5a375cae821c204916e169927a09d2070f330",
+    "scanned_records": 3231783,
+    "extracted_at": "2026-10-13T19:30:31.615316+00:00",
+    "found": {}
+  }
+}

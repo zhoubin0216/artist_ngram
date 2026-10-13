@@ -1,0 +1,20 @@
+{
+  "sha256": "e02b41779d8acf232ed1ce7ef4fe7bd70f0c1a52120d85390df932ee6f4c687f",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-01664-of-06881.gz",
+      "size": 477313280,
+      "etag": "\"09ae2722ff8719234e14b18c97ce19ff\"",
+      "md5": "Ca4nIv+HGSNOFLGMl84Z/w==",
+      "lower": "Primer _CONJ_ all_DET",
+      "upper": "Print_NOUN to Film"
+    },
+    "queries": [
+      "Princess Fahrelnissa Zeid"
+    ],
+    "raw_sha256": "1d6b478c5969ef32c413f9f63cfc8b028f87d6d4f139a17380bf842f869eaec5",
+    "scanned_records": 3397843,
+    "extracted_at": "2026-10-13T19:37:39.150072+00:00",
+    "found": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sha256": "523e320f8ef9db8fb5796648566ea65c0ee9839ed714c5d79a6b711e6c7798fc",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/5-02179-of-19423.gz",
+      "size": 374179773,
+      "etag": "\"f32bf74b16d654347ff8b24fb2eb5cd4\"",
+      "md5": "8yv3SxbWVDR/+LJPsutc1A==",
+      "lower": "Jonson as \" _NOUN_ 's",
+      "upper": "Joseph _NOUN_ _VERB_ an inquiry"
+    },
+    "queries": [
+      "Josep Maria Tamburini i Dalmau",
+      "Joseph Ferdinand Boissard de Boisdenier"
+    ],
+    "raw_sha256": "45d34a937bf047e71aa032c86b3663c5d407c636c486e358a4d4d247d730f756",
+    "scanned_records": 3361121,
+    "extracted_at": "2026-10-13T19:20:02.881128+00:00",
+    "found": {}
+  }
+}

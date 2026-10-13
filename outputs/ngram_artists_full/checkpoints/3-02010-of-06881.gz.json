@@ -1,0 +1,20 @@
+{
+  "sha256": "c6f83eedc6f21deb409161e30e30c3b540b419af0fcc5866a16fd4836d7bc650",
+  "payload": {
+    "source": {
+      "url": "https://storage.googleapis.com/books/ngrams/books/20200217/eng/3-02010-of-06881.gz",
+      "size": 426913513,
+      "etag": "\"318748ebf4c8326835432c3b3ef7d9eb\"",
+      "md5": "MYdI6/TIMmg1Qyw7PvfZ6w==",
+      "lower": "Vice President .................................................._PRT",
+      "upper": "Viem_NOUN _ADP_ _DET_"
+    },
+    "queries": [
+      "Vicente Santaolaria Montoro"
+    ],
+    "raw_sha256": "6dccd19225fab2c1a0fa3b0d4ef1b726ef97dcad7f6e1c5ebf3f169331301d10",
+    "scanned_records": 3511544,
+    "extracted_at": "2026-10-13T19:33:55.765312+00:00",
+    "found": {}
+  }
+}
