@@ -5,3 +5,7 @@
 __pycache__/
 node_modules/
 *.pyc
+
+# Regenerable Ngram data: never push multi-hundred-MB shards to GitHub.
+data/ngram/
+outputs/ngram_*/
