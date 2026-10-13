@@ -1,0 +1,19 @@
+{
+  "numerator_definition": "Distinct retained Work IDs per artist/year within selected types",
+  "types": [
+    "all"
+  ],
+  "formula": "analysis_works_count / denominator_works * 10000",
+  "rows": 301400,
+  "analysis_matches": 15679,
+  "zero_denominator_years": [],
+  "denominator_fetched_at_utc": "2026-10-13T14:22:24.962012+00:00",
+  "source_dense_sha256": "c7a6393e8b6c9b7fa9c40bbd52c89eb71bb8fb47fb6bcaddc293ac792cf0f85f",
+  "source_type_sha256": "ad202926f6ea92308efb140ac91bd6f93f8c870df3764c8d798373c5254c1275",
+  "denominator_csv_sha256": "0a60329938e046e2e94746328d5aeac521876fe49a767d0d4c7504582b33cb43",
+  "limitations": [
+    "API denominator snapshot may differ in time from artist collection.",
+    "Normalization adjusts indexed annual corpus size, not entity ambiguity or historical coverage bias.",
+    "All-zero or unavailable years need an explicit policy before clustering."
+  ]
+}

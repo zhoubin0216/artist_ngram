@@ -1,0 +1,66 @@
+{
+  "definition": "OpenAlex core; English metadata; 1800-2019; Visual Arts any topic; full canonical name in title or abstract; all document types",
+  "cleaning_policy": {
+    "exclude": "confirmed wrong-entity records plus precautionary exclusions for manually uncertain identity/metadata",
+    "hold": "not used in final policy; previously held records are excluded from analysis",
+    "include": "remaining records, including UNREVIEWED matches",
+    "automated_flags": "recorded but NEVER automatically excluded",
+    "duplicate_policy": "one artist-work ID; cross-artist same Work IDs allowed; same title/year only flagged"
+  },
+  "input_dir": "C:\\Users\\Jade\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\data\\openalex_art\\core\\any\\full",
+  "review_csv": "C:\\Users\\Jade\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\config\\openalex_manual_review_150.csv",
+  "known_issues_csv": "C:\\Users\\Jade\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\config\\openalex_known_issues.csv",
+  "input_hashes_sha256": {
+    "review_csv": "4ba532ec3b737f3235b1cf659b8cd0649ae474f844fb5ec6eccfe48aaf45b167",
+    "known_issues_csv": "8f756a9fc205683941b3ecbfe7a2627c0f97c1ed369b1d4b3e65579c98e35a6f",
+    "collection_status_csv": "13ea1a4a1af029350560efe50bd5f0e060278fb36c00782d2623d20a1c5763fa",
+    "original_artist_year_csv": "5a9d02613beb9ee5428f4b38ed046ed6e302b0219303969680625f8e9dbf2dc9"
+  },
+  "collected_artists": 1370,
+  "complete_artists": 1370,
+  "artists_with_cleaned_hits": 538,
+  "artists_with_zero_cleaned_hits": 832,
+  "original_matched_records": 15693,
+  "cleaned_matched_records": 15679,
+  "statuses": {
+    "include": 15679,
+    "exclude": 14
+  },
+  "decision_reasons": {
+    "not_manually_reviewed": 15539,
+    "human_relevant": 140,
+    "human_wrong_entity": 10,
+    "conservative_entity_uncertain": 1,
+    "conservative_metadata_suspicious_year": 1,
+    "conservative_metadata_language_mismatch": 2
+  },
+  "confirmed_wrong_entity_exclusions": 10,
+  "precautionary_exclusions": 4,
+  "total_excluded_from_analysis": 14,
+  "excluded_pct_of_matches": 0.0892,
+  "raw_flag_counts": {
+    "visual_arts_secondary_topic_only": 8014,
+    "unusually_long_abstract": 1266,
+    "publication_before_artist_birth": 3
+  },
+  "sample_review_labels": {
+    "relevant": 141,
+    "irrelevant": 8,
+    "uncertain": 1
+  },
+  "sample_reviewed": 150,
+  "known_issues_reviewed": 4,
+  "human_decisions_applied": 154,
+  "human_actions_excluded_or_held": 14,
+  "sparse_year_rows": 5504,
+  "dense_year_rows": 301400,
+  "possible_duplicate_title_groups": 204,
+  "important_caveats": [
+    "This is NOT a fully entity-disambiguated dataset: most works have not been manually evaluated.",
+    "OpenAlex English language labels can be imperfect; suspicious manually identified records are excluded conservatively.",
+    "OpenAlex subject classification and historical coverage vary by year.",
+    "Unseen papers with aliases/surnames are not in scope: only canonical full English name is queried.",
+    "The unweighted manual sample relevant ratio is not population precision: stratified sampling.",
+    "Cross-source trend comparison should account for temporal coverage and possible normalization."
+  ]
+}
