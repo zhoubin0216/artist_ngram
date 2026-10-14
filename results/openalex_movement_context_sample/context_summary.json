@@ -1,0 +1,28 @@
+{
+  "classification_method": "movement-context-topics-1.0",
+  "is_human_review": false,
+  "is_partial_run": true,
+  "rows": 100,
+  "counts": {
+    "uncertain": 100
+  },
+  "reason_counts": {
+    "media_context_without_explicit_visual_art_connection": 28,
+    "insufficient_context_to_distinguish_target_movement": 72
+  },
+  "input_sha256": "a6d4d99de17db040747fca7de3ceb2fe41344e34a71d5f4adf8617e73daa9c12",
+  "classification_sha256": "e3ba3d75d24db8f9632efe0263fd2c09dd98a72ad6155bc00e5bd87a381354bc",
+  "script_sha256": "692152ebecb741767fcc074874d222c941eb95a86664e5b937ab3590550fba1a",
+  "candidate_files_used": [
+    {
+      "file": "M01_8d950c111708312b.jsonl",
+      "sha256": "41c37ee2129130256cea14d39c5cf8dc5d6e3aebf26cce6b54435c07bbce8058"
+    }
+  ],
+  "limitations": [
+    "Rules do not resolve all context or multilingual text.",
+    "Topic labels alone do not establish movement identity.",
+    "Supported labels are automated evidence, not measured accuracy or main-discussion status.",
+    "Outputs are a screen and do not change earlier union counts."
+  ]
+}

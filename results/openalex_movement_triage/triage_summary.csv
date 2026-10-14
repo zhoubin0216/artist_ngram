@@ -1,0 +1,16 @@
+﻿movement_id,movement_name,uncertain_with_artist_evidence,uncertain_direct_only,uncertain_total
+M01,Neoclassicism,11,221,232
+M02,Romanticism,78,2116,2194
+M03,Realism,21,10307,10328
+M04,Academic art,1,187,188
+M05,Impressionism,34,446,480
+M06,Post-Impressionism,4,63,67
+M07,Symbolism,122,4487,4609
+M08,Art Nouveau,15,299,314
+M09,Fauvism,1,42,43
+M10,Expressionism,175,2633,2808
+M11,Cubism,33,414,447
+M12,Futurism,64,1152,1216
+M13,Dada,276,1263,1539
+M14,Surrealism,149,1236,1385
+M15,Abstract art,7,461,468

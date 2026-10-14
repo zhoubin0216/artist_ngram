@@ -1,0 +1,362 @@
+{
+  "M01_8d950c111708312b": {
+    "query": {
+      "movement_id": "M01",
+      "movement_name": "Neoclassicism",
+      "search_term": "Neoclassicism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 12,
+    "candidates": 1144,
+    "accepted": 378,
+    "rejected": 766,
+    "raw_sha256": "aaebcb884378854bd93cb98adf63b9c48176e17f18777678782c138aea454704",
+    "candidate_sha256": "41c37ee2129130256cea14d39c5cf8dc5d6e3aebf26cce6b54435c07bbce8058",
+    "fetched_at_utc": "2026-10-13T23:08:56.889349+00:00"
+  },
+  "M02_683ec7121c6b82aa": {
+    "query": {
+      "movement_id": "M02",
+      "movement_name": "Romanticism",
+      "search_term": "Romanticism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 23,
+    "candidates": 2239,
+    "accepted": 2202,
+    "rejected": 37,
+    "raw_sha256": "3ab8a982240128c02309eaa89fc0b66be21d1c11de91600406da379226ad3ab3",
+    "candidate_sha256": "b78f4b6fc89b4825f177bc7fe7232f021ef2eea028cdfa4b645e6b11a392b12d",
+    "fetched_at_utc": "2026-10-13T23:09:18.690678+00:00"
+  },
+  "M03_0a1e901b880f4106": {
+    "query": {
+      "movement_id": "M03",
+      "movement_name": "Realism",
+      "search_term": "Realism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 107,
+    "candidates": 10647,
+    "accepted": 10397,
+    "rejected": 250,
+    "raw_sha256": "c56268d16b4c50c376776f89f8dcf13c1375cb9779db7f8eb50074461a8765fe",
+    "candidate_sha256": "d519e74d1b1c3007edfb33d57b3d212d957c9ac3e7e89a133c4d47c0c9ba7d49",
+    "fetched_at_utc": "2026-10-13T23:11:12.538712+00:00"
+  },
+  "M04_4dae94ca20fe743c": {
+    "query": {
+      "movement_id": "M04",
+      "movement_name": "Academic art",
+      "search_term": "Academic art"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 3,
+    "candidates": 218,
+    "accepted": 203,
+    "rejected": 15,
+    "raw_sha256": "1362e6b40c0eff3a7212d956c0193c3b057be78477f464723a1241499f641cde",
+    "candidate_sha256": "c1f4cbee7e4e84b36e437d154073d2cf5f9b0c60da546d68180a4c44bbf274ff",
+    "fetched_at_utc": "2026-10-13T23:11:15.797046+00:00"
+  },
+  "M05_0efb7c0ebdcb8530": {
+    "query": {
+      "movement_id": "M05",
+      "movement_name": "Impressionism",
+      "search_term": "Impressionism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 15,
+    "candidates": 1410,
+    "accepted": 1382,
+    "rejected": 28,
+    "raw_sha256": "b82b2740b225ed53f679dae091f288c0a1016f49950b7916e2105721d79b91f2",
+    "candidate_sha256": "85f36eed04bdcd9e945f634f3aa9e3b47989783e4698e90965bf786afe101a51",
+    "fetched_at_utc": "2026-10-13T23:11:29.215234+00:00"
+  },
+  "M06_8ae9550d335ae172": {
+    "query": {
+      "movement_id": "M06",
+      "movement_name": "Post-Impressionism",
+      "search_term": "Post-Impressionism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 3,
+    "candidates": 212,
+    "accepted": 207,
+    "rejected": 5,
+    "raw_sha256": "3a65a0874552432a22ab5daa965b33a0c9e41f5ef874e538d9aefdc3a4c3c5d6",
+    "candidate_sha256": "fdfdb41bf3a516610e90236f946ef2f1721cecd6ca46435e31325ca7f4b3ec63",
+    "fetched_at_utc": "2026-10-13T23:11:31.731634+00:00"
+  },
+  "M07_9a0cad7de35293ba": {
+    "query": {
+      "movement_id": "M07",
+      "movement_name": "Symbolism",
+      "search_term": "Symbolism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 48,
+    "candidates": 4795,
+    "accepted": 4622,
+    "rejected": 173,
+    "raw_sha256": "0bca0a706b2cf4276543234937429df15671c5da5133acc1cd41d6f90e7a01b3",
+    "candidate_sha256": "2bc096db6a6c7ed7db7cac567bfb7a452488fd8b1056ae8a985e7e2cca7e5b54",
+    "fetched_at_utc": "2026-10-13T23:12:20.416233+00:00"
+  },
+  "M08_a6280a0945e1bdec": {
+    "query": {
+      "movement_id": "M08",
+      "movement_name": "Art Nouveau",
+      "search_term": "Art Nouveau"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 7,
+    "candidates": 680,
+    "accepted": 670,
+    "rejected": 10,
+    "raw_sha256": "10e0059a22da17a85e1dfde676882da06c2f6defcd6827e78a19599770364396",
+    "candidate_sha256": "ed1d173231aa23b5ccb9e5bf97788f07f19077374a4066a9087f90ea69a00add",
+    "fetched_at_utc": "2026-10-13T23:12:27.510971+00:00"
+  },
+  "M09_0830ba8dd65f0491": {
+    "query": {
+      "movement_id": "M09",
+      "movement_name": "Fauvism",
+      "search_term": "Fauvism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 2,
+    "candidates": 149,
+    "accepted": 146,
+    "rejected": 3,
+    "raw_sha256": "75b39240e47ff7c03ee1ec002cbde74c5f968e4f86a0cdfb28fa29ac5e4b1d79",
+    "candidate_sha256": "54ac6fb0b2aa0ddd7c6097397952ed3cc74336a78b5d8226aad384447d514619",
+    "fetched_at_utc": "2026-10-13T23:12:29.137723+00:00"
+  },
+  "M10_d068647b4af311fc": {
+    "query": {
+      "movement_id": "M10",
+      "movement_name": "Expressionism",
+      "search_term": "Expressionism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 30,
+    "candidates": 2902,
+    "accepted": 2874,
+    "rejected": 28,
+    "raw_sha256": "41c9b81fe6e39349db6b7834bf1b670c01d5292288e40945e357e285ab43b95f",
+    "candidate_sha256": "0198bf1dd3686722c82f5a56c88e4dd3be0a20a8ecc6f5f790de5383b0e57f4e",
+    "fetched_at_utc": "2026-10-13T23:12:58.010753+00:00"
+  },
+  "M11_2b6c9e4e12671cb3": {
+    "query": {
+      "movement_id": "M11",
+      "movement_name": "Cubism",
+      "search_term": "Cubism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 13,
+    "candidates": 1262,
+    "accepted": 1235,
+    "rejected": 27,
+    "raw_sha256": "4e24313e6f70b6eb68b3ba4cfc4016ef07e4bc534635ed9acdb4af00d1915709",
+    "candidate_sha256": "f6c3537e6072277610c596b77b08ed17a45fb28a887362e6b1a50a0789331827",
+    "fetched_at_utc": "2026-10-13T23:13:10.161341+00:00"
+  },
+  "M12_d1e0463c20d571fd": {
+    "query": {
+      "movement_id": "M12",
+      "movement_name": "Futurism",
+      "search_term": "Futurism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 13,
+    "candidates": 1297,
+    "accepted": 1269,
+    "rejected": 28,
+    "raw_sha256": "77cff72bfdb715d8baaef19994370b5eb9cc87fa73cb57b9b53bf6153576ea8a",
+    "candidate_sha256": "a56b43a4d596330d37eafb10321cdb082ab74f8c9adff5f5e8ae598a7789efb4",
+    "fetched_at_utc": "2026-10-13T23:13:22.220409+00:00"
+  },
+  "M13_dfd8ff645c59e3a1": {
+    "query": {
+      "movement_id": "M13",
+      "movement_name": "Dada",
+      "search_term": "Dada"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 19,
+    "candidates": 1861,
+    "accepted": 1607,
+    "rejected": 254,
+    "raw_sha256": "8a631d605919055eb55fc6d28a41edcf7a31c0af3aa1bd7027a87297f92e2584",
+    "candidate_sha256": "a026aa49923c6b0255bc7dd3ad7e754533fc826ab075839200e3dc3392989d3d",
+    "fetched_at_utc": "2026-10-13T23:13:42.613161+00:00"
+  },
+  "M14_a59fae2c5b1837c6": {
+    "query": {
+      "movement_id": "M14",
+      "movement_name": "Surrealism",
+      "search_term": "Surrealism"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 27,
+    "candidates": 2661,
+    "accepted": 2611,
+    "rejected": 50,
+    "raw_sha256": "2d8e08fc1b7ca07c56a71300cee8f9ce9932844a57c332bd2682beba27cf005b",
+    "candidate_sha256": "7c2de6e753d30b6aa2f1a9554330e86bfdd94c1ca8604e959c4f2fc053cec4eb",
+    "fetched_at_utc": "2026-10-13T23:14:11.519705+00:00"
+  },
+  "M15_35c2ff46794fdbf1": {
+    "query": {
+      "movement_id": "M15",
+      "movement_name": "Abstract art",
+      "search_term": "Abstract art"
+    },
+    "scope": {
+      "corpus": "core",
+      "topic_scope": "any",
+      "subfield": "1213",
+      "language": "en",
+      "start_year": 1800,
+      "end_year": 2019,
+      "types": "all"
+    },
+    "status": "complete",
+    "pages": 13,
+    "candidates": 1207,
+    "accepted": 1170,
+    "rejected": 37,
+    "raw_sha256": "dfda3ac41286cdf1c41dc1d4d7acf8c5e7a4cd9328f28e375f9442fe8b970e17",
+    "candidate_sha256": "53fd63eb43fe17e76ad541226323c73e77c4bd5997801ecfa7139e0fbd7c19ca",
+    "fetched_at_utc": "2026-10-13T23:14:24.250592+00:00"
+  }
+}

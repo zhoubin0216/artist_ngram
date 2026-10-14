@@ -324,3 +324,159 @@ The ZIP paths in the handoff sections are generated deliverables, not required s
 - OpenAlex topics: https://help.openalex.org/data/topics/
 
 - OpenAlex grouping and pagination: https://help.openalex.org/api/grouping/
+
+
+## Movement-level analysis and final reporting policy
+
+The agreed movement-level analysis keeps artist-linked documents as the primary indicator and movement-term mentions as an auxiliary indicator. An optional Work-ID union is exploratory and includes movement keyword matches whose meaning has not been fully disambiguated.
+
+### Indicators
+
+For movement m and publication year y, define:
+
+- A: distinct retained artist-linked Work IDs. Map cleaned artist matches to movement memberships using `outputs/artist_dictionary.csv`, then deduplicate within movement and year. A work mentioning two artists in the same movement counts once.
+- B: distinct Work IDs whose title or available abstract matches a configured movement term under the same corpus, language, topic and year filters. These are keyword mentions, not confirmed movement identities or guaranteed primary discussion.
+- O: the intersection of A and B.
+- U: the union, with U = A + B - O.
+
+For example, the Impressionism result for 1900 combines documents mentioning dictionary-listed Impressionist artists and documents mentioning the configured Impressionism term. A document appearing through both paths counts once in U.
+
+Use A as the main artist-linked scholarly visibility series. Show B separately as movement-term visibility. Use U only as an explicitly labeled exploratory combined series; it must not be described as a fully disambiguated count of papers about the movement.
+
+The same work may belong to multiple movements. Do not sum movement counts as globally unique works. These document-union indicators use full membership inclusion, not fractional artist-membership weights. If a separate fractional analysis is needed, label it as a different indicator. Dictionary affiliations are artist-level memberships and are not dated movement memberships.
+
+### Generate the agreed keyword-proxy table from existing data
+
+The current `openalex_movements.py` can generate the agreed A/B/O/U table without using automatic classification. Run from the repository root after the complete movement collection is available:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/openalex_movements.py build --allow-unreviewed --output results/openalex_movements_keyword_proxy
+```
+
+Do not supply `--reviews` or `--use-automatic-labels` for this operational definition. This keeps all locally verified movement keyword matches, preserves the original cleaned artist decisions, and explicitly records that direct matches are unreviewed. It uses existing local files and does not call the API or download full text.
+
+The current local project already contains these output files. The command creates the directory if needed and overwrites these same-named files when rerun. Use a different --output directory to preserve a previous snapshot:
+
+```text
+results/openalex_movements_keyword_proxy/
+  movement_year_union.csv
+  movement_summary.json
+  movement_work_union.jsonl
+  direct_match_exclusions.csv
+```
+
+The two annual-table keys are `movement_id` and `year`. The table contains all dictionary movements and every year 1800-2019; 15 movements yield 3,300 rows.
+
+| Field | Final analysis role |
+| --- | --- |
+| artist_linked_works_count | Primary indicator A |
+| direct_movement_works_count | Auxiliary keyword indicator B |
+| overlap_works_count | Intersection O |
+| union_works_count | Exploratory combined indicator U |
+| denominator_works | Same-scope annual art corpus size |
+| movement_works_per_10000 | Normalized exploratory union, U / denominator * 10,000 |
+
+The existing script outputs a normalized UNION only. In the integration/analysis stage, derive primary and auxiliary normalized series separately:
+
+```text
+artist_linked_per_10000 = artist_linked_works_count / denominator_works * 10000
+movement_term_per_10000 = direct_movement_works_count / denominator_works * 10000
+```
+
+Use an unavailable value when the denominator is zero. Do not sum per-artist rates to obtain a movement document rate; first deduplicate artist-linked Work IDs within the movement, then divide that count by the denominator.
+
+The previously generated `openalex_movements_auto_broad` and `openalex_movements_auto_strict` are sensitivity experiments. Broad excludes records labeled irrelevant by automatic rules, so it is not the completely unfiltered keyword proxy. Strict also excludes automatic uncertain records. Neither is human-verified ground truth, and neither replaces the final primary/auxiliary policy above.
+
+### How to use the movement-term series
+
+1. Plot A and B separately, both as raw counts and per-10,000 rates. Retain the denominator series for interpreting early sparse years.
+2. Examine overlap. O / B describes the share of keyword-matched documents that also mention a dictionary-listed artist in the movement. It is not a precision estimate: movement theory papers may legitimately name no artists.
+3. Compare annual or decade-level trends. Report the time window and missing/zero handling. Correlation can reflect shared documents, overall corpus growth and common trends; it does not establish causal influence or validate individual matches.
+4. For a less mechanically overlapping comparison, compare A - O and B - O as separate series. Detrending or differencing can be considered alongside raw-rate correlations; no single correlation removes all bias.
+5. Inspect periods where B changes sharply without a similar change in A. Such periods may represent different meanings or genuine movement-level discussion. Do not delete documents solely because their series differ.
+6. For clustering, begin with the primary A series and treat B as an auxiliary feature or a separate robustness analysis. Define whether clusters reflect magnitude or curve shape, and handle all-zero sequences separately.
+
+Realism, Symbolism, Romanticism, Expressionism, Futurism and Dada can have other meanings or media contexts. The 1213 topic filter includes performing arts as well as visual arts. Specific topic labels and context screens provide additional evidence but cannot guarantee movement identity. Automated uncertain labels indicate insufficient rule evidence, not proven irrelevance.
+
+### Verified current movement snapshot
+
+The keyword-proxy table has 3,300 rows. Summed across movement-work memberships, A is 20,946, B is 30,973, O is 1,439 and U is 50,480. These totals satisfy U = A + B - O. They are not globally distinct document totals because works may belong to multiple movements. Automatic classification is disabled and no direct keyword matches are excluded in this version.
+
+A also remains a full-name mention proxy based on recorded artist cleaning decisions; calling it the primary indicator does not mean every artist-linked match has been manually identity-verified. For O / B and analogous proportions, report an unavailable value when the denominator is zero. When combining years, aggregate counts first and then divide rather than averaging annual rates without an explicit weighting rule.
+
+### Remaining work before the movement handoff
+
+- The current keyword-proxy outputs have been generated and checked. If inputs change, rerun the build and check the summary, collection scope and all 3,300 movement-year keys.
+- Verify U = A + B - O for every row, and retain the union detail locally for Work-ID audit.
+- Derive and document the separate normalized A and B series in the integration/analysis workflow; the current movement script does not yet write those two rate columns.
+- Deliver the annual CSV, summary, movement term list and artist dictionary to the integration contributor.
+- Analyze common source-coverage years, separate zero counts from unavailable observations, and document ambiguous movement terms in the final report.
+- Complete the team's storage/query performance experiments, cross-source plots and machine-learning evaluation separately; producing these movement tables alone does not complete the entire project.
+
+### Files to commit for the OpenAlex contribution
+
+Commit source code, small reproducibility inputs and annual deliverables. Review the staged diff so unrelated dictionary-builder/proposal/team changes are not mixed into this contribution.
+
+Recommended code and configuration:
+
+```text
+README.md
+.gitignore
+requirements-openalex.txt
+scripts/collect_openalex.py
+scripts/audit_openalex_art.py
+scripts/clean_openalex.py
+scripts/normalize_openalex.py
+scripts/openalex_movements.py
+config/openalex_manual_review_150.csv
+config/openalex_known_issues.csv
+config/openalex_movement_terms.csv
+outputs/artist_dictionary.csv
+tests/test_openalex_collector.py
+tests/test_openalex_art_audit.py
+tests/test_clean_openalex.py
+```
+
+Also commit `scripts/movement_auto_rules.py` and `tests/test_openalex_movements.py`. The current movement script imports `movement_auto_rules.py`, so this module is a required dependency even when automatic classification is disabled. If retaining the additional context-screening experiment, commit `scripts/screen_movement_context.py` as well.
+
+Recommended data deliverables:
+
+```text
+data/openalex_denominator/annual_denominator.csv
+data/openalex_denominator/annual_denominator_response.json
+data/openalex_denominator/denominator_manifest.json
+results/openalex/artist_year_dense_clean.csv
+results/openalex/artist_year_clean.csv
+results/openalex/artist_year_type_clean.csv
+results/openalex/artist_collection_status.csv
+results/openalex/artist_cleaning_status.csv
+results/openalex/manual_decisions_applied.csv
+results/openalex/excluded_from_analysis.csv
+results/openalex/possible_duplicate_titles.csv
+results/openalex/cleaning_summary.json
+results/openalex/quality_report.md
+results/openalex_normalized/artist_year_normalized.csv
+results/openalex_normalized/normalization_summary.json
+results/openalex_movements_keyword_proxy/movement_year_union.csv
+results/openalex_movements_keyword_proxy/movement_summary.json
+```
+
+The last two files currently exist and have passed the movement-year, union and normalization consistency checks. Recheck them after any regeneration. Annual CSVs are deliverables; large raw text collections are local audit material.
+
+Do not commit full candidate/raw archives, virtual environments, caches, API keys, ZIP packages, the full automatic classification/context CSVs, or the roughly 50 MB `config/openalex_movement_review.csv` filled with unreviewed text. If actual manual decisions are later made, export a compact decision table containing movement ID, Work ID, label, issue and notes so those decisions can be versioned independently of the full abstracts.
+
+Suggested ADDITIONAL `.gitignore` entries, to be merged manually without replacing existing rules:
+
+```gitignore
+data/openalex_movements/
+config/openalex_movement_review.csv
+results/openalex_movement_classification/
+results/openalex_movement_context/
+results/openalex_movement_context_sample/
+results/openalex_movement_triage/
+results/openalex_movements_auto_broad/
+results/openalex_movements_auto_strict/
+results/openalex_movements_keyword_proxy/movement_work_union.jsonl
+```
+
+These suggestions do not remove files that are already tracked. This README update does not modify `.gitignore`, source code, existing data or Git staging.
