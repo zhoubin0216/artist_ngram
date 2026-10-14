@@ -1,0 +1,16 @@
+﻿movement_id,movement_name,total,supported,other_sense,uncertain
+M01,Neoclassicism,221,1,0,220
+M02,Romanticism,2116,3,0,2113
+M03,Realism,10307,5,1,10301
+M04,Academic art,187,0,0,187
+M05,Impressionism,446,3,0,443
+M06,Post-Impressionism,63,1,0,62
+M07,Symbolism,4487,14,0,4473
+M08,Art Nouveau,299,6,0,293
+M09,Fauvism,42,2,0,40
+M10,Expressionism,2633,7,0,2626
+M11,Cubism,414,8,0,406
+M12,Futurism,1152,1,0,1151
+M13,Dada,1263,0,0,1263
+M14,Surrealism,1236,5,0,1231
+M15,Abstract art,461,1,0,460

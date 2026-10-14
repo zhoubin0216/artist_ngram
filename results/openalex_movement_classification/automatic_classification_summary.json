@@ -1,0 +1,102 @@
+{
+  "classification_method": "movement-context-rules-1.0",
+  "classification_is_human_review": false,
+  "rule_strength_is_calibrated_probability": false,
+  "rows": 30973,
+  "label_counts": {
+    "uncertain": 26318,
+    "relevant": 4614,
+    "irrelevant": 41
+  },
+  "human_labels_preserved": 0,
+  "reason_counts": {
+    "literary_performance_or_film_context_without_visual_art_evidence": 6075,
+    "insufficient_evidence_for_specific_painting_movement": 13878,
+    "distinctive_movement_name_in_title": 2521,
+    "movement_term_near_visual_art_evidence": 2080,
+    "related_realism_school_requires_scope_decision": 1623,
+    "title_explicit_non_art_realism_sense": 39,
+    "non_art_realism_sense_with_mixed_art_context": 5,
+    "only_post_impressionism_context": 117,
+    "symbolism_may_mean_generic_symbolic_content": 4609,
+    "explicit_symbolist_school_and_visual_art_context": 13,
+    "afrofuturism_not_confirmed_as_historical_futurism": 11,
+    "title_dada_used_as_person_or_honorific": 2
+  },
+  "per_movement": {
+    "M01": {
+      "uncertain": 232,
+      "relevant": 146
+    },
+    "M02": {
+      "uncertain": 2194,
+      "relevant": 8
+    },
+    "M03": {
+      "uncertain": 10328,
+      "relevant": 30,
+      "irrelevant": 39
+    },
+    "M04": {
+      "uncertain": 188,
+      "relevant": 15
+    },
+    "M05": {
+      "uncertain": 480,
+      "relevant": 902
+    },
+    "M06": {
+      "relevant": 140,
+      "uncertain": 67
+    },
+    "M07": {
+      "uncertain": 4609,
+      "relevant": 13
+    },
+    "M08": {
+      "uncertain": 314,
+      "relevant": 356
+    },
+    "M09": {
+      "relevant": 103,
+      "uncertain": 43
+    },
+    "M10": {
+      "uncertain": 2808,
+      "relevant": 66
+    },
+    "M11": {
+      "relevant": 788,
+      "uncertain": 447
+    },
+    "M12": {
+      "uncertain": 1216,
+      "relevant": 53
+    },
+    "M13": {
+      "uncertain": 1539,
+      "relevant": 66,
+      "irrelevant": 2
+    },
+    "M14": {
+      "uncertain": 1385,
+      "relevant": 1226
+    },
+    "M15": {
+      "relevant": 702,
+      "uncertain": 468
+    }
+  },
+  "hashes": {
+    "dictionary": "7562a00999592a470ca9b5b236493b42e22074fc3e619eeb330733448ea1ff67",
+    "terms": "d729cc7e6adfa37c79cec114c816b49b7edcbcc04140ca875322d687f29de37f",
+    "checkpoint": "84eb279379dc32ec3d33ecda42b545cad431c13dc6f481ec0ca441234887c714",
+    "rules": "7a6b9b493632602e42104151b961f504e92a88e96a15371212f14344f5df9e00",
+    "prior_reviews": "b26a1e43f905fdf6b6805afe9ca0bb5ab4cef9fb90abe581b51fbcef14a6db1e"
+  },
+  "limitations": [
+    "Rule-based context classification cannot establish true relevance for every record.",
+    "Automatic relevant means evidence under the rules, not guaranteed primary discussion.",
+    "Uncertain records must remain distinguishable from confirmed irrelevant records."
+  ]
+}

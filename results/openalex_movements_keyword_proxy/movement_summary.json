@@ -1,0 +1,40 @@
+{
+  "definition": "Distinct works linked via retained artist mentions OR retained movement-name mentions",
+  "scope": {
+    "corpus": "core",
+    "topic_scope": "any",
+    "subfield": "1213",
+    "language": "en",
+    "start_year": 1800,
+    "end_year": 2019,
+    "types": "all"
+  },
+  "movements": 15,
+  "annual_rows": 3300,
+  "raw_direct_movement_work_pairs": 30973,
+  "excluded_direct_pairs": 0,
+  "direct_decision_counts": {
+    "unreviewed:unreviewed": 30973
+  },
+  "allow_unreviewed": true,
+  "automatic_classification_used": false,
+  "automatic_uncertain_policy": null,
+  "classification_method": null,
+  "union_movement_work_pairs": 50480,
+  "denominator_fetched_at_utc": "2026-10-13T14:22:24.962012+00:00",
+  "hashes": {
+    "dictionary": "7562a00999592a470ca9b5b236493b42e22074fc3e619eeb330733448ea1ff67",
+    "terms": "d729cc7e6adfa37c79cec114c816b49b7edcbcc04140ca875322d687f29de37f",
+    "artist_clean_jsonl": "ed4e379992e0eef9b624f1ae8dd4bf61fe984364435d46fd9441c8b2f7e3f705",
+    "movement_checkpoint": "84eb279379dc32ec3d33ecda42b545cad431c13dc6f481ec0ca441234887c714",
+    "denominator_csv": "0a60329938e046e2e94746328d5aeac521876fe49a767d0d4c7504582b33cb43",
+    "reviews": null
+  },
+  "caveats": [
+    "A direct match exclusion applies to that path only; independent retained artist matches remain.",
+    "Movement term matches may be ambiguous and do not imply primary discussion.",
+    "Movement totals overlap across movements; do not sum them as globally unique works.",
+    "Artist affiliations are dictionary memberships, not publication-year-specific memberships.",
+    "Collection and denominator snapshots may differ in time."
+  ]
+}

@@ -1,0 +1,3301 @@
+﻿movement_id,movement_name,year,artist_linked_works_count,direct_movement_works_count,overlap_works_count,union_works_count,denominator_works,movement_works_per_10000,normalization_status
+M01,Neoclassicism,1800,0,0,0,0,186,0,ok
+M01,Neoclassicism,1801,0,0,0,0,22,0,ok
+M01,Neoclassicism,1802,0,0,0,0,25,0,ok
+M01,Neoclassicism,1803,0,0,0,0,27,0,ok
+M01,Neoclassicism,1804,0,0,0,0,13,0,ok
+M01,Neoclassicism,1805,1,0,0,1,25,400,ok
+M01,Neoclassicism,1806,0,0,0,0,26,0,ok
+M01,Neoclassicism,1807,0,0,0,0,24,0,ok
+M01,Neoclassicism,1808,0,0,0,0,27,0,ok
+M01,Neoclassicism,1809,0,0,0,0,43,0,ok
+M01,Neoclassicism,1810,0,0,0,0,43,0,ok
+M01,Neoclassicism,1811,0,0,0,0,48,0,ok
+M01,Neoclassicism,1812,0,0,0,0,48,0,ok
+M01,Neoclassicism,1813,0,0,0,0,23,0,ok
+M01,Neoclassicism,1814,0,0,0,0,33,0,ok
+M01,Neoclassicism,1815,0,0,0,0,22,0,ok
+M01,Neoclassicism,1816,0,0,0,0,14,0,ok
+M01,Neoclassicism,1817,0,0,0,0,30,0,ok
+M01,Neoclassicism,1818,0,0,0,0,33,0,ok
+M01,Neoclassicism,1819,0,0,0,0,19,0,ok
+M01,Neoclassicism,1820,0,0,0,0,42,0,ok
+M01,Neoclassicism,1821,0,0,0,0,30,0,ok
+M01,Neoclassicism,1822,0,0,0,0,29,0,ok
+M01,Neoclassicism,1823,0,0,0,0,35,0,ok
+M01,Neoclassicism,1824,0,0,0,0,33,0,ok
+M01,Neoclassicism,1825,0,0,0,0,57,0,ok
+M01,Neoclassicism,1826,0,0,0,0,39,0,ok
+M01,Neoclassicism,1827,0,0,0,0,46,0,ok
+M01,Neoclassicism,1828,0,0,0,0,42,0,ok
+M01,Neoclassicism,1829,0,0,0,0,54,0,ok
+M01,Neoclassicism,1830,0,0,0,0,58,0,ok
+M01,Neoclassicism,1831,0,0,0,0,43,0,ok
+M01,Neoclassicism,1832,0,0,0,0,28,0,ok
+M01,Neoclassicism,1833,0,0,0,0,27,0,ok
+M01,Neoclassicism,1834,0,0,0,0,74,0,ok
+M01,Neoclassicism,1835,0,0,0,0,65,0,ok
+M01,Neoclassicism,1836,0,0,0,0,45,0,ok
+M01,Neoclassicism,1837,0,0,0,0,35,0,ok
+M01,Neoclassicism,1838,0,0,0,0,36,0,ok
+M01,Neoclassicism,1839,0,0,0,0,46,0,ok
+M01,Neoclassicism,1840,0,0,0,0,85,0,ok
+M01,Neoclassicism,1841,0,0,0,0,31,0,ok
+M01,Neoclassicism,1842,0,0,0,0,45,0,ok
+M01,Neoclassicism,1843,0,0,0,0,44,0,ok
+M01,Neoclassicism,1844,0,0,0,0,53,0,ok
+M01,Neoclassicism,1845,0,0,0,0,59,0,ok
+M01,Neoclassicism,1846,0,0,0,0,104,0,ok
+M01,Neoclassicism,1847,0,0,0,0,184,0,ok
+M01,Neoclassicism,1848,0,0,0,0,108,0,ok
+M01,Neoclassicism,1849,0,0,0,0,77,0,ok
+M01,Neoclassicism,1850,0,0,0,0,192,0,ok
+M01,Neoclassicism,1851,0,0,0,0,156,0,ok
+M01,Neoclassicism,1852,0,0,0,0,127,0,ok
+M01,Neoclassicism,1853,0,0,0,0,182,0,ok
+M01,Neoclassicism,1854,0,0,0,0,134,0,ok
+M01,Neoclassicism,1855,0,0,0,0,231,0,ok
+M01,Neoclassicism,1856,0,0,0,0,147,0,ok
+M01,Neoclassicism,1857,0,0,0,0,1003,0,ok
+M01,Neoclassicism,1858,0,0,0,0,194,0,ok
+M01,Neoclassicism,1859,0,0,0,0,163,0,ok
+M01,Neoclassicism,1860,0,0,0,0,175,0,ok
+M01,Neoclassicism,1861,0,0,0,0,121,0,ok
+M01,Neoclassicism,1862,0,0,0,0,90,0,ok
+M01,Neoclassicism,1863,0,0,0,0,116,0,ok
+M01,Neoclassicism,1864,0,0,0,0,102,0,ok
+M01,Neoclassicism,1865,0,0,0,0,107,0,ok
+M01,Neoclassicism,1866,0,0,0,0,131,0,ok
+M01,Neoclassicism,1867,0,0,0,0,155,0,ok
+M01,Neoclassicism,1868,0,0,0,0,131,0,ok
+M01,Neoclassicism,1869,0,0,0,0,119,0,ok
+M01,Neoclassicism,1870,0,0,0,0,204,0,ok
+M01,Neoclassicism,1871,0,0,0,0,199,0,ok
+M01,Neoclassicism,1872,0,0,0,0,223,0,ok
+M01,Neoclassicism,1873,0,0,0,0,165,0,ok
+M01,Neoclassicism,1874,0,0,0,0,214,0,ok
+M01,Neoclassicism,1875,0,0,0,0,226,0,ok
+M01,Neoclassicism,1876,0,0,0,0,232,0,ok
+M01,Neoclassicism,1877,0,0,0,0,207,0,ok
+M01,Neoclassicism,1878,0,0,0,0,259,0,ok
+M01,Neoclassicism,1879,0,0,0,0,287,0,ok
+M01,Neoclassicism,1880,0,0,0,0,456,0,ok
+M01,Neoclassicism,1881,0,0,0,0,291,0,ok
+M01,Neoclassicism,1882,0,0,0,0,202,0,ok
+M01,Neoclassicism,1883,0,0,0,0,228,0,ok
+M01,Neoclassicism,1884,0,0,0,0,287,0,ok
+M01,Neoclassicism,1885,0,0,0,0,284,0,ok
+M01,Neoclassicism,1886,0,0,0,0,314,0,ok
+M01,Neoclassicism,1887,0,0,0,0,307,0,ok
+M01,Neoclassicism,1888,0,0,0,0,305,0,ok
+M01,Neoclassicism,1889,0,0,0,0,332,0,ok
+M01,Neoclassicism,1890,0,0,0,0,353,0,ok
+M01,Neoclassicism,1891,0,0,0,0,353,0,ok
+M01,Neoclassicism,1892,0,0,0,0,313,0,ok
+M01,Neoclassicism,1893,0,0,0,0,398,0,ok
+M01,Neoclassicism,1894,0,0,0,0,443,0,ok
+M01,Neoclassicism,1895,0,0,0,0,484,0,ok
+M01,Neoclassicism,1896,0,0,0,0,508,0,ok
+M01,Neoclassicism,1897,0,0,0,0,458,0,ok
+M01,Neoclassicism,1898,0,0,0,0,543,0,ok
+M01,Neoclassicism,1899,0,0,0,0,698,0,ok
+M01,Neoclassicism,1900,0,0,0,0,749,0,ok
+M01,Neoclassicism,1901,0,0,0,0,663,0,ok
+M01,Neoclassicism,1902,0,0,0,0,698,0,ok
+M01,Neoclassicism,1903,0,0,0,0,631,0,ok
+M01,Neoclassicism,1904,0,0,0,0,635,0,ok
+M01,Neoclassicism,1905,0,0,0,0,752,0,ok
+M01,Neoclassicism,1906,0,0,0,0,780,0,ok
+M01,Neoclassicism,1907,0,0,0,0,660,0,ok
+M01,Neoclassicism,1908,0,0,0,0,744,0,ok
+M01,Neoclassicism,1909,0,0,0,0,722,0,ok
+M01,Neoclassicism,1910,0,0,0,0,890,0,ok
+M01,Neoclassicism,1911,0,0,0,0,769,0,ok
+M01,Neoclassicism,1912,0,0,0,0,773,0,ok
+M01,Neoclassicism,1913,0,0,0,0,842,0,ok
+M01,Neoclassicism,1914,0,0,0,0,973,0,ok
+M01,Neoclassicism,1915,0,0,0,0,862,0,ok
+M01,Neoclassicism,1916,0,0,0,0,960,0,ok
+M01,Neoclassicism,1917,2,0,0,2,1153,17.3460537728,ok
+M01,Neoclassicism,1918,0,0,0,0,909,0,ok
+M01,Neoclassicism,1919,0,0,0,0,830,0,ok
+M01,Neoclassicism,1920,0,0,0,0,1068,0,ok
+M01,Neoclassicism,1921,0,0,0,0,878,0,ok
+M01,Neoclassicism,1922,0,0,0,0,977,0,ok
+M01,Neoclassicism,1923,1,0,0,1,1038,9.63391136802,ok
+M01,Neoclassicism,1924,0,0,0,0,1033,0,ok
+M01,Neoclassicism,1925,0,0,0,0,1199,0,ok
+M01,Neoclassicism,1926,0,0,0,0,1267,0,ok
+M01,Neoclassicism,1927,0,0,0,0,1289,0,ok
+M01,Neoclassicism,1928,0,0,0,0,1340,0,ok
+M01,Neoclassicism,1929,0,0,0,0,1476,0,ok
+M01,Neoclassicism,1930,1,0,0,1,1729,5.78368999422,ok
+M01,Neoclassicism,1931,1,0,0,1,1545,6.47249190939,ok
+M01,Neoclassicism,1932,0,0,0,0,1440,0,ok
+M01,Neoclassicism,1933,0,0,0,0,1388,0,ok
+M01,Neoclassicism,1934,0,0,0,0,1502,0,ok
+M01,Neoclassicism,1935,0,0,0,0,1676,0,ok
+M01,Neoclassicism,1936,0,0,0,0,1794,0,ok
+M01,Neoclassicism,1937,0,0,0,0,1809,0,ok
+M01,Neoclassicism,1938,0,0,0,0,1813,0,ok
+M01,Neoclassicism,1939,0,0,0,0,1758,0,ok
+M01,Neoclassicism,1940,0,0,0,0,1980,0,ok
+M01,Neoclassicism,1941,0,2,0,2,1935,10.3359173127,ok
+M01,Neoclassicism,1942,0,0,0,0,1656,0,ok
+M01,Neoclassicism,1943,1,0,0,1,1599,6.25390869293,ok
+M01,Neoclassicism,1944,0,0,0,0,1477,0,ok
+M01,Neoclassicism,1945,0,0,0,0,1546,0,ok
+M01,Neoclassicism,1946,1,0,0,1,1810,5.52486187845,ok
+M01,Neoclassicism,1947,0,0,0,0,2102,0,ok
+M01,Neoclassicism,1948,0,0,0,0,2107,0,ok
+M01,Neoclassicism,1949,1,0,0,1,2213,4.51875282422,ok
+M01,Neoclassicism,1950,0,0,0,0,2656,0,ok
+M01,Neoclassicism,1951,1,0,0,1,2418,4.13564929694,ok
+M01,Neoclassicism,1952,2,0,0,2,2328,8.5910652921,ok
+M01,Neoclassicism,1953,0,0,0,0,2336,0,ok
+M01,Neoclassicism,1954,0,0,0,0,2459,0,ok
+M01,Neoclassicism,1955,0,0,0,0,2652,0,ok
+M01,Neoclassicism,1956,0,0,0,0,2641,0,ok
+M01,Neoclassicism,1957,0,2,0,2,2797,7.15051841258,ok
+M01,Neoclassicism,1958,1,0,0,1,2861,3.49528137015,ok
+M01,Neoclassicism,1959,0,0,0,0,3252,0,ok
+M01,Neoclassicism,1960,0,1,0,1,3482,2.87191269385,ok
+M01,Neoclassicism,1961,0,0,0,0,3460,0,ok
+M01,Neoclassicism,1962,1,0,0,1,3875,2.58064516129,ok
+M01,Neoclassicism,1963,0,0,0,0,3923,0,ok
+M01,Neoclassicism,1964,1,0,0,1,4264,2.34521575985,ok
+M01,Neoclassicism,1965,1,0,0,1,4393,2.27634873663,ok
+M01,Neoclassicism,1966,0,0,0,0,4555,0,ok
+M01,Neoclassicism,1967,0,1,0,1,4831,2.0699648106,ok
+M01,Neoclassicism,1968,0,1,0,1,5448,1.83553597651,ok
+M01,Neoclassicism,1969,0,0,0,0,6577,0,ok
+M01,Neoclassicism,1970,0,3,0,3,6934,4.32650706663,ok
+M01,Neoclassicism,1971,1,4,0,5,6439,7.76518092872,ok
+M01,Neoclassicism,1972,0,1,0,1,6537,1.52975370965,ok
+M01,Neoclassicism,1973,0,0,0,0,7026,0,ok
+M01,Neoclassicism,1974,2,0,0,2,7333,2.72739669985,ok
+M01,Neoclassicism,1975,0,2,0,2,7656,2.61233019854,ok
+M01,Neoclassicism,1976,3,1,0,4,7991,5.00563133525,ok
+M01,Neoclassicism,1977,0,0,0,0,8525,0,ok
+M01,Neoclassicism,1978,4,1,0,5,8484,5.89344648751,ok
+M01,Neoclassicism,1979,1,2,0,3,8487,3.53481795688,ok
+M01,Neoclassicism,1980,1,0,0,1,9307,1.07446008381,ok
+M01,Neoclassicism,1981,0,1,0,1,9429,1.06055785343,ok
+M01,Neoclassicism,1982,2,0,0,2,9640,2.07468879668,ok
+M01,Neoclassicism,1983,2,1,0,3,10233,2.93169158605,ok
+M01,Neoclassicism,1984,0,2,0,2,10835,1.84586986617,ok
+M01,Neoclassicism,1985,1,2,0,3,10535,2.84765068818,ok
+M01,Neoclassicism,1986,0,2,0,2,11043,1.8111020556,ok
+M01,Neoclassicism,1987,4,0,0,4,11085,3.60847992783,ok
+M01,Neoclassicism,1988,0,3,0,3,12023,2.49521749979,ok
+M01,Neoclassicism,1989,1,3,0,4,13187,3.03329036172,ok
+M01,Neoclassicism,1990,2,1,0,3,13846,2.16669074101,ok
+M01,Neoclassicism,1991,4,2,0,6,14166,4.23549343499,ok
+M01,Neoclassicism,1992,4,1,0,5,15297,3.26861476106,ok
+M01,Neoclassicism,1993,2,2,0,4,15905,2.51493241119,ok
+M01,Neoclassicism,1994,5,4,0,9,17205,5.2310374891,ok
+M01,Neoclassicism,1995,4,2,0,6,17858,3.35983872774,ok
+M01,Neoclassicism,1996,5,2,0,7,18705,3.74231488907,ok
+M01,Neoclassicism,1997,4,2,0,6,19382,3.09565576308,ok
+M01,Neoclassicism,1998,6,4,0,10,20500,4.87804878049,ok
+M01,Neoclassicism,1999,13,2,0,15,22270,6.73551863493,ok
+M01,Neoclassicism,2000,10,5,1,14,26415,5.30001892864,ok
+M01,Neoclassicism,2001,10,1,0,11,26482,4.15376482139,ok
+M01,Neoclassicism,2002,5,0,0,5,31485,1.5880578053,ok
+M01,Neoclassicism,2003,8,3,0,11,41073,2.6781584009,ok
+M01,Neoclassicism,2004,4,4,0,8,37606,2.12732010849,ok
+M01,Neoclassicism,2005,12,4,0,16,41240,3.87972841901,ok
+M01,Neoclassicism,2006,9,5,1,13,45139,2.87999291079,ok
+M01,Neoclassicism,2007,9,5,0,14,56297,2.48681102013,ok
+M01,Neoclassicism,2008,14,5,1,18,56521,3.18465703013,ok
+M01,Neoclassicism,2009,6,3,0,9,67728,1.32884479093,ok
+M01,Neoclassicism,2010,20,9,2,27,75172,3.59176289044,ok
+M01,Neoclassicism,2011,11,5,0,16,78854,2.02906637583,ok
+M01,Neoclassicism,2012,13,4,0,17,84832,2.00396076952,ok
+M01,Neoclassicism,2013,19,4,1,22,95876,2.29463056448,ok
+M01,Neoclassicism,2014,12,3,0,15,95255,1.57472048711,ok
+M01,Neoclassicism,2015,23,3,0,26,98219,2.64714566428,ok
+M01,Neoclassicism,2016,24,8,1,31,105715,2.93241261883,ok
+M01,Neoclassicism,2017,23,5,0,28,161987,1.72853377123,ok
+M01,Neoclassicism,2018,26,8,0,34,113366,2.99913554328,ok
+M01,Neoclassicism,2019,15,5,0,20,115014,1.73891874033,ok
+M02,Romanticism,1800,1,0,0,1,186,53.7634408602,ok
+M02,Romanticism,1801,0,0,0,0,22,0,ok
+M02,Romanticism,1802,0,0,0,0,25,0,ok
+M02,Romanticism,1803,0,0,0,0,27,0,ok
+M02,Romanticism,1804,0,0,0,0,13,0,ok
+M02,Romanticism,1805,1,0,0,1,25,400,ok
+M02,Romanticism,1806,0,0,0,0,26,0,ok
+M02,Romanticism,1807,0,0,0,0,24,0,ok
+M02,Romanticism,1808,0,0,0,0,27,0,ok
+M02,Romanticism,1809,0,0,0,0,43,0,ok
+M02,Romanticism,1810,0,0,0,0,43,0,ok
+M02,Romanticism,1811,0,0,0,0,48,0,ok
+M02,Romanticism,1812,0,0,0,0,48,0,ok
+M02,Romanticism,1813,0,0,0,0,23,0,ok
+M02,Romanticism,1814,0,0,0,0,33,0,ok
+M02,Romanticism,1815,0,0,0,0,22,0,ok
+M02,Romanticism,1816,0,0,0,0,14,0,ok
+M02,Romanticism,1817,0,0,0,0,30,0,ok
+M02,Romanticism,1818,0,0,0,0,33,0,ok
+M02,Romanticism,1819,0,0,0,0,19,0,ok
+M02,Romanticism,1820,0,0,0,0,42,0,ok
+M02,Romanticism,1821,0,0,0,0,30,0,ok
+M02,Romanticism,1822,0,0,0,0,29,0,ok
+M02,Romanticism,1823,0,0,0,0,35,0,ok
+M02,Romanticism,1824,0,0,0,0,33,0,ok
+M02,Romanticism,1825,0,0,0,0,57,0,ok
+M02,Romanticism,1826,0,0,0,0,39,0,ok
+M02,Romanticism,1827,0,0,0,0,46,0,ok
+M02,Romanticism,1828,0,0,0,0,42,0,ok
+M02,Romanticism,1829,0,0,0,0,54,0,ok
+M02,Romanticism,1830,0,0,0,0,58,0,ok
+M02,Romanticism,1831,0,0,0,0,43,0,ok
+M02,Romanticism,1832,0,0,0,0,28,0,ok
+M02,Romanticism,1833,0,0,0,0,27,0,ok
+M02,Romanticism,1834,0,0,0,0,74,0,ok
+M02,Romanticism,1835,0,0,0,0,65,0,ok
+M02,Romanticism,1836,0,0,0,0,45,0,ok
+M02,Romanticism,1837,0,0,0,0,35,0,ok
+M02,Romanticism,1838,0,0,0,0,36,0,ok
+M02,Romanticism,1839,0,0,0,0,46,0,ok
+M02,Romanticism,1840,0,0,0,0,85,0,ok
+M02,Romanticism,1841,0,0,0,0,31,0,ok
+M02,Romanticism,1842,0,0,0,0,45,0,ok
+M02,Romanticism,1843,0,0,0,0,44,0,ok
+M02,Romanticism,1844,1,0,0,1,53,188.679245283,ok
+M02,Romanticism,1845,0,0,0,0,59,0,ok
+M02,Romanticism,1846,0,0,0,0,104,0,ok
+M02,Romanticism,1847,0,0,0,0,184,0,ok
+M02,Romanticism,1848,0,0,0,0,108,0,ok
+M02,Romanticism,1849,0,0,0,0,77,0,ok
+M02,Romanticism,1850,1,0,0,1,192,52.0833333333,ok
+M02,Romanticism,1851,0,0,0,0,156,0,ok
+M02,Romanticism,1852,1,0,0,1,127,78.7401574803,ok
+M02,Romanticism,1853,2,0,0,2,182,109.89010989,ok
+M02,Romanticism,1854,1,0,0,1,134,74.6268656716,ok
+M02,Romanticism,1855,0,0,0,0,231,0,ok
+M02,Romanticism,1856,0,0,0,0,147,0,ok
+M02,Romanticism,1857,0,0,0,0,1003,0,ok
+M02,Romanticism,1858,0,0,0,0,194,0,ok
+M02,Romanticism,1859,1,0,0,1,163,61.3496932515,ok
+M02,Romanticism,1860,0,0,0,0,175,0,ok
+M02,Romanticism,1861,0,0,0,0,121,0,ok
+M02,Romanticism,1862,0,0,0,0,90,0,ok
+M02,Romanticism,1863,0,0,0,0,116,0,ok
+M02,Romanticism,1864,0,0,0,0,102,0,ok
+M02,Romanticism,1865,0,0,0,0,107,0,ok
+M02,Romanticism,1866,0,0,0,0,131,0,ok
+M02,Romanticism,1867,0,0,0,0,155,0,ok
+M02,Romanticism,1868,0,0,0,0,131,0,ok
+M02,Romanticism,1869,0,0,0,0,119,0,ok
+M02,Romanticism,1870,0,0,0,0,204,0,ok
+M02,Romanticism,1871,0,0,0,0,199,0,ok
+M02,Romanticism,1872,0,0,0,0,223,0,ok
+M02,Romanticism,1873,1,0,0,1,165,60.6060606061,ok
+M02,Romanticism,1874,0,0,0,0,214,0,ok
+M02,Romanticism,1875,12,0,0,12,226,530.973451327,ok
+M02,Romanticism,1876,5,0,0,5,232,215.517241379,ok
+M02,Romanticism,1877,0,0,0,0,207,0,ok
+M02,Romanticism,1878,0,0,0,0,259,0,ok
+M02,Romanticism,1879,3,0,0,3,287,104.529616725,ok
+M02,Romanticism,1880,0,0,0,0,456,0,ok
+M02,Romanticism,1881,0,0,0,0,291,0,ok
+M02,Romanticism,1882,0,0,0,0,202,0,ok
+M02,Romanticism,1883,1,0,0,1,228,43.8596491228,ok
+M02,Romanticism,1884,0,0,0,0,287,0,ok
+M02,Romanticism,1885,0,0,0,0,284,0,ok
+M02,Romanticism,1886,0,0,0,0,314,0,ok
+M02,Romanticism,1887,1,0,0,1,307,32.5732899023,ok
+M02,Romanticism,1888,0,0,0,0,305,0,ok
+M02,Romanticism,1889,0,0,0,0,332,0,ok
+M02,Romanticism,1890,0,0,0,0,353,0,ok
+M02,Romanticism,1891,0,0,0,0,353,0,ok
+M02,Romanticism,1892,0,0,0,0,313,0,ok
+M02,Romanticism,1893,0,0,0,0,398,0,ok
+M02,Romanticism,1894,0,0,0,0,443,0,ok
+M02,Romanticism,1895,0,0,0,0,484,0,ok
+M02,Romanticism,1896,0,0,0,0,508,0,ok
+M02,Romanticism,1897,0,0,0,0,458,0,ok
+M02,Romanticism,1898,0,0,0,0,543,0,ok
+M02,Romanticism,1899,1,0,0,1,698,14.3266475645,ok
+M02,Romanticism,1900,0,0,0,0,749,0,ok
+M02,Romanticism,1901,0,0,0,0,663,0,ok
+M02,Romanticism,1902,1,0,0,1,698,14.3266475645,ok
+M02,Romanticism,1903,0,0,0,0,631,0,ok
+M02,Romanticism,1904,0,0,0,0,635,0,ok
+M02,Romanticism,1905,0,0,0,0,752,0,ok
+M02,Romanticism,1906,1,0,0,1,780,12.8205128205,ok
+M02,Romanticism,1907,0,0,0,0,660,0,ok
+M02,Romanticism,1908,0,0,0,0,744,0,ok
+M02,Romanticism,1909,0,0,0,0,722,0,ok
+M02,Romanticism,1910,3,0,0,3,890,33.7078651685,ok
+M02,Romanticism,1911,0,0,0,0,769,0,ok
+M02,Romanticism,1912,1,0,0,1,773,12.936610608,ok
+M02,Romanticism,1913,2,0,0,2,842,23.7529691211,ok
+M02,Romanticism,1914,1,0,0,1,973,10.2774922919,ok
+M02,Romanticism,1915,0,0,0,0,862,0,ok
+M02,Romanticism,1916,0,0,0,0,960,0,ok
+M02,Romanticism,1917,1,0,0,1,1153,8.67302688638,ok
+M02,Romanticism,1918,1,0,0,1,909,11.00110011,ok
+M02,Romanticism,1919,0,0,0,0,830,0,ok
+M02,Romanticism,1920,0,0,0,0,1068,0,ok
+M02,Romanticism,1921,0,0,0,0,878,0,ok
+M02,Romanticism,1922,3,0,0,3,977,30.7062436029,ok
+M02,Romanticism,1923,1,0,0,1,1038,9.63391136802,ok
+M02,Romanticism,1924,0,0,0,0,1033,0,ok
+M02,Romanticism,1925,3,0,0,3,1199,25.0208507089,ok
+M02,Romanticism,1926,5,0,0,5,1267,39.4632991318,ok
+M02,Romanticism,1927,1,0,0,1,1289,7.7579519007,ok
+M02,Romanticism,1928,0,0,0,0,1340,0,ok
+M02,Romanticism,1929,1,0,0,1,1476,6.77506775068,ok
+M02,Romanticism,1930,0,0,0,0,1729,0,ok
+M02,Romanticism,1931,0,0,0,0,1545,0,ok
+M02,Romanticism,1932,0,0,0,0,1440,0,ok
+M02,Romanticism,1933,0,0,0,0,1388,0,ok
+M02,Romanticism,1934,0,0,0,0,1502,0,ok
+M02,Romanticism,1935,1,0,0,1,1676,5.96658711217,ok
+M02,Romanticism,1936,3,0,0,3,1794,16.7224080268,ok
+M02,Romanticism,1937,1,0,0,1,1809,5.52791597568,ok
+M02,Romanticism,1938,2,0,0,2,1813,11.0314396029,ok
+M02,Romanticism,1939,0,0,0,0,1758,0,ok
+M02,Romanticism,1940,1,0,0,1,1980,5.05050505051,ok
+M02,Romanticism,1941,0,0,0,0,1935,0,ok
+M02,Romanticism,1942,2,0,0,2,1656,12.077294686,ok
+M02,Romanticism,1943,1,0,0,1,1599,6.25390869293,ok
+M02,Romanticism,1944,0,0,0,0,1477,0,ok
+M02,Romanticism,1945,0,0,0,0,1546,0,ok
+M02,Romanticism,1946,1,0,0,1,1810,5.52486187845,ok
+M02,Romanticism,1947,1,0,0,1,2102,4.75737392959,ok
+M02,Romanticism,1948,0,0,0,0,2107,0,ok
+M02,Romanticism,1949,3,0,0,3,2213,13.5562584727,ok
+M02,Romanticism,1950,0,0,0,0,2656,0,ok
+M02,Romanticism,1951,6,0,0,6,2418,24.8138957816,ok
+M02,Romanticism,1952,2,0,0,2,2328,8.5910652921,ok
+M02,Romanticism,1953,0,0,0,0,2336,0,ok
+M02,Romanticism,1954,1,0,0,1,2459,4.06669377796,ok
+M02,Romanticism,1955,0,0,0,0,2652,0,ok
+M02,Romanticism,1956,1,0,0,1,2641,3.78644452859,ok
+M02,Romanticism,1957,3,0,0,3,2797,10.7257776189,ok
+M02,Romanticism,1958,0,0,0,0,2861,0,ok
+M02,Romanticism,1959,5,0,0,5,3252,15.3751537515,ok
+M02,Romanticism,1960,5,0,0,5,3482,14.3595634693,ok
+M02,Romanticism,1961,4,0,0,4,3460,11.5606936416,ok
+M02,Romanticism,1962,1,0,0,1,3875,2.58064516129,ok
+M02,Romanticism,1963,2,0,0,2,3923,5.0981391792,ok
+M02,Romanticism,1964,4,0,0,4,4264,9.3808630394,ok
+M02,Romanticism,1965,2,0,0,2,4393,4.55269747325,ok
+M02,Romanticism,1966,7,0,0,7,4555,15.3677277717,ok
+M02,Romanticism,1967,5,0,0,5,4831,10.349824053,ok
+M02,Romanticism,1968,2,0,0,2,5448,3.67107195301,ok
+M02,Romanticism,1969,8,0,0,8,6577,12.1636004257,ok
+M02,Romanticism,1970,6,0,0,6,6934,8.65301413326,ok
+M02,Romanticism,1971,10,0,0,10,6439,15.5303618574,ok
+M02,Romanticism,1972,5,0,0,5,6537,7.64876854826,ok
+M02,Romanticism,1973,3,0,0,3,7026,4.26985482494,ok
+M02,Romanticism,1974,12,0,0,12,7333,16.3643801991,ok
+M02,Romanticism,1975,9,0,0,9,7656,11.7554858934,ok
+M02,Romanticism,1976,7,0,0,7,7991,8.75985483669,ok
+M02,Romanticism,1977,3,0,0,3,8525,3.51906158358,ok
+M02,Romanticism,1978,10,0,0,10,8484,11.786892975,ok
+M02,Romanticism,1979,3,0,0,3,8487,3.53481795688,ok
+M02,Romanticism,1980,12,0,0,12,9307,12.8935210057,ok
+M02,Romanticism,1981,11,0,0,11,9429,11.6661363877,ok
+M02,Romanticism,1982,12,0,0,12,9640,12.4481327801,ok
+M02,Romanticism,1983,13,0,0,13,10233,12.7039968729,ok
+M02,Romanticism,1984,10,0,0,10,10835,9.22934933087,ok
+M02,Romanticism,1985,11,0,0,11,10535,10.4413858567,ok
+M02,Romanticism,1986,10,0,0,10,11043,9.055510278,ok
+M02,Romanticism,1987,7,0,0,7,11085,6.3148398737,ok
+M02,Romanticism,1988,5,0,0,5,12023,4.15869583299,ok
+M02,Romanticism,1989,16,0,0,16,13187,12.1331614469,ok
+M02,Romanticism,1990,14,0,0,14,13846,10.111223458,ok
+M02,Romanticism,1991,14,0,0,14,14166,9.88281801497,ok
+M02,Romanticism,1992,15,0,0,15,15297,9.80584428319,ok
+M02,Romanticism,1993,16,0,0,16,15905,10.0597296448,ok
+M02,Romanticism,1994,17,0,0,17,17205,9.88084859053,ok
+M02,Romanticism,1995,11,0,0,11,17858,6.15970433419,ok
+M02,Romanticism,1996,12,0,0,12,18705,6.41539695269,ok
+M02,Romanticism,1997,16,0,0,16,19382,8.25508203488,ok
+M02,Romanticism,1998,15,0,0,15,20500,7.31707317073,ok
+M02,Romanticism,1999,21,0,0,21,22270,9.42972608891,ok
+M02,Romanticism,2000,14,2,0,16,26415,6.05716448987,ok
+M02,Romanticism,2001,27,0,0,27,26482,10.1956045616,ok
+M02,Romanticism,2002,34,0,0,34,31485,10.7987930761,ok
+M02,Romanticism,2003,35,0,0,35,41073,8.52141309376,ok
+M02,Romanticism,2004,38,0,0,38,37606,10.1047705153,ok
+M02,Romanticism,2005,40,0,0,40,41240,9.69932104753,ok
+M02,Romanticism,2006,39,0,0,39,45139,8.63997873236,ok
+M02,Romanticism,2007,42,0,0,42,56297,7.46043306038,ok
+M02,Romanticism,2008,54,0,0,54,56521,9.55397109039,ok
+M02,Romanticism,2009,58,1,0,59,67728,8.71131585164,ok
+M02,Romanticism,2010,57,0,0,57,75172,7.58261054648,ok
+M02,Romanticism,2011,68,1,0,69,78854,8.75034874578,ok
+M02,Romanticism,2012,64,1,0,65,84832,7.66220294229,ok
+M02,Romanticism,2013,76,0,0,76,95876,7.92690558638,ok
+M02,Romanticism,2014,84,0,0,84,95255,8.81843472784,ok
+M02,Romanticism,2015,76,1,0,77,98219,7.83962369806,ok
+M02,Romanticism,2016,78,0,0,78,105715,7.37832852481,ok
+M02,Romanticism,2017,98,0,0,98,161987,6.0498681993,ok
+M02,Romanticism,2018,107,1,0,108,113366,9.52666584337,ok
+M02,Romanticism,2019,84,1,1,84,115014,7.30345870937,ok
+M03,Realism,1800,0,0,0,0,186,0,ok
+M03,Realism,1801,0,0,0,0,22,0,ok
+M03,Realism,1802,0,0,0,0,25,0,ok
+M03,Realism,1803,0,0,0,0,27,0,ok
+M03,Realism,1804,0,0,0,0,13,0,ok
+M03,Realism,1805,0,0,0,0,25,0,ok
+M03,Realism,1806,0,0,0,0,26,0,ok
+M03,Realism,1807,0,0,0,0,24,0,ok
+M03,Realism,1808,0,0,0,0,27,0,ok
+M03,Realism,1809,0,0,0,0,43,0,ok
+M03,Realism,1810,0,0,0,0,43,0,ok
+M03,Realism,1811,0,0,0,0,48,0,ok
+M03,Realism,1812,0,0,0,0,48,0,ok
+M03,Realism,1813,0,0,0,0,23,0,ok
+M03,Realism,1814,0,0,0,0,33,0,ok
+M03,Realism,1815,0,0,0,0,22,0,ok
+M03,Realism,1816,0,0,0,0,14,0,ok
+M03,Realism,1817,0,0,0,0,30,0,ok
+M03,Realism,1818,0,0,0,0,33,0,ok
+M03,Realism,1819,0,0,0,0,19,0,ok
+M03,Realism,1820,0,0,0,0,42,0,ok
+M03,Realism,1821,0,0,0,0,30,0,ok
+M03,Realism,1822,0,0,0,0,29,0,ok
+M03,Realism,1823,0,0,0,0,35,0,ok
+M03,Realism,1824,0,0,0,0,33,0,ok
+M03,Realism,1825,0,0,0,0,57,0,ok
+M03,Realism,1826,0,0,0,0,39,0,ok
+M03,Realism,1827,0,0,0,0,46,0,ok
+M03,Realism,1828,0,0,0,0,42,0,ok
+M03,Realism,1829,0,0,0,0,54,0,ok
+M03,Realism,1830,0,0,0,0,58,0,ok
+M03,Realism,1831,0,0,0,0,43,0,ok
+M03,Realism,1832,0,0,0,0,28,0,ok
+M03,Realism,1833,0,0,0,0,27,0,ok
+M03,Realism,1834,0,0,0,0,74,0,ok
+M03,Realism,1835,0,0,0,0,65,0,ok
+M03,Realism,1836,0,0,0,0,45,0,ok
+M03,Realism,1837,0,0,0,0,35,0,ok
+M03,Realism,1838,0,0,0,0,36,0,ok
+M03,Realism,1839,0,0,0,0,46,0,ok
+M03,Realism,1840,0,0,0,0,85,0,ok
+M03,Realism,1841,0,0,0,0,31,0,ok
+M03,Realism,1842,0,0,0,0,45,0,ok
+M03,Realism,1843,0,0,0,0,44,0,ok
+M03,Realism,1844,0,0,0,0,53,0,ok
+M03,Realism,1845,0,0,0,0,59,0,ok
+M03,Realism,1846,0,0,0,0,104,0,ok
+M03,Realism,1847,0,0,0,0,184,0,ok
+M03,Realism,1848,0,0,0,0,108,0,ok
+M03,Realism,1849,0,0,0,0,77,0,ok
+M03,Realism,1850,1,0,0,1,192,52.0833333333,ok
+M03,Realism,1851,0,0,0,0,156,0,ok
+M03,Realism,1852,0,0,0,0,127,0,ok
+M03,Realism,1853,0,0,0,0,182,0,ok
+M03,Realism,1854,0,0,0,0,134,0,ok
+M03,Realism,1855,0,0,0,0,231,0,ok
+M03,Realism,1856,0,0,0,0,147,0,ok
+M03,Realism,1857,0,0,0,0,1003,0,ok
+M03,Realism,1858,0,0,0,0,194,0,ok
+M03,Realism,1859,0,0,0,0,163,0,ok
+M03,Realism,1860,0,0,0,0,175,0,ok
+M03,Realism,1861,0,0,0,0,121,0,ok
+M03,Realism,1862,0,0,0,0,90,0,ok
+M03,Realism,1863,0,0,0,0,116,0,ok
+M03,Realism,1864,0,0,0,0,102,0,ok
+M03,Realism,1865,0,0,0,0,107,0,ok
+M03,Realism,1866,0,0,0,0,131,0,ok
+M03,Realism,1867,0,0,0,0,155,0,ok
+M03,Realism,1868,0,0,0,0,131,0,ok
+M03,Realism,1869,0,0,0,0,119,0,ok
+M03,Realism,1870,0,0,0,0,204,0,ok
+M03,Realism,1871,0,0,0,0,199,0,ok
+M03,Realism,1872,0,0,0,0,223,0,ok
+M03,Realism,1873,0,0,0,0,165,0,ok
+M03,Realism,1874,0,0,0,0,214,0,ok
+M03,Realism,1875,0,0,0,0,226,0,ok
+M03,Realism,1876,0,0,0,0,232,0,ok
+M03,Realism,1877,0,0,0,0,207,0,ok
+M03,Realism,1878,0,0,0,0,259,0,ok
+M03,Realism,1879,0,0,0,0,287,0,ok
+M03,Realism,1880,0,0,0,0,456,0,ok
+M03,Realism,1881,0,0,0,0,291,0,ok
+M03,Realism,1882,0,0,0,0,202,0,ok
+M03,Realism,1883,0,0,0,0,228,0,ok
+M03,Realism,1884,0,0,0,0,287,0,ok
+M03,Realism,1885,0,0,0,0,284,0,ok
+M03,Realism,1886,0,0,0,0,314,0,ok
+M03,Realism,1887,0,0,0,0,307,0,ok
+M03,Realism,1888,0,0,0,0,305,0,ok
+M03,Realism,1889,0,0,0,0,332,0,ok
+M03,Realism,1890,0,0,0,0,353,0,ok
+M03,Realism,1891,1,0,0,1,353,28.328611898,ok
+M03,Realism,1892,0,0,0,0,313,0,ok
+M03,Realism,1893,0,0,0,0,398,0,ok
+M03,Realism,1894,0,0,0,0,443,0,ok
+M03,Realism,1895,0,0,0,0,484,0,ok
+M03,Realism,1896,0,0,0,0,508,0,ok
+M03,Realism,1897,0,0,0,0,458,0,ok
+M03,Realism,1898,0,0,0,0,543,0,ok
+M03,Realism,1899,2,0,0,2,698,28.6532951289,ok
+M03,Realism,1900,0,0,0,0,749,0,ok
+M03,Realism,1901,0,0,0,0,663,0,ok
+M03,Realism,1902,0,0,0,0,698,0,ok
+M03,Realism,1903,0,0,0,0,631,0,ok
+M03,Realism,1904,0,0,0,0,635,0,ok
+M03,Realism,1905,2,0,0,2,752,26.5957446809,ok
+M03,Realism,1906,1,0,0,1,780,12.8205128205,ok
+M03,Realism,1907,0,0,0,0,660,0,ok
+M03,Realism,1908,0,0,0,0,744,0,ok
+M03,Realism,1909,1,0,0,1,722,13.8504155125,ok
+M03,Realism,1910,0,0,0,0,890,0,ok
+M03,Realism,1911,0,0,0,0,769,0,ok
+M03,Realism,1912,0,0,0,0,773,0,ok
+M03,Realism,1913,0,0,0,0,842,0,ok
+M03,Realism,1914,0,0,0,0,973,0,ok
+M03,Realism,1915,0,0,0,0,862,0,ok
+M03,Realism,1916,0,0,0,0,960,0,ok
+M03,Realism,1917,0,0,0,0,1153,0,ok
+M03,Realism,1918,0,0,0,0,909,0,ok
+M03,Realism,1919,0,0,0,0,830,0,ok
+M03,Realism,1920,0,0,0,0,1068,0,ok
+M03,Realism,1921,0,0,0,0,878,0,ok
+M03,Realism,1922,0,0,0,0,977,0,ok
+M03,Realism,1923,0,0,0,0,1038,0,ok
+M03,Realism,1924,0,0,0,0,1033,0,ok
+M03,Realism,1925,0,0,0,0,1199,0,ok
+M03,Realism,1926,1,0,0,1,1267,7.89265982636,ok
+M03,Realism,1927,0,0,0,0,1289,0,ok
+M03,Realism,1928,0,0,0,0,1340,0,ok
+M03,Realism,1929,0,0,0,0,1476,0,ok
+M03,Realism,1930,0,0,0,0,1729,0,ok
+M03,Realism,1931,0,0,0,0,1545,0,ok
+M03,Realism,1932,0,0,0,0,1440,0,ok
+M03,Realism,1933,1,0,0,1,1388,7.20461095101,ok
+M03,Realism,1934,0,0,0,0,1502,0,ok
+M03,Realism,1935,0,0,0,0,1676,0,ok
+M03,Realism,1936,1,0,0,1,1794,5.57413600892,ok
+M03,Realism,1937,0,0,0,0,1809,0,ok
+M03,Realism,1938,0,0,0,0,1813,0,ok
+M03,Realism,1939,0,0,0,0,1758,0,ok
+M03,Realism,1940,0,0,0,0,1980,0,ok
+M03,Realism,1941,0,0,0,0,1935,0,ok
+M03,Realism,1942,0,0,0,0,1656,0,ok
+M03,Realism,1943,0,0,0,0,1599,0,ok
+M03,Realism,1944,0,0,0,0,1477,0,ok
+M03,Realism,1945,0,0,0,0,1546,0,ok
+M03,Realism,1946,0,0,0,0,1810,0,ok
+M03,Realism,1947,0,0,0,0,2102,0,ok
+M03,Realism,1948,0,0,0,0,2107,0,ok
+M03,Realism,1949,1,0,0,1,2213,4.51875282422,ok
+M03,Realism,1950,0,0,0,0,2656,0,ok
+M03,Realism,1951,0,0,0,0,2418,0,ok
+M03,Realism,1952,0,0,0,0,2328,0,ok
+M03,Realism,1953,0,0,0,0,2336,0,ok
+M03,Realism,1954,1,0,0,1,2459,4.06669377796,ok
+M03,Realism,1955,0,0,0,0,2652,0,ok
+M03,Realism,1956,2,1,0,3,2641,11.3593335858,ok
+M03,Realism,1957,0,0,0,0,2797,0,ok
+M03,Realism,1958,0,0,0,0,2861,0,ok
+M03,Realism,1959,0,0,0,0,3252,0,ok
+M03,Realism,1960,0,0,0,0,3482,0,ok
+M03,Realism,1961,0,0,0,0,3460,0,ok
+M03,Realism,1962,0,0,0,0,3875,0,ok
+M03,Realism,1963,0,0,0,0,3923,0,ok
+M03,Realism,1964,0,0,0,0,4264,0,ok
+M03,Realism,1965,0,0,0,0,4393,0,ok
+M03,Realism,1966,0,0,0,0,4555,0,ok
+M03,Realism,1967,1,0,0,1,4831,2.0699648106,ok
+M03,Realism,1968,1,0,0,1,5448,1.83553597651,ok
+M03,Realism,1969,2,0,0,2,6577,3.04090010643,ok
+M03,Realism,1970,0,0,0,0,6934,0,ok
+M03,Realism,1971,1,0,0,1,6439,1.55303618574,ok
+M03,Realism,1972,0,1,0,1,6537,1.52975370965,ok
+M03,Realism,1973,0,0,0,0,7026,0,ok
+M03,Realism,1974,2,0,0,2,7333,2.72739669985,ok
+M03,Realism,1975,1,0,0,1,7656,1.30616509927,ok
+M03,Realism,1976,3,0,0,3,7991,3.75422350144,ok
+M03,Realism,1977,0,0,0,0,8525,0,ok
+M03,Realism,1978,1,0,0,1,8484,1.1786892975,ok
+M03,Realism,1979,0,1,0,1,8487,1.17827265229,ok
+M03,Realism,1980,3,0,0,3,9307,3.22338025142,ok
+M03,Realism,1981,3,0,0,3,9429,3.18167356029,ok
+M03,Realism,1982,0,0,0,0,9640,0,ok
+M03,Realism,1983,1,1,0,2,10233,1.95446105736,ok
+M03,Realism,1984,2,0,0,2,10835,1.84586986617,ok
+M03,Realism,1985,3,0,0,3,10535,2.84765068818,ok
+M03,Realism,1986,3,0,0,3,11043,2.7166530834,ok
+M03,Realism,1987,1,0,0,1,11085,0.902119981958,ok
+M03,Realism,1988,0,0,0,0,12023,0,ok
+M03,Realism,1989,2,0,0,2,13187,1.51664518086,ok
+M03,Realism,1990,1,1,0,2,13846,1.44446049401,ok
+M03,Realism,1991,6,0,0,6,14166,4.23549343499,ok
+M03,Realism,1992,5,0,0,5,15297,3.26861476106,ok
+M03,Realism,1993,3,0,0,3,15905,1.88619930839,ok
+M03,Realism,1994,5,0,0,5,17205,2.90613193839,ok
+M03,Realism,1995,2,0,0,2,17858,1.11994624258,ok
+M03,Realism,1996,2,0,0,2,18705,1.06923282545,ok
+M03,Realism,1997,11,0,0,11,19382,5.67536889898,ok
+M03,Realism,1998,7,1,0,8,20500,3.90243902439,ok
+M03,Realism,1999,1,0,0,1,22270,0.449034575662,ok
+M03,Realism,2000,7,0,0,7,26415,2.65000946432,ok
+M03,Realism,2001,8,1,0,9,26482,3.39853485386,ok
+M03,Realism,2002,4,1,0,5,31485,1.5880578053,ok
+M03,Realism,2003,7,0,0,7,41073,1.70428261875,ok
+M03,Realism,2004,10,0,0,10,37606,2.65915013562,ok
+M03,Realism,2005,14,1,0,15,41240,3.63724539282,ok
+M03,Realism,2006,11,0,0,11,45139,2.43691707836,ok
+M03,Realism,2007,14,3,0,17,56297,3.01969909587,ok
+M03,Realism,2008,8,0,0,8,56521,1.4154031245,ok
+M03,Realism,2009,12,0,0,12,67728,1.77179305457,ok
+M03,Realism,2010,9,1,0,10,75172,1.33028255201,ok
+M03,Realism,2011,15,1,0,16,78854,2.02906637583,ok
+M03,Realism,2012,20,1,0,21,84832,2.47548095058,ok
+M03,Realism,2013,20,3,0,23,95876,2.39893195377,ok
+M03,Realism,2014,16,1,0,17,95255,1.78468321873,ok
+M03,Realism,2015,18,0,0,18,98219,1.83263930604,ok
+M03,Realism,2016,17,2,0,19,105715,1.79728515348,ok
+M03,Realism,2017,45,3,0,48,161987,2.96320075068,ok
+M03,Realism,2018,27,6,0,33,113366,2.91092567436,ok
+M03,Realism,2019,23,0,0,23,115014,1.99975655138,ok
+M04,Academic art,1800,0,0,0,0,186,0,ok
+M04,Academic art,1801,0,0,0,0,22,0,ok
+M04,Academic art,1802,0,0,0,0,25,0,ok
+M04,Academic art,1803,0,0,0,0,27,0,ok
+M04,Academic art,1804,0,0,0,0,13,0,ok
+M04,Academic art,1805,0,0,0,0,25,0,ok
+M04,Academic art,1806,0,0,0,0,26,0,ok
+M04,Academic art,1807,0,0,0,0,24,0,ok
+M04,Academic art,1808,0,0,0,0,27,0,ok
+M04,Academic art,1809,0,0,0,0,43,0,ok
+M04,Academic art,1810,0,0,0,0,43,0,ok
+M04,Academic art,1811,0,0,0,0,48,0,ok
+M04,Academic art,1812,0,0,0,0,48,0,ok
+M04,Academic art,1813,0,0,0,0,23,0,ok
+M04,Academic art,1814,0,0,0,0,33,0,ok
+M04,Academic art,1815,0,0,0,0,22,0,ok
+M04,Academic art,1816,0,0,0,0,14,0,ok
+M04,Academic art,1817,0,0,0,0,30,0,ok
+M04,Academic art,1818,0,0,0,0,33,0,ok
+M04,Academic art,1819,0,0,0,0,19,0,ok
+M04,Academic art,1820,0,0,0,0,42,0,ok
+M04,Academic art,1821,0,0,0,0,30,0,ok
+M04,Academic art,1822,0,0,0,0,29,0,ok
+M04,Academic art,1823,0,0,0,0,35,0,ok
+M04,Academic art,1824,0,0,0,0,33,0,ok
+M04,Academic art,1825,0,0,0,0,57,0,ok
+M04,Academic art,1826,0,0,0,0,39,0,ok
+M04,Academic art,1827,0,0,0,0,46,0,ok
+M04,Academic art,1828,0,0,0,0,42,0,ok
+M04,Academic art,1829,0,0,0,0,54,0,ok
+M04,Academic art,1830,0,0,0,0,58,0,ok
+M04,Academic art,1831,0,0,0,0,43,0,ok
+M04,Academic art,1832,0,0,0,0,28,0,ok
+M04,Academic art,1833,0,0,0,0,27,0,ok
+M04,Academic art,1834,0,0,0,0,74,0,ok
+M04,Academic art,1835,0,0,0,0,65,0,ok
+M04,Academic art,1836,0,0,0,0,45,0,ok
+M04,Academic art,1837,0,0,0,0,35,0,ok
+M04,Academic art,1838,0,0,0,0,36,0,ok
+M04,Academic art,1839,0,0,0,0,46,0,ok
+M04,Academic art,1840,0,0,0,0,85,0,ok
+M04,Academic art,1841,0,0,0,0,31,0,ok
+M04,Academic art,1842,0,0,0,0,45,0,ok
+M04,Academic art,1843,0,0,0,0,44,0,ok
+M04,Academic art,1844,0,0,0,0,53,0,ok
+M04,Academic art,1845,0,0,0,0,59,0,ok
+M04,Academic art,1846,0,0,0,0,104,0,ok
+M04,Academic art,1847,0,0,0,0,184,0,ok
+M04,Academic art,1848,0,0,0,0,108,0,ok
+M04,Academic art,1849,0,0,0,0,77,0,ok
+M04,Academic art,1850,0,0,0,0,192,0,ok
+M04,Academic art,1851,0,0,0,0,156,0,ok
+M04,Academic art,1852,0,0,0,0,127,0,ok
+M04,Academic art,1853,0,0,0,0,182,0,ok
+M04,Academic art,1854,0,0,0,0,134,0,ok
+M04,Academic art,1855,0,0,0,0,231,0,ok
+M04,Academic art,1856,0,0,0,0,147,0,ok
+M04,Academic art,1857,0,0,0,0,1003,0,ok
+M04,Academic art,1858,0,0,0,0,194,0,ok
+M04,Academic art,1859,0,0,0,0,163,0,ok
+M04,Academic art,1860,0,0,0,0,175,0,ok
+M04,Academic art,1861,0,0,0,0,121,0,ok
+M04,Academic art,1862,0,0,0,0,90,0,ok
+M04,Academic art,1863,0,0,0,0,116,0,ok
+M04,Academic art,1864,0,0,0,0,102,0,ok
+M04,Academic art,1865,0,0,0,0,107,0,ok
+M04,Academic art,1866,0,0,0,0,131,0,ok
+M04,Academic art,1867,0,0,0,0,155,0,ok
+M04,Academic art,1868,0,0,0,0,131,0,ok
+M04,Academic art,1869,0,0,0,0,119,0,ok
+M04,Academic art,1870,0,0,0,0,204,0,ok
+M04,Academic art,1871,0,0,0,0,199,0,ok
+M04,Academic art,1872,0,0,0,0,223,0,ok
+M04,Academic art,1873,0,0,0,0,165,0,ok
+M04,Academic art,1874,0,0,0,0,214,0,ok
+M04,Academic art,1875,0,0,0,0,226,0,ok
+M04,Academic art,1876,0,0,0,0,232,0,ok
+M04,Academic art,1877,0,0,0,0,207,0,ok
+M04,Academic art,1878,0,0,0,0,259,0,ok
+M04,Academic art,1879,0,0,0,0,287,0,ok
+M04,Academic art,1880,0,0,0,0,456,0,ok
+M04,Academic art,1881,1,0,0,1,291,34.3642611684,ok
+M04,Academic art,1882,0,0,0,0,202,0,ok
+M04,Academic art,1883,0,0,0,0,228,0,ok
+M04,Academic art,1884,0,0,0,0,287,0,ok
+M04,Academic art,1885,0,0,0,0,284,0,ok
+M04,Academic art,1886,0,0,0,0,314,0,ok
+M04,Academic art,1887,0,0,0,0,307,0,ok
+M04,Academic art,1888,0,0,0,0,305,0,ok
+M04,Academic art,1889,0,0,0,0,332,0,ok
+M04,Academic art,1890,0,0,0,0,353,0,ok
+M04,Academic art,1891,0,0,0,0,353,0,ok
+M04,Academic art,1892,0,0,0,0,313,0,ok
+M04,Academic art,1893,1,0,0,1,398,25.1256281407,ok
+M04,Academic art,1894,0,0,0,0,443,0,ok
+M04,Academic art,1895,0,0,0,0,484,0,ok
+M04,Academic art,1896,0,1,0,1,508,19.6850393701,ok
+M04,Academic art,1897,0,0,0,0,458,0,ok
+M04,Academic art,1898,0,0,0,0,543,0,ok
+M04,Academic art,1899,0,0,0,0,698,0,ok
+M04,Academic art,1900,0,1,0,1,749,13.3511348465,ok
+M04,Academic art,1901,0,0,0,0,663,0,ok
+M04,Academic art,1902,0,0,0,0,698,0,ok
+M04,Academic art,1903,0,0,0,0,631,0,ok
+M04,Academic art,1904,0,0,0,0,635,0,ok
+M04,Academic art,1905,0,0,0,0,752,0,ok
+M04,Academic art,1906,0,0,0,0,780,0,ok
+M04,Academic art,1907,0,0,0,0,660,0,ok
+M04,Academic art,1908,0,0,0,0,744,0,ok
+M04,Academic art,1909,0,0,0,0,722,0,ok
+M04,Academic art,1910,0,0,0,0,890,0,ok
+M04,Academic art,1911,0,0,0,0,769,0,ok
+M04,Academic art,1912,0,0,0,0,773,0,ok
+M04,Academic art,1913,0,1,0,1,842,11.8764845606,ok
+M04,Academic art,1914,0,0,0,0,973,0,ok
+M04,Academic art,1915,0,0,0,0,862,0,ok
+M04,Academic art,1916,0,0,0,0,960,0,ok
+M04,Academic art,1917,0,0,0,0,1153,0,ok
+M04,Academic art,1918,0,0,0,0,909,0,ok
+M04,Academic art,1919,0,0,0,0,830,0,ok
+M04,Academic art,1920,0,0,0,0,1068,0,ok
+M04,Academic art,1921,0,0,0,0,878,0,ok
+M04,Academic art,1922,0,0,0,0,977,0,ok
+M04,Academic art,1923,0,0,0,0,1038,0,ok
+M04,Academic art,1924,0,0,0,0,1033,0,ok
+M04,Academic art,1925,0,0,0,0,1199,0,ok
+M04,Academic art,1926,0,0,0,0,1267,0,ok
+M04,Academic art,1927,0,0,0,0,1289,0,ok
+M04,Academic art,1928,0,0,0,0,1340,0,ok
+M04,Academic art,1929,0,0,0,0,1476,0,ok
+M04,Academic art,1930,0,1,0,1,1729,5.78368999422,ok
+M04,Academic art,1931,0,0,0,0,1545,0,ok
+M04,Academic art,1932,0,0,0,0,1440,0,ok
+M04,Academic art,1933,0,0,0,0,1388,0,ok
+M04,Academic art,1934,0,0,0,0,1502,0,ok
+M04,Academic art,1935,0,0,0,0,1676,0,ok
+M04,Academic art,1936,0,0,0,0,1794,0,ok
+M04,Academic art,1937,0,0,0,0,1809,0,ok
+M04,Academic art,1938,0,0,0,0,1813,0,ok
+M04,Academic art,1939,0,0,0,0,1758,0,ok
+M04,Academic art,1940,0,0,0,0,1980,0,ok
+M04,Academic art,1941,0,0,0,0,1935,0,ok
+M04,Academic art,1942,0,0,0,0,1656,0,ok
+M04,Academic art,1943,0,0,0,0,1599,0,ok
+M04,Academic art,1944,0,0,0,0,1477,0,ok
+M04,Academic art,1945,0,0,0,0,1546,0,ok
+M04,Academic art,1946,0,0,0,0,1810,0,ok
+M04,Academic art,1947,0,0,0,0,2102,0,ok
+M04,Academic art,1948,0,0,0,0,2107,0,ok
+M04,Academic art,1949,0,0,0,0,2213,0,ok
+M04,Academic art,1950,0,0,0,0,2656,0,ok
+M04,Academic art,1951,0,0,0,0,2418,0,ok
+M04,Academic art,1952,0,0,0,0,2328,0,ok
+M04,Academic art,1953,0,0,0,0,2336,0,ok
+M04,Academic art,1954,0,0,0,0,2459,0,ok
+M04,Academic art,1955,0,0,0,0,2652,0,ok
+M04,Academic art,1956,1,0,0,1,2641,3.78644452859,ok
+M04,Academic art,1957,0,0,0,0,2797,0,ok
+M04,Academic art,1958,0,0,0,0,2861,0,ok
+M04,Academic art,1959,0,0,0,0,3252,0,ok
+M04,Academic art,1960,0,0,0,0,3482,0,ok
+M04,Academic art,1961,0,0,0,0,3460,0,ok
+M04,Academic art,1962,0,0,0,0,3875,0,ok
+M04,Academic art,1963,0,0,0,0,3923,0,ok
+M04,Academic art,1964,0,0,0,0,4264,0,ok
+M04,Academic art,1965,0,0,0,0,4393,0,ok
+M04,Academic art,1966,0,0,0,0,4555,0,ok
+M04,Academic art,1967,0,0,0,0,4831,0,ok
+M04,Academic art,1968,0,0,0,0,5448,0,ok
+M04,Academic art,1969,0,0,0,0,6577,0,ok
+M04,Academic art,1970,1,0,0,1,6934,1.44216902221,ok
+M04,Academic art,1971,0,0,0,0,6439,0,ok
+M04,Academic art,1972,0,0,0,0,6537,0,ok
+M04,Academic art,1973,0,0,0,0,7026,0,ok
+M04,Academic art,1974,0,0,0,0,7333,0,ok
+M04,Academic art,1975,0,1,0,1,7656,1.30616509927,ok
+M04,Academic art,1976,0,0,0,0,7991,0,ok
+M04,Academic art,1977,0,0,0,0,8525,0,ok
+M04,Academic art,1978,0,0,0,0,8484,0,ok
+M04,Academic art,1979,0,1,0,1,8487,1.17827265229,ok
+M04,Academic art,1980,2,0,0,2,9307,2.14892016762,ok
+M04,Academic art,1981,6,0,0,6,9429,6.36334712059,ok
+M04,Academic art,1982,1,0,0,1,9640,1.03734439834,ok
+M04,Academic art,1983,0,0,0,0,10233,0,ok
+M04,Academic art,1984,0,0,0,0,10835,0,ok
+M04,Academic art,1985,0,0,0,0,10535,0,ok
+M04,Academic art,1986,1,0,0,1,11043,0.9055510278,ok
+M04,Academic art,1987,0,0,0,0,11085,0,ok
+M04,Academic art,1988,0,0,0,0,12023,0,ok
+M04,Academic art,1989,0,0,0,0,13187,0,ok
+M04,Academic art,1990,1,0,0,1,13846,0.722230247003,ok
+M04,Academic art,1991,1,0,0,1,14166,0.705915572498,ok
+M04,Academic art,1992,0,0,0,0,15297,0,ok
+M04,Academic art,1993,0,0,0,0,15905,0,ok
+M04,Academic art,1994,2,0,0,2,17205,1.16245277536,ok
+M04,Academic art,1995,0,0,0,0,17858,0,ok
+M04,Academic art,1996,0,0,0,0,18705,0,ok
+M04,Academic art,1997,0,0,0,0,19382,0,ok
+M04,Academic art,1998,1,0,0,1,20500,0.487804878049,ok
+M04,Academic art,1999,2,0,0,2,22270,0.898069151325,ok
+M04,Academic art,2000,1,0,0,1,26415,0.378572780617,ok
+M04,Academic art,2001,0,0,0,0,26482,0,ok
+M04,Academic art,2002,1,0,0,1,31485,0.317611561061,ok
+M04,Academic art,2003,2,0,0,2,41073,0.486937891072,ok
+M04,Academic art,2004,1,0,0,1,37606,0.265915013562,ok
+M04,Academic art,2005,1,1,0,2,41240,0.484966052376,ok
+M04,Academic art,2006,1,0,0,1,45139,0.221537916214,ok
+M04,Academic art,2007,1,1,0,2,56297,0.355258717161,ok
+M04,Academic art,2008,2,0,0,2,56521,0.353850781126,ok
+M04,Academic art,2009,2,0,0,2,67728,0.295298842429,ok
+M04,Academic art,2010,7,0,0,7,75172,0.93119778641,ok
+M04,Academic art,2011,4,0,0,4,78854,0.507266593958,ok
+M04,Academic art,2012,7,0,0,7,84832,0.825160316862,ok
+M04,Academic art,2013,5,0,0,5,95876,0.521506946473,ok
+M04,Academic art,2014,4,0,0,4,95255,0.41992546323,ok
+M04,Academic art,2015,4,0,0,4,98219,0.40725317912,ok
+M04,Academic art,2016,2,5,0,7,105715,0.662157688124,ok
+M04,Academic art,2017,9,0,0,9,161987,0.555600140752,ok
+M04,Academic art,2018,9,1,0,10,113366,0.882098689201,ok
+M04,Academic art,2019,12,1,0,13,115014,1.13029718121,ok
+M05,Impressionism,1800,0,0,0,0,186,0,ok
+M05,Impressionism,1801,0,0,0,0,22,0,ok
+M05,Impressionism,1802,0,0,0,0,25,0,ok
+M05,Impressionism,1803,0,0,0,0,27,0,ok
+M05,Impressionism,1804,0,0,0,0,13,0,ok
+M05,Impressionism,1805,0,0,0,0,25,0,ok
+M05,Impressionism,1806,0,0,0,0,26,0,ok
+M05,Impressionism,1807,0,0,0,0,24,0,ok
+M05,Impressionism,1808,0,0,0,0,27,0,ok
+M05,Impressionism,1809,0,0,0,0,43,0,ok
+M05,Impressionism,1810,0,0,0,0,43,0,ok
+M05,Impressionism,1811,0,0,0,0,48,0,ok
+M05,Impressionism,1812,0,0,0,0,48,0,ok
+M05,Impressionism,1813,0,0,0,0,23,0,ok
+M05,Impressionism,1814,0,0,0,0,33,0,ok
+M05,Impressionism,1815,0,0,0,0,22,0,ok
+M05,Impressionism,1816,0,0,0,0,14,0,ok
+M05,Impressionism,1817,0,0,0,0,30,0,ok
+M05,Impressionism,1818,0,0,0,0,33,0,ok
+M05,Impressionism,1819,0,0,0,0,19,0,ok
+M05,Impressionism,1820,0,0,0,0,42,0,ok
+M05,Impressionism,1821,0,0,0,0,30,0,ok
+M05,Impressionism,1822,0,0,0,0,29,0,ok
+M05,Impressionism,1823,0,0,0,0,35,0,ok
+M05,Impressionism,1824,0,0,0,0,33,0,ok
+M05,Impressionism,1825,0,0,0,0,57,0,ok
+M05,Impressionism,1826,0,0,0,0,39,0,ok
+M05,Impressionism,1827,0,0,0,0,46,0,ok
+M05,Impressionism,1828,0,0,0,0,42,0,ok
+M05,Impressionism,1829,0,0,0,0,54,0,ok
+M05,Impressionism,1830,0,0,0,0,58,0,ok
+M05,Impressionism,1831,0,0,0,0,43,0,ok
+M05,Impressionism,1832,0,0,0,0,28,0,ok
+M05,Impressionism,1833,0,0,0,0,27,0,ok
+M05,Impressionism,1834,0,0,0,0,74,0,ok
+M05,Impressionism,1835,0,0,0,0,65,0,ok
+M05,Impressionism,1836,0,0,0,0,45,0,ok
+M05,Impressionism,1837,0,0,0,0,35,0,ok
+M05,Impressionism,1838,0,0,0,0,36,0,ok
+M05,Impressionism,1839,0,0,0,0,46,0,ok
+M05,Impressionism,1840,0,0,0,0,85,0,ok
+M05,Impressionism,1841,0,0,0,0,31,0,ok
+M05,Impressionism,1842,0,0,0,0,45,0,ok
+M05,Impressionism,1843,0,0,0,0,44,0,ok
+M05,Impressionism,1844,0,0,0,0,53,0,ok
+M05,Impressionism,1845,0,0,0,0,59,0,ok
+M05,Impressionism,1846,0,0,0,0,104,0,ok
+M05,Impressionism,1847,0,0,0,0,184,0,ok
+M05,Impressionism,1848,0,0,0,0,108,0,ok
+M05,Impressionism,1849,0,0,0,0,77,0,ok
+M05,Impressionism,1850,0,0,0,0,192,0,ok
+M05,Impressionism,1851,0,0,0,0,156,0,ok
+M05,Impressionism,1852,0,0,0,0,127,0,ok
+M05,Impressionism,1853,0,0,0,0,182,0,ok
+M05,Impressionism,1854,0,0,0,0,134,0,ok
+M05,Impressionism,1855,0,0,0,0,231,0,ok
+M05,Impressionism,1856,0,0,0,0,147,0,ok
+M05,Impressionism,1857,0,0,0,0,1003,0,ok
+M05,Impressionism,1858,0,0,0,0,194,0,ok
+M05,Impressionism,1859,0,0,0,0,163,0,ok
+M05,Impressionism,1860,0,0,0,0,175,0,ok
+M05,Impressionism,1861,0,0,0,0,121,0,ok
+M05,Impressionism,1862,0,0,0,0,90,0,ok
+M05,Impressionism,1863,0,0,0,0,116,0,ok
+M05,Impressionism,1864,0,0,0,0,102,0,ok
+M05,Impressionism,1865,0,0,0,0,107,0,ok
+M05,Impressionism,1866,0,0,0,0,131,0,ok
+M05,Impressionism,1867,0,0,0,0,155,0,ok
+M05,Impressionism,1868,0,0,0,0,131,0,ok
+M05,Impressionism,1869,0,0,0,0,119,0,ok
+M05,Impressionism,1870,0,0,0,0,204,0,ok
+M05,Impressionism,1871,0,0,0,0,199,0,ok
+M05,Impressionism,1872,0,0,0,0,223,0,ok
+M05,Impressionism,1873,0,0,0,0,165,0,ok
+M05,Impressionism,1874,0,0,0,0,214,0,ok
+M05,Impressionism,1875,0,0,0,0,226,0,ok
+M05,Impressionism,1876,0,0,0,0,232,0,ok
+M05,Impressionism,1877,0,0,0,0,207,0,ok
+M05,Impressionism,1878,0,0,0,0,259,0,ok
+M05,Impressionism,1879,0,0,0,0,287,0,ok
+M05,Impressionism,1880,0,0,0,0,456,0,ok
+M05,Impressionism,1881,0,0,0,0,291,0,ok
+M05,Impressionism,1882,0,0,0,0,202,0,ok
+M05,Impressionism,1883,0,1,0,1,228,43.8596491228,ok
+M05,Impressionism,1884,0,0,0,0,287,0,ok
+M05,Impressionism,1885,0,0,0,0,284,0,ok
+M05,Impressionism,1886,0,0,0,0,314,0,ok
+M05,Impressionism,1887,0,0,0,0,307,0,ok
+M05,Impressionism,1888,0,0,0,0,305,0,ok
+M05,Impressionism,1889,0,0,0,0,332,0,ok
+M05,Impressionism,1890,0,0,0,0,353,0,ok
+M05,Impressionism,1891,0,0,0,0,353,0,ok
+M05,Impressionism,1892,0,0,0,0,313,0,ok
+M05,Impressionism,1893,0,1,0,1,398,25.1256281407,ok
+M05,Impressionism,1894,0,0,0,0,443,0,ok
+M05,Impressionism,1895,0,1,0,1,484,20.6611570248,ok
+M05,Impressionism,1896,0,0,0,0,508,0,ok
+M05,Impressionism,1897,1,0,0,1,458,21.8340611354,ok
+M05,Impressionism,1898,0,0,0,0,543,0,ok
+M05,Impressionism,1899,0,0,0,0,698,0,ok
+M05,Impressionism,1900,1,0,0,1,749,13.3511348465,ok
+M05,Impressionism,1901,1,0,0,1,663,15.0829562594,ok
+M05,Impressionism,1902,0,0,0,0,698,0,ok
+M05,Impressionism,1903,0,1,0,1,631,15.8478605388,ok
+M05,Impressionism,1904,1,0,0,1,635,15.7480314961,ok
+M05,Impressionism,1905,1,1,1,1,752,13.2978723404,ok
+M05,Impressionism,1906,0,0,0,0,780,0,ok
+M05,Impressionism,1907,0,0,0,0,660,0,ok
+M05,Impressionism,1908,0,0,0,0,744,0,ok
+M05,Impressionism,1909,0,0,0,0,722,0,ok
+M05,Impressionism,1910,0,0,0,0,890,0,ok
+M05,Impressionism,1911,0,0,0,0,769,0,ok
+M05,Impressionism,1912,0,0,0,0,773,0,ok
+M05,Impressionism,1913,1,0,0,1,842,11.8764845606,ok
+M05,Impressionism,1914,3,0,0,3,973,30.8324768756,ok
+M05,Impressionism,1915,1,0,0,1,862,11.6009280742,ok
+M05,Impressionism,1916,0,0,0,0,960,0,ok
+M05,Impressionism,1917,0,1,0,1,1153,8.67302688638,ok
+M05,Impressionism,1918,1,0,0,1,909,11.00110011,ok
+M05,Impressionism,1919,0,0,0,0,830,0,ok
+M05,Impressionism,1920,1,0,0,1,1068,9.36329588015,ok
+M05,Impressionism,1921,0,0,0,0,878,0,ok
+M05,Impressionism,1922,0,0,0,0,977,0,ok
+M05,Impressionism,1923,0,0,0,0,1038,0,ok
+M05,Impressionism,1924,0,1,0,1,1033,9.68054211036,ok
+M05,Impressionism,1925,1,0,0,1,1199,8.34028356964,ok
+M05,Impressionism,1926,0,0,0,0,1267,0,ok
+M05,Impressionism,1927,0,0,0,0,1289,0,ok
+M05,Impressionism,1928,3,0,0,3,1340,22.3880597015,ok
+M05,Impressionism,1929,0,0,0,0,1476,0,ok
+M05,Impressionism,1930,1,0,0,1,1729,5.78368999422,ok
+M05,Impressionism,1931,0,1,0,1,1545,6.47249190939,ok
+M05,Impressionism,1932,0,1,0,1,1440,6.94444444444,ok
+M05,Impressionism,1933,4,0,0,4,1388,28.818443804,ok
+M05,Impressionism,1934,1,0,0,1,1502,6.65778961385,ok
+M05,Impressionism,1935,3,0,0,3,1676,17.8997613365,ok
+M05,Impressionism,1936,2,0,0,2,1794,11.1482720178,ok
+M05,Impressionism,1937,1,1,0,2,1809,11.0558319514,ok
+M05,Impressionism,1938,1,0,0,1,1813,5.51571980143,ok
+M05,Impressionism,1939,0,1,0,1,1758,5.68828213879,ok
+M05,Impressionism,1940,1,0,0,1,1980,5.05050505051,ok
+M05,Impressionism,1941,0,2,0,2,1935,10.3359173127,ok
+M05,Impressionism,1942,0,1,0,1,1656,6.038647343,ok
+M05,Impressionism,1943,1,0,0,1,1599,6.25390869293,ok
+M05,Impressionism,1944,0,2,0,2,1477,13.5409614083,ok
+M05,Impressionism,1945,0,1,0,1,1546,6.46830530401,ok
+M05,Impressionism,1946,3,0,0,3,1810,16.5745856354,ok
+M05,Impressionism,1947,0,2,0,2,2102,9.51474785918,ok
+M05,Impressionism,1948,0,0,0,0,2107,0,ok
+M05,Impressionism,1949,3,2,0,5,2213,22.5937641211,ok
+M05,Impressionism,1950,0,1,0,1,2656,3.76506024096,ok
+M05,Impressionism,1951,1,1,0,2,2418,8.27129859388,ok
+M05,Impressionism,1952,2,2,0,4,2328,17.1821305842,ok
+M05,Impressionism,1953,2,1,0,3,2336,12.8424657534,ok
+M05,Impressionism,1954,2,1,0,3,2459,12.2000813339,ok
+M05,Impressionism,1955,1,1,0,2,2652,7.54147812971,ok
+M05,Impressionism,1956,1,1,0,2,2641,7.57288905718,ok
+M05,Impressionism,1957,1,2,0,3,2797,10.7257776189,ok
+M05,Impressionism,1958,2,1,0,3,2861,10.4858441105,ok
+M05,Impressionism,1959,3,1,0,4,3252,12.3001230012,ok
+M05,Impressionism,1960,2,2,0,4,3482,11.4876507754,ok
+M05,Impressionism,1961,2,0,0,2,3460,5.78034682081,ok
+M05,Impressionism,1962,2,1,0,3,3875,7.74193548387,ok
+M05,Impressionism,1963,1,2,0,3,3923,7.6472087688,ok
+M05,Impressionism,1964,4,1,0,5,4264,11.7260787992,ok
+M05,Impressionism,1965,1,0,0,1,4393,2.27634873663,ok
+M05,Impressionism,1966,4,2,0,6,4555,13.17233809,ok
+M05,Impressionism,1967,1,1,0,2,4831,4.1399296212,ok
+M05,Impressionism,1968,0,2,0,2,5448,3.67107195301,ok
+M05,Impressionism,1969,2,3,0,5,6577,7.60225026608,ok
+M05,Impressionism,1970,3,3,1,5,6934,7.21084511105,ok
+M05,Impressionism,1971,2,4,0,6,6439,9.31821711446,ok
+M05,Impressionism,1972,1,3,0,4,6537,6.11901483861,ok
+M05,Impressionism,1973,6,3,0,9,7026,12.8095644748,ok
+M05,Impressionism,1974,4,2,0,6,7333,8.18219009955,ok
+M05,Impressionism,1975,6,5,0,11,7656,14.367816092,ok
+M05,Impressionism,1976,2,5,0,7,7991,8.75985483669,ok
+M05,Impressionism,1977,2,1,0,3,8525,3.51906158358,ok
+M05,Impressionism,1978,10,5,1,14,8484,16.501650165,ok
+M05,Impressionism,1979,2,4,0,6,8487,7.06963591375,ok
+M05,Impressionism,1980,8,4,1,11,9307,11.8190609219,ok
+M05,Impressionism,1981,3,8,1,10,9429,10.6055785343,ok
+M05,Impressionism,1982,2,1,0,3,9640,3.11203319502,ok
+M05,Impressionism,1983,4,4,0,8,10233,7.81784422945,ok
+M05,Impressionism,1984,9,3,0,12,10835,11.075219197,ok
+M05,Impressionism,1985,8,5,0,13,10535,12.3398196488,ok
+M05,Impressionism,1986,3,13,0,16,11043,14.4888164448,ok
+M05,Impressionism,1987,4,5,0,9,11085,8.11907983762,ok
+M05,Impressionism,1988,13,9,0,22,12023,18.2982616651,ok
+M05,Impressionism,1989,8,5,0,13,13187,9.85819367559,ok
+M05,Impressionism,1990,13,14,3,24,13846,17.3335259281,ok
+M05,Impressionism,1991,8,17,0,25,14166,17.6478893124,ok
+M05,Impressionism,1992,9,11,0,20,15297,13.0744590443,ok
+M05,Impressionism,1993,13,13,0,26,15905,16.3470606727,ok
+M05,Impressionism,1994,15,19,0,34,17205,19.7616971811,ok
+M05,Impressionism,1995,18,16,0,34,17858,19.0390861239,ok
+M05,Impressionism,1996,20,17,1,36,18705,19.2461908581,ok
+M05,Impressionism,1997,22,16,1,37,19382,19.0898772057,ok
+M05,Impressionism,1998,17,14,4,27,20500,13.1707317073,ok
+M05,Impressionism,1999,15,15,0,30,22270,13.4710372699,ok
+M05,Impressionism,2000,18,27,3,42,26415,15.9000567859,ok
+M05,Impressionism,2001,13,12,0,25,26482,9.44037459406,ok
+M05,Impressionism,2002,27,11,1,37,31485,11.7516277593,ok
+M05,Impressionism,2003,16,20,2,34,41073,8.27794414822,ok
+M05,Impressionism,2004,31,17,2,46,37606,12.2320906238,ok
+M05,Impressionism,2005,30,16,2,44,41240,10.6692531523,ok
+M05,Impressionism,2006,23,18,1,40,45139,8.86151664857,ok
+M05,Impressionism,2007,38,32,3,67,56297,11.9011670249,ok
+M05,Impressionism,2008,39,25,4,60,56521,10.6155234338,ok
+M05,Impressionism,2009,37,41,3,75,67728,11.0737065911,ok
+M05,Impressionism,2010,57,39,3,93,75172,12.3716277337,ok
+M05,Impressionism,2011,36,25,2,59,78854,7.48218226089,ok
+M05,Impressionism,2012,62,23,0,85,84832,10.0198038476,ok
+M05,Impressionism,2013,61,40,4,97,95876,10.1172347616,ok
+M05,Impressionism,2014,59,44,5,98,95255,10.2881738491,ok
+M05,Impressionism,2015,59,44,10,93,98219,9.46863641454,ok
+M05,Impressionism,2016,60,27,5,82,105715,7.75670434659,ok
+M05,Impressionism,2017,75,45,2,118,161987,7.28453517875,ok
+M05,Impressionism,2018,90,59,9,140,113366,12.3493816488,ok
+M05,Impressionism,2019,83,46,7,122,115014,10.607404316,ok
+M06,Post-Impressionism,1800,0,0,0,0,186,0,ok
+M06,Post-Impressionism,1801,0,0,0,0,22,0,ok
+M06,Post-Impressionism,1802,0,0,0,0,25,0,ok
+M06,Post-Impressionism,1803,0,0,0,0,27,0,ok
+M06,Post-Impressionism,1804,0,0,0,0,13,0,ok
+M06,Post-Impressionism,1805,0,0,0,0,25,0,ok
+M06,Post-Impressionism,1806,0,0,0,0,26,0,ok
+M06,Post-Impressionism,1807,0,0,0,0,24,0,ok
+M06,Post-Impressionism,1808,0,0,0,0,27,0,ok
+M06,Post-Impressionism,1809,0,0,0,0,43,0,ok
+M06,Post-Impressionism,1810,0,0,0,0,43,0,ok
+M06,Post-Impressionism,1811,0,0,0,0,48,0,ok
+M06,Post-Impressionism,1812,0,0,0,0,48,0,ok
+M06,Post-Impressionism,1813,0,0,0,0,23,0,ok
+M06,Post-Impressionism,1814,0,0,0,0,33,0,ok
+M06,Post-Impressionism,1815,0,0,0,0,22,0,ok
+M06,Post-Impressionism,1816,0,0,0,0,14,0,ok
+M06,Post-Impressionism,1817,0,0,0,0,30,0,ok
+M06,Post-Impressionism,1818,0,0,0,0,33,0,ok
+M06,Post-Impressionism,1819,0,0,0,0,19,0,ok
+M06,Post-Impressionism,1820,0,0,0,0,42,0,ok
+M06,Post-Impressionism,1821,0,0,0,0,30,0,ok
+M06,Post-Impressionism,1822,0,0,0,0,29,0,ok
+M06,Post-Impressionism,1823,0,0,0,0,35,0,ok
+M06,Post-Impressionism,1824,0,0,0,0,33,0,ok
+M06,Post-Impressionism,1825,0,0,0,0,57,0,ok
+M06,Post-Impressionism,1826,0,0,0,0,39,0,ok
+M06,Post-Impressionism,1827,0,0,0,0,46,0,ok
+M06,Post-Impressionism,1828,0,0,0,0,42,0,ok
+M06,Post-Impressionism,1829,0,0,0,0,54,0,ok
+M06,Post-Impressionism,1830,0,0,0,0,58,0,ok
+M06,Post-Impressionism,1831,0,0,0,0,43,0,ok
+M06,Post-Impressionism,1832,0,0,0,0,28,0,ok
+M06,Post-Impressionism,1833,0,0,0,0,27,0,ok
+M06,Post-Impressionism,1834,0,0,0,0,74,0,ok
+M06,Post-Impressionism,1835,0,0,0,0,65,0,ok
+M06,Post-Impressionism,1836,0,0,0,0,45,0,ok
+M06,Post-Impressionism,1837,0,0,0,0,35,0,ok
+M06,Post-Impressionism,1838,0,0,0,0,36,0,ok
+M06,Post-Impressionism,1839,0,0,0,0,46,0,ok
+M06,Post-Impressionism,1840,0,0,0,0,85,0,ok
+M06,Post-Impressionism,1841,0,0,0,0,31,0,ok
+M06,Post-Impressionism,1842,0,0,0,0,45,0,ok
+M06,Post-Impressionism,1843,0,0,0,0,44,0,ok
+M06,Post-Impressionism,1844,0,0,0,0,53,0,ok
+M06,Post-Impressionism,1845,0,0,0,0,59,0,ok
+M06,Post-Impressionism,1846,0,0,0,0,104,0,ok
+M06,Post-Impressionism,1847,0,0,0,0,184,0,ok
+M06,Post-Impressionism,1848,0,0,0,0,108,0,ok
+M06,Post-Impressionism,1849,0,0,0,0,77,0,ok
+M06,Post-Impressionism,1850,0,0,0,0,192,0,ok
+M06,Post-Impressionism,1851,0,0,0,0,156,0,ok
+M06,Post-Impressionism,1852,0,0,0,0,127,0,ok
+M06,Post-Impressionism,1853,0,0,0,0,182,0,ok
+M06,Post-Impressionism,1854,0,0,0,0,134,0,ok
+M06,Post-Impressionism,1855,0,0,0,0,231,0,ok
+M06,Post-Impressionism,1856,0,0,0,0,147,0,ok
+M06,Post-Impressionism,1857,0,0,0,0,1003,0,ok
+M06,Post-Impressionism,1858,0,0,0,0,194,0,ok
+M06,Post-Impressionism,1859,0,0,0,0,163,0,ok
+M06,Post-Impressionism,1860,0,0,0,0,175,0,ok
+M06,Post-Impressionism,1861,0,0,0,0,121,0,ok
+M06,Post-Impressionism,1862,0,0,0,0,90,0,ok
+M06,Post-Impressionism,1863,0,0,0,0,116,0,ok
+M06,Post-Impressionism,1864,0,0,0,0,102,0,ok
+M06,Post-Impressionism,1865,0,0,0,0,107,0,ok
+M06,Post-Impressionism,1866,0,0,0,0,131,0,ok
+M06,Post-Impressionism,1867,0,0,0,0,155,0,ok
+M06,Post-Impressionism,1868,0,0,0,0,131,0,ok
+M06,Post-Impressionism,1869,0,0,0,0,119,0,ok
+M06,Post-Impressionism,1870,0,0,0,0,204,0,ok
+M06,Post-Impressionism,1871,0,0,0,0,199,0,ok
+M06,Post-Impressionism,1872,0,0,0,0,223,0,ok
+M06,Post-Impressionism,1873,0,0,0,0,165,0,ok
+M06,Post-Impressionism,1874,0,0,0,0,214,0,ok
+M06,Post-Impressionism,1875,0,0,0,0,226,0,ok
+M06,Post-Impressionism,1876,0,0,0,0,232,0,ok
+M06,Post-Impressionism,1877,0,0,0,0,207,0,ok
+M06,Post-Impressionism,1878,0,0,0,0,259,0,ok
+M06,Post-Impressionism,1879,0,0,0,0,287,0,ok
+M06,Post-Impressionism,1880,0,0,0,0,456,0,ok
+M06,Post-Impressionism,1881,0,0,0,0,291,0,ok
+M06,Post-Impressionism,1882,0,0,0,0,202,0,ok
+M06,Post-Impressionism,1883,0,0,0,0,228,0,ok
+M06,Post-Impressionism,1884,0,0,0,0,287,0,ok
+M06,Post-Impressionism,1885,0,0,0,0,284,0,ok
+M06,Post-Impressionism,1886,0,0,0,0,314,0,ok
+M06,Post-Impressionism,1887,0,0,0,0,307,0,ok
+M06,Post-Impressionism,1888,1,0,0,1,305,32.7868852459,ok
+M06,Post-Impressionism,1889,0,0,0,0,332,0,ok
+M06,Post-Impressionism,1890,0,0,0,0,353,0,ok
+M06,Post-Impressionism,1891,0,0,0,0,353,0,ok
+M06,Post-Impressionism,1892,0,0,0,0,313,0,ok
+M06,Post-Impressionism,1893,0,0,0,0,398,0,ok
+M06,Post-Impressionism,1894,0,0,0,0,443,0,ok
+M06,Post-Impressionism,1895,0,0,0,0,484,0,ok
+M06,Post-Impressionism,1896,0,0,0,0,508,0,ok
+M06,Post-Impressionism,1897,0,0,0,0,458,0,ok
+M06,Post-Impressionism,1898,0,0,0,0,543,0,ok
+M06,Post-Impressionism,1899,0,0,0,0,698,0,ok
+M06,Post-Impressionism,1900,0,0,0,0,749,0,ok
+M06,Post-Impressionism,1901,0,0,0,0,663,0,ok
+M06,Post-Impressionism,1902,2,0,0,2,698,28.6532951289,ok
+M06,Post-Impressionism,1903,0,0,0,0,631,0,ok
+M06,Post-Impressionism,1904,0,0,0,0,635,0,ok
+M06,Post-Impressionism,1905,0,0,0,0,752,0,ok
+M06,Post-Impressionism,1906,0,0,0,0,780,0,ok
+M06,Post-Impressionism,1907,0,0,0,0,660,0,ok
+M06,Post-Impressionism,1908,0,0,0,0,744,0,ok
+M06,Post-Impressionism,1909,0,0,0,0,722,0,ok
+M06,Post-Impressionism,1910,0,0,0,0,890,0,ok
+M06,Post-Impressionism,1911,0,0,0,0,769,0,ok
+M06,Post-Impressionism,1912,1,0,0,1,773,12.936610608,ok
+M06,Post-Impressionism,1913,1,1,0,2,842,23.7529691211,ok
+M06,Post-Impressionism,1914,0,1,0,1,973,10.2774922919,ok
+M06,Post-Impressionism,1915,1,0,0,1,862,11.6009280742,ok
+M06,Post-Impressionism,1916,0,0,0,0,960,0,ok
+M06,Post-Impressionism,1917,0,0,0,0,1153,0,ok
+M06,Post-Impressionism,1918,0,0,0,0,909,0,ok
+M06,Post-Impressionism,1919,0,0,0,0,830,0,ok
+M06,Post-Impressionism,1920,1,0,0,1,1068,9.36329588015,ok
+M06,Post-Impressionism,1921,0,0,0,0,878,0,ok
+M06,Post-Impressionism,1922,0,0,0,0,977,0,ok
+M06,Post-Impressionism,1923,1,0,0,1,1038,9.63391136802,ok
+M06,Post-Impressionism,1924,1,0,0,1,1033,9.68054211036,ok
+M06,Post-Impressionism,1925,1,0,0,1,1199,8.34028356964,ok
+M06,Post-Impressionism,1926,0,0,0,0,1267,0,ok
+M06,Post-Impressionism,1927,0,0,0,0,1289,0,ok
+M06,Post-Impressionism,1928,1,0,0,1,1340,7.46268656716,ok
+M06,Post-Impressionism,1929,0,0,0,0,1476,0,ok
+M06,Post-Impressionism,1930,1,0,0,1,1729,5.78368999422,ok
+M06,Post-Impressionism,1931,0,0,0,0,1545,0,ok
+M06,Post-Impressionism,1932,0,0,0,0,1440,0,ok
+M06,Post-Impressionism,1933,3,0,0,3,1388,21.613832853,ok
+M06,Post-Impressionism,1934,3,0,0,3,1502,19.9733688415,ok
+M06,Post-Impressionism,1935,1,0,0,1,1676,5.96658711217,ok
+M06,Post-Impressionism,1936,1,0,0,1,1794,5.57413600892,ok
+M06,Post-Impressionism,1937,0,0,0,0,1809,0,ok
+M06,Post-Impressionism,1938,0,0,0,0,1813,0,ok
+M06,Post-Impressionism,1939,2,1,0,3,1758,17.0648464164,ok
+M06,Post-Impressionism,1940,2,0,0,2,1980,10.101010101,ok
+M06,Post-Impressionism,1941,2,0,0,2,1935,10.3359173127,ok
+M06,Post-Impressionism,1942,5,0,0,5,1656,30.193236715,ok
+M06,Post-Impressionism,1943,0,0,0,0,1599,0,ok
+M06,Post-Impressionism,1944,0,1,0,1,1477,6.77048070413,ok
+M06,Post-Impressionism,1945,1,0,0,1,1546,6.46830530401,ok
+M06,Post-Impressionism,1946,5,0,0,5,1810,27.6243093923,ok
+M06,Post-Impressionism,1947,1,0,0,1,2102,4.75737392959,ok
+M06,Post-Impressionism,1948,1,0,0,1,2107,4.7460844803,ok
+M06,Post-Impressionism,1949,3,1,0,4,2213,18.0750112969,ok
+M06,Post-Impressionism,1950,0,0,0,0,2656,0,ok
+M06,Post-Impressionism,1951,5,0,0,5,2418,20.6782464847,ok
+M06,Post-Impressionism,1952,1,0,0,1,2328,4.29553264605,ok
+M06,Post-Impressionism,1953,2,0,0,2,2336,8.56164383562,ok
+M06,Post-Impressionism,1954,2,0,0,2,2459,8.13338755592,ok
+M06,Post-Impressionism,1955,3,0,0,3,2652,11.3122171946,ok
+M06,Post-Impressionism,1956,2,0,0,2,2641,7.57288905718,ok
+M06,Post-Impressionism,1957,4,1,0,5,2797,17.8762960315,ok
+M06,Post-Impressionism,1958,3,2,0,5,2861,17.4764068508,ok
+M06,Post-Impressionism,1959,5,0,0,5,3252,15.3751537515,ok
+M06,Post-Impressionism,1960,3,0,0,3,3482,8.61573808156,ok
+M06,Post-Impressionism,1961,4,0,0,4,3460,11.5606936416,ok
+M06,Post-Impressionism,1962,2,0,0,2,3875,5.16129032258,ok
+M06,Post-Impressionism,1963,4,0,0,4,3923,10.1962783584,ok
+M06,Post-Impressionism,1964,4,0,0,4,4264,9.3808630394,ok
+M06,Post-Impressionism,1965,2,0,0,2,4393,4.55269747325,ok
+M06,Post-Impressionism,1966,5,1,0,6,4555,13.17233809,ok
+M06,Post-Impressionism,1967,2,1,0,3,4831,6.20989443179,ok
+M06,Post-Impressionism,1968,1,0,0,1,5448,1.83553597651,ok
+M06,Post-Impressionism,1969,2,0,0,2,6577,3.04090010643,ok
+M06,Post-Impressionism,1970,6,1,0,7,6934,10.0951831555,ok
+M06,Post-Impressionism,1971,4,0,0,4,6439,6.21214474297,ok
+M06,Post-Impressionism,1972,3,0,0,3,6537,4.58926112896,ok
+M06,Post-Impressionism,1973,5,0,0,5,7026,7.11642470823,ok
+M06,Post-Impressionism,1974,9,0,0,9,7333,12.2732851493,ok
+M06,Post-Impressionism,1975,2,0,0,2,7656,2.61233019854,ok
+M06,Post-Impressionism,1976,3,1,0,4,7991,5.00563133525,ok
+M06,Post-Impressionism,1977,1,1,0,2,8525,2.34604105572,ok
+M06,Post-Impressionism,1978,10,0,0,10,8484,11.786892975,ok
+M06,Post-Impressionism,1979,4,1,0,5,8487,5.89136326146,ok
+M06,Post-Impressionism,1980,10,3,0,13,9307,13.9679810895,ok
+M06,Post-Impressionism,1981,9,0,0,9,9429,9.54502068088,ok
+M06,Post-Impressionism,1982,6,1,0,7,9640,7.26141078838,ok
+M06,Post-Impressionism,1983,7,0,0,7,10233,6.84061370077,ok
+M06,Post-Impressionism,1984,9,0,0,9,10835,8.30641439778,ok
+M06,Post-Impressionism,1985,10,0,0,10,10535,9.49216896061,ok
+M06,Post-Impressionism,1986,6,3,0,9,11043,8.1499592502,ok
+M06,Post-Impressionism,1987,12,0,0,12,11085,10.8254397835,ok
+M06,Post-Impressionism,1988,17,0,0,17,12023,14.1395658322,ok
+M06,Post-Impressionism,1989,13,0,0,13,13187,9.85819367559,ok
+M06,Post-Impressionism,1990,13,0,0,13,13846,9.38899321104,ok
+M06,Post-Impressionism,1991,9,0,0,9,14166,6.35324015248,ok
+M06,Post-Impressionism,1992,8,1,0,9,15297,5.88350656992,ok
+M06,Post-Impressionism,1993,25,1,0,26,15905,16.3470606727,ok
+M06,Post-Impressionism,1994,21,6,0,27,17205,15.6931124673,ok
+M06,Post-Impressionism,1995,17,0,0,17,17858,9.51954306193,ok
+M06,Post-Impressionism,1996,23,0,0,23,18705,12.2961774926,ok
+M06,Post-Impressionism,1997,20,0,0,20,19382,10.3188525436,ok
+M06,Post-Impressionism,1998,36,1,1,36,20500,17.5609756098,ok
+M06,Post-Impressionism,1999,12,3,0,15,22270,6.73551863493,ok
+M06,Post-Impressionism,2000,23,1,0,24,26415,9.08574673481,ok
+M06,Post-Impressionism,2001,32,2,0,34,26482,12.8389094479,ok
+M06,Post-Impressionism,2002,40,3,1,42,31485,13.3396855646,ok
+M06,Post-Impressionism,2003,33,1,0,34,41073,8.27794414822,ok
+M06,Post-Impressionism,2004,30,0,0,30,37606,7.97745040685,ok
+M06,Post-Impressionism,2005,40,4,0,44,41240,10.6692531523,ok
+M06,Post-Impressionism,2006,45,0,0,45,45139,9.96920622965,ok
+M06,Post-Impressionism,2007,54,2,0,56,56297,9.9472440805,ok
+M06,Post-Impressionism,2008,55,3,0,58,56521,10.2616726526,ok
+M06,Post-Impressionism,2009,68,9,1,76,67728,11.2213560123,ok
+M06,Post-Impressionism,2010,105,9,1,113,75172,15.0321928378,ok
+M06,Post-Impressionism,2011,78,11,0,89,78854,11.2866817156,ok
+M06,Post-Impressionism,2012,94,5,0,99,84832,11.6701244813,ok
+M06,Post-Impressionism,2013,103,2,1,104,95876,10.8473444866,ok
+M06,Post-Impressionism,2014,88,8,0,96,95255,10.0782111175,ok
+M06,Post-Impressionism,2015,90,6,0,96,98219,9.77407629888,ok
+M06,Post-Impressionism,2016,97,4,0,101,105715,9.55398950007,ok
+M06,Post-Impressionism,2017,127,12,5,134,161987,8.27226876231,ok
+M06,Post-Impressionism,2018,168,20,4,184,113366,16.2306158813,ok
+M06,Post-Impressionism,2019,125,5,0,130,115014,11.3029718121,ok
+M07,Symbolism,1800,0,0,0,0,186,0,ok
+M07,Symbolism,1801,0,0,0,0,22,0,ok
+M07,Symbolism,1802,0,0,0,0,25,0,ok
+M07,Symbolism,1803,0,0,0,0,27,0,ok
+M07,Symbolism,1804,0,0,0,0,13,0,ok
+M07,Symbolism,1805,0,0,0,0,25,0,ok
+M07,Symbolism,1806,0,0,0,0,26,0,ok
+M07,Symbolism,1807,0,0,0,0,24,0,ok
+M07,Symbolism,1808,0,0,0,0,27,0,ok
+M07,Symbolism,1809,0,0,0,0,43,0,ok
+M07,Symbolism,1810,0,0,0,0,43,0,ok
+M07,Symbolism,1811,0,0,0,0,48,0,ok
+M07,Symbolism,1812,0,0,0,0,48,0,ok
+M07,Symbolism,1813,0,0,0,0,23,0,ok
+M07,Symbolism,1814,0,0,0,0,33,0,ok
+M07,Symbolism,1815,0,0,0,0,22,0,ok
+M07,Symbolism,1816,0,0,0,0,14,0,ok
+M07,Symbolism,1817,0,0,0,0,30,0,ok
+M07,Symbolism,1818,0,0,0,0,33,0,ok
+M07,Symbolism,1819,0,0,0,0,19,0,ok
+M07,Symbolism,1820,0,0,0,0,42,0,ok
+M07,Symbolism,1821,0,0,0,0,30,0,ok
+M07,Symbolism,1822,0,0,0,0,29,0,ok
+M07,Symbolism,1823,0,0,0,0,35,0,ok
+M07,Symbolism,1824,0,0,0,0,33,0,ok
+M07,Symbolism,1825,0,0,0,0,57,0,ok
+M07,Symbolism,1826,0,0,0,0,39,0,ok
+M07,Symbolism,1827,0,0,0,0,46,0,ok
+M07,Symbolism,1828,0,0,0,0,42,0,ok
+M07,Symbolism,1829,0,0,0,0,54,0,ok
+M07,Symbolism,1830,0,0,0,0,58,0,ok
+M07,Symbolism,1831,0,0,0,0,43,0,ok
+M07,Symbolism,1832,0,0,0,0,28,0,ok
+M07,Symbolism,1833,0,0,0,0,27,0,ok
+M07,Symbolism,1834,0,0,0,0,74,0,ok
+M07,Symbolism,1835,0,0,0,0,65,0,ok
+M07,Symbolism,1836,0,0,0,0,45,0,ok
+M07,Symbolism,1837,0,0,0,0,35,0,ok
+M07,Symbolism,1838,0,0,0,0,36,0,ok
+M07,Symbolism,1839,0,0,0,0,46,0,ok
+M07,Symbolism,1840,0,0,0,0,85,0,ok
+M07,Symbolism,1841,0,0,0,0,31,0,ok
+M07,Symbolism,1842,0,0,0,0,45,0,ok
+M07,Symbolism,1843,0,0,0,0,44,0,ok
+M07,Symbolism,1844,0,0,0,0,53,0,ok
+M07,Symbolism,1845,0,0,0,0,59,0,ok
+M07,Symbolism,1846,0,0,0,0,104,0,ok
+M07,Symbolism,1847,0,0,0,0,184,0,ok
+M07,Symbolism,1848,0,0,0,0,108,0,ok
+M07,Symbolism,1849,0,0,0,0,77,0,ok
+M07,Symbolism,1850,0,0,0,0,192,0,ok
+M07,Symbolism,1851,0,0,0,0,156,0,ok
+M07,Symbolism,1852,0,0,0,0,127,0,ok
+M07,Symbolism,1853,0,0,0,0,182,0,ok
+M07,Symbolism,1854,0,0,0,0,134,0,ok
+M07,Symbolism,1855,1,0,0,1,231,43.29004329,ok
+M07,Symbolism,1856,0,0,0,0,147,0,ok
+M07,Symbolism,1857,0,0,0,0,1003,0,ok
+M07,Symbolism,1858,0,0,0,0,194,0,ok
+M07,Symbolism,1859,0,0,0,0,163,0,ok
+M07,Symbolism,1860,0,0,0,0,175,0,ok
+M07,Symbolism,1861,0,0,0,0,121,0,ok
+M07,Symbolism,1862,0,0,0,0,90,0,ok
+M07,Symbolism,1863,0,0,0,0,116,0,ok
+M07,Symbolism,1864,0,0,0,0,102,0,ok
+M07,Symbolism,1865,0,0,0,0,107,0,ok
+M07,Symbolism,1866,0,0,0,0,131,0,ok
+M07,Symbolism,1867,0,0,0,0,155,0,ok
+M07,Symbolism,1868,0,0,0,0,131,0,ok
+M07,Symbolism,1869,0,0,0,0,119,0,ok
+M07,Symbolism,1870,1,0,0,1,204,49.0196078431,ok
+M07,Symbolism,1871,0,0,0,0,199,0,ok
+M07,Symbolism,1872,0,0,0,0,223,0,ok
+M07,Symbolism,1873,0,0,0,0,165,0,ok
+M07,Symbolism,1874,0,0,0,0,214,0,ok
+M07,Symbolism,1875,1,0,0,1,226,44.2477876106,ok
+M07,Symbolism,1876,0,0,0,0,232,0,ok
+M07,Symbolism,1877,0,0,0,0,207,0,ok
+M07,Symbolism,1878,0,0,0,0,259,0,ok
+M07,Symbolism,1879,2,0,0,2,287,69.6864111498,ok
+M07,Symbolism,1880,0,0,0,0,456,0,ok
+M07,Symbolism,1881,0,0,0,0,291,0,ok
+M07,Symbolism,1882,0,0,0,0,202,0,ok
+M07,Symbolism,1883,0,0,0,0,228,0,ok
+M07,Symbolism,1884,0,0,0,0,287,0,ok
+M07,Symbolism,1885,0,0,0,0,284,0,ok
+M07,Symbolism,1886,0,0,0,0,314,0,ok
+M07,Symbolism,1887,1,0,0,1,307,32.5732899023,ok
+M07,Symbolism,1888,0,0,0,0,305,0,ok
+M07,Symbolism,1889,0,0,0,0,332,0,ok
+M07,Symbolism,1890,0,0,0,0,353,0,ok
+M07,Symbolism,1891,1,0,0,1,353,28.328611898,ok
+M07,Symbolism,1892,2,0,0,2,313,63.8977635783,ok
+M07,Symbolism,1893,1,0,0,1,398,25.1256281407,ok
+M07,Symbolism,1894,0,0,0,0,443,0,ok
+M07,Symbolism,1895,1,0,0,1,484,20.6611570248,ok
+M07,Symbolism,1896,1,0,0,1,508,19.6850393701,ok
+M07,Symbolism,1897,1,0,0,1,458,21.8340611354,ok
+M07,Symbolism,1898,2,0,0,2,543,36.832412523,ok
+M07,Symbolism,1899,0,0,0,0,698,0,ok
+M07,Symbolism,1900,2,0,0,2,749,26.7022696929,ok
+M07,Symbolism,1901,3,0,0,3,663,45.2488687783,ok
+M07,Symbolism,1902,6,0,0,6,698,85.9598853868,ok
+M07,Symbolism,1903,1,0,0,1,631,15.8478605388,ok
+M07,Symbolism,1904,1,0,0,1,635,15.7480314961,ok
+M07,Symbolism,1905,1,0,0,1,752,13.2978723404,ok
+M07,Symbolism,1906,3,0,0,3,780,38.4615384615,ok
+M07,Symbolism,1907,0,0,0,0,660,0,ok
+M07,Symbolism,1908,2,0,0,2,744,26.8817204301,ok
+M07,Symbolism,1909,1,0,0,1,722,13.8504155125,ok
+M07,Symbolism,1910,0,0,0,0,890,0,ok
+M07,Symbolism,1911,1,0,0,1,769,13.0039011704,ok
+M07,Symbolism,1912,0,0,0,0,773,0,ok
+M07,Symbolism,1913,0,0,0,0,842,0,ok
+M07,Symbolism,1914,1,0,0,1,973,10.2774922919,ok
+M07,Symbolism,1915,3,0,0,3,862,34.8027842227,ok
+M07,Symbolism,1916,1,0,0,1,960,10.4166666667,ok
+M07,Symbolism,1917,0,0,0,0,1153,0,ok
+M07,Symbolism,1918,3,0,0,3,909,33.00330033,ok
+M07,Symbolism,1919,1,0,0,1,830,12.0481927711,ok
+M07,Symbolism,1920,3,0,0,3,1068,28.0898876404,ok
+M07,Symbolism,1921,0,0,0,0,878,0,ok
+M07,Symbolism,1922,1,0,0,1,977,10.2354145343,ok
+M07,Symbolism,1923,1,0,0,1,1038,9.63391136802,ok
+M07,Symbolism,1924,0,0,0,0,1033,0,ok
+M07,Symbolism,1925,1,0,0,1,1199,8.34028356964,ok
+M07,Symbolism,1926,1,0,0,1,1267,7.89265982636,ok
+M07,Symbolism,1927,4,0,0,4,1289,31.0318076028,ok
+M07,Symbolism,1928,1,0,0,1,1340,7.46268656716,ok
+M07,Symbolism,1929,1,0,0,1,1476,6.77506775068,ok
+M07,Symbolism,1930,2,0,0,2,1729,11.5673799884,ok
+M07,Symbolism,1931,2,0,0,2,1545,12.9449838188,ok
+M07,Symbolism,1932,0,0,0,0,1440,0,ok
+M07,Symbolism,1933,2,0,0,2,1388,14.409221902,ok
+M07,Symbolism,1934,4,0,0,4,1502,26.6311584554,ok
+M07,Symbolism,1935,0,0,0,0,1676,0,ok
+M07,Symbolism,1936,2,0,0,2,1794,11.1482720178,ok
+M07,Symbolism,1937,1,0,0,1,1809,5.52791597568,ok
+M07,Symbolism,1938,1,0,0,1,1813,5.51571980143,ok
+M07,Symbolism,1939,2,0,0,2,1758,11.3765642776,ok
+M07,Symbolism,1940,2,0,0,2,1980,10.101010101,ok
+M07,Symbolism,1941,2,0,0,2,1935,10.3359173127,ok
+M07,Symbolism,1942,0,0,0,0,1656,0,ok
+M07,Symbolism,1943,1,0,0,1,1599,6.25390869293,ok
+M07,Symbolism,1944,1,0,0,1,1477,6.77048070413,ok
+M07,Symbolism,1945,4,0,0,4,1546,25.873221216,ok
+M07,Symbolism,1946,5,0,0,5,1810,27.6243093923,ok
+M07,Symbolism,1947,1,0,0,1,2102,4.75737392959,ok
+M07,Symbolism,1948,0,0,0,0,2107,0,ok
+M07,Symbolism,1949,3,0,0,3,2213,13.5562584727,ok
+M07,Symbolism,1950,2,0,0,2,2656,7.53012048193,ok
+M07,Symbolism,1951,4,0,0,4,2418,16.5425971878,ok
+M07,Symbolism,1952,0,0,0,0,2328,0,ok
+M07,Symbolism,1953,2,0,0,2,2336,8.56164383562,ok
+M07,Symbolism,1954,1,0,0,1,2459,4.06669377796,ok
+M07,Symbolism,1955,2,0,0,2,2652,7.54147812971,ok
+M07,Symbolism,1956,4,0,0,4,2641,15.1457781144,ok
+M07,Symbolism,1957,8,0,0,8,2797,28.6020736503,ok
+M07,Symbolism,1958,6,0,0,6,2861,20.9716882209,ok
+M07,Symbolism,1959,4,0,0,4,3252,12.3001230012,ok
+M07,Symbolism,1960,5,0,0,5,3482,14.3595634693,ok
+M07,Symbolism,1961,6,0,0,6,3460,17.3410404624,ok
+M07,Symbolism,1962,3,0,0,3,3875,7.74193548387,ok
+M07,Symbolism,1963,3,0,0,3,3923,7.6472087688,ok
+M07,Symbolism,1964,4,0,0,4,4264,9.3808630394,ok
+M07,Symbolism,1965,2,0,0,2,4393,4.55269747325,ok
+M07,Symbolism,1966,9,0,0,9,4555,19.758507135,ok
+M07,Symbolism,1967,4,0,0,4,4831,8.27985924239,ok
+M07,Symbolism,1968,4,0,0,4,5448,7.34214390602,ok
+M07,Symbolism,1969,13,0,0,13,6577,19.7658506918,ok
+M07,Symbolism,1970,10,0,0,10,6934,14.4216902221,ok
+M07,Symbolism,1971,8,0,0,8,6439,12.4242894859,ok
+M07,Symbolism,1972,9,1,0,10,6537,15.2975370965,ok
+M07,Symbolism,1973,18,0,0,18,7026,25.6191289496,ok
+M07,Symbolism,1974,8,1,0,9,7333,12.2732851493,ok
+M07,Symbolism,1975,14,0,0,14,7656,18.2863113898,ok
+M07,Symbolism,1976,15,0,0,15,7991,18.7711175072,ok
+M07,Symbolism,1977,15,0,0,15,8525,17.5953079179,ok
+M07,Symbolism,1978,9,0,0,9,8484,10.6082036775,ok
+M07,Symbolism,1979,18,0,0,18,8487,21.2089077413,ok
+M07,Symbolism,1980,18,0,0,18,9307,19.3402815085,ok
+M07,Symbolism,1981,12,0,0,12,9429,12.7266942412,ok
+M07,Symbolism,1982,13,0,0,13,9640,13.4854771784,ok
+M07,Symbolism,1983,16,0,0,16,10233,15.6356884589,ok
+M07,Symbolism,1984,14,0,0,14,10835,12.9210890632,ok
+M07,Symbolism,1985,18,1,1,18,10535,17.0859041291,ok
+M07,Symbolism,1986,20,0,0,20,11043,18.111020556,ok
+M07,Symbolism,1987,11,0,0,11,11085,9.92331980153,ok
+M07,Symbolism,1988,15,0,0,15,12023,12.476087499,ok
+M07,Symbolism,1989,14,0,0,14,13187,10.616516266,ok
+M07,Symbolism,1990,17,0,0,17,13846,12.277914199,ok
+M07,Symbolism,1991,22,0,0,22,14166,15.5301425949,ok
+M07,Symbolism,1992,23,0,0,23,15297,15.0356279009,ok
+M07,Symbolism,1993,23,0,0,23,15905,14.4608613644,ok
+M07,Symbolism,1994,31,0,0,31,17205,18.018018018,ok
+M07,Symbolism,1995,24,0,0,24,17858,13.439354911,ok
+M07,Symbolism,1996,41,0,0,41,18705,21.9192729217,ok
+M07,Symbolism,1997,38,0,0,38,19382,19.6058198328,ok
+M07,Symbolism,1998,33,0,0,33,20500,16.0975609756,ok
+M07,Symbolism,1999,38,0,0,38,22270,17.0633138752,ok
+M07,Symbolism,2000,34,0,0,34,26415,12.871474541,ok
+M07,Symbolism,2001,55,1,1,55,26482,20.7688241069,ok
+M07,Symbolism,2002,52,0,0,52,31485,16.5158011752,ok
+M07,Symbolism,2003,65,0,0,65,41073,15.8254814598,ok
+M07,Symbolism,2004,46,1,1,46,37606,12.2320906238,ok
+M07,Symbolism,2005,48,1,1,48,41240,11.639185257,ok
+M07,Symbolism,2006,74,0,0,74,45139,16.3938057999,ok
+M07,Symbolism,2007,81,1,0,82,56297,14.5656074036,ok
+M07,Symbolism,2008,75,1,0,76,56521,13.4463296828,ok
+M07,Symbolism,2009,106,0,0,106,67728,15.6508386487,ok
+M07,Symbolism,2010,138,0,0,138,75172,18.3578992178,ok
+M07,Symbolism,2011,84,0,0,84,78854,10.6525984731,ok
+M07,Symbolism,2012,126,0,0,126,84832,14.8528857035,ok
+M07,Symbolism,2013,127,0,0,127,95876,13.2462764404,ok
+M07,Symbolism,2014,125,1,1,125,95255,13.1226707259,ok
+M07,Symbolism,2015,128,0,0,128,98219,13.0321017318,ok
+M07,Symbolism,2016,133,1,0,134,105715,12.6755900298,ok
+M07,Symbolism,2017,168,1,0,169,161987,10.4329359763,ok
+M07,Symbolism,2018,203,1,0,204,113366,17.9948132597,ok
+M07,Symbolism,2019,162,1,0,163,115014,14.1721877337,ok
+M08,Art Nouveau,1800,0,0,0,0,186,0,ok
+M08,Art Nouveau,1801,0,0,0,0,22,0,ok
+M08,Art Nouveau,1802,0,0,0,0,25,0,ok
+M08,Art Nouveau,1803,0,0,0,0,27,0,ok
+M08,Art Nouveau,1804,0,0,0,0,13,0,ok
+M08,Art Nouveau,1805,0,0,0,0,25,0,ok
+M08,Art Nouveau,1806,0,0,0,0,26,0,ok
+M08,Art Nouveau,1807,0,0,0,0,24,0,ok
+M08,Art Nouveau,1808,0,0,0,0,27,0,ok
+M08,Art Nouveau,1809,0,0,0,0,43,0,ok
+M08,Art Nouveau,1810,0,0,0,0,43,0,ok
+M08,Art Nouveau,1811,0,0,0,0,48,0,ok
+M08,Art Nouveau,1812,0,0,0,0,48,0,ok
+M08,Art Nouveau,1813,0,0,0,0,23,0,ok
+M08,Art Nouveau,1814,0,0,0,0,33,0,ok
+M08,Art Nouveau,1815,0,0,0,0,22,0,ok
+M08,Art Nouveau,1816,0,0,0,0,14,0,ok
+M08,Art Nouveau,1817,0,0,0,0,30,0,ok
+M08,Art Nouveau,1818,0,0,0,0,33,0,ok
+M08,Art Nouveau,1819,0,0,0,0,19,0,ok
+M08,Art Nouveau,1820,0,0,0,0,42,0,ok
+M08,Art Nouveau,1821,0,0,0,0,30,0,ok
+M08,Art Nouveau,1822,0,0,0,0,29,0,ok
+M08,Art Nouveau,1823,0,0,0,0,35,0,ok
+M08,Art Nouveau,1824,0,0,0,0,33,0,ok
+M08,Art Nouveau,1825,0,0,0,0,57,0,ok
+M08,Art Nouveau,1826,0,0,0,0,39,0,ok
+M08,Art Nouveau,1827,0,0,0,0,46,0,ok
+M08,Art Nouveau,1828,0,0,0,0,42,0,ok
+M08,Art Nouveau,1829,0,0,0,0,54,0,ok
+M08,Art Nouveau,1830,0,0,0,0,58,0,ok
+M08,Art Nouveau,1831,0,0,0,0,43,0,ok
+M08,Art Nouveau,1832,0,0,0,0,28,0,ok
+M08,Art Nouveau,1833,0,0,0,0,27,0,ok
+M08,Art Nouveau,1834,0,0,0,0,74,0,ok
+M08,Art Nouveau,1835,0,0,0,0,65,0,ok
+M08,Art Nouveau,1836,0,0,0,0,45,0,ok
+M08,Art Nouveau,1837,0,0,0,0,35,0,ok
+M08,Art Nouveau,1838,0,0,0,0,36,0,ok
+M08,Art Nouveau,1839,0,0,0,0,46,0,ok
+M08,Art Nouveau,1840,0,0,0,0,85,0,ok
+M08,Art Nouveau,1841,0,0,0,0,31,0,ok
+M08,Art Nouveau,1842,0,0,0,0,45,0,ok
+M08,Art Nouveau,1843,0,0,0,0,44,0,ok
+M08,Art Nouveau,1844,0,0,0,0,53,0,ok
+M08,Art Nouveau,1845,0,0,0,0,59,0,ok
+M08,Art Nouveau,1846,0,0,0,0,104,0,ok
+M08,Art Nouveau,1847,0,0,0,0,184,0,ok
+M08,Art Nouveau,1848,0,0,0,0,108,0,ok
+M08,Art Nouveau,1849,0,0,0,0,77,0,ok
+M08,Art Nouveau,1850,0,0,0,0,192,0,ok
+M08,Art Nouveau,1851,0,0,0,0,156,0,ok
+M08,Art Nouveau,1852,0,0,0,0,127,0,ok
+M08,Art Nouveau,1853,0,0,0,0,182,0,ok
+M08,Art Nouveau,1854,0,0,0,0,134,0,ok
+M08,Art Nouveau,1855,0,0,0,0,231,0,ok
+M08,Art Nouveau,1856,0,0,0,0,147,0,ok
+M08,Art Nouveau,1857,0,0,0,0,1003,0,ok
+M08,Art Nouveau,1858,0,0,0,0,194,0,ok
+M08,Art Nouveau,1859,0,0,0,0,163,0,ok
+M08,Art Nouveau,1860,0,0,0,0,175,0,ok
+M08,Art Nouveau,1861,0,0,0,0,121,0,ok
+M08,Art Nouveau,1862,0,0,0,0,90,0,ok
+M08,Art Nouveau,1863,0,0,0,0,116,0,ok
+M08,Art Nouveau,1864,0,0,0,0,102,0,ok
+M08,Art Nouveau,1865,0,0,0,0,107,0,ok
+M08,Art Nouveau,1866,0,0,0,0,131,0,ok
+M08,Art Nouveau,1867,0,0,0,0,155,0,ok
+M08,Art Nouveau,1868,0,0,0,0,131,0,ok
+M08,Art Nouveau,1869,0,0,0,0,119,0,ok
+M08,Art Nouveau,1870,0,0,0,0,204,0,ok
+M08,Art Nouveau,1871,0,0,0,0,199,0,ok
+M08,Art Nouveau,1872,0,0,0,0,223,0,ok
+M08,Art Nouveau,1873,0,0,0,0,165,0,ok
+M08,Art Nouveau,1874,0,0,0,0,214,0,ok
+M08,Art Nouveau,1875,0,0,0,0,226,0,ok
+M08,Art Nouveau,1876,0,0,0,0,232,0,ok
+M08,Art Nouveau,1877,0,0,0,0,207,0,ok
+M08,Art Nouveau,1878,0,0,0,0,259,0,ok
+M08,Art Nouveau,1879,0,0,0,0,287,0,ok
+M08,Art Nouveau,1880,0,0,0,0,456,0,ok
+M08,Art Nouveau,1881,0,0,0,0,291,0,ok
+M08,Art Nouveau,1882,0,0,0,0,202,0,ok
+M08,Art Nouveau,1883,0,0,0,0,228,0,ok
+M08,Art Nouveau,1884,0,0,0,0,287,0,ok
+M08,Art Nouveau,1885,0,0,0,0,284,0,ok
+M08,Art Nouveau,1886,0,0,0,0,314,0,ok
+M08,Art Nouveau,1887,0,0,0,0,307,0,ok
+M08,Art Nouveau,1888,0,0,0,0,305,0,ok
+M08,Art Nouveau,1889,0,0,0,0,332,0,ok
+M08,Art Nouveau,1890,0,0,0,0,353,0,ok
+M08,Art Nouveau,1891,0,0,0,0,353,0,ok
+M08,Art Nouveau,1892,0,0,0,0,313,0,ok
+M08,Art Nouveau,1893,0,0,0,0,398,0,ok
+M08,Art Nouveau,1894,0,0,0,0,443,0,ok
+M08,Art Nouveau,1895,0,0,0,0,484,0,ok
+M08,Art Nouveau,1896,0,0,0,0,508,0,ok
+M08,Art Nouveau,1897,0,0,0,0,458,0,ok
+M08,Art Nouveau,1898,0,0,0,0,543,0,ok
+M08,Art Nouveau,1899,0,0,0,0,698,0,ok
+M08,Art Nouveau,1900,0,0,0,0,749,0,ok
+M08,Art Nouveau,1901,0,0,0,0,663,0,ok
+M08,Art Nouveau,1902,0,1,0,1,698,14.3266475645,ok
+M08,Art Nouveau,1903,2,0,0,2,631,31.6957210777,ok
+M08,Art Nouveau,1904,0,0,0,0,635,0,ok
+M08,Art Nouveau,1905,0,1,0,1,752,13.2978723404,ok
+M08,Art Nouveau,1906,0,0,0,0,780,0,ok
+M08,Art Nouveau,1907,0,0,0,0,660,0,ok
+M08,Art Nouveau,1908,0,0,0,0,744,0,ok
+M08,Art Nouveau,1909,0,0,0,0,722,0,ok
+M08,Art Nouveau,1910,0,0,0,0,890,0,ok
+M08,Art Nouveau,1911,0,0,0,0,769,0,ok
+M08,Art Nouveau,1912,0,0,0,0,773,0,ok
+M08,Art Nouveau,1913,0,0,0,0,842,0,ok
+M08,Art Nouveau,1914,0,0,0,0,973,0,ok
+M08,Art Nouveau,1915,0,0,0,0,862,0,ok
+M08,Art Nouveau,1916,0,0,0,0,960,0,ok
+M08,Art Nouveau,1917,0,0,0,0,1153,0,ok
+M08,Art Nouveau,1918,1,0,0,1,909,11.00110011,ok
+M08,Art Nouveau,1919,0,0,0,0,830,0,ok
+M08,Art Nouveau,1920,0,0,0,0,1068,0,ok
+M08,Art Nouveau,1921,0,0,0,0,878,0,ok
+M08,Art Nouveau,1922,0,0,0,0,977,0,ok
+M08,Art Nouveau,1923,0,0,0,0,1038,0,ok
+M08,Art Nouveau,1924,0,0,0,0,1033,0,ok
+M08,Art Nouveau,1925,0,0,0,0,1199,0,ok
+M08,Art Nouveau,1926,0,0,0,0,1267,0,ok
+M08,Art Nouveau,1927,1,0,0,1,1289,7.7579519007,ok
+M08,Art Nouveau,1928,0,0,0,0,1340,0,ok
+M08,Art Nouveau,1929,0,0,0,0,1476,0,ok
+M08,Art Nouveau,1930,0,0,0,0,1729,0,ok
+M08,Art Nouveau,1931,0,0,0,0,1545,0,ok
+M08,Art Nouveau,1932,0,0,0,0,1440,0,ok
+M08,Art Nouveau,1933,0,0,0,0,1388,0,ok
+M08,Art Nouveau,1934,0,0,0,0,1502,0,ok
+M08,Art Nouveau,1935,0,0,0,0,1676,0,ok
+M08,Art Nouveau,1936,0,0,0,0,1794,0,ok
+M08,Art Nouveau,1937,0,0,0,0,1809,0,ok
+M08,Art Nouveau,1938,0,0,0,0,1813,0,ok
+M08,Art Nouveau,1939,0,0,0,0,1758,0,ok
+M08,Art Nouveau,1940,0,0,0,0,1980,0,ok
+M08,Art Nouveau,1941,0,0,0,0,1935,0,ok
+M08,Art Nouveau,1942,0,0,0,0,1656,0,ok
+M08,Art Nouveau,1943,0,0,0,0,1599,0,ok
+M08,Art Nouveau,1944,0,0,0,0,1477,0,ok
+M08,Art Nouveau,1945,0,0,0,0,1546,0,ok
+M08,Art Nouveau,1946,0,0,0,0,1810,0,ok
+M08,Art Nouveau,1947,0,0,0,0,2102,0,ok
+M08,Art Nouveau,1948,0,0,0,0,2107,0,ok
+M08,Art Nouveau,1949,0,0,0,0,2213,0,ok
+M08,Art Nouveau,1950,0,0,0,0,2656,0,ok
+M08,Art Nouveau,1951,0,0,0,0,2418,0,ok
+M08,Art Nouveau,1952,0,3,0,3,2328,12.8865979381,ok
+M08,Art Nouveau,1953,1,0,0,1,2336,4.28082191781,ok
+M08,Art Nouveau,1954,0,0,0,0,2459,0,ok
+M08,Art Nouveau,1955,1,1,0,2,2652,7.54147812971,ok
+M08,Art Nouveau,1956,2,1,0,3,2641,11.3593335858,ok
+M08,Art Nouveau,1957,0,1,0,1,2797,3.57525920629,ok
+M08,Art Nouveau,1958,0,2,0,2,2861,6.9905627403,ok
+M08,Art Nouveau,1959,0,0,0,0,3252,0,ok
+M08,Art Nouveau,1960,0,1,0,1,3482,2.87191269385,ok
+M08,Art Nouveau,1961,0,0,0,0,3460,0,ok
+M08,Art Nouveau,1962,1,0,0,1,3875,2.58064516129,ok
+M08,Art Nouveau,1963,0,0,0,0,3923,0,ok
+M08,Art Nouveau,1964,0,2,0,2,4264,4.6904315197,ok
+M08,Art Nouveau,1965,0,0,0,0,4393,0,ok
+M08,Art Nouveau,1966,1,4,0,5,4555,10.9769484083,ok
+M08,Art Nouveau,1967,0,0,0,0,4831,0,ok
+M08,Art Nouveau,1968,1,1,0,2,5448,3.67107195301,ok
+M08,Art Nouveau,1969,2,3,0,5,6577,7.60225026608,ok
+M08,Art Nouveau,1970,5,1,0,6,6934,8.65301413326,ok
+M08,Art Nouveau,1971,4,4,0,8,6439,12.4242894859,ok
+M08,Art Nouveau,1972,3,3,0,6,6537,9.17852225792,ok
+M08,Art Nouveau,1973,2,2,0,4,7026,5.69313976658,ok
+M08,Art Nouveau,1974,0,1,0,1,7333,1.36369834992,ok
+M08,Art Nouveau,1975,3,1,0,4,7656,5.22466039707,ok
+M08,Art Nouveau,1976,3,2,0,5,7991,6.25703916907,ok
+M08,Art Nouveau,1977,1,5,0,6,8525,7.03812316716,ok
+M08,Art Nouveau,1978,1,6,0,7,8484,8.25082508251,ok
+M08,Art Nouveau,1979,4,4,0,8,8487,9.42618121833,ok
+M08,Art Nouveau,1980,5,6,0,11,9307,11.8190609219,ok
+M08,Art Nouveau,1981,2,4,0,6,9429,6.36334712059,ok
+M08,Art Nouveau,1982,1,6,0,7,9640,7.26141078838,ok
+M08,Art Nouveau,1983,3,8,1,10,10233,9.77230528682,ok
+M08,Art Nouveau,1984,1,5,0,6,10835,5.53760959852,ok
+M08,Art Nouveau,1985,4,6,0,10,10535,9.49216896061,ok
+M08,Art Nouveau,1986,2,0,0,2,11043,1.8111020556,ok
+M08,Art Nouveau,1987,0,1,0,1,11085,0.902119981958,ok
+M08,Art Nouveau,1988,1,1,0,2,12023,1.66347833319,ok
+M08,Art Nouveau,1989,2,8,0,10,13187,7.5832259043,ok
+M08,Art Nouveau,1990,2,2,0,4,13846,2.88892098801,ok
+M08,Art Nouveau,1991,4,2,0,6,14166,4.23549343499,ok
+M08,Art Nouveau,1992,1,5,1,5,15297,3.26861476106,ok
+M08,Art Nouveau,1993,5,1,0,6,15905,3.77239861679,ok
+M08,Art Nouveau,1994,5,7,1,11,17205,6.39349026446,ok
+M08,Art Nouveau,1995,3,0,0,3,17858,1.67991936387,ok
+M08,Art Nouveau,1996,4,0,0,4,18705,2.1384656509,ok
+M08,Art Nouveau,1997,10,4,3,11,19382,5.67536889898,ok
+M08,Art Nouveau,1998,7,4,1,10,20500,4.87804878049,ok
+M08,Art Nouveau,1999,1,5,0,6,22270,2.69420745397,ok
+M08,Art Nouveau,2000,3,7,0,10,26415,3.78572780617,ok
+M08,Art Nouveau,2001,11,3,0,14,26482,5.28660977268,ok
+M08,Art Nouveau,2002,8,8,1,15,31485,4.76417341591,ok
+M08,Art Nouveau,2003,10,5,0,15,41073,3.65203418304,ok
+M08,Art Nouveau,2004,12,4,0,16,37606,4.25464021699,ok
+M08,Art Nouveau,2005,9,6,0,15,41240,3.63724539282,ok
+M08,Art Nouveau,2006,12,7,1,18,45139,3.98768249186,ok
+M08,Art Nouveau,2007,12,7,1,18,56297,3.19732845445,ok
+M08,Art Nouveau,2008,11,12,2,21,56521,3.71543320182,ok
+M08,Art Nouveau,2009,6,12,0,18,67728,2.65768958186,ok
+M08,Art Nouveau,2010,18,9,2,25,75172,3.32570638004,ok
+M08,Art Nouveau,2011,18,13,1,30,78854,3.80449945469,ok
+M08,Art Nouveau,2012,27,12,3,36,84832,4.24368162957,ok
+M08,Art Nouveau,2013,20,13,2,31,95876,3.23334306813,ok
+M08,Art Nouveau,2014,20,17,0,37,95255,3.88431053488,ok
+M08,Art Nouveau,2015,19,16,2,33,98219,3.35983872774,ok
+M08,Art Nouveau,2016,21,16,3,34,105715,3.21619448517,ok
+M08,Art Nouveau,2017,24,15,2,37,161987,2.28413391198,ok
+M08,Art Nouveau,2018,22,25,1,46,113366,4.05765397033,ok
+M08,Art Nouveau,2019,23,24,4,43,115014,3.7386752917,ok
+M09,Fauvism,1800,0,0,0,0,186,0,ok
+M09,Fauvism,1801,0,0,0,0,22,0,ok
+M09,Fauvism,1802,0,0,0,0,25,0,ok
+M09,Fauvism,1803,0,0,0,0,27,0,ok
+M09,Fauvism,1804,0,0,0,0,13,0,ok
+M09,Fauvism,1805,0,0,0,0,25,0,ok
+M09,Fauvism,1806,0,0,0,0,26,0,ok
+M09,Fauvism,1807,0,0,0,0,24,0,ok
+M09,Fauvism,1808,0,0,0,0,27,0,ok
+M09,Fauvism,1809,0,0,0,0,43,0,ok
+M09,Fauvism,1810,0,0,0,0,43,0,ok
+M09,Fauvism,1811,0,0,0,0,48,0,ok
+M09,Fauvism,1812,0,0,0,0,48,0,ok
+M09,Fauvism,1813,0,0,0,0,23,0,ok
+M09,Fauvism,1814,0,0,0,0,33,0,ok
+M09,Fauvism,1815,0,0,0,0,22,0,ok
+M09,Fauvism,1816,0,0,0,0,14,0,ok
+M09,Fauvism,1817,0,0,0,0,30,0,ok
+M09,Fauvism,1818,0,0,0,0,33,0,ok
+M09,Fauvism,1819,0,0,0,0,19,0,ok
+M09,Fauvism,1820,0,0,0,0,42,0,ok
+M09,Fauvism,1821,0,0,0,0,30,0,ok
+M09,Fauvism,1822,0,0,0,0,29,0,ok
+M09,Fauvism,1823,0,0,0,0,35,0,ok
+M09,Fauvism,1824,0,0,0,0,33,0,ok
+M09,Fauvism,1825,0,0,0,0,57,0,ok
+M09,Fauvism,1826,0,0,0,0,39,0,ok
+M09,Fauvism,1827,0,0,0,0,46,0,ok
+M09,Fauvism,1828,0,0,0,0,42,0,ok
+M09,Fauvism,1829,0,0,0,0,54,0,ok
+M09,Fauvism,1830,0,0,0,0,58,0,ok
+M09,Fauvism,1831,0,0,0,0,43,0,ok
+M09,Fauvism,1832,0,0,0,0,28,0,ok
+M09,Fauvism,1833,0,0,0,0,27,0,ok
+M09,Fauvism,1834,0,0,0,0,74,0,ok
+M09,Fauvism,1835,0,0,0,0,65,0,ok
+M09,Fauvism,1836,0,0,0,0,45,0,ok
+M09,Fauvism,1837,0,0,0,0,35,0,ok
+M09,Fauvism,1838,0,0,0,0,36,0,ok
+M09,Fauvism,1839,0,0,0,0,46,0,ok
+M09,Fauvism,1840,0,0,0,0,85,0,ok
+M09,Fauvism,1841,0,0,0,0,31,0,ok
+M09,Fauvism,1842,0,0,0,0,45,0,ok
+M09,Fauvism,1843,0,0,0,0,44,0,ok
+M09,Fauvism,1844,0,0,0,0,53,0,ok
+M09,Fauvism,1845,0,0,0,0,59,0,ok
+M09,Fauvism,1846,0,0,0,0,104,0,ok
+M09,Fauvism,1847,0,0,0,0,184,0,ok
+M09,Fauvism,1848,0,0,0,0,108,0,ok
+M09,Fauvism,1849,0,0,0,0,77,0,ok
+M09,Fauvism,1850,0,0,0,0,192,0,ok
+M09,Fauvism,1851,0,0,0,0,156,0,ok
+M09,Fauvism,1852,0,0,0,0,127,0,ok
+M09,Fauvism,1853,0,0,0,0,182,0,ok
+M09,Fauvism,1854,0,0,0,0,134,0,ok
+M09,Fauvism,1855,0,0,0,0,231,0,ok
+M09,Fauvism,1856,0,0,0,0,147,0,ok
+M09,Fauvism,1857,0,0,0,0,1003,0,ok
+M09,Fauvism,1858,0,0,0,0,194,0,ok
+M09,Fauvism,1859,0,0,0,0,163,0,ok
+M09,Fauvism,1860,0,0,0,0,175,0,ok
+M09,Fauvism,1861,0,0,0,0,121,0,ok
+M09,Fauvism,1862,0,0,0,0,90,0,ok
+M09,Fauvism,1863,0,0,0,0,116,0,ok
+M09,Fauvism,1864,0,0,0,0,102,0,ok
+M09,Fauvism,1865,0,0,0,0,107,0,ok
+M09,Fauvism,1866,0,0,0,0,131,0,ok
+M09,Fauvism,1867,0,0,0,0,155,0,ok
+M09,Fauvism,1868,0,0,0,0,131,0,ok
+M09,Fauvism,1869,0,0,0,0,119,0,ok
+M09,Fauvism,1870,0,0,0,0,204,0,ok
+M09,Fauvism,1871,0,0,0,0,199,0,ok
+M09,Fauvism,1872,0,0,0,0,223,0,ok
+M09,Fauvism,1873,0,0,0,0,165,0,ok
+M09,Fauvism,1874,0,0,0,0,214,0,ok
+M09,Fauvism,1875,0,0,0,0,226,0,ok
+M09,Fauvism,1876,0,0,0,0,232,0,ok
+M09,Fauvism,1877,0,0,0,0,207,0,ok
+M09,Fauvism,1878,0,0,0,0,259,0,ok
+M09,Fauvism,1879,0,0,0,0,287,0,ok
+M09,Fauvism,1880,0,0,0,0,456,0,ok
+M09,Fauvism,1881,0,0,0,0,291,0,ok
+M09,Fauvism,1882,0,0,0,0,202,0,ok
+M09,Fauvism,1883,0,0,0,0,228,0,ok
+M09,Fauvism,1884,0,0,0,0,287,0,ok
+M09,Fauvism,1885,0,0,0,0,284,0,ok
+M09,Fauvism,1886,0,0,0,0,314,0,ok
+M09,Fauvism,1887,0,0,0,0,307,0,ok
+M09,Fauvism,1888,0,0,0,0,305,0,ok
+M09,Fauvism,1889,0,0,0,0,332,0,ok
+M09,Fauvism,1890,0,0,0,0,353,0,ok
+M09,Fauvism,1891,0,0,0,0,353,0,ok
+M09,Fauvism,1892,0,0,0,0,313,0,ok
+M09,Fauvism,1893,0,0,0,0,398,0,ok
+M09,Fauvism,1894,0,0,0,0,443,0,ok
+M09,Fauvism,1895,0,0,0,0,484,0,ok
+M09,Fauvism,1896,0,0,0,0,508,0,ok
+M09,Fauvism,1897,0,0,0,0,458,0,ok
+M09,Fauvism,1898,0,0,0,0,543,0,ok
+M09,Fauvism,1899,0,0,0,0,698,0,ok
+M09,Fauvism,1900,0,0,0,0,749,0,ok
+M09,Fauvism,1901,0,0,0,0,663,0,ok
+M09,Fauvism,1902,0,0,0,0,698,0,ok
+M09,Fauvism,1903,0,0,0,0,631,0,ok
+M09,Fauvism,1904,0,0,0,0,635,0,ok
+M09,Fauvism,1905,0,0,0,0,752,0,ok
+M09,Fauvism,1906,0,0,0,0,780,0,ok
+M09,Fauvism,1907,0,0,0,0,660,0,ok
+M09,Fauvism,1908,0,0,0,0,744,0,ok
+M09,Fauvism,1909,0,0,0,0,722,0,ok
+M09,Fauvism,1910,1,0,0,1,890,11.2359550562,ok
+M09,Fauvism,1911,0,0,0,0,769,0,ok
+M09,Fauvism,1912,0,0,0,0,773,0,ok
+M09,Fauvism,1913,0,0,0,0,842,0,ok
+M09,Fauvism,1914,0,0,0,0,973,0,ok
+M09,Fauvism,1915,1,0,0,1,862,11.6009280742,ok
+M09,Fauvism,1916,0,0,0,0,960,0,ok
+M09,Fauvism,1917,0,0,0,0,1153,0,ok
+M09,Fauvism,1918,0,0,0,0,909,0,ok
+M09,Fauvism,1919,0,0,0,0,830,0,ok
+M09,Fauvism,1920,0,0,0,0,1068,0,ok
+M09,Fauvism,1921,0,0,0,0,878,0,ok
+M09,Fauvism,1922,0,0,0,0,977,0,ok
+M09,Fauvism,1923,0,0,0,0,1038,0,ok
+M09,Fauvism,1924,2,0,0,2,1033,19.3610842207,ok
+M09,Fauvism,1925,0,0,0,0,1199,0,ok
+M09,Fauvism,1926,0,0,0,0,1267,0,ok
+M09,Fauvism,1927,0,0,0,0,1289,0,ok
+M09,Fauvism,1928,1,0,0,1,1340,7.46268656716,ok
+M09,Fauvism,1929,0,0,0,0,1476,0,ok
+M09,Fauvism,1930,0,0,0,0,1729,0,ok
+M09,Fauvism,1931,0,0,0,0,1545,0,ok
+M09,Fauvism,1932,0,0,0,0,1440,0,ok
+M09,Fauvism,1933,3,0,0,3,1388,21.613832853,ok
+M09,Fauvism,1934,1,0,0,1,1502,6.65778961385,ok
+M09,Fauvism,1935,0,0,0,0,1676,0,ok
+M09,Fauvism,1936,1,0,0,1,1794,5.57413600892,ok
+M09,Fauvism,1937,0,0,0,0,1809,0,ok
+M09,Fauvism,1938,0,0,0,0,1813,0,ok
+M09,Fauvism,1939,0,0,0,0,1758,0,ok
+M09,Fauvism,1940,0,0,0,0,1980,0,ok
+M09,Fauvism,1941,0,0,0,0,1935,0,ok
+M09,Fauvism,1942,0,0,0,0,1656,0,ok
+M09,Fauvism,1943,0,0,0,0,1599,0,ok
+M09,Fauvism,1944,1,0,0,1,1477,6.77048070413,ok
+M09,Fauvism,1945,0,0,0,0,1546,0,ok
+M09,Fauvism,1946,3,0,0,3,1810,16.5745856354,ok
+M09,Fauvism,1947,2,0,0,2,2102,9.51474785918,ok
+M09,Fauvism,1948,0,0,0,0,2107,0,ok
+M09,Fauvism,1949,3,0,0,3,2213,13.5562584727,ok
+M09,Fauvism,1950,1,1,0,2,2656,7.53012048193,ok
+M09,Fauvism,1951,1,0,0,1,2418,4.13564929694,ok
+M09,Fauvism,1952,1,0,0,1,2328,4.29553264605,ok
+M09,Fauvism,1953,2,0,0,2,2336,8.56164383562,ok
+M09,Fauvism,1954,0,0,0,0,2459,0,ok
+M09,Fauvism,1955,2,0,0,2,2652,7.54147812971,ok
+M09,Fauvism,1956,1,0,0,1,2641,3.78644452859,ok
+M09,Fauvism,1957,1,0,0,1,2797,3.57525920629,ok
+M09,Fauvism,1958,2,0,0,2,2861,6.9905627403,ok
+M09,Fauvism,1959,1,1,0,2,3252,6.15006150062,ok
+M09,Fauvism,1960,1,0,0,1,3482,2.87191269385,ok
+M09,Fauvism,1961,0,0,0,0,3460,0,ok
+M09,Fauvism,1962,1,0,0,1,3875,2.58064516129,ok
+M09,Fauvism,1963,0,0,0,0,3923,0,ok
+M09,Fauvism,1964,0,0,0,0,4264,0,ok
+M09,Fauvism,1965,0,2,0,2,4393,4.55269747325,ok
+M09,Fauvism,1966,1,0,0,1,4555,2.19538968167,ok
+M09,Fauvism,1967,0,0,0,0,4831,0,ok
+M09,Fauvism,1968,1,0,0,1,5448,1.83553597651,ok
+M09,Fauvism,1969,0,0,0,0,6577,0,ok
+M09,Fauvism,1970,0,1,0,1,6934,1.44216902221,ok
+M09,Fauvism,1971,0,1,0,1,6439,1.55303618574,ok
+M09,Fauvism,1972,1,0,0,1,6537,1.52975370965,ok
+M09,Fauvism,1973,1,0,0,1,7026,1.42328494165,ok
+M09,Fauvism,1974,2,0,0,2,7333,2.72739669985,ok
+M09,Fauvism,1975,0,0,0,0,7656,0,ok
+M09,Fauvism,1976,0,5,0,5,7991,6.25703916907,ok
+M09,Fauvism,1977,2,0,0,2,8525,2.34604105572,ok
+M09,Fauvism,1978,4,0,0,4,8484,4.71475719,ok
+M09,Fauvism,1979,0,1,0,1,8487,1.17827265229,ok
+M09,Fauvism,1980,2,1,0,3,9307,3.22338025142,ok
+M09,Fauvism,1981,2,2,0,4,9429,4.24223141372,ok
+M09,Fauvism,1982,1,0,0,1,9640,1.03734439834,ok
+M09,Fauvism,1983,4,0,0,4,10233,3.90892211473,ok
+M09,Fauvism,1984,3,1,0,4,10835,3.69173973235,ok
+M09,Fauvism,1985,1,0,0,1,10535,0.949216896061,ok
+M09,Fauvism,1986,1,0,0,1,11043,0.9055510278,ok
+M09,Fauvism,1987,0,1,0,1,11085,0.902119981958,ok
+M09,Fauvism,1988,5,1,0,6,12023,4.99043499958,ok
+M09,Fauvism,1989,5,0,0,5,13187,3.79161295215,ok
+M09,Fauvism,1990,0,0,0,0,13846,0,ok
+M09,Fauvism,1991,2,1,0,3,14166,2.11774671749,ok
+M09,Fauvism,1992,2,0,0,2,15297,1.30744590443,ok
+M09,Fauvism,1993,8,1,0,9,15905,5.65859792518,ok
+M09,Fauvism,1994,7,4,1,10,17205,5.81226387678,ok
+M09,Fauvism,1995,4,0,0,4,17858,2.23989248516,ok
+M09,Fauvism,1996,7,2,0,9,18705,4.81154771451,ok
+M09,Fauvism,1997,8,1,0,9,19382,4.64348364462,ok
+M09,Fauvism,1998,5,1,0,6,20500,2.92682926829,ok
+M09,Fauvism,1999,3,2,0,5,22270,2.24517287831,ok
+M09,Fauvism,2000,2,0,0,2,26415,0.757145561234,ok
+M09,Fauvism,2001,3,0,0,3,26482,1.13284495129,ok
+M09,Fauvism,2002,8,1,0,9,31485,2.85850404955,ok
+M09,Fauvism,2003,7,4,1,10,41073,2.43468945536,ok
+M09,Fauvism,2004,13,4,0,17,37606,4.52055523055,ok
+M09,Fauvism,2005,7,2,0,9,41240,2.18234723569,ok
+M09,Fauvism,2006,12,0,0,12,45139,2.65845499457,ok
+M09,Fauvism,2007,12,1,1,12,56297,2.13155230296,ok
+M09,Fauvism,2008,13,3,0,16,56521,2.830806249,ok
+M09,Fauvism,2009,17,1,0,18,67728,2.65768958186,ok
+M09,Fauvism,2010,20,9,1,28,75172,3.72479114564,ok
+M09,Fauvism,2011,20,3,0,23,78854,2.91678291526,ok
+M09,Fauvism,2012,25,1,0,26,84832,3.06488117691,ok
+M09,Fauvism,2013,24,7,1,30,95876,3.12904167884,ok
+M09,Fauvism,2014,26,3,0,29,95255,3.04445960842,ok
+M09,Fauvism,2015,18,3,0,21,98219,2.13807919038,ok
+M09,Fauvism,2016,21,3,0,24,105715,2.27025493071,ok
+M09,Fauvism,2017,24,2,0,26,161987,1.60506707328,ok
+M09,Fauvism,2018,38,20,3,55,113366,4.85154279061,ok
+M09,Fauvism,2019,21,6,1,26,115014,2.26059436243,ok
+M10,Expressionism,1800,0,0,0,0,186,0,ok
+M10,Expressionism,1801,0,0,0,0,22,0,ok
+M10,Expressionism,1802,0,0,0,0,25,0,ok
+M10,Expressionism,1803,0,0,0,0,27,0,ok
+M10,Expressionism,1804,0,0,0,0,13,0,ok
+M10,Expressionism,1805,0,0,0,0,25,0,ok
+M10,Expressionism,1806,0,0,0,0,26,0,ok
+M10,Expressionism,1807,0,0,0,0,24,0,ok
+M10,Expressionism,1808,0,0,0,0,27,0,ok
+M10,Expressionism,1809,0,0,0,0,43,0,ok
+M10,Expressionism,1810,0,0,0,0,43,0,ok
+M10,Expressionism,1811,0,0,0,0,48,0,ok
+M10,Expressionism,1812,0,0,0,0,48,0,ok
+M10,Expressionism,1813,0,0,0,0,23,0,ok
+M10,Expressionism,1814,0,0,0,0,33,0,ok
+M10,Expressionism,1815,0,0,0,0,22,0,ok
+M10,Expressionism,1816,0,0,0,0,14,0,ok
+M10,Expressionism,1817,0,0,0,0,30,0,ok
+M10,Expressionism,1818,0,0,0,0,33,0,ok
+M10,Expressionism,1819,0,0,0,0,19,0,ok
+M10,Expressionism,1820,0,0,0,0,42,0,ok
+M10,Expressionism,1821,0,0,0,0,30,0,ok
+M10,Expressionism,1822,0,0,0,0,29,0,ok
+M10,Expressionism,1823,0,0,0,0,35,0,ok
+M10,Expressionism,1824,0,0,0,0,33,0,ok
+M10,Expressionism,1825,0,0,0,0,57,0,ok
+M10,Expressionism,1826,0,0,0,0,39,0,ok
+M10,Expressionism,1827,0,0,0,0,46,0,ok
+M10,Expressionism,1828,0,0,0,0,42,0,ok
+M10,Expressionism,1829,0,0,0,0,54,0,ok
+M10,Expressionism,1830,0,0,0,0,58,0,ok
+M10,Expressionism,1831,0,0,0,0,43,0,ok
+M10,Expressionism,1832,0,0,0,0,28,0,ok
+M10,Expressionism,1833,0,0,0,0,27,0,ok
+M10,Expressionism,1834,0,0,0,0,74,0,ok
+M10,Expressionism,1835,0,0,0,0,65,0,ok
+M10,Expressionism,1836,0,0,0,0,45,0,ok
+M10,Expressionism,1837,0,0,0,0,35,0,ok
+M10,Expressionism,1838,0,0,0,0,36,0,ok
+M10,Expressionism,1839,0,0,0,0,46,0,ok
+M10,Expressionism,1840,0,0,0,0,85,0,ok
+M10,Expressionism,1841,0,0,0,0,31,0,ok
+M10,Expressionism,1842,0,0,0,0,45,0,ok
+M10,Expressionism,1843,0,0,0,0,44,0,ok
+M10,Expressionism,1844,0,0,0,0,53,0,ok
+M10,Expressionism,1845,0,0,0,0,59,0,ok
+M10,Expressionism,1846,0,0,0,0,104,0,ok
+M10,Expressionism,1847,0,0,0,0,184,0,ok
+M10,Expressionism,1848,0,0,0,0,108,0,ok
+M10,Expressionism,1849,0,0,0,0,77,0,ok
+M10,Expressionism,1850,0,0,0,0,192,0,ok
+M10,Expressionism,1851,0,0,0,0,156,0,ok
+M10,Expressionism,1852,0,0,0,0,127,0,ok
+M10,Expressionism,1853,0,0,0,0,182,0,ok
+M10,Expressionism,1854,0,0,0,0,134,0,ok
+M10,Expressionism,1855,0,0,0,0,231,0,ok
+M10,Expressionism,1856,0,0,0,0,147,0,ok
+M10,Expressionism,1857,0,0,0,0,1003,0,ok
+M10,Expressionism,1858,0,0,0,0,194,0,ok
+M10,Expressionism,1859,0,0,0,0,163,0,ok
+M10,Expressionism,1860,0,0,0,0,175,0,ok
+M10,Expressionism,1861,0,0,0,0,121,0,ok
+M10,Expressionism,1862,0,0,0,0,90,0,ok
+M10,Expressionism,1863,0,0,0,0,116,0,ok
+M10,Expressionism,1864,0,0,0,0,102,0,ok
+M10,Expressionism,1865,0,0,0,0,107,0,ok
+M10,Expressionism,1866,0,0,0,0,131,0,ok
+M10,Expressionism,1867,0,0,0,0,155,0,ok
+M10,Expressionism,1868,0,0,0,0,131,0,ok
+M10,Expressionism,1869,0,0,0,0,119,0,ok
+M10,Expressionism,1870,0,0,0,0,204,0,ok
+M10,Expressionism,1871,0,0,0,0,199,0,ok
+M10,Expressionism,1872,0,0,0,0,223,0,ok
+M10,Expressionism,1873,0,0,0,0,165,0,ok
+M10,Expressionism,1874,0,0,0,0,214,0,ok
+M10,Expressionism,1875,0,0,0,0,226,0,ok
+M10,Expressionism,1876,0,0,0,0,232,0,ok
+M10,Expressionism,1877,0,0,0,0,207,0,ok
+M10,Expressionism,1878,0,0,0,0,259,0,ok
+M10,Expressionism,1879,0,0,0,0,287,0,ok
+M10,Expressionism,1880,0,0,0,0,456,0,ok
+M10,Expressionism,1881,0,0,0,0,291,0,ok
+M10,Expressionism,1882,0,0,0,0,202,0,ok
+M10,Expressionism,1883,0,0,0,0,228,0,ok
+M10,Expressionism,1884,0,0,0,0,287,0,ok
+M10,Expressionism,1885,0,0,0,0,284,0,ok
+M10,Expressionism,1886,0,0,0,0,314,0,ok
+M10,Expressionism,1887,0,0,0,0,307,0,ok
+M10,Expressionism,1888,1,0,0,1,305,32.7868852459,ok
+M10,Expressionism,1889,0,0,0,0,332,0,ok
+M10,Expressionism,1890,0,0,0,0,353,0,ok
+M10,Expressionism,1891,0,0,0,0,353,0,ok
+M10,Expressionism,1892,0,0,0,0,313,0,ok
+M10,Expressionism,1893,0,0,0,0,398,0,ok
+M10,Expressionism,1894,0,0,0,0,443,0,ok
+M10,Expressionism,1895,0,0,0,0,484,0,ok
+M10,Expressionism,1896,0,0,0,0,508,0,ok
+M10,Expressionism,1897,0,0,0,0,458,0,ok
+M10,Expressionism,1898,0,0,0,0,543,0,ok
+M10,Expressionism,1899,1,0,0,1,698,14.3266475645,ok
+M10,Expressionism,1900,0,0,0,0,749,0,ok
+M10,Expressionism,1901,1,0,0,1,663,15.0829562594,ok
+M10,Expressionism,1902,0,0,0,0,698,0,ok
+M10,Expressionism,1903,0,0,0,0,631,0,ok
+M10,Expressionism,1904,0,0,0,0,635,0,ok
+M10,Expressionism,1905,0,0,0,0,752,0,ok
+M10,Expressionism,1906,0,0,0,0,780,0,ok
+M10,Expressionism,1907,0,0,0,0,660,0,ok
+M10,Expressionism,1908,0,0,0,0,744,0,ok
+M10,Expressionism,1909,1,0,0,1,722,13.8504155125,ok
+M10,Expressionism,1910,0,0,0,0,890,0,ok
+M10,Expressionism,1911,0,0,0,0,769,0,ok
+M10,Expressionism,1912,0,0,0,0,773,0,ok
+M10,Expressionism,1913,0,0,0,0,842,0,ok
+M10,Expressionism,1914,1,0,0,1,973,10.2774922919,ok
+M10,Expressionism,1915,1,0,0,1,862,11.6009280742,ok
+M10,Expressionism,1916,0,0,0,0,960,0,ok
+M10,Expressionism,1917,0,0,0,0,1153,0,ok
+M10,Expressionism,1918,0,0,0,0,909,0,ok
+M10,Expressionism,1919,0,0,0,0,830,0,ok
+M10,Expressionism,1920,0,0,0,0,1068,0,ok
+M10,Expressionism,1921,0,0,0,0,878,0,ok
+M10,Expressionism,1922,0,0,0,0,977,0,ok
+M10,Expressionism,1923,1,0,0,1,1038,9.63391136802,ok
+M10,Expressionism,1924,0,0,0,0,1033,0,ok
+M10,Expressionism,1925,0,0,0,0,1199,0,ok
+M10,Expressionism,1926,1,0,0,1,1267,7.89265982636,ok
+M10,Expressionism,1927,1,0,0,1,1289,7.7579519007,ok
+M10,Expressionism,1928,1,0,0,1,1340,7.46268656716,ok
+M10,Expressionism,1929,0,0,0,0,1476,0,ok
+M10,Expressionism,1930,3,0,0,3,1729,17.3510699826,ok
+M10,Expressionism,1931,1,0,0,1,1545,6.47249190939,ok
+M10,Expressionism,1932,0,0,0,0,1440,0,ok
+M10,Expressionism,1933,2,0,0,2,1388,14.409221902,ok
+M10,Expressionism,1934,4,0,0,4,1502,26.6311584554,ok
+M10,Expressionism,1935,2,0,0,2,1676,11.9331742243,ok
+M10,Expressionism,1936,1,0,0,1,1794,5.57413600892,ok
+M10,Expressionism,1937,0,0,0,0,1809,0,ok
+M10,Expressionism,1938,0,0,0,0,1813,0,ok
+M10,Expressionism,1939,0,0,0,0,1758,0,ok
+M10,Expressionism,1940,0,0,0,0,1980,0,ok
+M10,Expressionism,1941,1,0,0,1,1935,5.16795865633,ok
+M10,Expressionism,1942,1,0,0,1,1656,6.038647343,ok
+M10,Expressionism,1943,0,0,0,0,1599,0,ok
+M10,Expressionism,1944,0,0,0,0,1477,0,ok
+M10,Expressionism,1945,2,0,0,2,1546,12.936610608,ok
+M10,Expressionism,1946,4,0,0,4,1810,22.0994475138,ok
+M10,Expressionism,1947,0,0,0,0,2102,0,ok
+M10,Expressionism,1948,3,0,0,3,2107,14.2382534409,ok
+M10,Expressionism,1949,1,0,0,1,2213,4.51875282422,ok
+M10,Expressionism,1950,4,0,0,4,2656,15.0602409639,ok
+M10,Expressionism,1951,5,0,0,5,2418,20.6782464847,ok
+M10,Expressionism,1952,3,0,0,3,2328,12.8865979381,ok
+M10,Expressionism,1953,2,0,0,2,2336,8.56164383562,ok
+M10,Expressionism,1954,1,0,0,1,2459,4.06669377796,ok
+M10,Expressionism,1955,4,0,0,4,2652,15.0829562594,ok
+M10,Expressionism,1956,6,0,0,6,2641,22.7186671715,ok
+M10,Expressionism,1957,13,0,0,13,2797,46.4783696818,ok
+M10,Expressionism,1958,7,0,0,7,2861,24.4669695911,ok
+M10,Expressionism,1959,7,0,0,7,3252,21.5252152522,ok
+M10,Expressionism,1960,10,0,0,10,3482,28.7191269385,ok
+M10,Expressionism,1961,4,0,0,4,3460,11.5606936416,ok
+M10,Expressionism,1962,7,1,0,8,3875,20.6451612903,ok
+M10,Expressionism,1963,6,0,0,6,3923,15.2944175376,ok
+M10,Expressionism,1964,6,0,0,6,4264,14.0712945591,ok
+M10,Expressionism,1965,4,0,0,4,4393,9.10539494651,ok
+M10,Expressionism,1966,13,0,0,13,4555,28.5400658617,ok
+M10,Expressionism,1967,6,0,0,6,4831,12.4197888636,ok
+M10,Expressionism,1968,10,0,0,10,5448,18.3553597651,ok
+M10,Expressionism,1969,17,0,0,17,6577,25.8476509047,ok
+M10,Expressionism,1970,7,1,0,8,6934,11.5373521777,ok
+M10,Expressionism,1971,8,0,0,8,6439,12.4242894859,ok
+M10,Expressionism,1972,9,0,0,9,6537,13.7677833869,ok
+M10,Expressionism,1973,14,0,0,14,7026,19.925989183,ok
+M10,Expressionism,1974,13,0,0,13,7333,17.728078549,ok
+M10,Expressionism,1975,7,0,0,7,7656,9.14315569488,ok
+M10,Expressionism,1976,10,0,0,10,7991,12.5140783381,ok
+M10,Expressionism,1977,10,0,0,10,8525,11.7302052786,ok
+M10,Expressionism,1978,14,1,0,15,8484,17.6803394625,ok
+M10,Expressionism,1979,11,0,0,11,8487,12.9609991752,ok
+M10,Expressionism,1980,16,0,0,16,9307,17.1913613409,ok
+M10,Expressionism,1981,14,0,0,14,9429,14.847809948,ok
+M10,Expressionism,1982,12,0,0,12,9640,12.4481327801,ok
+M10,Expressionism,1983,23,0,0,23,10233,22.4763021597,ok
+M10,Expressionism,1984,10,0,0,10,10835,9.22934933087,ok
+M10,Expressionism,1985,13,0,0,13,10535,12.3398196488,ok
+M10,Expressionism,1986,14,0,0,14,11043,12.6777143892,ok
+M10,Expressionism,1987,17,0,0,17,11085,15.3360396933,ok
+M10,Expressionism,1988,18,0,0,18,12023,14.9713049988,ok
+M10,Expressionism,1989,21,1,0,22,13187,16.6830969895,ok
+M10,Expressionism,1990,35,0,0,35,13846,25.2780586451,ok
+M10,Expressionism,1991,25,0,0,25,14166,17.6478893124,ok
+M10,Expressionism,1992,32,0,0,32,15297,20.9191344708,ok
+M10,Expressionism,1993,26,1,0,27,15905,16.9757937755,ok
+M10,Expressionism,1994,34,1,0,35,17205,20.3429235687,ok
+M10,Expressionism,1995,32,0,0,32,17858,17.9191398813,ok
+M10,Expressionism,1996,27,0,0,27,18705,14.4346431435,ok
+M10,Expressionism,1997,50,3,0,53,19382,27.3449592405,ok
+M10,Expressionism,1998,40,1,1,40,20500,19.512195122,ok
+M10,Expressionism,1999,35,1,0,36,22270,16.1652447238,ok
+M10,Expressionism,2000,31,0,0,31,26415,11.7357561991,ok
+M10,Expressionism,2001,55,1,1,55,26482,20.7688241069,ok
+M10,Expressionism,2002,57,3,0,60,31485,19.0566936636,ok
+M10,Expressionism,2003,69,0,0,69,41073,16.799357242,ok
+M10,Expressionism,2004,51,2,0,53,37606,14.0934957188,ok
+M10,Expressionism,2005,66,1,0,67,41240,16.2463627546,ok
+M10,Expressionism,2006,81,1,1,81,45139,17.9445712134,ok
+M10,Expressionism,2007,91,3,0,94,56297,16.6971597066,ok
+M10,Expressionism,2008,84,0,0,84,56521,14.8617328073,ok
+M10,Expressionism,2009,120,1,1,120,67728,17.7179305457,ok
+M10,Expressionism,2010,99,4,1,102,75172,13.5688820305,ok
+M10,Expressionism,2011,107,1,0,108,78854,13.6961980369,ok
+M10,Expressionism,2012,155,7,2,160,84832,18.8608072425,ok
+M10,Expressionism,2013,178,2,0,180,95876,18.774250073,ok
+M10,Expressionism,2014,149,3,0,152,95255,15.9571676028,ok
+M10,Expressionism,2015,149,5,1,153,98219,15.5774341013,ok
+M10,Expressionism,2016,175,1,0,176,105715,16.6485361585,ok
+M10,Expressionism,2017,172,4,0,176,161987,10.8650694192,ok
+M10,Expressionism,2018,236,10,0,246,113366,21.6996277544,ok
+M10,Expressionism,2019,159,6,1,164,115014,14.2591336707,ok
+M11,Cubism,1800,0,0,0,0,186,0,ok
+M11,Cubism,1801,0,0,0,0,22,0,ok
+M11,Cubism,1802,0,0,0,0,25,0,ok
+M11,Cubism,1803,0,0,0,0,27,0,ok
+M11,Cubism,1804,0,0,0,0,13,0,ok
+M11,Cubism,1805,0,0,0,0,25,0,ok
+M11,Cubism,1806,0,0,0,0,26,0,ok
+M11,Cubism,1807,0,0,0,0,24,0,ok
+M11,Cubism,1808,0,0,0,0,27,0,ok
+M11,Cubism,1809,0,0,0,0,43,0,ok
+M11,Cubism,1810,0,0,0,0,43,0,ok
+M11,Cubism,1811,0,0,0,0,48,0,ok
+M11,Cubism,1812,0,0,0,0,48,0,ok
+M11,Cubism,1813,0,0,0,0,23,0,ok
+M11,Cubism,1814,0,0,0,0,33,0,ok
+M11,Cubism,1815,0,0,0,0,22,0,ok
+M11,Cubism,1816,0,0,0,0,14,0,ok
+M11,Cubism,1817,0,0,0,0,30,0,ok
+M11,Cubism,1818,0,0,0,0,33,0,ok
+M11,Cubism,1819,0,0,0,0,19,0,ok
+M11,Cubism,1820,0,0,0,0,42,0,ok
+M11,Cubism,1821,0,0,0,0,30,0,ok
+M11,Cubism,1822,0,0,0,0,29,0,ok
+M11,Cubism,1823,0,0,0,0,35,0,ok
+M11,Cubism,1824,0,0,0,0,33,0,ok
+M11,Cubism,1825,0,0,0,0,57,0,ok
+M11,Cubism,1826,0,0,0,0,39,0,ok
+M11,Cubism,1827,0,0,0,0,46,0,ok
+M11,Cubism,1828,0,0,0,0,42,0,ok
+M11,Cubism,1829,0,0,0,0,54,0,ok
+M11,Cubism,1830,0,0,0,0,58,0,ok
+M11,Cubism,1831,0,0,0,0,43,0,ok
+M11,Cubism,1832,0,0,0,0,28,0,ok
+M11,Cubism,1833,0,0,0,0,27,0,ok
+M11,Cubism,1834,0,0,0,0,74,0,ok
+M11,Cubism,1835,0,0,0,0,65,0,ok
+M11,Cubism,1836,0,0,0,0,45,0,ok
+M11,Cubism,1837,0,0,0,0,35,0,ok
+M11,Cubism,1838,0,0,0,0,36,0,ok
+M11,Cubism,1839,0,0,0,0,46,0,ok
+M11,Cubism,1840,0,0,0,0,85,0,ok
+M11,Cubism,1841,0,0,0,0,31,0,ok
+M11,Cubism,1842,0,0,0,0,45,0,ok
+M11,Cubism,1843,0,0,0,0,44,0,ok
+M11,Cubism,1844,0,0,0,0,53,0,ok
+M11,Cubism,1845,0,0,0,0,59,0,ok
+M11,Cubism,1846,0,0,0,0,104,0,ok
+M11,Cubism,1847,0,0,0,0,184,0,ok
+M11,Cubism,1848,0,0,0,0,108,0,ok
+M11,Cubism,1849,0,0,0,0,77,0,ok
+M11,Cubism,1850,0,0,0,0,192,0,ok
+M11,Cubism,1851,0,0,0,0,156,0,ok
+M11,Cubism,1852,0,0,0,0,127,0,ok
+M11,Cubism,1853,0,0,0,0,182,0,ok
+M11,Cubism,1854,0,0,0,0,134,0,ok
+M11,Cubism,1855,0,0,0,0,231,0,ok
+M11,Cubism,1856,0,0,0,0,147,0,ok
+M11,Cubism,1857,0,0,0,0,1003,0,ok
+M11,Cubism,1858,0,0,0,0,194,0,ok
+M11,Cubism,1859,0,0,0,0,163,0,ok
+M11,Cubism,1860,0,0,0,0,175,0,ok
+M11,Cubism,1861,0,0,0,0,121,0,ok
+M11,Cubism,1862,0,0,0,0,90,0,ok
+M11,Cubism,1863,0,0,0,0,116,0,ok
+M11,Cubism,1864,0,0,0,0,102,0,ok
+M11,Cubism,1865,0,0,0,0,107,0,ok
+M11,Cubism,1866,0,0,0,0,131,0,ok
+M11,Cubism,1867,0,0,0,0,155,0,ok
+M11,Cubism,1868,0,0,0,0,131,0,ok
+M11,Cubism,1869,0,0,0,0,119,0,ok
+M11,Cubism,1870,0,0,0,0,204,0,ok
+M11,Cubism,1871,0,0,0,0,199,0,ok
+M11,Cubism,1872,0,0,0,0,223,0,ok
+M11,Cubism,1873,0,0,0,0,165,0,ok
+M11,Cubism,1874,0,0,0,0,214,0,ok
+M11,Cubism,1875,0,0,0,0,226,0,ok
+M11,Cubism,1876,0,0,0,0,232,0,ok
+M11,Cubism,1877,0,0,0,0,207,0,ok
+M11,Cubism,1878,0,0,0,0,259,0,ok
+M11,Cubism,1879,0,0,0,0,287,0,ok
+M11,Cubism,1880,0,0,0,0,456,0,ok
+M11,Cubism,1881,0,0,0,0,291,0,ok
+M11,Cubism,1882,0,0,0,0,202,0,ok
+M11,Cubism,1883,0,0,0,0,228,0,ok
+M11,Cubism,1884,0,0,0,0,287,0,ok
+M11,Cubism,1885,0,0,0,0,284,0,ok
+M11,Cubism,1886,0,0,0,0,314,0,ok
+M11,Cubism,1887,0,0,0,0,307,0,ok
+M11,Cubism,1888,0,0,0,0,305,0,ok
+M11,Cubism,1889,0,0,0,0,332,0,ok
+M11,Cubism,1890,0,0,0,0,353,0,ok
+M11,Cubism,1891,0,0,0,0,353,0,ok
+M11,Cubism,1892,0,0,0,0,313,0,ok
+M11,Cubism,1893,0,0,0,0,398,0,ok
+M11,Cubism,1894,0,0,0,0,443,0,ok
+M11,Cubism,1895,0,0,0,0,484,0,ok
+M11,Cubism,1896,0,0,0,0,508,0,ok
+M11,Cubism,1897,0,0,0,0,458,0,ok
+M11,Cubism,1898,0,0,0,0,543,0,ok
+M11,Cubism,1899,1,0,0,1,698,14.3266475645,ok
+M11,Cubism,1900,0,0,0,0,749,0,ok
+M11,Cubism,1901,0,0,0,0,663,0,ok
+M11,Cubism,1902,0,0,0,0,698,0,ok
+M11,Cubism,1903,0,0,0,0,631,0,ok
+M11,Cubism,1904,0,0,0,0,635,0,ok
+M11,Cubism,1905,0,0,0,0,752,0,ok
+M11,Cubism,1906,0,0,0,0,780,0,ok
+M11,Cubism,1907,0,0,0,0,660,0,ok
+M11,Cubism,1908,0,0,0,0,744,0,ok
+M11,Cubism,1909,0,0,0,0,722,0,ok
+M11,Cubism,1910,1,0,0,1,890,11.2359550562,ok
+M11,Cubism,1911,0,0,0,0,769,0,ok
+M11,Cubism,1912,1,0,0,1,773,12.936610608,ok
+M11,Cubism,1913,0,2,0,2,842,23.7529691211,ok
+M11,Cubism,1914,0,0,0,0,973,0,ok
+M11,Cubism,1915,1,0,0,1,862,11.6009280742,ok
+M11,Cubism,1916,0,0,0,0,960,0,ok
+M11,Cubism,1917,1,0,0,1,1153,8.67302688638,ok
+M11,Cubism,1918,0,0,0,0,909,0,ok
+M11,Cubism,1919,0,1,0,1,830,12.0481927711,ok
+M11,Cubism,1920,0,0,0,0,1068,0,ok
+M11,Cubism,1921,0,0,0,0,878,0,ok
+M11,Cubism,1922,0,1,0,1,977,10.2354145343,ok
+M11,Cubism,1923,1,0,0,1,1038,9.63391136802,ok
+M11,Cubism,1924,3,0,0,3,1033,29.0416263311,ok
+M11,Cubism,1925,0,0,0,0,1199,0,ok
+M11,Cubism,1926,0,0,0,0,1267,0,ok
+M11,Cubism,1927,0,0,0,0,1289,0,ok
+M11,Cubism,1928,1,0,0,1,1340,7.46268656716,ok
+M11,Cubism,1929,0,0,0,0,1476,0,ok
+M11,Cubism,1930,1,0,0,1,1729,5.78368999422,ok
+M11,Cubism,1931,0,1,0,1,1545,6.47249190939,ok
+M11,Cubism,1932,0,0,0,0,1440,0,ok
+M11,Cubism,1933,0,0,0,0,1388,0,ok
+M11,Cubism,1934,0,1,0,1,1502,6.65778961385,ok
+M11,Cubism,1935,0,1,0,1,1676,5.96658711217,ok
+M11,Cubism,1936,1,0,0,1,1794,5.57413600892,ok
+M11,Cubism,1937,0,0,0,0,1809,0,ok
+M11,Cubism,1938,0,0,0,0,1813,0,ok
+M11,Cubism,1939,0,0,0,0,1758,0,ok
+M11,Cubism,1940,1,0,0,1,1980,5.05050505051,ok
+M11,Cubism,1941,2,4,0,6,1935,31.007751938,ok
+M11,Cubism,1942,0,0,0,0,1656,0,ok
+M11,Cubism,1943,0,0,0,0,1599,0,ok
+M11,Cubism,1944,1,1,0,2,1477,13.5409614083,ok
+M11,Cubism,1945,0,0,0,0,1546,0,ok
+M11,Cubism,1946,3,0,0,3,1810,16.5745856354,ok
+M11,Cubism,1947,3,0,0,3,2102,14.2721217888,ok
+M11,Cubism,1948,1,1,0,2,2107,9.49216896061,ok
+M11,Cubism,1949,3,2,0,5,2213,22.5937641211,ok
+M11,Cubism,1950,2,1,0,3,2656,11.2951807229,ok
+M11,Cubism,1951,0,2,0,2,2418,8.27129859388,ok
+M11,Cubism,1952,1,0,0,1,2328,4.29553264605,ok
+M11,Cubism,1953,2,2,0,4,2336,17.1232876712,ok
+M11,Cubism,1954,2,2,0,4,2459,16.2667751118,ok
+M11,Cubism,1955,2,0,0,2,2652,7.54147812971,ok
+M11,Cubism,1956,3,2,0,5,2641,18.9322226429,ok
+M11,Cubism,1957,3,1,0,4,2797,14.3010368252,ok
+M11,Cubism,1958,1,2,0,3,2861,10.4858441105,ok
+M11,Cubism,1959,1,1,0,2,3252,6.15006150062,ok
+M11,Cubism,1960,1,1,0,2,3482,5.74382538771,ok
+M11,Cubism,1961,0,4,0,4,3460,11.5606936416,ok
+M11,Cubism,1962,0,4,0,4,3875,10.3225806452,ok
+M11,Cubism,1963,1,1,0,2,3923,5.0981391792,ok
+M11,Cubism,1964,2,0,0,2,4264,4.6904315197,ok
+M11,Cubism,1965,2,0,0,2,4393,4.55269747325,ok
+M11,Cubism,1966,0,6,0,6,4555,13.17233809,ok
+M11,Cubism,1967,3,3,0,6,4831,12.4197888636,ok
+M11,Cubism,1968,1,5,0,6,5448,11.013215859,ok
+M11,Cubism,1969,1,4,0,5,6577,7.60225026608,ok
+M11,Cubism,1970,3,3,0,6,6934,8.65301413326,ok
+M11,Cubism,1971,1,2,0,3,6439,4.65910855723,ok
+M11,Cubism,1972,4,4,0,8,6537,12.2380296772,ok
+M11,Cubism,1973,3,3,0,6,7026,8.53970964987,ok
+M11,Cubism,1974,4,3,0,7,7333,9.54588844947,ok
+M11,Cubism,1975,4,1,0,5,7656,6.53082549634,ok
+M11,Cubism,1976,5,4,1,8,7991,10.0112626705,ok
+M11,Cubism,1977,5,3,0,8,8525,9.38416422287,ok
+M11,Cubism,1978,7,5,1,11,8484,12.9655822725,ok
+M11,Cubism,1979,3,4,0,7,8487,8.24790856604,ok
+M11,Cubism,1980,9,8,0,17,9307,18.2658214247,ok
+M11,Cubism,1981,7,6,0,13,9429,13.7872520946,ok
+M11,Cubism,1982,10,4,0,14,9640,14.5228215768,ok
+M11,Cubism,1983,7,8,0,15,10233,14.6584579302,ok
+M11,Cubism,1984,4,5,0,9,10835,8.30641439778,ok
+M11,Cubism,1985,8,6,0,14,10535,13.2890365449,ok
+M11,Cubism,1986,4,2,0,6,11043,5.4333061668,ok
+M11,Cubism,1987,7,3,0,10,11085,9.02119981958,ok
+M11,Cubism,1988,8,9,0,17,12023,14.1395658322,ok
+M11,Cubism,1989,12,7,0,19,13187,14.4081292182,ok
+M11,Cubism,1990,6,7,0,13,13846,9.38899321104,ok
+M11,Cubism,1991,6,8,0,14,14166,9.88281801497,ok
+M11,Cubism,1992,7,6,0,13,15297,8.49839837877,ok
+M11,Cubism,1993,13,6,0,19,15905,11.9459289532,ok
+M11,Cubism,1994,18,11,0,29,17205,16.8555652427,ok
+M11,Cubism,1995,12,3,0,15,17858,8.39959681935,ok
+M11,Cubism,1996,21,10,1,30,18705,16.0384923817,ok
+M11,Cubism,1997,20,10,1,29,19382,14.9623361882,ok
+M11,Cubism,1998,21,10,0,31,20500,15.1219512195,ok
+M11,Cubism,1999,18,17,1,34,22270,15.2671755725,ok
+M11,Cubism,2000,12,8,1,19,26415,7.19288283172,ok
+M11,Cubism,2001,22,10,0,32,26482,12.0836794804,ok
+M11,Cubism,2002,31,19,4,46,31485,14.6101318088,ok
+M11,Cubism,2003,33,15,2,46,41073,11.1995714947,ok
+M11,Cubism,2004,32,15,1,46,37606,12.2320906238,ok
+M11,Cubism,2005,43,20,2,61,41240,14.7914645975,ok
+M11,Cubism,2006,46,18,1,63,45139,13.9568887215,ok
+M11,Cubism,2007,53,25,2,76,56297,13.4998312521,ok
+M11,Cubism,2008,49,16,4,61,56521,10.7924488243,ok
+M11,Cubism,2009,71,39,6,104,67728,15.3555398063,ok
+M11,Cubism,2010,58,27,6,79,75172,10.5092321609,ok
+M11,Cubism,2011,71,17,3,85,78854,10.7794151216,ok
+M11,Cubism,2012,98,21,3,116,84832,13.6740852508,ok
+M11,Cubism,2013,103,35,4,134,95876,13.9763861655,ok
+M11,Cubism,2014,93,33,3,123,95255,12.9127079943,ok
+M11,Cubism,2015,69,30,2,97,98219,9.87588959366,ok
+M11,Cubism,2016,97,51,3,145,105715,13.7161235397,ok
+M11,Cubism,2017,106,48,10,144,161987,8.88960225203,ok
+M11,Cubism,2018,126,67,6,187,113366,16.4952454881,ok
+M11,Cubism,2019,112,40,4,148,115014,12.8679986784,ok
+M12,Futurism,1800,0,0,0,0,186,0,ok
+M12,Futurism,1801,0,0,0,0,22,0,ok
+M12,Futurism,1802,0,0,0,0,25,0,ok
+M12,Futurism,1803,0,0,0,0,27,0,ok
+M12,Futurism,1804,0,0,0,0,13,0,ok
+M12,Futurism,1805,0,0,0,0,25,0,ok
+M12,Futurism,1806,0,0,0,0,26,0,ok
+M12,Futurism,1807,0,0,0,0,24,0,ok
+M12,Futurism,1808,0,0,0,0,27,0,ok
+M12,Futurism,1809,0,0,0,0,43,0,ok
+M12,Futurism,1810,0,0,0,0,43,0,ok
+M12,Futurism,1811,0,0,0,0,48,0,ok
+M12,Futurism,1812,0,0,0,0,48,0,ok
+M12,Futurism,1813,0,0,0,0,23,0,ok
+M12,Futurism,1814,0,0,0,0,33,0,ok
+M12,Futurism,1815,0,0,0,0,22,0,ok
+M12,Futurism,1816,0,0,0,0,14,0,ok
+M12,Futurism,1817,0,0,0,0,30,0,ok
+M12,Futurism,1818,0,0,0,0,33,0,ok
+M12,Futurism,1819,0,0,0,0,19,0,ok
+M12,Futurism,1820,0,0,0,0,42,0,ok
+M12,Futurism,1821,0,0,0,0,30,0,ok
+M12,Futurism,1822,0,0,0,0,29,0,ok
+M12,Futurism,1823,0,0,0,0,35,0,ok
+M12,Futurism,1824,0,0,0,0,33,0,ok
+M12,Futurism,1825,0,0,0,0,57,0,ok
+M12,Futurism,1826,0,0,0,0,39,0,ok
+M12,Futurism,1827,0,0,0,0,46,0,ok
+M12,Futurism,1828,0,0,0,0,42,0,ok
+M12,Futurism,1829,0,0,0,0,54,0,ok
+M12,Futurism,1830,0,0,0,0,58,0,ok
+M12,Futurism,1831,0,0,0,0,43,0,ok
+M12,Futurism,1832,0,0,0,0,28,0,ok
+M12,Futurism,1833,0,0,0,0,27,0,ok
+M12,Futurism,1834,0,0,0,0,74,0,ok
+M12,Futurism,1835,0,0,0,0,65,0,ok
+M12,Futurism,1836,0,0,0,0,45,0,ok
+M12,Futurism,1837,0,0,0,0,35,0,ok
+M12,Futurism,1838,0,0,0,0,36,0,ok
+M12,Futurism,1839,0,0,0,0,46,0,ok
+M12,Futurism,1840,0,0,0,0,85,0,ok
+M12,Futurism,1841,0,0,0,0,31,0,ok
+M12,Futurism,1842,0,0,0,0,45,0,ok
+M12,Futurism,1843,0,0,0,0,44,0,ok
+M12,Futurism,1844,0,0,0,0,53,0,ok
+M12,Futurism,1845,0,0,0,0,59,0,ok
+M12,Futurism,1846,0,0,0,0,104,0,ok
+M12,Futurism,1847,0,0,0,0,184,0,ok
+M12,Futurism,1848,0,0,0,0,108,0,ok
+M12,Futurism,1849,0,0,0,0,77,0,ok
+M12,Futurism,1850,0,0,0,0,192,0,ok
+M12,Futurism,1851,0,0,0,0,156,0,ok
+M12,Futurism,1852,0,0,0,0,127,0,ok
+M12,Futurism,1853,0,0,0,0,182,0,ok
+M12,Futurism,1854,0,0,0,0,134,0,ok
+M12,Futurism,1855,0,0,0,0,231,0,ok
+M12,Futurism,1856,0,0,0,0,147,0,ok
+M12,Futurism,1857,0,0,0,0,1003,0,ok
+M12,Futurism,1858,0,0,0,0,194,0,ok
+M12,Futurism,1859,0,0,0,0,163,0,ok
+M12,Futurism,1860,0,0,0,0,175,0,ok
+M12,Futurism,1861,0,0,0,0,121,0,ok
+M12,Futurism,1862,0,0,0,0,90,0,ok
+M12,Futurism,1863,0,0,0,0,116,0,ok
+M12,Futurism,1864,0,0,0,0,102,0,ok
+M12,Futurism,1865,0,0,0,0,107,0,ok
+M12,Futurism,1866,0,0,0,0,131,0,ok
+M12,Futurism,1867,0,0,0,0,155,0,ok
+M12,Futurism,1868,0,0,0,0,131,0,ok
+M12,Futurism,1869,0,0,0,0,119,0,ok
+M12,Futurism,1870,0,0,0,0,204,0,ok
+M12,Futurism,1871,0,0,0,0,199,0,ok
+M12,Futurism,1872,0,0,0,0,223,0,ok
+M12,Futurism,1873,0,0,0,0,165,0,ok
+M12,Futurism,1874,0,0,0,0,214,0,ok
+M12,Futurism,1875,0,0,0,0,226,0,ok
+M12,Futurism,1876,0,0,0,0,232,0,ok
+M12,Futurism,1877,0,0,0,0,207,0,ok
+M12,Futurism,1878,0,0,0,0,259,0,ok
+M12,Futurism,1879,0,0,0,0,287,0,ok
+M12,Futurism,1880,0,0,0,0,456,0,ok
+M12,Futurism,1881,0,0,0,0,291,0,ok
+M12,Futurism,1882,0,0,0,0,202,0,ok
+M12,Futurism,1883,0,0,0,0,228,0,ok
+M12,Futurism,1884,0,0,0,0,287,0,ok
+M12,Futurism,1885,0,0,0,0,284,0,ok
+M12,Futurism,1886,0,0,0,0,314,0,ok
+M12,Futurism,1887,0,0,0,0,307,0,ok
+M12,Futurism,1888,0,0,0,0,305,0,ok
+M12,Futurism,1889,0,0,0,0,332,0,ok
+M12,Futurism,1890,0,0,0,0,353,0,ok
+M12,Futurism,1891,0,0,0,0,353,0,ok
+M12,Futurism,1892,0,0,0,0,313,0,ok
+M12,Futurism,1893,0,0,0,0,398,0,ok
+M12,Futurism,1894,0,0,0,0,443,0,ok
+M12,Futurism,1895,0,0,0,0,484,0,ok
+M12,Futurism,1896,0,0,0,0,508,0,ok
+M12,Futurism,1897,0,0,0,0,458,0,ok
+M12,Futurism,1898,0,0,0,0,543,0,ok
+M12,Futurism,1899,0,0,0,0,698,0,ok
+M12,Futurism,1900,0,0,0,0,749,0,ok
+M12,Futurism,1901,0,0,0,0,663,0,ok
+M12,Futurism,1902,0,0,0,0,698,0,ok
+M12,Futurism,1903,0,0,0,0,631,0,ok
+M12,Futurism,1904,0,0,0,0,635,0,ok
+M12,Futurism,1905,0,0,0,0,752,0,ok
+M12,Futurism,1906,0,0,0,0,780,0,ok
+M12,Futurism,1907,0,0,0,0,660,0,ok
+M12,Futurism,1908,0,0,0,0,744,0,ok
+M12,Futurism,1909,0,0,0,0,722,0,ok
+M12,Futurism,1910,0,0,0,0,890,0,ok
+M12,Futurism,1911,0,0,0,0,769,0,ok
+M12,Futurism,1912,0,0,0,0,773,0,ok
+M12,Futurism,1913,0,0,0,0,842,0,ok
+M12,Futurism,1914,0,0,0,0,973,0,ok
+M12,Futurism,1915,0,0,0,0,862,0,ok
+M12,Futurism,1916,0,0,0,0,960,0,ok
+M12,Futurism,1917,0,0,0,0,1153,0,ok
+M12,Futurism,1918,0,0,0,0,909,0,ok
+M12,Futurism,1919,0,0,0,0,830,0,ok
+M12,Futurism,1920,0,0,0,0,1068,0,ok
+M12,Futurism,1921,0,0,0,0,878,0,ok
+M12,Futurism,1922,0,0,0,0,977,0,ok
+M12,Futurism,1923,0,0,0,0,1038,0,ok
+M12,Futurism,1924,0,0,0,0,1033,0,ok
+M12,Futurism,1925,0,0,0,0,1199,0,ok
+M12,Futurism,1926,0,0,0,0,1267,0,ok
+M12,Futurism,1927,0,0,0,0,1289,0,ok
+M12,Futurism,1928,0,0,0,0,1340,0,ok
+M12,Futurism,1929,0,0,0,0,1476,0,ok
+M12,Futurism,1930,0,0,0,0,1729,0,ok
+M12,Futurism,1931,0,0,0,0,1545,0,ok
+M12,Futurism,1932,0,0,0,0,1440,0,ok
+M12,Futurism,1933,0,0,0,0,1388,0,ok
+M12,Futurism,1934,0,0,0,0,1502,0,ok
+M12,Futurism,1935,0,0,0,0,1676,0,ok
+M12,Futurism,1936,0,0,0,0,1794,0,ok
+M12,Futurism,1937,0,0,0,0,1809,0,ok
+M12,Futurism,1938,1,0,0,1,1813,5.51571980143,ok
+M12,Futurism,1939,0,0,0,0,1758,0,ok
+M12,Futurism,1940,0,0,0,0,1980,0,ok
+M12,Futurism,1941,0,0,0,0,1935,0,ok
+M12,Futurism,1942,0,0,0,0,1656,0,ok
+M12,Futurism,1943,0,0,0,0,1599,0,ok
+M12,Futurism,1944,0,0,0,0,1477,0,ok
+M12,Futurism,1945,0,0,0,0,1546,0,ok
+M12,Futurism,1946,0,0,0,0,1810,0,ok
+M12,Futurism,1947,0,0,0,0,2102,0,ok
+M12,Futurism,1948,1,0,0,1,2107,4.7460844803,ok
+M12,Futurism,1949,0,0,0,0,2213,0,ok
+M12,Futurism,1950,0,0,0,0,2656,0,ok
+M12,Futurism,1951,0,0,0,0,2418,0,ok
+M12,Futurism,1952,0,0,0,0,2328,0,ok
+M12,Futurism,1953,0,0,0,0,2336,0,ok
+M12,Futurism,1954,0,0,0,0,2459,0,ok
+M12,Futurism,1955,0,0,0,0,2652,0,ok
+M12,Futurism,1956,0,0,0,0,2641,0,ok
+M12,Futurism,1957,0,0,0,0,2797,0,ok
+M12,Futurism,1958,0,0,0,0,2861,0,ok
+M12,Futurism,1959,0,0,0,0,3252,0,ok
+M12,Futurism,1960,0,0,0,0,3482,0,ok
+M12,Futurism,1961,1,0,0,1,3460,2.8901734104,ok
+M12,Futurism,1962,0,0,0,0,3875,0,ok
+M12,Futurism,1963,0,1,0,1,3923,2.5490695896,ok
+M12,Futurism,1964,1,0,0,1,4264,2.34521575985,ok
+M12,Futurism,1965,2,0,0,2,4393,4.55269747325,ok
+M12,Futurism,1966,0,0,0,0,4555,0,ok
+M12,Futurism,1967,1,0,0,1,4831,2.0699648106,ok
+M12,Futurism,1968,0,0,0,0,5448,0,ok
+M12,Futurism,1969,2,0,0,2,6577,3.04090010643,ok
+M12,Futurism,1970,2,0,0,2,6934,2.88433804442,ok
+M12,Futurism,1971,0,0,0,0,6439,0,ok
+M12,Futurism,1972,1,0,0,1,6537,1.52975370965,ok
+M12,Futurism,1973,2,0,0,2,7026,2.84656988329,ok
+M12,Futurism,1974,1,0,0,1,7333,1.36369834992,ok
+M12,Futurism,1975,2,0,0,2,7656,2.61233019854,ok
+M12,Futurism,1976,0,0,0,0,7991,0,ok
+M12,Futurism,1977,1,0,0,1,8525,1.17302052786,ok
+M12,Futurism,1978,0,0,0,0,8484,0,ok
+M12,Futurism,1979,3,0,0,3,8487,3.53481795688,ok
+M12,Futurism,1980,0,0,0,0,9307,0,ok
+M12,Futurism,1981,4,3,0,7,9429,7.42390497402,ok
+M12,Futurism,1982,0,0,0,0,9640,0,ok
+M12,Futurism,1983,1,0,0,1,10233,0.977230528682,ok
+M12,Futurism,1984,2,0,0,2,10835,1.84586986617,ok
+M12,Futurism,1985,4,0,0,4,10535,3.79686758424,ok
+M12,Futurism,1986,2,0,0,2,11043,1.8111020556,ok
+M12,Futurism,1987,3,0,0,3,11085,2.70635994587,ok
+M12,Futurism,1988,2,0,0,2,12023,1.66347833319,ok
+M12,Futurism,1989,2,0,0,2,13187,1.51664518086,ok
+M12,Futurism,1990,5,0,0,5,13846,3.61115123501,ok
+M12,Futurism,1991,2,1,0,3,14166,2.11774671749,ok
+M12,Futurism,1992,2,0,0,2,15297,1.30744590443,ok
+M12,Futurism,1993,4,0,0,4,15905,2.51493241119,ok
+M12,Futurism,1994,5,0,0,5,17205,2.90613193839,ok
+M12,Futurism,1995,3,0,0,3,17858,1.67991936387,ok
+M12,Futurism,1996,4,1,0,5,18705,2.67308206362,ok
+M12,Futurism,1997,4,0,0,4,19382,2.06377050872,ok
+M12,Futurism,1998,4,0,0,4,20500,1.9512195122,ok
+M12,Futurism,1999,7,1,0,8,22270,3.5922766053,ok
+M12,Futurism,2000,15,1,0,16,26415,6.05716448987,ok
+M12,Futurism,2001,12,1,0,13,26482,4.90899478891,ok
+M12,Futurism,2002,7,0,0,7,31485,2.22328092743,ok
+M12,Futurism,2003,9,1,0,10,41073,2.43468945536,ok
+M12,Futurism,2004,3,0,0,3,37606,0.797745040685,ok
+M12,Futurism,2005,10,1,0,11,41240,2.66731328807,ok
+M12,Futurism,2006,7,0,0,7,45139,1.5507654135,ok
+M12,Futurism,2007,10,0,0,10,56297,1.7762935858,ok
+M12,Futurism,2008,7,0,0,7,56521,1.23847773394,ok
+M12,Futurism,2009,34,3,0,37,67728,5.46302858493,ok
+M12,Futurism,2010,13,0,0,13,75172,1.72936731762,ok
+M12,Futurism,2011,16,2,1,17,78854,2.15588302432,ok
+M12,Futurism,2012,15,1,0,16,84832,1.88608072425,ok
+M12,Futurism,2013,26,8,1,33,95876,3.44194584672,ok
+M12,Futurism,2014,12,2,0,14,95255,1.46973912131,ok
+M12,Futurism,2015,14,4,0,18,98219,1.83263930604,ok
+M12,Futurism,2016,21,2,0,23,105715,2.17566097526,ok
+M12,Futurism,2017,55,6,0,61,161987,3.76573428732,ok
+M12,Futurism,2018,38,12,4,46,113366,4.05765397033,ok
+M12,Futurism,2019,25,2,0,27,115014,2.34754029944,ok
+M13,Dada,1800,1,0,0,1,186,53.7634408602,ok
+M13,Dada,1801,0,0,0,0,22,0,ok
+M13,Dada,1802,0,0,0,0,25,0,ok
+M13,Dada,1803,0,0,0,0,27,0,ok
+M13,Dada,1804,0,0,0,0,13,0,ok
+M13,Dada,1805,0,0,0,0,25,0,ok
+M13,Dada,1806,0,0,0,0,26,0,ok
+M13,Dada,1807,0,0,0,0,24,0,ok
+M13,Dada,1808,0,0,0,0,27,0,ok
+M13,Dada,1809,0,0,0,0,43,0,ok
+M13,Dada,1810,0,0,0,0,43,0,ok
+M13,Dada,1811,0,0,0,0,48,0,ok
+M13,Dada,1812,0,0,0,0,48,0,ok
+M13,Dada,1813,0,0,0,0,23,0,ok
+M13,Dada,1814,0,0,0,0,33,0,ok
+M13,Dada,1815,0,0,0,0,22,0,ok
+M13,Dada,1816,0,0,0,0,14,0,ok
+M13,Dada,1817,0,0,0,0,30,0,ok
+M13,Dada,1818,0,0,0,0,33,0,ok
+M13,Dada,1819,0,0,0,0,19,0,ok
+M13,Dada,1820,0,0,0,0,42,0,ok
+M13,Dada,1821,0,0,0,0,30,0,ok
+M13,Dada,1822,0,0,0,0,29,0,ok
+M13,Dada,1823,0,0,0,0,35,0,ok
+M13,Dada,1824,0,0,0,0,33,0,ok
+M13,Dada,1825,0,0,0,0,57,0,ok
+M13,Dada,1826,0,0,0,0,39,0,ok
+M13,Dada,1827,0,0,0,0,46,0,ok
+M13,Dada,1828,0,0,0,0,42,0,ok
+M13,Dada,1829,0,0,0,0,54,0,ok
+M13,Dada,1830,0,0,0,0,58,0,ok
+M13,Dada,1831,0,0,0,0,43,0,ok
+M13,Dada,1832,0,0,0,0,28,0,ok
+M13,Dada,1833,0,0,0,0,27,0,ok
+M13,Dada,1834,0,0,0,0,74,0,ok
+M13,Dada,1835,0,0,0,0,65,0,ok
+M13,Dada,1836,0,0,0,0,45,0,ok
+M13,Dada,1837,0,0,0,0,35,0,ok
+M13,Dada,1838,0,0,0,0,36,0,ok
+M13,Dada,1839,0,0,0,0,46,0,ok
+M13,Dada,1840,0,0,0,0,85,0,ok
+M13,Dada,1841,0,0,0,0,31,0,ok
+M13,Dada,1842,0,0,0,0,45,0,ok
+M13,Dada,1843,0,0,0,0,44,0,ok
+M13,Dada,1844,0,0,0,0,53,0,ok
+M13,Dada,1845,0,0,0,0,59,0,ok
+M13,Dada,1846,0,0,0,0,104,0,ok
+M13,Dada,1847,0,0,0,0,184,0,ok
+M13,Dada,1848,0,0,0,0,108,0,ok
+M13,Dada,1849,0,0,0,0,77,0,ok
+M13,Dada,1850,0,0,0,0,192,0,ok
+M13,Dada,1851,0,0,0,0,156,0,ok
+M13,Dada,1852,0,0,0,0,127,0,ok
+M13,Dada,1853,0,0,0,0,182,0,ok
+M13,Dada,1854,0,0,0,0,134,0,ok
+M13,Dada,1855,0,0,0,0,231,0,ok
+M13,Dada,1856,0,0,0,0,147,0,ok
+M13,Dada,1857,0,0,0,0,1003,0,ok
+M13,Dada,1858,0,0,0,0,194,0,ok
+M13,Dada,1859,0,0,0,0,163,0,ok
+M13,Dada,1860,0,0,0,0,175,0,ok
+M13,Dada,1861,0,0,0,0,121,0,ok
+M13,Dada,1862,0,0,0,0,90,0,ok
+M13,Dada,1863,0,0,0,0,116,0,ok
+M13,Dada,1864,0,0,0,0,102,0,ok
+M13,Dada,1865,0,0,0,0,107,0,ok
+M13,Dada,1866,0,0,0,0,131,0,ok
+M13,Dada,1867,0,0,0,0,155,0,ok
+M13,Dada,1868,0,0,0,0,131,0,ok
+M13,Dada,1869,0,0,0,0,119,0,ok
+M13,Dada,1870,0,0,0,0,204,0,ok
+M13,Dada,1871,0,0,0,0,199,0,ok
+M13,Dada,1872,0,0,0,0,223,0,ok
+M13,Dada,1873,0,0,0,0,165,0,ok
+M13,Dada,1874,0,0,0,0,214,0,ok
+M13,Dada,1875,0,0,0,0,226,0,ok
+M13,Dada,1876,0,0,0,0,232,0,ok
+M13,Dada,1877,0,0,0,0,207,0,ok
+M13,Dada,1878,0,0,0,0,259,0,ok
+M13,Dada,1879,0,0,0,0,287,0,ok
+M13,Dada,1880,0,0,0,0,456,0,ok
+M13,Dada,1881,0,0,0,0,291,0,ok
+M13,Dada,1882,0,0,0,0,202,0,ok
+M13,Dada,1883,0,0,0,0,228,0,ok
+M13,Dada,1884,0,0,0,0,287,0,ok
+M13,Dada,1885,0,0,0,0,284,0,ok
+M13,Dada,1886,0,0,0,0,314,0,ok
+M13,Dada,1887,0,0,0,0,307,0,ok
+M13,Dada,1888,0,0,0,0,305,0,ok
+M13,Dada,1889,0,0,0,0,332,0,ok
+M13,Dada,1890,0,0,0,0,353,0,ok
+M13,Dada,1891,0,0,0,0,353,0,ok
+M13,Dada,1892,0,0,0,0,313,0,ok
+M13,Dada,1893,0,0,0,0,398,0,ok
+M13,Dada,1894,0,0,0,0,443,0,ok
+M13,Dada,1895,0,0,0,0,484,0,ok
+M13,Dada,1896,0,0,0,0,508,0,ok
+M13,Dada,1897,0,0,0,0,458,0,ok
+M13,Dada,1898,0,0,0,0,543,0,ok
+M13,Dada,1899,0,0,0,0,698,0,ok
+M13,Dada,1900,0,0,0,0,749,0,ok
+M13,Dada,1901,0,0,0,0,663,0,ok
+M13,Dada,1902,0,0,0,0,698,0,ok
+M13,Dada,1903,0,0,0,0,631,0,ok
+M13,Dada,1904,0,0,0,0,635,0,ok
+M13,Dada,1905,0,0,0,0,752,0,ok
+M13,Dada,1906,0,0,0,0,780,0,ok
+M13,Dada,1907,0,0,0,0,660,0,ok
+M13,Dada,1908,0,0,0,0,744,0,ok
+M13,Dada,1909,0,0,0,0,722,0,ok
+M13,Dada,1910,0,0,0,0,890,0,ok
+M13,Dada,1911,1,0,0,1,769,13.0039011704,ok
+M13,Dada,1912,0,0,0,0,773,0,ok
+M13,Dada,1913,0,0,0,0,842,0,ok
+M13,Dada,1914,0,0,0,0,973,0,ok
+M13,Dada,1915,0,0,0,0,862,0,ok
+M13,Dada,1916,0,0,0,0,960,0,ok
+M13,Dada,1917,2,0,0,2,1153,17.3460537728,ok
+M13,Dada,1918,2,0,0,2,909,22.00220022,ok
+M13,Dada,1919,0,0,0,0,830,0,ok
+M13,Dada,1920,1,0,0,1,1068,9.36329588015,ok
+M13,Dada,1921,1,0,0,1,878,11.3895216401,ok
+M13,Dada,1922,0,0,0,0,977,0,ok
+M13,Dada,1923,1,0,0,1,1038,9.63391136802,ok
+M13,Dada,1924,0,0,0,0,1033,0,ok
+M13,Dada,1925,0,0,0,0,1199,0,ok
+M13,Dada,1926,0,0,0,0,1267,0,ok
+M13,Dada,1927,1,0,0,1,1289,7.7579519007,ok
+M13,Dada,1928,1,0,0,1,1340,7.46268656716,ok
+M13,Dada,1929,4,0,0,4,1476,27.1002710027,ok
+M13,Dada,1930,1,0,0,1,1729,5.78368999422,ok
+M13,Dada,1931,0,0,0,0,1545,0,ok
+M13,Dada,1932,0,0,0,0,1440,0,ok
+M13,Dada,1933,0,0,0,0,1388,0,ok
+M13,Dada,1934,1,0,0,1,1502,6.65778961385,ok
+M13,Dada,1935,0,0,0,0,1676,0,ok
+M13,Dada,1936,0,0,0,0,1794,0,ok
+M13,Dada,1937,0,0,0,0,1809,0,ok
+M13,Dada,1938,0,0,0,0,1813,0,ok
+M13,Dada,1939,1,0,0,1,1758,5.68828213879,ok
+M13,Dada,1940,0,0,0,0,1980,0,ok
+M13,Dada,1941,0,0,0,0,1935,0,ok
+M13,Dada,1942,1,0,0,1,1656,6.038647343,ok
+M13,Dada,1943,0,0,0,0,1599,0,ok
+M13,Dada,1944,0,0,0,0,1477,0,ok
+M13,Dada,1945,2,0,0,2,1546,12.936610608,ok
+M13,Dada,1946,2,0,0,2,1810,11.0497237569,ok
+M13,Dada,1947,0,0,0,0,2102,0,ok
+M13,Dada,1948,0,0,0,0,2107,0,ok
+M13,Dada,1949,1,0,0,1,2213,4.51875282422,ok
+M13,Dada,1950,0,0,0,0,2656,0,ok
+M13,Dada,1951,0,0,0,0,2418,0,ok
+M13,Dada,1952,1,1,1,1,2328,4.29553264605,ok
+M13,Dada,1953,2,0,0,2,2336,8.56164383562,ok
+M13,Dada,1954,0,0,0,0,2459,0,ok
+M13,Dada,1955,1,0,0,1,2652,3.77073906486,ok
+M13,Dada,1956,0,0,0,0,2641,0,ok
+M13,Dada,1957,0,0,0,0,2797,0,ok
+M13,Dada,1958,0,0,0,0,2861,0,ok
+M13,Dada,1959,1,0,0,1,3252,3.07503075031,ok
+M13,Dada,1960,3,0,0,3,3482,8.61573808156,ok
+M13,Dada,1961,4,0,0,4,3460,11.5606936416,ok
+M13,Dada,1962,1,0,0,1,3875,2.58064516129,ok
+M13,Dada,1963,3,0,0,3,3923,7.6472087688,ok
+M13,Dada,1964,7,0,0,7,4264,16.4165103189,ok
+M13,Dada,1965,3,0,0,3,4393,6.82904620988,ok
+M13,Dada,1966,3,0,0,3,4555,6.58616904501,ok
+M13,Dada,1967,2,0,0,2,4831,4.1399296212,ok
+M13,Dada,1968,4,0,0,4,5448,7.34214390602,ok
+M13,Dada,1969,5,0,0,5,6577,7.60225026608,ok
+M13,Dada,1970,4,0,0,4,6934,5.76867608884,ok
+M13,Dada,1971,3,0,0,3,6439,4.65910855723,ok
+M13,Dada,1972,10,0,0,10,6537,15.2975370965,ok
+M13,Dada,1973,15,0,0,15,7026,21.3492741247,ok
+M13,Dada,1974,4,0,0,4,7333,5.4547933997,ok
+M13,Dada,1975,5,0,0,5,7656,6.53082549634,ok
+M13,Dada,1976,6,0,0,6,7991,7.50844700288,ok
+M13,Dada,1977,8,0,0,8,8525,9.38416422287,ok
+M13,Dada,1978,6,1,1,6,8484,7.07213578501,ok
+M13,Dada,1979,13,0,0,13,8487,15.3175444798,ok
+M13,Dada,1980,7,0,0,7,9307,7.52122058666,ok
+M13,Dada,1981,5,0,0,5,9429,5.30278926715,ok
+M13,Dada,1982,7,0,0,7,9640,7.26141078838,ok
+M13,Dada,1983,9,0,0,9,10233,8.79507475814,ok
+M13,Dada,1984,7,0,0,7,10835,6.46054453161,ok
+M13,Dada,1985,10,0,0,10,10535,9.49216896061,ok
+M13,Dada,1986,11,1,0,12,11043,10.8666123336,ok
+M13,Dada,1987,10,0,0,10,11085,9.02119981958,ok
+M13,Dada,1988,13,0,0,13,12023,10.8126091658,ok
+M13,Dada,1989,18,1,0,19,13187,14.4081292182,ok
+M13,Dada,1990,13,0,0,13,13846,9.38899321104,ok
+M13,Dada,1991,18,1,0,19,14166,13.4123958775,ok
+M13,Dada,1992,14,0,0,14,15297,9.15212133098,ok
+M13,Dada,1993,16,0,0,16,15905,10.0597296448,ok
+M13,Dada,1994,16,2,0,18,17205,10.4620749782,ok
+M13,Dada,1995,17,0,0,17,17858,9.51954306193,ok
+M13,Dada,1996,29,1,0,30,18705,16.0384923817,ok
+M13,Dada,1997,32,0,0,32,19382,16.5101640698,ok
+M13,Dada,1998,33,0,0,33,20500,16.0975609756,ok
+M13,Dada,1999,26,0,0,26,22270,11.6748989672,ok
+M13,Dada,2000,29,1,0,30,26415,11.3571834185,ok
+M13,Dada,2001,43,0,0,43,26482,16.2374443018,ok
+M13,Dada,2002,40,0,0,40,31485,12.7044624424,ok
+M13,Dada,2003,45,0,0,45,41073,10.9561025491,ok
+M13,Dada,2004,41,3,2,42,37606,11.1684305696,ok
+M13,Dada,2005,63,3,1,65,41240,15.7613967022,ok
+M13,Dada,2006,69,2,1,70,45139,15.507654135,ok
+M13,Dada,2007,86,2,0,88,56297,15.6313835551,ok
+M13,Dada,2008,52,2,1,53,56521,9.37704569983,ok
+M13,Dada,2009,86,4,1,89,67728,13.1407984881,ok
+M13,Dada,2010,96,3,2,97,75172,12.9037407545,ok
+M13,Dada,2011,104,2,2,104,78854,13.1889314429,ok
+M13,Dada,2012,105,7,4,108,84832,12.7310448887,ok
+M13,Dada,2013,115,6,1,120,95876,12.5161667153,ok
+M13,Dada,2014,106,2,0,108,95255,11.3379875072,ok
+M13,Dada,2015,101,1,0,102,98219,10.3849560676,ok
+M13,Dada,2016,130,5,1,134,105715,12.6755900298,ok
+M13,Dada,2017,124,9,4,129,161987,7.96360201745,ok
+M13,Dada,2018,161,3,1,163,113366,14.378208634,ok
+M13,Dada,2019,145,3,1,147,115014,12.7810527414,ok
+M14,Surrealism,1800,1,0,0,1,186,53.7634408602,ok
+M14,Surrealism,1801,0,0,0,0,22,0,ok
+M14,Surrealism,1802,0,0,0,0,25,0,ok
+M14,Surrealism,1803,0,0,0,0,27,0,ok
+M14,Surrealism,1804,0,0,0,0,13,0,ok
+M14,Surrealism,1805,0,0,0,0,25,0,ok
+M14,Surrealism,1806,0,0,0,0,26,0,ok
+M14,Surrealism,1807,0,0,0,0,24,0,ok
+M14,Surrealism,1808,0,0,0,0,27,0,ok
+M14,Surrealism,1809,0,0,0,0,43,0,ok
+M14,Surrealism,1810,0,0,0,0,43,0,ok
+M14,Surrealism,1811,0,0,0,0,48,0,ok
+M14,Surrealism,1812,0,0,0,0,48,0,ok
+M14,Surrealism,1813,0,0,0,0,23,0,ok
+M14,Surrealism,1814,0,0,0,0,33,0,ok
+M14,Surrealism,1815,0,0,0,0,22,0,ok
+M14,Surrealism,1816,0,0,0,0,14,0,ok
+M14,Surrealism,1817,0,0,0,0,30,0,ok
+M14,Surrealism,1818,0,0,0,0,33,0,ok
+M14,Surrealism,1819,0,0,0,0,19,0,ok
+M14,Surrealism,1820,0,0,0,0,42,0,ok
+M14,Surrealism,1821,0,0,0,0,30,0,ok
+M14,Surrealism,1822,0,0,0,0,29,0,ok
+M14,Surrealism,1823,0,0,0,0,35,0,ok
+M14,Surrealism,1824,0,0,0,0,33,0,ok
+M14,Surrealism,1825,0,0,0,0,57,0,ok
+M14,Surrealism,1826,0,0,0,0,39,0,ok
+M14,Surrealism,1827,0,0,0,0,46,0,ok
+M14,Surrealism,1828,0,0,0,0,42,0,ok
+M14,Surrealism,1829,0,0,0,0,54,0,ok
+M14,Surrealism,1830,0,0,0,0,58,0,ok
+M14,Surrealism,1831,0,0,0,0,43,0,ok
+M14,Surrealism,1832,0,0,0,0,28,0,ok
+M14,Surrealism,1833,0,0,0,0,27,0,ok
+M14,Surrealism,1834,0,0,0,0,74,0,ok
+M14,Surrealism,1835,0,0,0,0,65,0,ok
+M14,Surrealism,1836,0,0,0,0,45,0,ok
+M14,Surrealism,1837,0,0,0,0,35,0,ok
+M14,Surrealism,1838,0,0,0,0,36,0,ok
+M14,Surrealism,1839,0,0,0,0,46,0,ok
+M14,Surrealism,1840,0,0,0,0,85,0,ok
+M14,Surrealism,1841,0,0,0,0,31,0,ok
+M14,Surrealism,1842,0,0,0,0,45,0,ok
+M14,Surrealism,1843,0,0,0,0,44,0,ok
+M14,Surrealism,1844,0,0,0,0,53,0,ok
+M14,Surrealism,1845,0,0,0,0,59,0,ok
+M14,Surrealism,1846,0,0,0,0,104,0,ok
+M14,Surrealism,1847,0,0,0,0,184,0,ok
+M14,Surrealism,1848,0,0,0,0,108,0,ok
+M14,Surrealism,1849,0,0,0,0,77,0,ok
+M14,Surrealism,1850,0,0,0,0,192,0,ok
+M14,Surrealism,1851,0,0,0,0,156,0,ok
+M14,Surrealism,1852,0,0,0,0,127,0,ok
+M14,Surrealism,1853,0,0,0,0,182,0,ok
+M14,Surrealism,1854,0,0,0,0,134,0,ok
+M14,Surrealism,1855,0,0,0,0,231,0,ok
+M14,Surrealism,1856,0,0,0,0,147,0,ok
+M14,Surrealism,1857,0,0,0,0,1003,0,ok
+M14,Surrealism,1858,0,0,0,0,194,0,ok
+M14,Surrealism,1859,0,0,0,0,163,0,ok
+M14,Surrealism,1860,0,0,0,0,175,0,ok
+M14,Surrealism,1861,0,0,0,0,121,0,ok
+M14,Surrealism,1862,0,0,0,0,90,0,ok
+M14,Surrealism,1863,0,0,0,0,116,0,ok
+M14,Surrealism,1864,0,0,0,0,102,0,ok
+M14,Surrealism,1865,0,0,0,0,107,0,ok
+M14,Surrealism,1866,0,0,0,0,131,0,ok
+M14,Surrealism,1867,0,0,0,0,155,0,ok
+M14,Surrealism,1868,0,0,0,0,131,0,ok
+M14,Surrealism,1869,0,0,0,0,119,0,ok
+M14,Surrealism,1870,0,0,0,0,204,0,ok
+M14,Surrealism,1871,0,0,0,0,199,0,ok
+M14,Surrealism,1872,0,0,0,0,223,0,ok
+M14,Surrealism,1873,0,0,0,0,165,0,ok
+M14,Surrealism,1874,0,0,0,0,214,0,ok
+M14,Surrealism,1875,0,0,0,0,226,0,ok
+M14,Surrealism,1876,0,0,0,0,232,0,ok
+M14,Surrealism,1877,0,0,0,0,207,0,ok
+M14,Surrealism,1878,0,0,0,0,259,0,ok
+M14,Surrealism,1879,0,0,0,0,287,0,ok
+M14,Surrealism,1880,0,0,0,0,456,0,ok
+M14,Surrealism,1881,0,0,0,0,291,0,ok
+M14,Surrealism,1882,0,0,0,0,202,0,ok
+M14,Surrealism,1883,0,0,0,0,228,0,ok
+M14,Surrealism,1884,0,0,0,0,287,0,ok
+M14,Surrealism,1885,0,0,0,0,284,0,ok
+M14,Surrealism,1886,0,0,0,0,314,0,ok
+M14,Surrealism,1887,0,0,0,0,307,0,ok
+M14,Surrealism,1888,0,0,0,0,305,0,ok
+M14,Surrealism,1889,0,0,0,0,332,0,ok
+M14,Surrealism,1890,0,0,0,0,353,0,ok
+M14,Surrealism,1891,0,0,0,0,353,0,ok
+M14,Surrealism,1892,0,0,0,0,313,0,ok
+M14,Surrealism,1893,0,0,0,0,398,0,ok
+M14,Surrealism,1894,0,0,0,0,443,0,ok
+M14,Surrealism,1895,0,0,0,0,484,0,ok
+M14,Surrealism,1896,0,0,0,0,508,0,ok
+M14,Surrealism,1897,0,0,0,0,458,0,ok
+M14,Surrealism,1898,0,0,0,0,543,0,ok
+M14,Surrealism,1899,0,0,0,0,698,0,ok
+M14,Surrealism,1900,0,0,0,0,749,0,ok
+M14,Surrealism,1901,0,0,0,0,663,0,ok
+M14,Surrealism,1902,0,0,0,0,698,0,ok
+M14,Surrealism,1903,0,0,0,0,631,0,ok
+M14,Surrealism,1904,0,0,0,0,635,0,ok
+M14,Surrealism,1905,0,0,0,0,752,0,ok
+M14,Surrealism,1906,0,0,0,0,780,0,ok
+M14,Surrealism,1907,0,0,0,0,660,0,ok
+M14,Surrealism,1908,0,0,0,0,744,0,ok
+M14,Surrealism,1909,0,0,0,0,722,0,ok
+M14,Surrealism,1910,0,0,0,0,890,0,ok
+M14,Surrealism,1911,1,0,0,1,769,13.0039011704,ok
+M14,Surrealism,1912,1,0,0,1,773,12.936610608,ok
+M14,Surrealism,1913,0,0,0,0,842,0,ok
+M14,Surrealism,1914,0,0,0,0,973,0,ok
+M14,Surrealism,1915,1,0,0,1,862,11.6009280742,ok
+M14,Surrealism,1916,0,0,0,0,960,0,ok
+M14,Surrealism,1917,2,0,0,2,1153,17.3460537728,ok
+M14,Surrealism,1918,2,0,0,2,909,22.00220022,ok
+M14,Surrealism,1919,0,0,0,0,830,0,ok
+M14,Surrealism,1920,1,0,0,1,1068,9.36329588015,ok
+M14,Surrealism,1921,1,0,0,1,878,11.3895216401,ok
+M14,Surrealism,1922,0,0,0,0,977,0,ok
+M14,Surrealism,1923,1,0,0,1,1038,9.63391136802,ok
+M14,Surrealism,1924,0,0,0,0,1033,0,ok
+M14,Surrealism,1925,1,0,0,1,1199,8.34028356964,ok
+M14,Surrealism,1926,0,0,0,0,1267,0,ok
+M14,Surrealism,1927,0,0,0,0,1289,0,ok
+M14,Surrealism,1928,1,0,0,1,1340,7.46268656716,ok
+M14,Surrealism,1929,3,0,0,3,1476,20.325203252,ok
+M14,Surrealism,1930,1,0,0,1,1729,5.78368999422,ok
+M14,Surrealism,1931,0,1,0,1,1545,6.47249190939,ok
+M14,Surrealism,1932,2,0,0,2,1440,13.8888888889,ok
+M14,Surrealism,1933,0,0,0,0,1388,0,ok
+M14,Surrealism,1934,2,0,0,2,1502,13.3155792277,ok
+M14,Surrealism,1935,2,0,0,2,1676,11.9331742243,ok
+M14,Surrealism,1936,1,2,0,3,1794,16.7224080268,ok
+M14,Surrealism,1937,2,2,0,4,1809,22.1116639027,ok
+M14,Surrealism,1938,0,0,0,0,1813,0,ok
+M14,Surrealism,1939,1,0,0,1,1758,5.68828213879,ok
+M14,Surrealism,1940,2,0,0,2,1980,10.101010101,ok
+M14,Surrealism,1941,1,0,0,1,1935,5.16795865633,ok
+M14,Surrealism,1942,0,1,0,1,1656,6.038647343,ok
+M14,Surrealism,1943,0,0,0,0,1599,0,ok
+M14,Surrealism,1944,1,1,0,2,1477,13.5409614083,ok
+M14,Surrealism,1945,1,0,0,1,1546,6.46830530401,ok
+M14,Surrealism,1946,3,0,0,3,1810,16.5745856354,ok
+M14,Surrealism,1947,1,0,0,1,2102,4.75737392959,ok
+M14,Surrealism,1948,3,2,0,5,2107,23.7304224015,ok
+M14,Surrealism,1949,1,0,0,1,2213,4.51875282422,ok
+M14,Surrealism,1950,0,1,0,1,2656,3.76506024096,ok
+M14,Surrealism,1951,0,2,0,2,2418,8.27129859388,ok
+M14,Surrealism,1952,1,1,0,2,2328,8.5910652921,ok
+M14,Surrealism,1953,2,0,0,2,2336,8.56164383562,ok
+M14,Surrealism,1954,3,0,0,3,2459,12.2000813339,ok
+M14,Surrealism,1955,1,0,0,1,2652,3.77073906486,ok
+M14,Surrealism,1956,4,2,0,6,2641,22.7186671715,ok
+M14,Surrealism,1957,2,0,0,2,2797,7.15051841258,ok
+M14,Surrealism,1958,2,0,0,2,2861,6.9905627403,ok
+M14,Surrealism,1959,1,0,0,1,3252,3.07503075031,ok
+M14,Surrealism,1960,5,1,0,6,3482,17.2314761631,ok
+M14,Surrealism,1961,2,1,0,3,3460,8.67052023121,ok
+M14,Surrealism,1962,2,0,0,2,3875,5.16129032258,ok
+M14,Surrealism,1963,3,2,0,5,3923,12.745347948,ok
+M14,Surrealism,1964,8,1,0,9,4264,21.1069418386,ok
+M14,Surrealism,1965,4,0,0,4,4393,9.10539494651,ok
+M14,Surrealism,1966,6,3,0,9,4555,19.758507135,ok
+M14,Surrealism,1967,3,1,0,4,4831,8.27985924239,ok
+M14,Surrealism,1968,5,3,0,8,5448,14.684287812,ok
+M14,Surrealism,1969,5,5,0,10,6577,15.2045005322,ok
+M14,Surrealism,1970,6,1,0,7,6934,10.0951831555,ok
+M14,Surrealism,1971,4,3,0,7,6439,10.8712533002,ok
+M14,Surrealism,1972,10,4,0,14,6537,21.4165519351,ok
+M14,Surrealism,1973,9,4,1,12,7026,17.0794192997,ok
+M14,Surrealism,1974,6,3,0,9,7333,12.2732851493,ok
+M14,Surrealism,1975,9,2,0,11,7656,14.367816092,ok
+M14,Surrealism,1976,9,2,0,11,7991,13.7654861719,ok
+M14,Surrealism,1977,15,6,0,21,8525,24.633431085,ok
+M14,Surrealism,1978,7,8,2,13,8484,15.3229608675,ok
+M14,Surrealism,1979,14,6,0,20,8487,23.5654530458,ok
+M14,Surrealism,1980,14,3,0,17,9307,18.2658214247,ok
+M14,Surrealism,1981,14,7,1,20,9429,21.2111570686,ok
+M14,Surrealism,1982,11,3,0,14,9640,14.5228215768,ok
+M14,Surrealism,1983,17,3,0,20,10233,19.5446105736,ok
+M14,Surrealism,1984,7,4,0,11,10835,10.152284264,ok
+M14,Surrealism,1985,13,9,2,20,10535,18.9843379212,ok
+M14,Surrealism,1986,19,6,1,24,11043,21.7332246672,ok
+M14,Surrealism,1987,19,5,0,24,11085,21.650879567,ok
+M14,Surrealism,1988,27,8,1,34,12023,28.2791316643,ok
+M14,Surrealism,1989,28,6,2,32,13187,24.2663228938,ok
+M14,Surrealism,1990,16,5,0,21,13846,15.1668351871,ok
+M14,Surrealism,1991,30,6,0,36,14166,25.4129606099,ok
+M14,Surrealism,1992,26,3,0,29,15297,18.9579656142,ok
+M14,Surrealism,1993,20,9,0,29,15905,18.2332599811,ok
+M14,Surrealism,1994,35,10,2,43,17205,24.9927346702,ok
+M14,Surrealism,1995,25,8,0,33,17858,18.4791130026,ok
+M14,Surrealism,1996,46,24,3,67,18705,35.8192996525,ok
+M14,Surrealism,1997,43,20,1,62,19382,31.9884428852,ok
+M14,Surrealism,1998,56,14,3,67,20500,32.6829268293,ok
+M14,Surrealism,1999,51,13,1,63,22270,28.2891782667,ok
+M14,Surrealism,2000,49,15,0,64,26415,24.2286579595,ok
+M14,Surrealism,2001,83,20,3,100,26482,37.7614983763,ok
+M14,Surrealism,2002,80,22,4,98,31485,31.125932984,ok
+M14,Surrealism,2003,89,29,3,115,41073,27.9989287366,ok
+M14,Surrealism,2004,81,41,7,115,37606,30.5802265596,ok
+M14,Surrealism,2005,101,32,2,131,41240,31.7652764306,ok
+M14,Surrealism,2006,113,34,6,141,45139,31.2368461862,ok
+M14,Surrealism,2007,137,44,11,170,56297,30.1969909587,ok
+M14,Surrealism,2008,121,44,8,157,56521,27.7772863184,ok
+M14,Surrealism,2009,148,39,8,179,67728,26.4292463974,ok
+M14,Surrealism,2010,164,45,8,201,75172,26.7386792955,ok
+M14,Surrealism,2011,163,40,3,200,78854,25.3633296979,ok
+M14,Surrealism,2012,202,49,10,241,84832,28.4090909091,ok
+M14,Surrealism,2013,205,73,5,273,95876,28.4742792774,ok
+M14,Surrealism,2014,170,55,10,215,95255,22.5709936486,ok
+M14,Surrealism,2015,188,65,9,244,98219,24.8424439263,ok
+M14,Surrealism,2016,200,77,9,268,105715,25.3511800596,ok
+M14,Surrealism,2017,254,78,13,319,161987,19.6929383222,ok
+M14,Surrealism,2018,268,91,18,341,113366,30.0795653018,ok
+M14,Surrealism,2019,266,96,18,344,115014,29.9094023336,ok
+M15,Abstract art,1800,0,0,0,0,186,0,ok
+M15,Abstract art,1801,0,0,0,0,22,0,ok
+M15,Abstract art,1802,0,0,0,0,25,0,ok
+M15,Abstract art,1803,0,0,0,0,27,0,ok
+M15,Abstract art,1804,0,0,0,0,13,0,ok
+M15,Abstract art,1805,0,0,0,0,25,0,ok
+M15,Abstract art,1806,0,0,0,0,26,0,ok
+M15,Abstract art,1807,0,0,0,0,24,0,ok
+M15,Abstract art,1808,0,0,0,0,27,0,ok
+M15,Abstract art,1809,0,0,0,0,43,0,ok
+M15,Abstract art,1810,0,0,0,0,43,0,ok
+M15,Abstract art,1811,0,0,0,0,48,0,ok
+M15,Abstract art,1812,0,0,0,0,48,0,ok
+M15,Abstract art,1813,0,0,0,0,23,0,ok
+M15,Abstract art,1814,0,0,0,0,33,0,ok
+M15,Abstract art,1815,0,0,0,0,22,0,ok
+M15,Abstract art,1816,0,0,0,0,14,0,ok
+M15,Abstract art,1817,0,0,0,0,30,0,ok
+M15,Abstract art,1818,0,0,0,0,33,0,ok
+M15,Abstract art,1819,0,0,0,0,19,0,ok
+M15,Abstract art,1820,0,0,0,0,42,0,ok
+M15,Abstract art,1821,0,0,0,0,30,0,ok
+M15,Abstract art,1822,0,0,0,0,29,0,ok
+M15,Abstract art,1823,0,0,0,0,35,0,ok
+M15,Abstract art,1824,0,0,0,0,33,0,ok
+M15,Abstract art,1825,0,0,0,0,57,0,ok
+M15,Abstract art,1826,0,0,0,0,39,0,ok
+M15,Abstract art,1827,0,0,0,0,46,0,ok
+M15,Abstract art,1828,0,0,0,0,42,0,ok
+M15,Abstract art,1829,0,0,0,0,54,0,ok
+M15,Abstract art,1830,0,0,0,0,58,0,ok
+M15,Abstract art,1831,0,0,0,0,43,0,ok
+M15,Abstract art,1832,0,0,0,0,28,0,ok
+M15,Abstract art,1833,0,0,0,0,27,0,ok
+M15,Abstract art,1834,0,0,0,0,74,0,ok
+M15,Abstract art,1835,0,0,0,0,65,0,ok
+M15,Abstract art,1836,0,0,0,0,45,0,ok
+M15,Abstract art,1837,0,0,0,0,35,0,ok
+M15,Abstract art,1838,0,0,0,0,36,0,ok
+M15,Abstract art,1839,0,0,0,0,46,0,ok
+M15,Abstract art,1840,0,0,0,0,85,0,ok
+M15,Abstract art,1841,0,0,0,0,31,0,ok
+M15,Abstract art,1842,0,0,0,0,45,0,ok
+M15,Abstract art,1843,0,0,0,0,44,0,ok
+M15,Abstract art,1844,0,0,0,0,53,0,ok
+M15,Abstract art,1845,0,0,0,0,59,0,ok
+M15,Abstract art,1846,0,0,0,0,104,0,ok
+M15,Abstract art,1847,0,0,0,0,184,0,ok
+M15,Abstract art,1848,0,0,0,0,108,0,ok
+M15,Abstract art,1849,0,0,0,0,77,0,ok
+M15,Abstract art,1850,0,0,0,0,192,0,ok
+M15,Abstract art,1851,0,0,0,0,156,0,ok
+M15,Abstract art,1852,0,0,0,0,127,0,ok
+M15,Abstract art,1853,0,0,0,0,182,0,ok
+M15,Abstract art,1854,0,0,0,0,134,0,ok
+M15,Abstract art,1855,0,0,0,0,231,0,ok
+M15,Abstract art,1856,0,0,0,0,147,0,ok
+M15,Abstract art,1857,0,0,0,0,1003,0,ok
+M15,Abstract art,1858,0,0,0,0,194,0,ok
+M15,Abstract art,1859,0,0,0,0,163,0,ok
+M15,Abstract art,1860,0,0,0,0,175,0,ok
+M15,Abstract art,1861,0,0,0,0,121,0,ok
+M15,Abstract art,1862,0,0,0,0,90,0,ok
+M15,Abstract art,1863,0,0,0,0,116,0,ok
+M15,Abstract art,1864,0,0,0,0,102,0,ok
+M15,Abstract art,1865,0,0,0,0,107,0,ok
+M15,Abstract art,1866,0,0,0,0,131,0,ok
+M15,Abstract art,1867,0,0,0,0,155,0,ok
+M15,Abstract art,1868,0,0,0,0,131,0,ok
+M15,Abstract art,1869,0,0,0,0,119,0,ok
+M15,Abstract art,1870,0,0,0,0,204,0,ok
+M15,Abstract art,1871,0,0,0,0,199,0,ok
+M15,Abstract art,1872,0,0,0,0,223,0,ok
+M15,Abstract art,1873,0,0,0,0,165,0,ok
+M15,Abstract art,1874,0,0,0,0,214,0,ok
+M15,Abstract art,1875,0,0,0,0,226,0,ok
+M15,Abstract art,1876,0,0,0,0,232,0,ok
+M15,Abstract art,1877,0,0,0,0,207,0,ok
+M15,Abstract art,1878,0,0,0,0,259,0,ok
+M15,Abstract art,1879,0,0,0,0,287,0,ok
+M15,Abstract art,1880,0,0,0,0,456,0,ok
+M15,Abstract art,1881,0,0,0,0,291,0,ok
+M15,Abstract art,1882,0,0,0,0,202,0,ok
+M15,Abstract art,1883,0,0,0,0,228,0,ok
+M15,Abstract art,1884,0,0,0,0,287,0,ok
+M15,Abstract art,1885,0,0,0,0,284,0,ok
+M15,Abstract art,1886,0,0,0,0,314,0,ok
+M15,Abstract art,1887,0,0,0,0,307,0,ok
+M15,Abstract art,1888,0,0,0,0,305,0,ok
+M15,Abstract art,1889,0,0,0,0,332,0,ok
+M15,Abstract art,1890,0,0,0,0,353,0,ok
+M15,Abstract art,1891,0,0,0,0,353,0,ok
+M15,Abstract art,1892,0,0,0,0,313,0,ok
+M15,Abstract art,1893,0,0,0,0,398,0,ok
+M15,Abstract art,1894,0,0,0,0,443,0,ok
+M15,Abstract art,1895,0,0,0,0,484,0,ok
+M15,Abstract art,1896,0,0,0,0,508,0,ok
+M15,Abstract art,1897,0,0,0,0,458,0,ok
+M15,Abstract art,1898,0,0,0,0,543,0,ok
+M15,Abstract art,1899,0,0,0,0,698,0,ok
+M15,Abstract art,1900,0,0,0,0,749,0,ok
+M15,Abstract art,1901,0,0,0,0,663,0,ok
+M15,Abstract art,1902,0,0,0,0,698,0,ok
+M15,Abstract art,1903,0,0,0,0,631,0,ok
+M15,Abstract art,1904,0,0,0,0,635,0,ok
+M15,Abstract art,1905,1,0,0,1,752,13.2978723404,ok
+M15,Abstract art,1906,0,0,0,0,780,0,ok
+M15,Abstract art,1907,0,0,0,0,660,0,ok
+M15,Abstract art,1908,0,0,0,0,744,0,ok
+M15,Abstract art,1909,0,0,0,0,722,0,ok
+M15,Abstract art,1910,0,0,0,0,890,0,ok
+M15,Abstract art,1911,0,0,0,0,769,0,ok
+M15,Abstract art,1912,0,0,0,0,773,0,ok
+M15,Abstract art,1913,0,0,0,0,842,0,ok
+M15,Abstract art,1914,0,0,0,0,973,0,ok
+M15,Abstract art,1915,0,0,0,0,862,0,ok
+M15,Abstract art,1916,1,0,0,1,960,10.4166666667,ok
+M15,Abstract art,1917,0,0,0,0,1153,0,ok
+M15,Abstract art,1918,0,0,0,0,909,0,ok
+M15,Abstract art,1919,0,0,0,0,830,0,ok
+M15,Abstract art,1920,0,0,0,0,1068,0,ok
+M15,Abstract art,1921,1,0,0,1,878,11.3895216401,ok
+M15,Abstract art,1922,0,0,0,0,977,0,ok
+M15,Abstract art,1923,0,0,0,0,1038,0,ok
+M15,Abstract art,1924,0,0,0,0,1033,0,ok
+M15,Abstract art,1925,0,0,0,0,1199,0,ok
+M15,Abstract art,1926,0,0,0,0,1267,0,ok
+M15,Abstract art,1927,0,0,0,0,1289,0,ok
+M15,Abstract art,1928,0,0,0,0,1340,0,ok
+M15,Abstract art,1929,0,0,0,0,1476,0,ok
+M15,Abstract art,1930,0,0,0,0,1729,0,ok
+M15,Abstract art,1931,0,0,0,0,1545,0,ok
+M15,Abstract art,1932,0,0,0,0,1440,0,ok
+M15,Abstract art,1933,0,0,0,0,1388,0,ok
+M15,Abstract art,1934,1,0,0,1,1502,6.65778961385,ok
+M15,Abstract art,1935,0,0,0,0,1676,0,ok
+M15,Abstract art,1936,0,2,0,2,1794,11.1482720178,ok
+M15,Abstract art,1937,0,1,0,1,1809,5.52791597568,ok
+M15,Abstract art,1938,0,0,0,0,1813,0,ok
+M15,Abstract art,1939,0,2,0,2,1758,11.3765642776,ok
+M15,Abstract art,1940,0,1,0,1,1980,5.05050505051,ok
+M15,Abstract art,1941,0,3,0,3,1935,15.503875969,ok
+M15,Abstract art,1942,0,1,0,1,1656,6.038647343,ok
+M15,Abstract art,1943,0,1,0,1,1599,6.25390869293,ok
+M15,Abstract art,1944,0,0,0,0,1477,0,ok
+M15,Abstract art,1945,0,3,0,3,1546,19.404915912,ok
+M15,Abstract art,1946,1,0,0,1,1810,5.52486187845,ok
+M15,Abstract art,1947,2,2,0,4,2102,19.0294957184,ok
+M15,Abstract art,1948,2,0,0,2,2107,9.49216896061,ok
+M15,Abstract art,1949,0,1,0,1,2213,4.51875282422,ok
+M15,Abstract art,1950,0,1,0,1,2656,3.76506024096,ok
+M15,Abstract art,1951,0,2,0,2,2418,8.27129859388,ok
+M15,Abstract art,1952,1,1,0,2,2328,8.5910652921,ok
+M15,Abstract art,1953,0,1,0,1,2336,4.28082191781,ok
+M15,Abstract art,1954,3,1,0,4,2459,16.2667751118,ok
+M15,Abstract art,1955,1,0,0,1,2652,3.77073906486,ok
+M15,Abstract art,1956,3,0,0,3,2641,11.3593335858,ok
+M15,Abstract art,1957,2,0,0,2,2797,7.15051841258,ok
+M15,Abstract art,1958,1,5,0,6,2861,20.9716882209,ok
+M15,Abstract art,1959,3,4,0,7,3252,21.5252152522,ok
+M15,Abstract art,1960,1,2,0,3,3482,8.61573808156,ok
+M15,Abstract art,1961,2,3,0,5,3460,14.450867052,ok
+M15,Abstract art,1962,4,1,0,5,3875,12.9032258065,ok
+M15,Abstract art,1963,3,1,0,4,3923,10.1962783584,ok
+M15,Abstract art,1964,2,1,0,3,4264,7.03564727955,ok
+M15,Abstract art,1965,0,2,0,2,4393,4.55269747325,ok
+M15,Abstract art,1966,4,0,0,4,4555,8.78155872667,ok
+M15,Abstract art,1967,1,1,0,2,4831,4.1399296212,ok
+M15,Abstract art,1968,1,0,0,1,5448,1.83553597651,ok
+M15,Abstract art,1969,3,3,0,6,6577,9.12270031929,ok
+M15,Abstract art,1970,9,4,0,13,6934,18.7481972887,ok
+M15,Abstract art,1971,3,7,0,10,6439,15.5303618574,ok
+M15,Abstract art,1972,4,2,0,6,6537,9.17852225792,ok
+M15,Abstract art,1973,1,2,0,3,7026,4.26985482494,ok
+M15,Abstract art,1974,2,0,0,2,7333,2.72739669985,ok
+M15,Abstract art,1975,3,1,0,4,7656,5.22466039707,ok
+M15,Abstract art,1976,1,2,0,3,7991,3.75422350144,ok
+M15,Abstract art,1977,1,7,0,8,8525,9.38416422287,ok
+M15,Abstract art,1978,6,7,0,13,8484,15.3229608675,ok
+M15,Abstract art,1979,0,2,0,2,8487,2.35654530458,ok
+M15,Abstract art,1980,3,1,0,4,9307,4.29784033523,ok
+M15,Abstract art,1981,3,3,0,6,9429,6.36334712059,ok
+M15,Abstract art,1982,1,0,0,1,9640,1.03734439834,ok
+M15,Abstract art,1983,5,2,0,7,10233,6.84061370077,ok
+M15,Abstract art,1984,3,2,0,5,10835,4.61467466544,ok
+M15,Abstract art,1985,2,2,0,4,10535,3.79686758424,ok
+M15,Abstract art,1986,1,3,0,4,11043,3.6222041112,ok
+M15,Abstract art,1987,7,7,0,14,11085,12.6296797474,ok
+M15,Abstract art,1988,4,3,0,7,12023,5.82217416618,ok
+M15,Abstract art,1989,5,6,0,11,13187,8.34154849473,ok
+M15,Abstract art,1990,2,1,0,3,13846,2.16669074101,ok
+M15,Abstract art,1991,5,6,0,11,14166,7.76507129747,ok
+M15,Abstract art,1992,4,4,0,8,15297,5.2297836177,ok
+M15,Abstract art,1993,2,3,0,5,15905,3.14366551399,ok
+M15,Abstract art,1994,5,4,0,9,17205,5.2310374891,ok
+M15,Abstract art,1995,7,6,1,12,17858,6.71967745548,ok
+M15,Abstract art,1996,8,5,1,12,18705,6.41539695269,ok
+M15,Abstract art,1997,9,11,0,20,19382,10.3188525436,ok
+M15,Abstract art,1998,8,4,0,12,20500,5.85365853659,ok
+M15,Abstract art,1999,5,13,1,17,22270,7.63358778626,ok
+M15,Abstract art,2000,9,9,0,18,26415,6.81431005111,ok
+M15,Abstract art,2001,7,7,0,14,26482,5.28660977268,ok
+M15,Abstract art,2002,11,19,1,29,31485,9.21073527076,ok
+M15,Abstract art,2003,9,12,0,21,41073,5.11284785626,ok
+M15,Abstract art,2004,7,11,0,18,37606,4.78647024411,ok
+M15,Abstract art,2005,15,19,0,34,41240,8.2444228904,ok
+M15,Abstract art,2006,16,18,0,34,45139,7.53228915129,ok
+M15,Abstract art,2007,22,33,1,54,56297,9.59198536334,ok
+M15,Abstract art,2008,16,12,1,27,56521,4.7769855452,ok
+M15,Abstract art,2009,25,15,1,39,67728,5.75832742736,ok
+M15,Abstract art,2010,19,23,0,42,75172,5.58718671846,ok
+M15,Abstract art,2011,16,24,0,40,78854,5.07266593958,ok
+M15,Abstract art,2012,22,29,1,50,84832,5.8940022633,ok
+M15,Abstract art,2013,24,29,1,52,95876,5.42367224331,ok
+M15,Abstract art,2014,24,36,1,59,95255,6.19390058265,ok
+M15,Abstract art,2015,25,36,0,61,98219,6.21061098158,ok
+M15,Abstract art,2016,37,38,0,75,105715,7.09454665847,ok
+M15,Abstract art,2017,33,56,0,89,161987,5.49426805855,ok
+M15,Abstract art,2018,53,56,1,108,113366,9.52666584337,ok
+M15,Abstract art,2019,33,54,1,86,115014,7.47735058341,ok

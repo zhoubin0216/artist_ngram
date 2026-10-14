@@ -40,3 +40,17 @@ data/openalex/
 results/openalex/artist_work_clean.jsonl
 OpenAlex_clean_handoff.zip
 OpenAlex_normalized_handoff.zip
+
+# OpenAlex movement caches and intermediate review outputs
+data/openalex_movements/
+config/openalex_movement_review.csv
+results/openalex_movement_classification/
+results/openalex_movement_context/
+results/openalex_movement_context_sample/
+results/openalex_movement_triage/
+results/openalex_movements_auto_broad/
+results/openalex_movements_auto_strict/
+
+# Keep annual movement deliverables; exclude work-level detail
+results/openalex_movements_keyword_proxy/movement_work_union.jsonl
+/data/openalex_movements/
