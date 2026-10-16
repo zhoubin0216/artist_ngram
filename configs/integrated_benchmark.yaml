@@ -1,0 +1,45 @@
+spark:
+  app_name: european-artist-visibility-integrated-benchmark
+  master: local[4]
+  driver_memory: 4g
+  executor_memory: 4g
+  shuffle_partitions: 8
+  default_parallelism: 8
+  adaptive_enabled: false
+  auto_broadcast_join_threshold: -1
+  session_timezone: UTC
+benchmark:
+  warmup_runs: 1
+  measured_runs: 3
+  formats:
+    - csv
+    - json
+    - parquet_unpartitioned
+    - parquet_partitioned
+  queries:
+    - artist
+    - movement
+    - period
+  artist_id: Q296
+  artist_year_start: 1800
+  artist_year_end: 2019
+  movement_id: M05
+  movement_year_start: 1850
+  movement_year_end: 1920
+  period_year_start: 1900
+  period_year_end: 1900
+paths:
+  artist_dictionary: outputs/artist_dictionary.csv
+  ngram_artist: outputs/ngram_artists_full/artist_year_counts.jsonl
+  ngram_movement: outputs/ngram_movement_15/movement_year_counts.jsonl
+  ngram_movements: outputs/ngram_movement_15/movements.json
+  openalex_artist: results/openalex_normalized/artist_year_normalized.csv
+  openalex_movement: results/openalex_movements_keyword_proxy/movement_year_union.csv
+  getty_artist_year: data/getty/getty_artist_year.csv
+  generated_data: data/benchmark/integrated
+  results: outputs/integrated_benchmark_results.csv
+  summary: outputs/integrated_benchmark_summary.md
+  chart: outputs/integrated_benchmark_chart.png
+  validation: outputs/integrated_query_validation.json
+  plans: outputs/benchmark_plans/integrated
+  query_results: outputs/task3_query_results

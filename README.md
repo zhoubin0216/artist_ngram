@@ -475,6 +475,7 @@ py -3.9 -m venv .venv
 # Task 3 benchmark and tests
 .\.venv\Scripts\python.exe scripts\benchmark\run_benchmark.py --config configs\benchmark.yaml
 .\.venv\Scripts\python.exe scripts\benchmark\run_openalex_benchmark.py --config configs\openalex_benchmark.yaml
+.\.venv\Scripts\python.exe scripts\benchmark\run_integrated_benchmark.py --config configs\integrated_benchmark.yaml
 .\.venv\Scripts\python.exe -m pytest -q
 ```
 
@@ -492,6 +493,10 @@ Important outputs:
 - `outputs/openalex_benchmark_summary.md`
 - `outputs/openalex_benchmark_chart.png`
 - `outputs/openalex_query_validation.json`
+- `outputs/integrated_benchmark_results.csv`
+- `outputs/integrated_benchmark_summary.md`
+- `outputs/integrated_benchmark_chart.png`
+- `outputs/integrated_query_validation.json`
 - `outputs/environment_report.json`
 
 ### Current benchmark snapshot
@@ -517,6 +522,13 @@ queries slower. The standard movement join was also faster than broadcast in
 this local run (0.325210 s versus 0.406464 s). Full methodology and the boundary
 between engineering aggregates and official movement indicators are documented
 in `docs/task3_performance.md`.
+
+The comprehensive three-source layer additionally covers Ngram as a core input.
+Artist, movement and period queries each return Ngram, OpenAlex, Getty and a
+non-additive cross-source summary. Movement queries contain both member-artist
+aggregates and independent Ngram/OpenAlex movement series. See
+`docs/task3_comprehensive.md` for the final data model, commands, validation and
+performance results.
 
 ### Remaining work
 

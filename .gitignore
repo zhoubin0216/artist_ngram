@@ -64,8 +64,10 @@ data/getty/raw/*
 
 # Benchmark input copies, Spark event logs, and query-plan scratch files.
 data/benchmark/
+data/integrated/
 outputs/spark-events/
 outputs/benchmark_plans/
+outputs/task3_query_results/
 *.log
 
 # Local secrets and machine-specific overrides.
