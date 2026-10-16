@@ -62,12 +62,23 @@ def summary_wide(selected: DataFrame) -> DataFrame:
         )
         .withColumn("source_metric", F.concat_ws("__", "source", "metric"))
     )
-    return (
-        labelled.groupBy(
-            "entity_type", "entity_id", "entity_name", "year", "series_group"
-        )
+    keys = ["entity_type", "entity_id", "year", "series_group"]
+    names = labelled.groupBy(*keys).agg(F.min("entity_name").alias("entity_name"))
+    values = (
+        labelled.groupBy(*keys)
         .pivot("source_metric")
         .agg(F.first("value", ignorenulls=True))
+    )
+    return (
+        names.join(values, keys, "inner")
+        .select(
+            "entity_type",
+            "entity_id",
+            "entity_name",
+            "year",
+            "series_group",
+            *sorted(column for column in values.columns if column not in keys),
+        )
         .orderBy("entity_type", "entity_id", "year", "series_group")
     )
 

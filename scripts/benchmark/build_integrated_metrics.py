@@ -124,6 +124,12 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
     dictionary = pd.read_csv(dictionary_path, dtype={"artist_id": "string"})
     bridge = build_bridge(dictionary)
     artist_names = dictionary[["artist_id", "canonical_name"]]
+    artist_name_by_id = artist_names.set_index("artist_id")["canonical_name"]
+    movement_name_by_id = (
+        bridge[["movement_id", "movement_name"]]
+        .drop_duplicates()
+        .set_index("movement_id")["movement_name"]
+    )
 
     ngram_artist = pd.read_json(ngram_artist_path, lines=True)
     ngram_artist = ngram_artist.merge(artist_names, on="artist_id", how="left", validate="many_to_one")
@@ -140,6 +146,12 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
     )
 
     openalex_artist = pd.read_csv(openalex_artist_path, dtype={"artist_id": "string"})
+    openalex_artist["artist_name"] = openalex_artist["artist_id"].map(artist_name_by_id)
+    if openalex_artist["artist_name"].isna().any():
+        missing = openalex_artist.loc[
+            openalex_artist["artist_name"].isna(), "artist_id"
+        ].drop_duplicates().tolist()[:5]
+        raise RuntimeError(f"OpenAlex artist IDs missing from dictionary: {missing}")
     openalex_artist_metrics = metric_rows(
         openalex_artist,
         source="openalex",
@@ -174,10 +186,20 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
         ],
     )
 
-    movement_names = {
-        row["movement_id"]: row.get("dictionary_label") or row.get("query")
-        for row in json.loads(ngram_movements_path.read_text(encoding="utf-8"))
-    }
+    movement_query_definitions = json.loads(
+        ngram_movements_path.read_text(encoding="utf-8")
+    )
+    unknown_movement_ids = sorted(
+        {
+            str(row["movement_id"])
+            for row in movement_query_definitions
+            if str(row["movement_id"]) not in movement_name_by_id.index
+        }
+    )
+    if unknown_movement_ids:
+        raise RuntimeError(
+            f"N-gram movement IDs missing from artist dictionary: {unknown_movement_ids[:5]}"
+        )
 
     ngram_member = ngram_artist.merge(bridge, on="artist_id", how="inner", validate="many_to_many")
     ngram_member = (
@@ -248,7 +270,9 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
     )
 
     ngram_movement = pd.read_json(ngram_movement_path, lines=True)
-    ngram_movement["movement_name"] = ngram_movement["movement_id"].map(movement_names)
+    ngram_movement["movement_name"] = ngram_movement["movement_id"].map(
+        movement_name_by_id
+    )
     ngram_direct_metrics = metric_rows(
         ngram_movement,
         source="ngram",
@@ -262,6 +286,14 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
     )
 
     openalex_movement = pd.read_csv(openalex_movement_path, dtype={"movement_id": "string"})
+    openalex_movement["movement_name"] = openalex_movement["movement_id"].map(
+        movement_name_by_id
+    )
+    if openalex_movement["movement_name"].isna().any():
+        missing = openalex_movement.loc[
+            openalex_movement["movement_name"].isna(), "movement_id"
+        ].drop_duplicates().tolist()[:5]
+        raise RuntimeError(f"OpenAlex movement IDs missing from dictionary: {missing}")
     openalex_direct_metrics = metric_rows(
         openalex_movement,
         source="openalex",
@@ -298,6 +330,10 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
     if metrics.duplicated(key).any():
         sample = metrics.loc[metrics.duplicated(key, keep=False), key].head().to_dict("records")
         raise RuntimeError(f"Integrated metric key is not unique: {sample}")
+    name_counts = metrics.groupby(["entity_type", "entity_id"])["entity_name"].nunique()
+    if (name_counts > 1).any():
+        sample = name_counts[name_counts > 1].head().to_dict()
+        raise RuntimeError(f"Entity IDs have multiple canonical names: {sample}")
     metrics = metrics.sort_values(key).reset_index(drop=True)
 
     validation = {
@@ -338,6 +374,7 @@ def build_metrics(config: dict[str, Any]) -> tuple[pd.DataFrame, pd.DataFrame, d
         "year_max": int(metrics["year"].max()),
         "missing_values_are_not_zero_filled": True,
         "cross_source_values_are_not_summed": True,
+        "entity_id_has_one_canonical_name": True,
         "getty_direct_movement_available": False,
     }
     return metrics, bridge, validation

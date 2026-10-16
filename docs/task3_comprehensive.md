@@ -144,7 +144,9 @@ The summary contains 71 years and two rows per year: one
 ```
 
 The verified 1900 query returned 666 Ngram metric rows, 5,630 OpenAlex metric
-rows, 24 Getty metric rows and 1,405 summary rows.
+rows, 24 Getty metric rows and 1,400 summary rows. Entity IDs and canonical
+dictionary names are used as the cross-source identity; capitalization variants
+cannot create duplicate summary rows.
 
 ### Year-range query
 
@@ -160,7 +162,7 @@ The verified range query returned:
 | Ngram | 28,648 |
 | OpenAlex | 399,730 |
 | Getty | 1,149 |
-| Cross-source summary | 99,726 |
+| Cross-source summary | 99,400 |
 
 Every generated manifest records a checksum for each independent source and the
 summary.
@@ -190,8 +192,8 @@ Fixed configuration:
 |---|---:|
 | CSV | 134,485,879 |
 | JSON Lines | 332,336,831 |
-| Unpartitioned Parquet | 705,115 |
-| Year-partitioned Parquet | 13,695,687 |
+| Unpartitioned Parquet | 703,911 |
+| Year-partitioned Parquet | 13,680,765 |
 
 Unpartitioned Parquet is highly compact because the metric-long table contains
 many repeated categorical values and zero-filled OpenAlex annual measures. The
@@ -201,10 +203,10 @@ many repeated categorical values and zero-filled OpenAlex annual measures. The
 
 | Format | Artist Q296 | Movement M05, 1850–1920 | Period 1900 |
 |---|---:|---:|---:|
-| CSV | 2.263888 s | 2.090540 s | 2.129056 s |
-| JSON Lines | 2.259816 s | 2.144156 s | 2.383648 s |
-| Unpartitioned Parquet | 0.807722 s | 0.761790 s | 0.695844 s |
-| Year-partitioned Parquet | 1.434266 s | 0.952041 s | 0.657919 s |
+| CSV | 2.627414 s | 2.395323 s | 2.544367 s |
+| JSON Lines | 2.547306 s | 2.416618 s | 2.790410 s |
+| Unpartitioned Parquet | 0.900818 s | 0.829913 s | 0.760498 s |
+| Year-partitioned Parquet | 1.618993 s | 1.076985 s | 0.706005 s |
 
 Year partitioning helped the selective one-year query by reading one 61,913-byte
 file. It was slower for the 71-year movement range and the full 220-year artist
@@ -217,10 +219,10 @@ artist metric rows and the 1,533-row bridge:
 
 | Strategy | Median | Output rows |
 |---|---:|---:|
-| Standard join | 0.442307 s | 14,181 |
-| Broadcast join | 0.345237 s | 14,181 |
+| Standard join | 0.434860 s | 14,181 |
+| Broadcast join | 0.319699 s | 14,181 |
 
-Broadcast was about 22% faster in this integrated workload. This differs from
+Broadcast was about 26% faster in this integrated workload. This differs from
 the earlier OpenAlex-only benchmark, where broadcast was slower. Join strategy
 therefore depends on the input layout and must be measured for the final query,
 not selected from a general rule.

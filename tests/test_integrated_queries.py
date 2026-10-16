@@ -40,6 +40,7 @@ def test_three_queries_sources_summary_and_join(spark: SparkSession) -> None:
         ("openalex", "artist", "Q1", "One", 1900, "artist_complete_grid", "works_count", 3.0, None, None, "ok"),
         ("getty", "artist", "Q1", "One", 1900, "artist_observed", "confirmed_sale_count", 1.0, None, None, "observed"),
         ("ngram", "movement", "M05", "Impressionism", 1900, "direct_movement_term", "match_count", 4.0, "Impressionism", 1, "observed"),
+        ("openalex", "movement", "M05", "impressionism", 1900, "direct_official_union", "union_works_count", 5.0, None, None, "ok"),
     ]
     metrics = spark.createDataFrame(
         rows,
@@ -63,6 +64,8 @@ def test_three_queries_sources_summary_and_join(spark: SparkSession) -> None:
     assert artist["summary"].count() == 1
     movement = query_outputs(select_query(metrics, "movement", **kwargs))
     assert movement["ngram"].count() == 1
+    assert movement["openalex"].count() == 1
+    assert movement["summary"].count() == 1
     period = query_outputs(select_query(metrics, "period", **kwargs))
     assert period["summary"].count() == 2
 

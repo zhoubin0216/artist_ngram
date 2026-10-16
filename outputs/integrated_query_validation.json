@@ -31,5 +31,6 @@
   "year_max": 2019,
   "missing_values_are_not_zero_filled": true,
   "cross_source_values_are_not_summed": true,
+  "entity_id_has_one_canonical_name": true,
   "getty_direct_movement_available": false
 }
