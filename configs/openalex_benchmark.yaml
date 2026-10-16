@@ -1,0 +1,37 @@
+spark:
+  app_name: european-artist-visibility-openalex-benchmark
+  master: local[4]
+  driver_memory: 4g
+  executor_memory: 4g
+  shuffle_partitions: 8
+  default_parallelism: 8
+  adaptive_enabled: false
+  auto_broadcast_join_threshold: -1
+  session_timezone: UTC
+benchmark:
+  warmup_runs: 1
+  measured_runs: 3
+  formats:
+    - csv
+    - json
+    - parquet_unpartitioned
+    - parquet_partitioned
+  queries:
+    - q1
+    - q2
+    - q3
+  artist_id: Q296
+  artist_year_start: 1800
+  artist_year_end: 2019
+  snapshot_year: 1900
+paths:
+  annual: results/openalex_normalized/artist_year_normalized.csv
+  artist_dictionary: outputs/artist_dictionary.csv
+  movement_annual: results/openalex_movements_keyword_proxy/movement_year_union.csv
+  type_annual: results/openalex/artist_year_type_clean.csv
+  generated_data: data/benchmark/openalex
+  results: outputs/openalex_benchmark_results.csv
+  summary: outputs/openalex_benchmark_summary.md
+  chart: outputs/openalex_benchmark_chart.png
+  validation: outputs/openalex_query_validation.json
+  plans: outputs/benchmark_plans/openalex

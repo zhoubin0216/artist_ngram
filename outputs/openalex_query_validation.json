@@ -1,0 +1,31 @@
+{
+  "source_files": {
+    "annual": "results\\openalex_normalized\\artist_year_normalized.csv",
+    "movement_annual": "results\\openalex_movements_keyword_proxy\\movement_year_union.csv",
+    "type_annual": "results\\openalex\\artist_year_type_clean.csv"
+  },
+  "source_sha256": {
+    "annual": "c72b0bbfbdf64b249d3fef64ea988ef128c9636d517b02377df76b5dc2e10d47",
+    "movement_annual": "b7aa77e5cf07d797afe2d5a3ec4f7e541fb6d90127ef1eba9e0d8c5ca1880658",
+    "type_annual": "ad202926f6ea92308efb140ac91bd6f93f8c870df3764c8d798373c5254c1275"
+  },
+  "annual_rows": 301400,
+  "annual_artists": 1370,
+  "annual_works_count_sum": 15679,
+  "q1_q296_rows": 220,
+  "q1_q296_works_count_sum": 213,
+  "q2_1900_rows": 1370,
+  "q3_m05_1850_1920_rows": 71,
+  "q3_m05_1900": {
+    "artist_linked_works_count": 1,
+    "direct_movement_works_count": 0,
+    "overlap_works_count": 0,
+    "union_works_count": 1
+  },
+  "q4_type_rows": 9195,
+  "q4_artist_work_match_total": 15679,
+  "q4_distinct_work_total": null,
+  "q4_distinct_work_note": "The annual type table is already aggregated by artist. A global distinct Work-ID total requires results/openalex/artist_work_clean.jsonl and is not inferred from these counts.",
+  "q4_spark_output_rows": 19,
+  "q4_spark_checksum": "1cabca24ae0d2deeea9c91fa604ac531b0cf0113b6c6f464a8e45c2af9b380a0:f935954fc0aaed1c6dc0e21c94b544244d302187ad3842b23ea4b69b0fdf9cd1:35421653955"
+}

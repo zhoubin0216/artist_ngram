@@ -474,6 +474,7 @@ py -3.9 -m venv .venv
 
 # Task 3 benchmark and tests
 .\.venv\Scripts\python.exe scripts\benchmark\run_benchmark.py --config configs\benchmark.yaml
+.\.venv\Scripts\python.exe scripts\benchmark\run_openalex_benchmark.py --config configs\openalex_benchmark.yaml
 .\.venv\Scripts\python.exe -m pytest -q
 ```
 
@@ -487,6 +488,10 @@ Important outputs:
 - `outputs/benchmark_results.csv`
 - `outputs/benchmark_summary.md`
 - `outputs/benchmark_chart.png`
+- `outputs/openalex_benchmark_results.csv`
+- `outputs/openalex_benchmark_summary.md`
+- `outputs/openalex_benchmark_chart.png`
+- `outputs/openalex_query_validation.json`
 - `outputs/environment_report.json`
 
 ### Current benchmark snapshot
@@ -504,6 +509,15 @@ optimization must be measured rather than assumed. See
 HDFS was not configured, so the benchmark deliberately reports local filesystem
 results only. Network/API time is excluded from every Spark comparison.
 
+The separate OpenAlex benchmark uses the real 301,400-row normalized annual
+table without synthetic duplication. Unpartitioned Parquet occupied 120,709
+bytes versus 14,943,314 bytes for CSV. Year partitioning improved the selective
+1900 query from 0.129911 s to 0.122485 s, but its 220 small files made full-range
+queries slower. The standard movement join was also faster than broadcast in
+this local run (0.325210 s versus 0.406464 s). Full methodology and the boundary
+between engineering aggregates and official movement indicators are documented
+in `docs/task3_performance.md`.
+
 ### Remaining work
 
 - Manually review the two uncertain/unmatched Getty records before treating them
@@ -511,7 +525,7 @@ results only. Network/API time is excluded from every Spark comparison.
 - Add robust endpoint pagination/retry/checkpoint handling before expanding from
   25 to all approximately 1,370 artists.
 - Reassess query coverage and Getty data-model variations during the full run.
-- Repeat the fixed benchmark on the final integrated project tables; keep those
-  results separate from the synthetic Getty stress test.
+- Repeat both fixed benchmarks only if final input tables or Spark configuration
+  change, and retain the input hashes with the new results.
 - Add HDFS only if a correctly configured local HDFS environment becomes
   available; do not mix results from another computer.
