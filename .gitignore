@@ -54,3 +54,20 @@ results/openalex_movements_auto_strict/
 # Keep annual movement deliverables; exclude work-level detail
 results/openalex_movements_keyword_proxy/movement_work_union.jsonl
 /data/openalex_movements/
+
+# Python test caches
+.pytest_cache/
+
+# Getty API/SPARQL responses are reproducible but may be large.
+data/getty/raw/*
+!data/getty/raw/.gitkeep
+
+# Benchmark input copies, Spark event logs, and query-plan scratch files.
+data/benchmark/
+outputs/spark-events/
+outputs/benchmark_plans/
+*.log
+
+# Local secrets and machine-specific overrides.
+.env
+configs/*.local.yaml

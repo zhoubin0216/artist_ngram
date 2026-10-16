@@ -1,0 +1,11 @@
+endpoint: https://data.getty.edu/provenance/sparql
+ulan_url_template: https://vocab.getty.edu/ulan/{ulan_id}.jsonld
+user_agent: european-artist-visibility-pilot/0.1
+request_timeout_seconds: 120
+request_retries: 3
+mapping_chunk_size: 1
+event_chunk_size: 2
+event_limit_per_chunk: 500
+pilot_size: 25
+low_confidence_threshold: 0.80
+ambiguity_margin: 0.15

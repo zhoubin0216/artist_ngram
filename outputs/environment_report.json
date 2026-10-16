@@ -1,0 +1,40 @@
+{
+  "os": {
+    "description": "Windows-10-10.0.26200-SP0",
+    "release": "10",
+    "version": "10.0.26200",
+    "architecture": "AMD64"
+  },
+  "cpu": {
+    "name": "Intel(R) Core(TM) Ultra 9 275HX",
+    "logical_processors": 24
+  },
+  "memory": {
+    "total_gb": 31.38,
+    "available_gb": 16.95
+  },
+  "project_disk": {
+    "root": "D:",
+    "total_gb": 703.12,
+    "free_gb": 277.21
+  },
+  "python": {
+    "version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\课程\\ID2221\\project\\.venv\\Scripts\\python.exe"
+  },
+  "java": {
+    "returncode": 0,
+    "output": "java version \"1.8.0_501\"\r\nJava(TM) SE Runtime Environment (build 1.8.0_501-b08)\r\nJava HotSpot(TM) 64-Bit Server VM (build 25.501-b08, mixed mode)"
+  },
+  "git": {
+    "returncode": 0,
+    "output": "git version 2.53.0.windows.2"
+  },
+  "pyspark_available": true,
+  "wsl": {
+    "returncode": 50,
+    "output": "未安装适用于 Linux 的 Windows 子系统。可通过运行 “wsl.exe --install” 进行安装。\r\r\n有关详细信息，请访问 https://aka.ms/wslinstall"
+  },
+  "hdfs_available": false,
+  "local_spark_suitable": true
+}

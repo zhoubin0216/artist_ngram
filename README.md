@@ -412,3 +412,106 @@ A also remains a full-name mention proxy based on recorded artist cleaning decis
 - Deliver the annual CSV, summary, movement term list and artist dictionary to the integration contributor.
 - Analyze common source-coverage years, separate zero counts from unavailable observations, and document ambiguous movement terms in the final report.
 - Complete the team's storage/query performance experiments, cross-source plots and machine-learning evaluation separately; producing these movement tables alone does not complete the entire project.
+
+## Getty Provenance pilot and Task 3 benchmark
+
+This branch also contains a reproducible Getty Provenance Index pilot and the
+first local single-node Spark performance benchmark. The Getty pilot is kept
+separate from the OpenAlex and Google Books pipelines above.
+
+### Completed scope
+
+- Selected a representative 25-artist pilot from the project artist dictionary.
+- Queried Getty's official Provenance SPARQL endpoint with saved query templates.
+- Matched artists using names, life dates, ULAN evidence, and Getty person
+  records. A ULAN identifier is supporting evidence, not an assumed direct link
+  to a Provenance person URI.
+- Preserved raw endpoint responses locally and wrote reviewable CSV plus Spark
+  Parquet outputs.
+- Implemented four Spark queries and comparisons for text versus Parquet,
+  unpartitioned versus year-partitioned Parquet, and standard versus broadcast
+  joins.
+- Added deterministic row-count/checksum validation and automated tests.
+
+The pilot produced 25 mapping rows: 23 automatic matches and 2 manual-review
+records. Salvador Dalí is unmatched in the current endpoint response; Umberto
+Boccioni is retained as a low-confidence candidate. The event table contains
+5,540 rows: 2,805 confirmed sales and 2,735 catalog entries.
+
+### Data rules
+
+- `confirmed_sale` requires Getty acquisition/title-transfer evidence; a catalog
+  appearance alone is never treated as a sale.
+- Catalog entries and confirmed transactions remain separate in every aggregate.
+- Prices in different currencies are not summed together.
+- Missing values remain empty and uncertain mappings are marked for review.
+- Raw API responses are ignored by Git; cleaned pilot outputs are versioned.
+
+The field definitions, provenance caveats, and matching policy are documented in
+`docs/getty_data_dictionary.md`.
+
+### Environment and reproducibility
+
+The recorded run used this Windows machine because WSL2 Ubuntu was not installed.
+It used Python 3.9, Java 8, PySpark 3.5.3, and Spark `local[4]`. A Windows
+Unicode-path compatibility helper copies the Spark/Python worker launcher to a
+temporary ASCII-only path before starting Spark. Benchmark storage fixtures are
+created outside timed sections with pandas/PyArrow; Spark reads exact file
+manifests, and the partitioned Q2 query reads only the requested year
+partitions. No unverified `winutils` binary is required.
+
+Create the environment and run the pipelines from the repository root:
+
+```powershell
+py -3.9 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install --upgrade pip
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe scripts\collect_environment.py
+
+# Smoke test, then the complete 25-artist pilot
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 5
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 25
+
+# Task 3 benchmark and tests
+.\.venv\Scripts\python.exe scripts\benchmark\run_benchmark.py --config configs\benchmark.yaml
+.\.venv\Scripts\python.exe -m pytest -q
+```
+
+Important outputs:
+
+- `data/getty/sample_artists.csv`
+- `data/getty/getty_artist_mapping.csv`
+- `data/getty/getty_events.csv` and `data/getty/getty_events.parquet`
+- `data/getty/getty_artist_year.csv` and `data/getty/getty_artist_year.parquet`
+- `data/getty/getty_pilot_summary.json`
+- `outputs/benchmark_results.csv`
+- `outputs/benchmark_summary.md`
+- `outputs/benchmark_chart.png`
+- `outputs/environment_report.json`
+
+### Current benchmark snapshot
+
+The engineering stress test uses 554,000 explicitly synthetic rows expanded from
+the cleaned Getty pilot. It is benchmark-only data, not research evidence. On
+the recorded machine, the generated storage sizes were 281.7 MB for CSV,
+456.3 MB for JSON, 34.7 MB for unpartitioned Parquet, and 23.0 MB for
+year-partitioned Parquet. For the year-filter query, median time was 0.390 s for
+partitioned Parquet and 0.546 s for unpartitioned Parquet. On this small local
+join, broadcast was slower (1.047 s versus 0.700 s), illustrating that an
+optimization must be measured rather than assumed. See
+`outputs/benchmark_summary.md` for all query medians and validation checks.
+
+HDFS was not configured, so the benchmark deliberately reports local filesystem
+results only. Network/API time is excluded from every Spark comparison.
+
+### Remaining work
+
+- Manually review the two uncertain/unmatched Getty records before treating them
+  as resolved identities.
+- Add robust endpoint pagination/retry/checkpoint handling before expanding from
+  25 to all approximately 1,370 artists.
+- Reassess query coverage and Getty data-model variations during the full run.
+- Repeat the fixed benchmark on the final integrated project tables; keep those
+  results separate from the synthetic Getty stress test.
+- Add HDFS only if a correctly configured local HDFS environment becomes
+  available; do not mix results from another computer.

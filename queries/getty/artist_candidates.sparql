@@ -1,0 +1,22 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+  ?artist_id
+  ?lookup_name
+  ?person
+  ?getty_preferred_name
+  ?candidate_name
+  ?birth_begin
+  ?death_begin
+WHERE {
+  BIND("{{artist_id}}" AS ?artist_id)
+
+  ?name_node crm:P190_has_symbolic_content "{{lookup_name}}" .
+  BIND("{{lookup_name}}" AS ?candidate_name)
+
+  ?person a crm:E21_Person ;
+          rdfs:label ?getty_preferred_name ;
+          crm:P1_is_identified_by ?name_node .
+}
+ORDER BY ?artist_id ?person

@@ -1,0 +1,33 @@
+spark:
+  app_name: european-artist-visibility-benchmark
+  master: local[4]
+  driver_memory: 4g
+  executor_memory: 4g
+  shuffle_partitions: 8
+  default_parallelism: 8
+  adaptive_enabled: false
+  auto_broadcast_join_threshold: -1
+  session_timezone: UTC
+benchmark:
+  warmup_runs: 1
+  measured_runs: 3
+  synthetic_multiplier: 100
+  formats:
+    - csv
+    - json
+    - parquet_unpartitioned
+    - parquet_partitioned
+  queries:
+    - q1
+    - q2
+    - q3
+    - q4
+  year_start: 1800
+  year_end: 1950
+paths:
+  events: data/getty/getty_events.parquet
+  artists: data/getty/sample_artists.csv
+  generated_data: data/benchmark
+  results: outputs/benchmark_results.csv
+  summary: outputs/benchmark_summary.md
+  chart: outputs/benchmark_chart.png

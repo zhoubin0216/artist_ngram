@@ -1,0 +1,50 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+  ?person
+  ?object
+  ?record
+  ?record_label
+  ?record_date
+  ?record_begin
+  ?record_type
+  ?record_type_label
+  ?record_identifier
+  ?attribution_label
+WHERE {
+  VALUES ?person {
+    {{person_values}}
+  }
+
+  ?artist_production crm:P14_carried_out_by ?person .
+  ?production crm:P9_consists_of ?artist_production .
+  ?object crm:P108i_was_produced_by ?production ;
+          crm:P67i_is_referred_to_by ?record .
+
+  ?record a crm:E33_Linguistic_Object ;
+          crm:P106i_forms_part_of ?parent_record .
+
+  FILTER(!CONTAINS(STR(?record), "/tile/"))
+  FILTER(STRSTARTS(STR(?record), "https://data.getty.edu/provenance/"))
+
+  OPTIONAL { ?artist_production rdfs:label ?attribution_label }
+  OPTIONAL { ?record rdfs:label ?record_label }
+  OPTIONAL {
+    ?record crm:P94i_was_created_by ?creation .
+    ?creation crm:P4_has_time-span ?timespan .
+    OPTIONAL { ?timespan rdfs:label ?record_date }
+    OPTIONAL { ?timespan crm:P82a_begin_of_the_begin ?record_begin }
+  }
+  OPTIONAL {
+    ?record crm:P2_has_type ?record_type .
+    OPTIONAL { ?record_type rdfs:label ?record_type_label }
+  }
+  OPTIONAL {
+    ?record crm:P1_is_identified_by ?identifier_node .
+    ?identifier_node crm:P190_has_symbolic_content ?record_identifier .
+    ?identifier_node crm:P2_has_type
+      <https://data.getty.edu/local/thesaurus/star-identifier> .
+  }
+}
+LIMIT {{event_limit}}

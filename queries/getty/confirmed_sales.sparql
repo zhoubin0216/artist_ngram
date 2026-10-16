@@ -1,0 +1,53 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT
+  ?person
+  ?object
+  ?event
+  ?event_label
+  ?event_date
+  ?event_begin
+  ?price_value
+  ?currency
+  ?currency_label
+  ?attribution_label
+  ?source_record
+WHERE {
+  VALUES ?person {
+    {{person_values}}
+  }
+
+  ?artist_production crm:P14_carried_out_by ?person .
+  ?production crm:P9_consists_of ?artist_production .
+  ?object crm:P108i_was_produced_by ?production .
+  ?acquisition crm:P24_transferred_title_of ?object .
+  ?event crm:P9_consists_of ?acquisition ;
+         a crm:E7_Activity .
+
+  FILTER(!CONTAINS(STR(?event), "/tile/"))
+  FILTER(STRSTARTS(STR(?event), "https://data.getty.edu/provenance/"))
+
+  OPTIONAL { ?artist_production rdfs:label ?attribution_label }
+  OPTIONAL { ?event rdfs:label ?event_label }
+  OPTIONAL {
+    ?event crm:P4_has_time-span ?timespan .
+    OPTIONAL { ?timespan rdfs:label ?event_date }
+    OPTIONAL { ?timespan crm:P82a_begin_of_the_begin ?event_begin }
+  }
+  OPTIONAL {
+    ?event crm:P9_consists_of ?assignment .
+    ?assignment crm:P141_assigned ?amount .
+    ?amount a crm:E97_Monetary_Amount ;
+            crm:P90_has_value ?price_value .
+    OPTIONAL {
+      ?amount crm:P180_has_currency ?currency .
+      OPTIONAL { ?currency rdfs:label ?currency_label }
+    }
+  }
+  OPTIONAL {
+    ?event crm:P67i_is_referred_to_by ?source_record .
+    FILTER(!CONTAINS(STR(?source_record), "/tile/"))
+  }
+}
+LIMIT {{event_limit}}

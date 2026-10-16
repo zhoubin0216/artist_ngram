@@ -1,0 +1,26 @@
+artist_id,wikidata_qid,canonical_name,birth_year,death_year,nationality,movement_ids,movement_names,ulan_id,source_url
+Q296,Q296,Claude Monet,1840,1926,France,M05,Impressionism,500019484,https://www.wikidata.org/wiki/Q296
+Q5582,Q5582,Vincent van Gogh,1853,1890,Kingdom of the Netherlands,M06; M10,Post-Impressionism; Expressionism,500115588,https://www.wikidata.org/wiki/Q5582
+Q5593,Q5593,Pablo Picasso,1881,1973,Spain,M06; M11; M14,Post-Impressionism; Cubism; Surrealism,500009666,https://www.wikidata.org/wiki/Q5593
+Q83155,Q83155,Jacques-Louis David,1748,1825,France,M01,Neoclassicism,500115221,https://www.wikidata.org/wiki/Q83155
+Q483992,Q483992,William-Adolphe Bouguereau,1825,1905,France,M04,Academic art,500011205,https://www.wikidata.org/wiki/Q483992
+Q134741,Q134741,Camille Pissarro,1830,1903,France; Kingdom of Denmark,M05,Impressionism,500001924,https://www.wikidata.org/wiki/Q134741
+Q104884,Q104884,Caspar David Friedrich,1774,1840,Kingdom of Prussia; Sweden,M02,Romanticism,500116242,https://www.wikidata.org/wiki/Q104884
+Q46373,Q46373,Edgar Degas,1834,1917,France,M05,Impressionism,500115194,https://www.wikidata.org/wiki/Q46373
+Q40599,Q40599,Édouard Manet,1832,1883,France,M05,Impressionism,500010363,https://www.wikidata.org/wiki/Q40599
+Q41406,Q41406,Edvard Munch,1863,1944,Norway,M07; M10,Symbolism; Expressionism,500032949,https://www.wikidata.org/wiki/Q41406
+Q5432,Q5432,Francisco Goya,1746,1828,Spain,M02,Romanticism,500118936,https://www.wikidata.org/wiki/Q5432
+Q153793,Q153793,Georges Braque,1882,1963,France,M09; M11,Fauvism; Cubism,500025200,https://www.wikidata.org/wiki/Q153793
+Q34013,Q34013,Georges Seurat,1859,1891,France,M06,Post-Impressionism,500008873,https://www.wikidata.org/wiki/Q34013
+Q34661,Q34661,Gustav Klimt,1862,1918,Austrian Empire; Cisleithania,M07; M08,Symbolism; Art Nouveau,500030531,https://www.wikidata.org/wiki/Q34661
+Q5589,Q5589,Henri Matisse,1869,1954,France,M05; M06; M09,Impressionism; Post-Impressionism; Fauvism,500017300,https://www.wikidata.org/wiki/Q5589
+Q159758,Q159758,J. M. W. Turner,1775,1851,Kingdom of Great Britain; United Kingdom of Great Britain and Ireland,M02,Romanticism,500026846,https://www.wikidata.org/wiki/Q159758
+Q23380,Q23380,Jean-Auguste-Dominique Ingres,1780,1867,France,M01; M02,Neoclassicism; Romanticism,500028037,https://www.wikidata.org/wiki/Q23380
+Q35548,Q35548,Paul Cézanne,1839,1906,France,M06,Post-Impressionism,500004793,https://www.wikidata.org/wiki/Q35548
+Q37693,Q37693,Paul Gauguin,1848,1903,France,M05; M06; M07,Impressionism; Post-Impressionism; Symbolism,500011421,https://www.wikidata.org/wiki/Q37693
+Q39931,Q39931,Pierre-Auguste Renoir,1841,1919,France,M05,Impressionism,500115467,https://www.wikidata.org/wiki/Q39931
+Q241732,Q241732,Rosa Bonheur,1822,1899,France,M03,Realism,500014964,https://www.wikidata.org/wiki/Q241732
+Q5577,Q5577,Salvador Dalí,1904,1989,Spain,M14,Surrealism,500009365,https://www.wikidata.org/wiki/Q5577
+Q152797,Q152797,Umberto Boccioni,1882,1916,Kingdom of Italy,M12,Futurism,500012624,https://www.wikidata.org/wiki/Q152797
+Q61064,Q61064,Wassily Kandinsky,1866,1944,France; Germany; Soviet Union,M07; M10,Symbolism; Expressionism,500021093,https://www.wikidata.org/wiki/Q61064
+Q93284,Q93284,Marc Chagall,1887,1985,France,M10,Expressionism,500115354,https://www.wikidata.org/wiki/Q93284
