@@ -1,0 +1,21 @@
+﻿artist_id,cluster_id,canonical_name,birth_year,death_year,identity_warning,accepted_mapping,manual_review,match_confidence,total_events,events_missing_year,events_with_year,dated_fraction_all_events,window_sales,window_catalog,window_dated_events,window_nonzero_bins,has_any_getty_event,has_any_dated_event,getty_window_any,getty_window_sale_any,getty_window_catalog_any,getty_window_signal_sufficient,getty_status,openalex_any,openalex_signal_sufficient,both_openalex_getty_any,three_source_trend_eligible,death_cohort_start
+Q1494309,0,Alphonse de Neuville,1835,1885,False,True,False,0.9,757,48,709,0.9365918097754293,443,266,709,7,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1875
+Q445891,0,Frits Thaulow,1847,1906,False,True,False,1.0,783,97,686,0.876117496807152,440,246,686,4,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1900
+Q46373,0,Edgar Degas,1834,1917,False,True,False,1.0,888,272,616,0.6936936936936937,397,212,609,8,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1900
+Q296,0,Claude Monet,1840,1926,False,True,False,1.0,1013,187,826,0.8153998025666338,270,147,417,8,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1925
+Q134741,0,Camille Pissarro,1830,1903,False,True,False,1.0,705,318,387,0.548936170212766,188,112,300,7,True,True,True,True,True,True,dated_events_in_window,True,False,True,False,1900
+Q5589,0,Henri Matisse,1869,1954,False,True,False,1.0,359,67,292,0.8133704735376045,197,92,289,5,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1950
+Q153793,0,Georges Braque,1882,1963,False,True,False,1.0,358,58,300,0.8379888268156425,184,96,280,4,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1950
+Q33477,0,Eugène Delacroix,1798,1863,False,True,False,1.0,699,389,310,0.4434907010014306,159,106,265,6,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1850
+Q175130,0,Alfred Sisley,1839,1899,False,True,False,1.0,497,185,312,0.6277665995975855,145,91,236,7,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1875
+Q239394,0,Édouard Vuillard,1868,1940,False,True,False,0.9,249,52,197,0.7911646586345381,131,66,197,6,True,True,True,True,True,True,dated_events_in_window,True,False,True,False,1925
+Q724148,1,Édouard Detaille,1848,1912,False,True,False,0.9,734,55,679,0.9250681198910081,246,148,394,4,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1900
+Q282043,1,Jules Breton,1827,1906,False,True,False,1.0,511,25,486,0.9510763209393346,214,119,333,5,True,True,True,True,True,True,dated_events_in_window,True,False,True,False,1900
+Q156272,1,André Derain,1880,1954,False,True,False,1.0,436,134,302,0.6926605504587156,204,98,302,5,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1950
+Q241732,1,Rosa Bonheur,1822,1899,False,True,False,1.0,581,291,290,0.4991394148020654,135,79,214,7,True,True,True,True,True,True,dated_events_in_window,True,False,True,False,1875
+Q474066,1,Cornelis Springer,1817,1891,False,True,False,1.0,270,91,179,0.662962962962963,105,74,179,5,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1875
+Q577050,1,Henri Le Sidaner,1862,1939,False,True,False,0.9,106,13,93,0.8773584905660378,56,37,93,5,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1925
+Q433973,1,Jules Lefebvre,1836,1911,False,True,False,0.88,138,6,132,0.9565217391304348,56,35,91,3,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1900
+Q310437,1,Alexandre Cabanel,1823,1889,False,True,False,1.0,97,16,81,0.8350515463917526,45,36,81,4,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1875
+Q6682,1,Gustave Doré,1832,1883,False,True,False,1.0,186,105,81,0.43548387096774194,54,27,81,2,True,True,True,True,True,True,dated_events_in_window,True,True,True,True,1875
+Q351746,1,Joaquín Sorolla,1863,1923,False,True,False,0.9,61,1,60,0.9836065573770492,39,21,60,5,True,True,True,True,True,True,dated_events_in_window,False,False,False,False,1900

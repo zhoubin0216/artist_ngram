@@ -1,0 +1,90 @@
+{
+  "title": "Stage 5 final synthesis (A3+B+C, no retraining)",
+  "created_at_utc": "2026-10-17T19:00:07.803646+00:00",
+  "a3_n": 575,
+  "a3_clusters": {
+    "0": 391,
+    "1": 184
+  },
+  "a3_k": 2,
+  "a3_silhouette": 0.35365297581538213,
+  "a3_initialization_ARI": 1.0,
+  "a3_warning_count": 34,
+  "a3_ARI_calendar_vs_death": 0.3631410543914627,
+  "openalex_any": 166,
+  "openalex_signal": 91,
+  "getty_accepted_mapping": 291,
+  "getty_dated_window": 114,
+  "getty_signal": 87,
+  "both_any": 53,
+  "both_signal": 27,
+  "getty_full_event_rows": 79715,
+  "getty_full_undated_event_rows": 56708,
+  "cases": [
+    {
+      "artist_id": "Q5589",
+      "canonical_name": "Henri Matisse",
+      "death_year": 1954,
+      "cluster_id": 0,
+      "getty_window_dated_events": 289,
+      "openalex_window_works": 75
+    },
+    {
+      "artist_id": "Q156272",
+      "canonical_name": "André Derain",
+      "death_year": 1954,
+      "cluster_id": 1,
+      "getty_window_dated_events": 302,
+      "openalex_window_works": 8
+    }
+  ],
+  "inputs": {
+    "a3_assign": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_death_aligned\\run_20261017_134328\\death_aligned_assignments.csv",
+      "sha256": "1617a4f8de232bec7a657dab1269e9dc2155c6f67a339e29813607c1f9be5fc6"
+    },
+    "a3_features": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_death_aligned\\run_20261017_134328\\death_aligned_features.csv",
+      "sha256": "4a06566fb4beccfadb0eda369d80bd33ab58e026212c672c0d8aa0e48797eb08"
+    },
+    "a3_summary": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_death_aligned\\run_20261017_134328\\comparison_summary.json",
+      "sha256": "bc14d4557f860141b6c9dd2f9f6263d3dd16f2085396f0c8dfb7735f4335fb0f"
+    },
+    "a3_main_figure": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_death_aligned\\run_20261017_134328\\figures\\death_aligned_centers.png",
+      "sha256": "798766b64efd456a897a708790a7ffc17f1d67e7388cf3c12c99008845ade5cc"
+    },
+    "b_summary": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_openalex_validation\\run_20261017_200119\\cross_source_artist_summary.csv",
+      "sha256": "6242b18fb6f229de2b2b59eb30520aae00edd3c2818d26bfa6b881c0f53c53f5"
+    },
+    "b_decades": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_openalex_validation\\run_20261017_200119\\openalex_relative_decades.csv",
+      "sha256": "5174713cdbfbc4a06ecbd4081c994ab53eed73c8185a703c7d09090b95b5dcec"
+    },
+    "b_report": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_openalex_validation\\run_20261017_200119\\comparison_summary.json",
+      "sha256": "bad292b567343b5f0b14927a22691837d2bd9809143d3268b69b5647a98f1898"
+    },
+    "c_coverage": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_getty_validation\\run_20261017_202626_418091\\getty_artist_coverage.csv",
+      "sha256": "25d53fab47f11819d2a719c5c15ec291c260fc2d5b471d63669929b67978dc99"
+    },
+    "c_decades": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_getty_validation\\run_20261017_202626_418091\\getty_relative_decades.csv",
+      "sha256": "4c92cf3da0aadaa7e78cb6ca48e1ea7876a808f2cf90ed443ebdcb00b7f530d6"
+    },
+    "c_report": {
+      "path": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_getty_validation\\run_20261017_202626_418091\\comparison_summary.json",
+      "sha256": "e3690dc1317f37d12aefd0d9cb5d0441e049231970233c15b58135b5e06bac31"
+    }
+  },
+  "warnings": [
+    "Cross-source matches/coverage do not establish causal influence.",
+    "Getty counts are NOT normalized against a global denominator.",
+    "Ngram, OpenAlex and Getty units are separate: plots use different y axes.",
+    "Only accepted Getty mappings; undated events are not assigned to bins.",
+    "Cases chosen for matching death year and source coverage, not population representativeness."
+  ]
+}

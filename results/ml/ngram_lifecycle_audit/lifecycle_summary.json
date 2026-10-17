@@ -1,0 +1,33 @@
+{
+  "input_baseline": "results/ml/ngram_kmeans/cluster_assignments.csv",
+  "artists_in_cluster_baseline": 876,
+  "cluster_sizes": {
+    "0": 203,
+    "1": 673
+  },
+  "birth_year_available": 876,
+  "death_year_available": 876,
+  "artists_with_any_prebirth_hits": 170,
+  "artists_prebirth_share_over_1pct": 47,
+  "artists_peak_before_birth": 22,
+  "artists_flagged_for_identity_review": 53,
+  "birth_cohort_25yr_cramers_v": 0.4234371148910512,
+  "cluster_medians": {
+    "0": {
+      "birth_year": 1848.0,
+      "death_year": 1914.0,
+      "peak_relative_to_death": -13.0
+    },
+    "1": {
+      "birth_year": 1880.0,
+      "death_year": 1944.0,
+      "peak_relative_to_death": 33.0
+    }
+  },
+  "limitations": [
+    "Warnings are not proven wrong identities; annual peak may be dominated by tiny counts or early-year denominator effects.",
+    "Clustering was NOT rerun; association with birth cohort is descriptive, not causal.",
+    "Yearly peak uses observed positive-name-match years only, with earliest-year tie-breaking.",
+    "Unlisted years in a complete exact-name shard can imply no stored matches, not zero historical recognition."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "study": "Ngram exact-full-name, English 20200217; 1800-2019",
+  "classification": "K-Means on 22 within-artist z-scored log1p decade corpus-normalized frequencies",
+  "normalization": "sum decade match_count / sum matching n-gram decade totalcounts * 1e9",
+  "sparse_year_assumption": "Unlisted years are treated as zero recorded exact-name matches ONLY for artists marked matched in complete extraction. This is a modelling assumption, not proof of zero historical visibility.",
+  "unmatched_artist_policy": "Excluded from clustering; reported in artist_exclusions.csv",
+  "prebirth_year_policy": "Retained and flagged in prebirth_match_count; not automatically deleted",
+  "all_artists": 1370,
+  "matched_artists": 877,
+  "not_found_artists": 493,
+  "eligible_artists": 876,
+  "excluded_artists": 494,
+  "excluded_reasons": {
+    "exact_name_not_found": 493,
+    "too_few_nonzero_decades": 1
+  },
+  "n_source_rows": 73523,
+  "k_selected": 2,
+  "selected_silhouette": 0.30256246617429305,
+  "selected_stability_mean_pairwise_ARI": 0.9940557544532249,
+  "cluster_sizes": {
+    "0": 203,
+    "1": 673
+  },
+  "parameters": {
+    "max_k": 6,
+    "min_cluster_size": 10,
+    "min_nonzero_decades": 4,
+    "min_total_matches": 20,
+    "seed": 42,
+    "stability_runs": 5,
+    "assume_unlisted_zero": true
+  },
+  "input_sha256": {
+    "artist_file": "2a156c2d562a86ac285c5766e4804d8c2f1fd7d910c5a2e3dde16bfeb212504f",
+    "data_file": "03201b44ccd5a230fb362286ce2013f9b365ba9ed6e526fbd1c491c21c1da653",
+    "report_file": "c82ce774a0afbce0ccb04535b57cde31ae03365d17b6cb8a0bcce50d73116864"
+  },
+  "limitations": [
+    "Cluster IDs have no intrinsic semantic ordering or predefined art-history meaning.",
+    "Silhouette is an internal descriptive metric, not proof of historical causal patterns.",
+    "Exact-name queries may contain false matches, OCR/date errors and exclude aliases.",
+    "Comparing different n-gram orders is an operational frequency proxy, not perfect cross-name equivalence.",
+    "Decade binning smooths peaks and clustering over absolute dates may reflect era/birth cohort.",
+    "Sparse years are explicitly zero-filled under the complete-extraction assumption."
+  ]
+}
