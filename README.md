@@ -562,41 +562,56 @@ performance results.
   available; do not mix results from another computer.
 
 
-Section 5 — Machine Learning: Quickstart and Verified Results
-This compact index supplements the detailed "Section 5 - Complete Machine Learning Handoff (A1, A2, A3, B, C)" already above. The previous handoff and all other project sections remain unchanged. Detailed counts and methodological qualifications are retained there.
+## Section 5 — Machine Learning: Artist Visibility Patterns
 
-Pipeline and research scope
-Goal: Discover shapes of European painters' historical exact-name visibility in Google Books Ngram and compare the resulting groups with OpenAlex scholarly mentions and Getty Provenance Index records. The primary models use Ngram alone; OpenAlex and Getty are independent, descriptive follow-ups, not training features.
-Stage	Committed script	Main output
-A1: calendar-year Ngram K-Means	[`cluster_ngram.py`](scripts/ml/cluster_ngram.py)	[`results/ml/ngram_kmeans/`](results/ml/ngram_kmeans/)
-A2: birth/death and possible homonym audit	[`audit_ngram_lifecycle.py`](scripts/ml/audit_ngram_lifecycle.py)	[`results/ml/ngram_lifecycle_audit/`](results/ml/ngram_lifecycle_audit/)
-A3: death-aligned K-Means and matched-cohort control	[`cluster_ngram_death_aligned.py`](scripts/ml/cluster_ngram_death_aligned.py)	[`results/ml/ngram_death_aligned/run_20261017_134328/`](results/ml/ngram_death_aligned/run_20261017_134328/)
-B: OpenAlex cross-source assessment	[`validate_ngram_with_openalex.py`](scripts/ml/validate_ngram_with_openalex.py)	[`results/ml/ngram_openalex_validation/run_20261017_200119/`](results/ml/ngram_openalex_validation/run_20261017_200119/)
-C: Getty full-run assessment	[`validate_ngram_with_getty.py`](scripts/ml/validate_ngram_with_getty.py)	[`results/ml/ngram_getty_validation/run_20261017_202626_418091/`](results/ml/ngram_getty_validation/run_20261017_202626_418091/)
-Final: color figures and auditable case data	[`build_section5_figures.py`](scripts/ml/build_section5_figures.py)	[`results/ml/section5_final/run_20261017_191425_502920/`](results/ml/section5_final/run_20261017_191425_502920/)
+### Overview
 
+We use **K-Means clustering** to identify historical visibility patterns of European painters in Google Books Ngram (1800–2019). OpenAlex and Getty Provenance Index are used for independent cross-source comparisons.
 
-Main findings (frozen 2026-10-17 snapshot)
-- A1: 876 artists, best K=2 among K=2..6, silhouette 0.3026. Calendar-era association motivated lifecycle analysis.
-- A2: 53 potential name-identity warnings; birth-cohort/cluster Cramer's V 0.423. These are review flags, not demonstrated misattributions.
-- A3: 575 artists with adequate observations in the inclusive death_year - 30 through death_year + 49 window, best K=2, silhouette 0.3537. Cluster 0 (391 artists) has an average posthumous-growth-like trajectory; Cluster 1 (184 artists) has an average pre-death-peak-like trajectory. Calendar versus death-aligned assignments on the same cohort had ARI 0.3631.
-- Cross-source availability within the A3 cohort: OpenAlex had 166 artists with at least one aligned work and 91 with usable trend signal; Getty had 291 accepted mappings, 114 with at least one dated event in the window and 87 with usable trend signal. Only 27 artists met both additional trend rules; a formal three-source K-Means was not performed.
-- OpenAlex works-per-10,000, Ngram mentions-per-billion, and Getty sale/catalog counts have different units. No composite total or causal claim is derived. Getty catalog presence is not equivalent to a confirmed title transfer, and undated events are not assigned to a time bin.
-Reproduce published color figures (Windows PowerShell)
-From the repository root with an existing Python 3.11 virtual environment:
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe -m pip install "scikit-learn>=1.4,<1.7"
+### Methods and Results
 
-.\.venv\Scripts\python.exe scripts\ml\build_section5_figures.py `
-  --a3-run "results/ml/ngram_death_aligned/run_20261017_134328" `
-  --stage-b-run "results/ml/ngram_openalex_validation/run_20261017_200119" `
-  --stage-c-run "results/ml/ngram_getty_validation/run_20261017_202626_418091"
-The final plotter creates a fresh results/ml/section5_final/run_*/ directory, reuses frozen A3/B/C evidence, redraws the A3 centroid figure for presentation, and does not fit a new model or call an API. Earlier output directories are preserved. The detailed handoff above documents assumptions and stage-specific replication commands.
-Report and figures
-- [Two-page Section 5 report (PDF)](report/Task5_Short_Report_2_Pages.pdf)
-- [Bright A3 centroid curves](results/ml/section5_final/run_20261017_191425_502920/figures/a3_death_aligned_centers.png)
+| Stage | Method | Key result |
+|---|---|---|
+| A1 | Calendar-year Ngram K-Means | 876 artists, K=2, silhouette=0.3026 |
+| A2 | Lifecycle and name-identity audit | 53 identity warnings; birth-cohort association V=0.423 |
+| A3 | Death-aligned K-Means | 575 artists, K=2, silhouette=0.3537 |
+| B | OpenAlex validation | 91 artists with sufficient trend data |
+| C | Getty validation | 87 artists with sufficient trend data |
+
+The final death-aligned model identifies two descriptive patterns:
+
+- **Cluster 0 (391 artists):** Posthumous-growth-like visibility.
+- **Cluster 1 (184 artists):** Pre-death-peak-like visibility.
+
+Only **27 artists** have sufficient trend data in all three sources. Therefore, we use descriptive comparisons instead of training a combined three-source model.
+
+### Code and Reproducibility
+
+All ML scripts are located in [`scripts/ml/`](scripts/ml/). Published results are available in [`results/ml/`](results/ml/).
+
+Install dependencies:
+
+`python -m pip install -r requirements.txt`
+
+Run tests:
+
+`python -m pytest tests/test_ngram_kmeans.py tests/test_ngram_death_aligned.py tests/test_stage_b_openalex.py tests/test_stage_c_getty.py tests/test_section5_figures.py -q`
+
+Regenerate the final figures (PowerShell, from the repository root):
+
+```powershell
+python scripts/ml/build_section5_figures.py `
+  --a3-run results/ml/ngram_death_aligned/run_20261017_134328 `
+  --stage-b-run results/ml/ngram_openalex_validation/run_20261017_200119 `
+  --stage-c-run results/ml/ngram_getty_validation/run_20261017_202626_418091
+```
+
+### Report and Visualizations
+
+- [Two-page ML report](report/Task5_Short_Report_2_Pages.pdf)
+- [Death-aligned cluster patterns](results/ml/section5_final/run_20261017_191425_502920/figures/a3_death_aligned_centers.png)
 - [Three-source coverage](results/ml/section5_final/run_20261017_191425_502920/figures/three_source_coverage.png)
-- [Matisse vs Derain, two artists × three sources](results/ml/section5_final/run_20261017_191425_502920/figures/three_source_case_studies.png)
-- [Figure data, two cases × eight relative decades](results/ml/section5_final/run_20261017_191425_502920/case_study_data.csv)
-Interpretation: Patterns are conditional on exact full-name matching, birth/death window coverage, and the selected artists. OpenAlex and Getty data are sparse and differently censored, so their descriptive contrasts should not be treated as complete historical validation.
+- [Matisse vs. Derain case study](results/ml/section5_final/run_20261017_191425_502920/figures/three_source_case_studies.png)
+
+**Limitations:** Exact-name matching may contain ambiguous identities. Historical source coverage varies, and Ngram, OpenAlex and Getty measure different aspects of visibility. The clusters describe observed patterns, not verified artistic reputation or causal relationships.
 
