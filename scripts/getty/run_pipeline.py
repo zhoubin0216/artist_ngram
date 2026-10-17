@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
@@ -12,7 +11,6 @@ import pandas as pd
 from common import (
     GETTY_DIR,
     binding_rows,
-    chunks,
     ensure_directories,
     fetch_provenance_record,
     fetch_ulan,
@@ -27,7 +25,7 @@ from common import (
     year_from_value,
 )
 from matching import choose_candidate
-from select_sample import select_sample
+from select_sample import select_artists
 
 
 MAPPING_COLUMNS = [
@@ -44,6 +42,7 @@ MAPPING_COLUMNS = [
     "manual_review",
     "source_url",
     "candidate_count",
+    "candidate_uris",
     "matched_birth_year",
     "matched_death_year",
     "match_evidence",
@@ -123,15 +122,14 @@ def build_mapping(
 ) -> pd.DataFrame:
     ulan_evidence = get_ulan_evidence(sample, config)
     template = read_template("artist_candidates.sparql")
-    candidate_rows: list[dict[str, str]] = []
     records = sample.to_dict("records")
-    for chunk_index, artist_chunk in enumerate(
-        chunks(records, int(config["mapping_chunk_size"])), start=1
-    ):
-        if len(artist_chunk) != 1:
-            raise ValueError("mapping_chunk_size must remain 1 for indexed literal queries")
-        artist = artist_chunk[0]
+    if int(config["mapping_chunk_size"]) != 1:
+        raise ValueError("mapping_chunk_size must remain 1 for indexed literal queries")
+
+    def query_artist(artist: dict[str, Any]) -> list[dict[str, str]]:
+        artist_id = str(artist["artist_id"])
         aliases = ulan_evidence.get(str(artist["artist_id"]), [])
+        result: list[dict[str, str]] = []
         for alias_index, name in enumerate(lookup_names(artist, aliases)[:4], start=1):
             escaped = sparql_escape(name)
             query = template.replace(
@@ -140,7 +138,7 @@ def build_mapping(
             payload = query_sparql(
                 query,
                 raw_name=(
-                    f"{run_id}_artist_candidates_{chunk_index:02d}_"
+                    f"{run_id}_artist_candidates_{artist_id}_"
                     f"{alias_index:02d}.json"
                 ),
                 config=config,
@@ -161,9 +159,20 @@ def build_mapping(
                         "begin_of_the_begin", ""
                     )
                 )
-            candidate_rows.extend(rows)
+            result.extend(rows)
             if rows:
                 break
+        return result
+
+    candidate_rows: list[dict[str, str]] = []
+    completed = 0
+    with ThreadPoolExecutor(max_workers=int(config.get("mapping_workers", 1))) as executor:
+        futures = [executor.submit(query_artist, artist) for artist in records]
+        for future in as_completed(futures):
+            candidate_rows.extend(future.result())
+            completed += 1
+            if completed % 25 == 0 or completed == len(records):
+                print(f"Mapped candidate queries: {completed}/{len(records)}", flush=True)
 
     by_artist: dict[str, list[dict[str, str]]] = {}
     for row in candidate_rows:
@@ -191,7 +200,18 @@ def build_mapping(
             )
         }
         mapping_rows.append({**base, **chosen})
-    return pd.DataFrame(mapping_rows, columns=MAPPING_COLUMNS)
+    mapping = pd.DataFrame(mapping_rows, columns=MAPPING_COLUMNS)
+    accepted = mapping["getty_person_uri"].astype(str).str.len() > 0
+    duplicate_uri = accepted & mapping["getty_person_uri"].duplicated(keep=False)
+    if duplicate_uri.any():
+        mapping.loc[duplicate_uri, "match_method"] = "duplicate_person_uri"
+        mapping.loc[duplicate_uri, "manual_review"] = True
+        mapping.loc[duplicate_uri, "match_evidence"] = mapping.loc[
+            duplicate_uri, "match_evidence"
+        ].astype(str) + ";duplicate_person_uri_across_artists"
+        mapping.loc[duplicate_uri, "getty_person_uri"] = ""
+        mapping.loc[duplicate_uri, "getty_preferred_name"] = ""
+    return mapping
 
 
 def run_event_queries(
@@ -200,42 +220,73 @@ def run_event_queries(
     run_id: str,
 ) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
     mapped = mapping[mapping["getty_person_uri"].astype(str).str.len() > 0]
-    person_uris = mapped["getty_person_uri"].drop_duplicates().tolist()
     sales_template = read_template("confirmed_sales.sparql")
     catalog_template = read_template("catalog_entries.sparql")
     sales_rows: list[dict[str, str]] = []
     catalog_rows: list[dict[str, str]] = []
-    for chunk_index, person_chunk in enumerate(
-        chunks(person_uris, int(config["event_chunk_size"])), start=1
-    ):
-        values = "\n    ".join(f"<{uri}>" for uri in person_chunk)
-        replacements = {
-            "{{person_values}}": values,
-            "{{event_limit}}": str(config["event_limit_per_chunk"]),
-        }
-        sales_query = sales_template
-        catalog_query = catalog_template
-        for needle, replacement in replacements.items():
-            sales_query = sales_query.replace(needle, replacement)
-            catalog_query = catalog_query.replace(needle, replacement)
-        sales_rows.extend(
-            binding_rows(
+    page_size = int(config["event_limit_per_chunk"])
+    max_pages = int(config.get("event_max_pages_per_artist", 1000))
+
+    def fetch_pages(
+        *, artist_id: str, person_uri: str, template: str, kind: str
+    ) -> list[dict[str, str]]:
+        result: list[dict[str, str]] = []
+        person_token = uri_tail(person_uri)
+        for page_index in range(max_pages):
+            query = template
+            replacements = {
+                "{{person_values}}": f"<{person_uri}>",
+                "{{event_limit}}": str(page_size),
+                "{{event_offset}}": str(page_index * page_size),
+            }
+            for needle, replacement in replacements.items():
+                query = query.replace(needle, replacement)
+            page_rows = binding_rows(
                 query_sparql(
-                    sales_query,
-                    raw_name=f"{run_id}_confirmed_sales_{chunk_index:02d}.json",
+                    query,
+                    raw_name=(
+                        f"{run_id}_{kind}_{artist_id}_{person_token}_"
+                        f"page_{page_index + 1:04d}.json"
+                    ),
                     config=config,
                 )
             )
+            result.extend(page_rows)
+            if len(page_rows) < page_size:
+                return result
+        raise RuntimeError(
+            f"Getty {kind} pagination exceeded {max_pages} pages for {artist_id}"
         )
-        catalog_rows.extend(
-            binding_rows(
-                query_sparql(
-                    catalog_query,
-                    raw_name=f"{run_id}_catalog_entries_{chunk_index:02d}.json",
-                    config=config,
-                )
-            )
+
+    records = mapped[["artist_id", "getty_person_uri"]].to_dict("records")
+    def fetch_artist(record: dict[str, str]) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+        artist_id = str(record["artist_id"])
+        person_uri = str(record["getty_person_uri"])
+        return (
+            fetch_pages(
+                artist_id=artist_id,
+                person_uri=person_uri,
+                template=sales_template,
+                kind="confirmed_sales",
+            ),
+            fetch_pages(
+                artist_id=artist_id,
+                person_uri=person_uri,
+                template=catalog_template,
+                kind="catalog_entries",
+            ),
         )
+
+    completed = 0
+    with ThreadPoolExecutor(max_workers=int(config.get("event_workers", 1))) as executor:
+        futures = [executor.submit(fetch_artist, record) for record in records]
+        for future in as_completed(futures):
+            artist_sales, artist_catalogs = future.result()
+            sales_rows.extend(artist_sales)
+            catalog_rows.extend(artist_catalogs)
+            completed += 1
+            if completed % 10 == 0 or completed == len(records):
+                print(f"Downloaded event pages: {completed}/{len(records)}", flush=True)
     return sales_rows, catalog_rows
 
 
@@ -362,23 +413,54 @@ def build_artist_year(events: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Run the Getty Provenance pilot pipeline")
-    parser.add_argument("--limit", type=int, default=None, help="Number of pilot artists")
+    parser = argparse.ArgumentParser(description="Run the Getty Provenance pipeline")
+    parser.add_argument(
+        "--scope", choices=("pilot", "all"), default="pilot", help="Artist scope"
+    )
+    parser.add_argument("--limit", type=int, default=None, help="Optional artist limit")
+    parser.add_argument("--start-index", type=int, default=0)
+    parser.add_argument("--output-dir", type=Path, default=None)
     parser.add_argument(
         "--mapping-only", action="store_true", help="Stop after artist mapping"
     )
+    parser.add_argument(
+        "--events-only",
+        action="store_true",
+        help="Reuse an existing mapping file and only retrieve events",
+    )
     args = parser.parse_args()
+
+    if args.mapping_only and args.events_only:
+        parser.error("--mapping-only and --events-only are mutually exclusive")
 
     ensure_directories()
     config = load_config()
-    limit = args.limit or int(config["pilot_size"])
-    run_id = re.sub(r"[^0-9]", "", utc_now())[:14]
+    limit = args.limit
+    if args.scope == "pilot" and limit is None:
+        limit = int(config["pilot_size"])
+    output_dir = args.output_dir or (
+        GETTY_DIR if args.scope == "pilot" else GETTY_DIR / "full"
+    )
+    output_dir.mkdir(parents=True, exist_ok=True)
+    run_id = "pilot_v2" if args.scope == "pilot" else "full_v1"
     retrieved_at = utc_now()
 
-    sample = select_sample(limit)
-    sample.to_csv(GETTY_DIR / "sample_artists.csv", index=False, encoding="utf-8")
-    mapping = build_mapping(sample, config, run_id)
-    mapping.to_csv(GETTY_DIR / "getty_artist_mapping.csv", index=False, encoding="utf-8")
+    sample = select_artists(
+        scope=args.scope, limit=limit, start_index=args.start_index
+    )
+    artist_filename = "sample_artists.csv" if args.scope == "pilot" else "artists.csv"
+    sample.to_csv(output_dir / artist_filename, index=False, encoding="utf-8")
+    mapping_path = output_dir / "getty_artist_mapping.csv"
+    if args.events_only:
+        if not mapping_path.exists():
+            raise FileNotFoundError(f"Mapping file does not exist: {mapping_path}")
+        mapping = pd.read_csv(mapping_path, dtype={"artist_id": "string"}).fillna("")
+    else:
+        mapping = build_mapping(sample, config, run_id)
+        mapping.to_csv(mapping_path, index=False, encoding="utf-8")
+        mapping.loc[mapping["manual_review"].astype(bool)].to_csv(
+            output_dir / "getty_mapping_review.csv", index=False, encoding="utf-8"
+        )
 
     if args.mapping_only:
         print(mapping["match_method"].value_counts(dropna=False).to_string())
@@ -387,11 +469,12 @@ def main() -> None:
     sales_rows, catalog_rows = run_event_queries(mapping, config, run_id)
     events = build_events(mapping, sales_rows, catalog_rows, retrieved_at)
     artist_year = build_artist_year(events)
-    write_parquet_and_csv(events, GETTY_DIR / "getty_events")
-    write_parquet_and_csv(artist_year, GETTY_DIR / "getty_artist_year")
+    write_parquet_and_csv(events, output_dir / "getty_events")
+    write_parquet_and_csv(artist_year, output_dir / "getty_artist_year")
 
     summary = {
-        "pilot_artists": len(sample),
+        "scope": args.scope,
+        "selected_artists": len(sample),
         "matched_artists": int((mapping["getty_person_uri"].astype(str).str.len() > 0).sum()),
         "manual_review": int(mapping["manual_review"].astype(bool).sum()),
         "unmatched": int((mapping["match_method"] == "unmatched").sum()),
@@ -400,7 +483,8 @@ def main() -> None:
         "catalog_entries": int((events["event_type"] == "catalog_entry").sum()),
         "retrieved_at": retrieved_at,
     }
-    (GETTY_DIR / "pilot_summary.json").write_text(
+    summary_name = "pilot_summary.json" if args.scope == "pilot" else "full_summary.json"
+    (output_dir / summary_name).write_text(
         json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(json.dumps(summary, ensure_ascii=False, indent=2))

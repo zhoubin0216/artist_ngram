@@ -287,11 +287,17 @@ def write_summary(
         for row in joins
         if row["join_strategy"] == "broadcast"
     )
+    join_change = 100 * (broadcast_join / standard_join - 1)
+    join_finding = (
+        f"Broadcast join was {join_change:.1f}% slower than the standard join"
+        if join_change >= 0
+        else f"Broadcast join was {-join_change:.1f}% faster than the standard join"
+    )
     lines = [
         "# Benchmark summary",
         "",
         "All timings were measured on this Windows computer. API request time is excluded.",
-        "The benchmark input is explicitly synthetic: cleaned pilot rows are duplicated with unique benchmark IDs.",
+        "The benchmark input is explicitly synthetic: cleaned Getty rows are duplicated with unique benchmark IDs.",
         "Storage fixtures and exact-file manifests were generated once with pandas/PyArrow outside all timings; Spark performs every measured read and query.",
         "On Windows, the year-partitioned Q2 manifest selects only requested year directories, equivalent to partition pruning without Hadoop directory-list JNI.",
         "",
@@ -310,7 +316,7 @@ def write_summary(
         "",
         f"- Unpartitioned Parquet used {100 * (1 - parquet_bytes / csv_bytes):.1f}% less disk space than CSV; year-partitioned Parquet used {100 * (1 - partitioned_bytes / csv_bytes):.1f}% less.",
         f"- For Q2 (1800-1950), year-partitioned Parquet was {100 * (1 - q2_partitioned / q2_unpartitioned):.1f}% faster than unpartitioned Parquet.",
-        f"- Broadcast join was {100 * (broadcast_join / standard_join - 1):.1f}% slower than the standard join in this local pilot benchmark; broadcasting is not automatically beneficial at this scale.",
+        f"- {join_finding} in this local benchmark; broadcasting is not automatically beneficial at every scale.",
         "- These are engineering measurements on synthetic duplicates, not additional historical observations.",
         "",
         "## Storage formats",

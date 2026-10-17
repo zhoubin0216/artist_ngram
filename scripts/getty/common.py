@@ -71,6 +71,9 @@ def query_sparql(
     config: dict[str, Any],
 ) -> dict[str, Any]:
     ensure_directories()
+    output = RAW_DIR / "sparql" / raw_name
+    if output.exists():
+        return json.loads(output.read_text(encoding="utf-8"))
     headers = {
         "Accept": "application/sparql-results+json",
         "User-Agent": config["user_agent"],
@@ -86,11 +89,11 @@ def query_sparql(
             )
             response.raise_for_status()
             payload = response.json()
-            output = RAW_DIR / "sparql" / raw_name
             output.write_text(
                 json.dumps(payload, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
+            time.sleep(float(config.get("request_delay_seconds", 0)))
             return payload
         except (requests.RequestException, ValueError) as exc:
             error = exc
@@ -101,22 +104,13 @@ def query_sparql(
 
 def fetch_ulan(ulan_id: str, config: dict[str, Any]) -> dict[str, Any]:
     ensure_directories()
+    if not str(ulan_id).strip():
+        return {}
     output = RAW_DIR / "ulan" / f"{ulan_id}.json"
     if output.exists():
         return json.loads(output.read_text(encoding="utf-8"))
     url = config["ulan_url_template"].format(ulan_id=ulan_id)
-    response = requests.get(
-        url,
-        headers={
-            "Accept": "application/ld+json",
-            "User-Agent": config["user_agent"],
-        },
-        timeout=int(config["request_timeout_seconds"]),
-    )
-    response.raise_for_status()
-    payload = response.json()
-    output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    return payload
+    return fetch_json_record(url, output, config)
 
 
 def fetch_provenance_record(uri: str, config: dict[str, Any]) -> dict[str, Any]:
@@ -125,18 +119,34 @@ def fetch_provenance_record(uri: str, config: dict[str, Any]) -> dict[str, Any]:
     output = RAW_DIR / "person" / f"{record_id}.json"
     if output.exists():
         return json.loads(output.read_text(encoding="utf-8"))
-    response = requests.get(
-        uri,
-        headers={
-            "Accept": "application/ld+json",
-            "User-Agent": config["user_agent"],
-        },
-        timeout=int(config["request_timeout_seconds"]),
-    )
-    response.raise_for_status()
-    payload = response.json()
-    output.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    return payload
+    return fetch_json_record(uri, output, config)
+
+
+def fetch_json_record(
+    url: str, output: Path, config: dict[str, Any]
+) -> dict[str, Any]:
+    error: Exception | None = None
+    for attempt in range(1, int(config["request_retries"]) + 1):
+        try:
+            response = requests.get(
+                url,
+                headers={
+                    "Accept": "application/ld+json",
+                    "User-Agent": config["user_agent"],
+                },
+                timeout=int(config["request_timeout_seconds"]),
+            )
+            response.raise_for_status()
+            payload = response.json()
+            output.write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+            return payload
+        except (requests.RequestException, ValueError) as exc:
+            error = exc
+            if attempt < int(config["request_retries"]):
+                time.sleep(2 ** (attempt - 1))
+    raise RuntimeError(f"Getty JSON-LD request failed after retries for {url}: {error}")
 
 
 def ulan_names(payload: dict[str, Any], ulan_id: str) -> list[str]:

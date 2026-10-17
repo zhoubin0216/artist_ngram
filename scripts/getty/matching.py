@@ -75,6 +75,7 @@ def choose_candidate(
             "match_confidence": 0.0,
             "manual_review": True,
             "candidate_count": 0,
+            "candidate_uris": "",
             "matched_birth_year": "",
             "matched_death_year": "",
             "match_evidence": "no exact canonical or ULAN-supported name candidate",
@@ -89,8 +90,11 @@ def choose_candidate(
     second_score = scored[1].score if len(scored) > 1 else -1.0
     ambiguous = len(scored) > 1 and best.score - second_score < ambiguity_margin
     low_confidence = best.score < low_confidence_threshold
-    accepted = not ambiguous and best.score >= 0.70
+    accepted = not ambiguous and not low_confidence
     row = best.row
+    candidate_uris = sorted(
+        {item.row.get("person", "") for item in scored if item.row.get("person", "")}
+    )
     return {
         "getty_person_uri": row.get("person", "") if accepted else "",
         "getty_preferred_name": row.get("getty_preferred_name", "") if accepted else "",
@@ -98,6 +102,7 @@ def choose_candidate(
         "match_confidence": best.score,
         "manual_review": bool(ambiguous or low_confidence or not accepted),
         "candidate_count": len({item.row.get("person", "") for item in scored}),
+        "candidate_uris": ";".join(candidate_uris),
         "matched_birth_year": year_from_value(row.get("birth_begin")) or "",
         "matched_death_year": year_from_value(row.get("death_begin")) or "",
         "match_evidence": ";".join(best.evidence),

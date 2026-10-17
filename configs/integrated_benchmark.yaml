@@ -35,7 +35,7 @@ paths:
   ngram_movements: outputs/ngram_movement_15/movements.json
   openalex_artist: results/openalex_normalized/artist_year_normalized.csv
   openalex_movement: results/openalex_movements_keyword_proxy/movement_year_union.csv
-  getty_artist_year: data/getty/getty_artist_year.csv
+  getty_artist_year: data/getty/full/getty_artist_year.csv
   generated_data: data/benchmark/integrated
   results: outputs/integrated_benchmark_results.csv
   summary: outputs/integrated_benchmark_summary.md

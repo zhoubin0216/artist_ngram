@@ -47,4 +47,6 @@ WHERE {
       <https://data.getty.edu/local/thesaurus/star-identifier> .
   }
 }
+ORDER BY ?person ?object ?record ?record_identifier
 LIMIT {{event_limit}}
+OFFSET {{event_offset}}

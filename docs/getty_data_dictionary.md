@@ -1,10 +1,14 @@
-# Getty pilot data dictionary
+# Getty Provenance data dictionary
 
 The pipeline uses the Getty Provenance Index SPARQL endpoint and Linked Art/CIDOC CRM paths verified against live responses. Raw SPARQL and ULAN JSON-LD responses are saved under `data/getty/raw/` and ignored by Git.
 
 ## Artist mapping
 
-`data/getty/getty_artist_mapping.csv` contains one row per pilot artist.
+`data/getty/full/getty_artist_mapping.csv` contains one row per project artist.
+The full run attempts all 1,370 artists. The original pilot files at
+`data/getty/` remain separate for audit.
+`data/getty/full/getty_mapping_review.csv` is the 875-row review subset and
+retains candidate URIs without accepting them as matches.
 
 | Field | Meaning |
 |---|---|
@@ -20,14 +24,16 @@ The pipeline uses the Getty Provenance Index SPARQL endpoint and Linked Art/CIDO
 | `manual_review` | `true` for low-confidence, ambiguous, or unmatched cases. |
 | `source_url` | Accepted Getty person URL. |
 | `candidate_count` | Distinct candidate Getty person records returned. |
+| `candidate_uris` | Semicolon-delimited candidate URIs retained for manual review. |
 | `matched_birth_year`, `matched_death_year` | Years extracted from the Getty candidate. |
 | `match_evidence` | Semicolon-delimited evidence flags. |
 
-The pipeline downloads each pilot ULAN record and uses its preferred and alternate names to broaden exact-name candidate discovery. It never constructs or accepts a Getty Provenance person URI from a ULAN ID.
+The pipeline downloads each ULAN record and uses its preferred and alternate names to broaden exact-name candidate discovery. It never constructs or accepts a Getty Provenance person URI from a ULAN ID. A candidate is accepted only when it is unique and reaches the configured 0.80 confidence threshold. Manual-review rows have an empty `getty_person_uri` and are excluded from event retrieval.
 
 ## Event detail
 
-`data/getty/getty_events.csv` and `data/getty/getty_events.parquet` share the same rows and schema.
+`data/getty/full/getty_events.csv` and
+`data/getty/full/getty_events.parquet` share the same rows and schema.
 
 | Field | Meaning |
 |---|---|
@@ -49,7 +55,7 @@ The pipeline downloads each pilot ULAN record and uses its preferred and alterna
 
 ## Artist-year aggregate
 
-`data/getty/getty_artist_year.csv` and `.parquet` aggregate by `artist_id` and `event_year`.
+`data/getty/full/getty_artist_year.csv` and `.parquet` aggregate by `artist_id` and `event_year`.
 
 - `confirmed_sale_count` counts only title-transfer activities.
 - `catalog_entry_count` counts source entries and never implies a sale.
@@ -60,6 +66,28 @@ The pipeline downloads each pilot ULAN record and uses its preferred and alterna
 ```powershell
 .\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 5
 .\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 25
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --scope all --mapping-only
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --scope all --events-only
 ```
 
-The SPARQL templates are stored in `queries/getty/`. The pilot query limit is a sampling guardrail, not a claim of complete Getty coverage.
+The SPARQL templates are stored in `queries/getty/`. Event queries use stable
+ordering plus `LIMIT`/`OFFSET` pagination. Raw ULAN, person and SPARQL responses
+are cached, so interrupted full runs can resume without repeating completed
+requests.
+
+## Full-run coverage (retrieved 2026-10-17)
+
+- Dictionary artists attempted: 1,370
+- Automatically accepted mappings: 495
+- Candidate-bearing manual-review rows: 122
+- Rows without a candidate: 753
+- Artists with at least one event: 450
+- Deduplicated events: 79,715
+- Confirmed sales: 39,388
+- Catalog entries: 40,327
+- Events with a usable year: 23,007
+- Events without a usable year: 56,708
+
+The pipeline covers the full dictionary in the sense that every artist is
+attempted and represented in the mapping table. It does not claim that Getty
+contains a usable person record or dated event for every artist.

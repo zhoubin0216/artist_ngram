@@ -11,7 +11,7 @@ spark:
 benchmark:
   warmup_runs: 1
   measured_runs: 3
-  synthetic_multiplier: 100
+  synthetic_multiplier: 7
   formats:
     - csv
     - json
@@ -25,8 +25,8 @@ benchmark:
   year_start: 1800
   year_end: 1950
 paths:
-  events: data/getty/getty_events.parquet
-  artists: data/getty/sample_artists.csv
+  events: data/getty/full/getty_events.parquet
+  artists: data/getty/full/artists.csv
   generated_data: data/benchmark
   results: outputs/benchmark_results.csv
   summary: outputs/benchmark_summary.md

@@ -3,9 +3,13 @@ ulan_url_template: https://vocab.getty.edu/ulan/{ulan_id}.jsonld
 user_agent: european-artist-visibility-pilot/0.1
 request_timeout_seconds: 120
 request_retries: 3
+request_delay_seconds: 0.1
 mapping_chunk_size: 1
+mapping_workers: 3
 event_chunk_size: 2
+event_workers: 2
 event_limit_per_chunk: 500
+event_max_pages_per_artist: 1000
 pilot_size: 25
 low_confidence_threshold: 0.80
 ambiguity_margin: 0.15

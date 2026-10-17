@@ -50,4 +50,6 @@ WHERE {
     FILTER(!CONTAINS(STR(?source_record), "/tile/"))
   }
 }
+ORDER BY ?person ?object ?event ?source_record ?price_value
 LIMIT {{event_limit}}
+OFFSET {{event_offset}}

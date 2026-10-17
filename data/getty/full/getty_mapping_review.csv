@@ -1,0 +1,876 @@
+artist_id,wikidata_qid,canonical_name,birth_year,death_year,ulan_id,getty_person_uri,getty_preferred_name,match_method,match_confidence,manual_review,source_url,candidate_count,candidate_uris,matched_birth_year,matched_death_year,match_evidence
+Q4662640,Q4662640,Aart van den IJssel,1922,1983,500040691,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q26214443,Q26214443,Abel Bertram,1871,1954,500085993,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15970267,Q15970267,Abel Lauvray,1870,1950,500043026,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5657519,Q5657519,Adelardo Covarsí,1885,1951,500035867,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4683136,Q4683136,Adja Yunkers,1900,1983,500013967,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3754032,Q3754032,Adolfo Guiard,1860,1916,500036442,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q76185,Q76185,Adolfo Hohenstein,1854,1928,500026353,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/9e7bb088-522d-3ede-b408-b13008f41b01,,,ulan_name_exact;ulan_alias_support
+Q4685750,Q4685750,Adrià Gual,1872,1943,500124900,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2449044,Q2449044,Adrianus Johannes Jacobus de Winter,1882,1951,500054065,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2825301,Q2825301,Adrien de Witte,1850,1935,500101086,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21546270,Q21546270,Agustín Úbeda,1925,2007,500175783,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q170068,Q170068,Akseli Gallen-Kallela,1865,1931,500015305,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q24654988,Q24654988,Albert Dandoy,1885,1977,500348195,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2467235,Q2467235,Albert Droesbeke,1896,1929,500135845,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2831338,Q2831338,Albert Lemaître,1886,1975,500152942,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2831339,Q2831339,Albert Lenoir,1801,1891,500030687,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2638519,Q2638519,Albert Müller,1897,1926,500002854,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1539221,Q1539221,Albert Schiestl-Arding,1883,1937,500170177,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2197592,Q2197592,Albert Servaes,1883,1966,500005497,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18692616,Q18692616,Albert Trachsel,1863,1929,500017862,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q26838471,Q26838471,Alberto Pla y Rubio,1867,1937,500036134,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q958927,Q958927,Aleksander Gierymski,1850,1901,500011145,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4075091,Q4075091,Alexander Bazhbeuk-Melikyan,1891,1966,500314036,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1984317,Q1984317,Alexander Bogomazov,1880,1930,500023043,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q593715,Q593715,Alexander Liberman,1912,1999,500020756,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4271494,Q4271494,Alexander Lubimov,1879,1955,500460957,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21395990,Q21395990,Alexander Marcette,1853,1929,500042284,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/9b6f040c-a78c-3edb-854e-accec07e6a59,,,canonical_name_exact
+Q538713,Q538713,Alexander Nikolayevich Samokhvalov,1894,1971,500008454,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q312631,Q312631,Alexander Rodchenko,1891,1956,500017582,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3533373,Q3533373,Alexander Savinov,1881,1942,500169800,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16164141,Q16164141,Alexander Struys,1852,1941,500042613,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2350977,Q2350977,Alexandre Bida,1813,1895,500030072,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4720922,Q4720922,Alexandre de Riquer,1856,1920,500015911,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q593879,Q593879,Alexandre Jacovleff,1887,1938,500120574,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1960170,Q1960170,Alexandre Séon,1855,1917,500010641,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4721120,Q4721120,Alexandru Ciucurencu,1903,1977,500008565,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21294704,Q21294704,Alexis Keunen,1921,1989,500149657,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2834602,Q2834602,Alexis Mérodack-Jeaneau,1873,1919,500112222,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q112484854,Q112484854,Alfred Chanut,1851,1918,500539118,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q55521527,Q55521527,Alfred Krupa,1915,1989,500355816,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4723449,Q4723449,Alfred Smith,1854,1936,500172608,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/f5c99cbf-33aa-3dbd-a0b5-3f8daadd7fdd,1853,1942,canonical_name_exact;birth_year_near;ulan_alias_support
+Q2835475,Q2835475,Alfred Swieykowski,1869,1953,500084028,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q914211,Q914211,Alfred William Finch,1854,1930,500024356,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4725866,Q4725866,Alice Frey,1895,1981,500139980,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q250333,Q250333,Alice Rahon,1904,1987,500469341,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q539657,Q539657,Alicia Penalba,1913,1982,500056221,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q24937618,Q24937618,Aline Guérin-Billet,1865,1939,500299377,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/815c3536-5680-317d-88f2-9e0de2484c3f,,,ulan_name_exact;ulan_alias_support
+Q2650678,Q2650678,Aloys Wach,1892,1940,500464140,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2839915,Q2839915,Alphonse Monchablon,1835,1907,500002682,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2579811,Q2579811,Alphonse Osbert,1857,1939,500005991,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4356043,Q4356043,Alvar Cawén,1886,1935,500023206,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q451771,Q451771,Amadeo de Souza Cardoso,1887,1918,500006591,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/4bb54dc7-d39c-3ae0-a021-df04b73acd49,,,ulan_name_exact;ulan_alias_support
+Q451736,Q451736,Amadeo Gabino,1922,2004,500025957,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q452733,Q452733,Amaldus Nielsen,1838,1932,500086728,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1938582,Q1938582,Amédée Cortier,1921,1976,500132459,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5673455,Q5673455,Amédée de La Patellière,1890,1932,500004323,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3675462,Q3675462,Amedeo Preziosi,1816,1882,500119781,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4742222,Q4742222,Amelia Bauerle,1870,1916,500730260,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2842660,Q2842660,Amelia Curran,1775,1847,500022822,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q460344,Q460344,Amélie Beaury-Saurel,1848,1924,500034646,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4104520,Q4104520,Anatoli Vasiliev,1917,1994,500200028,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2847930,Q2847930,André Hallet,1890,1959,500143683,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q98793220,Q98793220,André Jolly,1882,1969,500128160,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2848249,Q2848249,André Mare,1885,1932,500019996,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q312529,Q312529,André Masson,1896,1987,500030295,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/86604736-6134-350a-8563-f0e11f29b39f,1896,,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q52156200,Q52156200,André Morisset,1876,1954,500069650,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3615741,Q3615741,Andrea Gastaldi,1826,1889,500006883,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3740994,Q3740994,Andrei Mylnikov,1919,2012,500028761,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3163756,Q3163756,Ange Tissier,1814,1876,500004937,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q9098333,Q9098333,Ángel María Cortellini,1819,1887,500035832,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2574020,Q2574020,Ángeles Santos Torroella,1911,2013,500040522,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q466668,Q466668,Anna Boch,1848,1936,500022508,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1821051,Q1821051,Anna De Weert,1867,1950,500189024,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4768347,Q4768347,Anne Frances Byrne,1775,1837,500017176,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q586332,Q586332,Antoine Guillemet,1841,1918,500028567,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/d9dc127c-131e-3af0-a0c3-0bf2f8437026,1843,1918,canonical_name_exact;death_year_exact;ulan_alias_support
+Q381950,Q381950,Antoine Pevsner,1884,1962,500027433,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q98822279,Q98822279,Antoine Richard,1817,1891,500046235,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/ad54b935-a8c9-3ba3-8157-0c6dd1e808e8,1822,1891,canonical_name_exact;death_year_exact;ulan_alias_support
+Q98686842,Q98686842,Antoinette Béfort,1788,1868,500088038,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q74051,Q74051,Anton Räderscheidt,1892,1970,500008095,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/f2351075-978e-3658-b2e4-813a0bd5821f,,,canonical_name_exact;ulan_alias_support
+Q603689,Q603689,Antoni Caba,1838,1907,500035434,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19997890,Q19997890,Antoni Ribas Prats,1883,1931,500036498,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2857134,Q2857134,Antonin Moine,1796,1849,500164384,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/c75d4c5d-70cb-3b92-a5dd-fc367b6f9adc,,,canonical_name_exact;ulan_alias_support
+Q552055,Q552055,Antonín Procházka,1882,1945,500020990,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q608745,Q608745,Antonín Slavíček,1870,1910,500012301,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5485139,Q5485139,Antonio Cabral Bejarano,1798,1861,500035451,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3847713,Q3847713,António Carneiro,1872,1930,500022327,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4776933,Q4776933,Antonio Rodríguez Luna,1910,1985,500040132,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1941254,Q1941254,Antoon Derkinderen,1859,1925,500024329,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2857011,Q2857011,Antoon Kruysen,1898,1977,500150992,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2858153,Q2858153,Apcar Baltazar,1880,1909,500007396,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q664360,Q664360,Aristarkh Lentulov,1882,1943,500028210,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3623704,Q3623704,Arkady Rylov,1870,1939,500020812,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2861767,Q2861767,Armand Bernard,1829,1894,500113107,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/bc63a958-edd3-33f6-9135-9596ac74619d,,,canonical_name_exact;ulan_alias_support
+Q16039631,Q16039631,Armand Berton,1854,1917,500047987,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/e5daf9c1-3a0f-35b0-9bac-eaed1f3b4459,,,canonical_name_exact;ulan_alias_support
+Q732208,Q732208,Armand Point,1861,1932,500046976,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/e353bd6d-91b1-3390-bd7d-1317f2b9c442,1860,1932,ulan_name_exact;birth_year_near;death_year_exact;ulan_alias_support
+Q1115614,Q1115614,Arnaldo Ginna,1890,1982,500038323,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2865107,Q2865107,Arthur Garguromin-Verona,1867,1946,500078014,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4799572,Q4799572,Arthur Lowe,1865,1940,500077844,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q714598,Q714598,Artur Loureiro,1853,1932,500124495,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4820747,Q4820747,August Jerndorff,1846,1906,500013844,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2871155,Q2871155,Auguste Clésinger,1814,1883,500030161,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q22964956,Q22964956,Auguste Desch,1877,1924,500093169,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2871159,Q2871159,Auguste Donnay,1862,1921,500026529,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16855463,Q16855463,Auguste Pichon,1805,1900,500028742,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4686424,Q4686424,Aurel Băeșu,1896,1928,500063386,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q793689,Q793689,Aurél Bernáth,1895,1982,500027436,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4822200,Q4822200,Aurel Ciupe,1900,1988,500026163,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q713017,Q713017,Austin Osman Spare,1886,1956,500003436,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q174655,Q174655,Bart van der Leck,1876,1958,500030887,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q900177,Q900177,Béla Czóbel,1883,1976,500026459,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1098790,Q1098790,Béla Iványi-Grünwald,1867,1940,500024077,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q347920,Q347920,Béla Kádár,1877,1956,500024196,,,ambiguous_or_low_confidence,0.78,True,,1,https://data.getty.edu/provenance/f7fa9a89-9aad-322a-b473-ef0d71679197,1877,1955,ulan_name_exact;birth_year_exact;death_year_near;ulan_alias_support
+Q816819,Q816819,Benedetta Cappa,1897,1977,500125032,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q104092268,Q104092268,Benjamin Basov,1913,2001,500065000,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15967958,Q15967958,Benjamin de Rolland,1773,1855,500060143,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/6cee9d65-41c5-39f4-b1c9-c79d2e1cdafe,1777,1855,ulan_name_exact;death_year_exact;ulan_alias_support
+Q1032506,Q1032506,Benjamín Palencia,1894,1980,500027960,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1778859,Q1778859,Bernard Lorjou,1908,1986,500004123,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q8246817,Q8246817,Bernardino Montañés,1825,1893,500039722,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q825177,Q825177,Bernhard Hasler,1884,1945,500332710,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q22235960,Q22235960,Berthe Dubail,1911,1984,500135912,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12082426,Q12082426,Besedin Serhiy Fotiyovych,1901,1996,500645140,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15873078,Q15873078,Betsy Westendorp-Osieck,1880,1968,500072892,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q698151,Q698151,Bohumil Kubišta,1884,1918,500008823,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2909319,Q2909319,Bolesław Biegas,1877,1954,500026814,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3632536,Q3632536,Boris Lavrenko,1920,2001,500061611,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4953063,Q4953063,Božidar Jakac,1899,1989,500074307,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q708028,Q708028,Bruno Munari,1907,1998,500076929,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q120582,Q120582,Camille Claudel,1864,1943,500102192,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2934886,Q2934886,Camille Claus,1920,2005,500108377,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3545191,Q3545191,Camille Nicolas Lambert,1874,1964,500094764,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2604346,Q2604346,Camille Van Camp,1834,1891,500201563,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2934822,Q2934822,Camille-Félix Bellanger,1853,1923,500072907,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q566849,Q566849,Carl Grossberg,1894,1940,500001902,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1040128,Q1040128,Carl Rabus,1898,1983,500165021,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3659604,Q3659604,Carlo Mattioli,1911,1994,500027502,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1042835,Q1042835,Carlos Cruz-Diez,1923,2019,500012773,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q694113,Q694113,Carlos Schwabe,1866,1926,500112162,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/c69f212b-fcdc-336a-b88b-ce315e5eba27,,,ulan_name_exact;ulan_alias_support
+Q3187858,Q3187858,Carolina Carlesimo,1867,1923,500009273,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12723699,Q12723699,Catul Bogdan,1897,1978,500068334,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6100012,Q6100012,Cemal Tollu,1899,1968,500123707,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2717011,Q2717011,César Domela,1900,1992,500007460,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213848,Q213848,Cesar Klein,1876,1954,500029590,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/6cbab45a-2bcc-31b3-ab45-669837a4be35,,,canonical_name_exact;ulan_alias_support
+Q160141,Q160141,Chaïm Soutine,1893,1943,500004801,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q37512862,Q37512862,Charles Agard,1866,1950,500027885,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1063574,Q1063574,Charles Angrand,1854,1926,500011822,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2958904,Q2958904,Charles Devillié,1850,1905,500044542,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2282495,Q2282495,Charles Doudelet,1861,1938,500027481,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1865834,Q1865834,Charles Eyck,1897,1983,500029847,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2060942,Q2060942,Charles Filiger,1863,1928,500013144,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2959733,Q2959733,Charles Malfroy,1862,1939,500044456,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q371549,Q371549,Charles Maurin,1856,1914,500128033,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4258652,Q4258652,Charles-Amable Lenoir,1860,1926,500032616,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/f8523b38-10d6-34c8-9841-1d9b96a2fc63,1860,,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q1063426,Q1063426,Charles-Philippe Larivière,1798,1899,500012151,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/a8977dae-de75-3a2f-a810-b0ed4109ce13,1798,1876,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q446922,Q446922,Charley Toorop,1891,1955,500029592,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213735,Q213735,Charlotte Salomon,1917,1943,500065301,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q334200,Q334200,Christian Krohg,1852,1925,500011632,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/44bf0c0f-29a0-34a4-bf13-d34cb50d7c67,,,ulan_name_exact;ulan_alias_support
+Q1080695,Q1080695,Christian Kruck,1925,1985,500465059,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q703331,Q703331,Christian Schad,1894,1982,500030368,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q527386,Q527386,Christine Boumeester,1904,1971,500001715,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q219634,Q219634,Claude Cahun,1894,1954,500125875,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1096818,Q1096818,Claudius Jacquand,1803,1878,500003658,,,ambiguous_or_low_confidence,0.75,True,,2,https://data.getty.edu/provenance/2364c7da-3d84-38de-acb3-9348f9294cd0;https://data.getty.edu/provenance/99c3188c-7c7d-3efa-a74d-9739393c7754,1804,1878,canonical_name_exact;birth_year_near;death_year_exact
+Q982611,Q982611,Clément Serveau,1886,1972,500131253,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5146236,Q5146236,Colleen Browning,1918,2003,500010875,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5162696,Q5162696,Conroy Maddox,1912,2005,500012677,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q463270,Q463270,Constance Mayer,1774,1821,500014284,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/611fe4a7-124d-3581-8bd8-c15f0b92b8ee,,,canonical_name_exact;ulan_alias_support
+Q2994899,Q2994899,Constant Montald,1862,1944,500102337,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/000c5817-7c26-315d-82aa-28053b52eefb,,,canonical_name_exact;ulan_alias_support
+Q381911,Q381911,Constant Permeke,1886,1952,500013033,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2907846,Q2907846,Constantin Daniel Rosenthal,1820,1851,500081081,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12069930,Q12069930,Constantin Daniel Stahi,1844,1920,500110485,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5163740,Q5163740,Constantin Lecca,1807,1887,500094580,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q26936772,Q26936772,Constantinus Cornelis Huysmans,1810,1886,500053607,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/c14d9e73-ce59-3552-b676-3828ba93b6f1,,,canonical_name_exact;ulan_alias_support
+Q983262,Q983262,Corneliu Baba,1906,1997,500019555,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15710728,Q15710728,Cosme de Acuña,1758,1814,500035143,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q963123,Q963123,Daniel Vázquez Díaz,1882,1969,500028940,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1837855,Q1837855,Darío de Regoyos,1857,1913,500018340,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q17101440,Q17101440,David Cox Jr.,1809,1885,500009210,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/66ebb04a-7356-3bd2-9f10-7d038578adc3,1783,1859,ulan_name_exact;ulan_alias_support
+Q12346689,Q12346689,Dávid Jándi,1893,1944,500059281,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1175801,Q1175801,David Murray,1849,1933,500010784,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3712893,Q3712893,Domenico Baccarini,1882,1907,500142162,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q62572109,Q62572109,Domenico Belli,1909,1983,500199630,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18663487,Q18663487,Domenico De Angelis,1735,1804,500031829,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1243599,Q1243599,Dora Bromberger,1881,1942,500069165,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/4fe06ffa-dbdd-3e55-b076-a7ff24185047,1871,1942,canonical_name_exact;death_year_exact;ulan_alias_support
+Q236161,Q236161,Dora Maar,1907,1997,500007694,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15429607,Q15429607,Dorothea Sharp,1874,1955,500027376,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/699de63a-ba75-3b23-89c5-9e423b92028c,,,canonical_name_exact;ulan_alias_support
+Q1279460,Q1279460,Eberhard Viegener,1890,1967,500178190,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21645467,Q21645467,Edgar Gevaert,1891,1965,500619209,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18527925,Q18527925,Edith Hayllar,1860,1948,500015556,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3579742,Q3579742,Édouard Bisson,1856,1945,500028493,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/def803f9-6454-3f34-9edf-ba400b992316,1856,,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q274285,Q274285,Édouard Debat-Ponsan,1847,1913,500065458,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1287966,Q1287966,Eduard Bargheer,1901,1979,500025491,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/6f771f8c-f445-387f-ae9e-2add3096f2cc,,,canonical_name_exact;ulan_alias_support
+Q1288095,Q1288095,Eduard Bäumer,1892,1977,500002993,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5340453,Q5340453,Eduard Ole,1898,1995,500120531,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q156736,Q156736,Eduardo Chillida,1924,2002,500013253,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3426655,Q3426655,Edvard Petersen,1841,1911,500095328,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5345269,Q5345269,Edward Seago,1910,1974,500027870,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3049418,Q3049418,Eileen Agar,1899,1991,500009712,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5889945,Q5889945,Einar Jolin,1890,1976,500014093,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q463032,Q463032,Elfriede Lohse-Wächtler,1899,1940,500119226,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q83294124,Q83294124,Elica Balla,1914,1993,500056986,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1827236,Q1827236,Elin Danielson-Gambogi,1861,1919,500140643,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q51495509,Q51495509,Elisa Beetz-Charpentier,1859,1949,500192279,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3723179,Q3723179,Elisabeth Chaplin,1890,1982,500028651,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213163,Q213163,Élisabeth Louise Vigée Le Brun,1755,1842,500010070,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4428845,Q4428845,Élisabeth Sonrel,1874,1953,500054184,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2340277,Q2340277,Eliseu Visconti,1866,1944,500056344,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1192595,Q1192595,Ellen Thesleff,1869,1954,500096124,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q442841,Q442841,Elsa von Freytag-Loringhoven,1874,1927,500062531,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1439802,Q1439802,Else Berg,1877,1942,500026213,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q214687,Q214687,Else Meidner,1901,1987,500063233,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1565466,Q1565466,Emanuel Vidović,1870,1953,500178188,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q687335,Q687335,Emil Filla,1882,1953,500030233,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/d644d306-7420-3f3d-8bc9-ecb05bb8a8b3,,,canonical_name_exact;ulan_alias_support
+Q449119,Q449119,Emil Schumacher,1912,1999,500005420,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1337068,Q1337068,Emil van Hauth,1899,1974,500074032,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q274909,Q274909,Émile Bayard,1837,1891,500018456,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3588337,Q3588337,Émile Berchmans,1867,1947,500060860,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3588356,Q3588356,Émile Bin,1825,1897,500099554,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2072067,Q2072067,Émile Fabry,1865,1966,500007452,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2800085,Q2800085,Emile Van Doren,1865,1949,500070651,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3588288,Q3588288,Émile-Gustave Cavallo-Péduzzi,1851,1917,500161861,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3588843,Q3588843,Émilie Charmy,1878,1974,500003877,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18019560,Q18019560,Emmanouil Zairis,1876,1948,500577897,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3052902,Q3052902,Emmanuel de La Villéon,1858,1944,500043031,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3052711,Q3052711,Emmanuel Gondouin,1883,1934,500041952,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5373615,Q5373615,Emmy Bridgwater,1906,1999,500072904,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q52007767,Q52007767,Emo Mazzetti,1870,1955,500162967,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1251377,Q1251377,Endre Rozsda,1913,1999,500477425,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q11919388,Q11919388,Enrique Estévez Ochoa,1891,1978,500037778,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5388046,Q5388046,Erich Kahn,1904,1980,500087612,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21994067,Q21994067,Erich Mallina,1873,1954,500156691,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1355806,Q1355806,Erma Bossi,1875,1952,500033150,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2682571,Q2682571,Ernest de Chamaillard,1862,1931,500012725,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1350125,Q1350125,Ernest Hébert,1817,1908,500005127,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/61aeef03-c7dc-33cd-a0fd-5b1ff4de5f82,,,canonical_name_exact
+Q2072609,Q2072609,Ernest Laurent,1859,1929,500028713,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/b0485798-753e-3692-90d7-b0f4f45f8dcb,,,canonical_name_exact
+Q7127637,Q7127637,Ernest Rouart,1874,1942,500089194,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q709853,Q709853,Ernst Josephson,1851,1906,500004739,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1362990,Q1362990,Erwin Hahs,1887,1970,500087325,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3270781,Q3270781,Espérance Léon Broquet,1869,1935,500094796,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3058864,Q3058864,Esteban Francés,1913,1976,500124400,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3592050,Q3592050,Étienne Azambre,1859,1933,500044593,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/af637671-7c3b-38dd-af6f-a3935ae5f08d,1859,1935,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q1235151,Q1235151,Eugen von Kahler,1882,1911,500093552,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3059692,Q3059692,Eugène Antoine Durenne,1860,1944,500055988,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1373445,Q1373445,Eugène Boch,1855,1941,500112125,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1373477,Q1373477,Eugène Ernest Hillemacher,1818,1887,500048329,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/c289ac5c-5a9f-3ab3-ba33-a307215e27fd,,,canonical_name_exact;ulan_alias_support
+Q3059860,Q3059860,Eugène Faure,1822,1878,500017160,,,ambiguous_or_low_confidence,0.78,True,,1,https://data.getty.edu/provenance/3750a836-cc78-3ec4-8efb-95ef4fc5ccfa,1822,1879,ulan_name_exact;birth_year_exact;death_year_near;ulan_alias_support
+Q3060058,Q3060058,Eugène Murer,1841,1906,500088586,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3060211,Q3060211,Eugène Viala,1859,1913,500060952,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q8846188,Q8846188,Eugenio Álvarez Dumont,1864,1927,500035170,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q8846143,Q8846143,Eugenio Gómez Mir,1877,1938,500035505,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5850510,Q5850510,Eugenio Landesio pta,1809,1879,500060514,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/d5d974ea-3996-32f4-8a6e-479202957f00,,,ulan_name_exact;ulan_alias_support
+Q5650613,Q5650613,Eulogio Varela Sartorio,1868,1955,500034538,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12727913,Q12727913,Eustatie Altini,1772,1815,500313245,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q454670,Q454670,Eva Bonnier,1857,1909,500102442,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q464300,Q464300,Eva Gonzalès,1847,1883,500016113,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/6e059be1-86bb-3b7b-997a-46c05954ea27,1849,1883,ulan_name_exact;death_year_exact;ulan_alias_support
+Q4299792,Q4299792,Evsey Moiseenko,1916,1988,500083087,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1382776,Q1382776,Ewald Dülberg,1888,1933,500064151,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3736326,Q3736326,Ezechiele Acerbi,1850,1920,500342017,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5423877,Q5423877,F. E. McWilliam,1909,1992,500087168,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q8960684,Q8960684,Fabián de Castro y Heredia,1868,1948,500035828,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5441839,Q5441839,Feliks Topolski,1907,1989,500008564,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16836507,Q16836507,Felipe Checa,1844,1906,500035989,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q31078769,Q31078769,Félix Yuste Peinado,1866,1950,500037760,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3068698,Q3068698,Ferdinand du Puigaudeau,1864,1930,500046188,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5443868,Q5443868,Ferdinand Kulmer,1925,1998,500102020,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2180971,Q2180971,Ferdinand Marinus,1808,1890,500042288,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1392368,Q1392368,Ferdynand Ruszczyc,1870,1936,500028791,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q174477,Q174477,Fernand Pelez,1848,1913,500012295,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5859455,Q5859455,Fernando Delapuente,1909,1975,500038654,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21842514,Q21842514,Filippo Indoni,1842,1908,500031398,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/62657deb-d863-3d4d-9827-7629517d2280,,,canonical_name_exact;ulan_alias_support
+Q443429,Q443429,Florence Henri,1893,1982,500000126,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3078585,Q3078585,Fortuné Dufau,1770,1821,500020581,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16335814,Q16335814,Francesc d'A. Planas Doria,1879,1955,500039967,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3084128,Q3084128,Francesco Brunery,1849,1926,500002230,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/417ee6f1-e56a-3a6c-8ff5-f32c0ed6d590,1845,1926,ulan_name_exact;death_year_exact;ulan_alias_support
+Q5479299,Q5479299,Francesco Coleman,1851,1918,500062521,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3749980,Q3749980,Francesco Filippini,1853,1895,500105715,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/070ff354-7762-3800-a7be-5172dea0d25f,,,canonical_name_exact;ulan_alias_support
+Q154340,Q154340,Francis Bacon,1909,1992,500021153,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q345864,Q345864,Francis Cadell,1883,1937,500007810,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5482916,Q5482916,Francis de Erdely,1904,1959,500025724,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2016617,Q2016617,Francis Gruber,1912,1948,500032368,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q747974,Q747974,Francisc Șirato,1877,1953,500104757,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3823482,Q3823482,Francisco Agustín y Grande,1753,1801,500035108,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2681959,Q2681959,Francisco Manuel Oller,1833,1917,500018572,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4455199,Q4455199,Franciszek Tepa,1829,1889,500709393,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q372835,Q372835,François Emile Ehrmann,1833,1910,500001332,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q130511,Q130511,François Lafon,1846,1913,500029103,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/ac04c476-a1f8-3024-877d-869fe0f21b92,,,canonical_name_exact;ulan_alias_support
+Q1975238,Q1975238,François Roffiaen,1820,1898,500025670,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/d8b9016d-068c-3d95-8780-5b1806c3471d,,,canonical_name_exact
+Q3086027,Q3086027,François Vincent Latil,1796,1890,500040972,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1398238,Q1398238,Frank Cadogan Cowper,1877,1958,500005294,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q769610,Q769610,Frans Krajcberg,1921,2017,500118094,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q957157,Q957157,František Bílek,1872,1941,500076496,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12017015,Q12017015,František Foltýn,1891,1976,500067302,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q729777,Q729777,Frantz Charlet,1862,1928,500110346,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/0fbacc39-d853-39ea-bd85-ccded30e0570,,,canonical_name_exact;ulan_alias_support
+Q15857646,Q15857646,Franz Henseler,1883,1918,500034923,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1448136,Q1448136,Franz Maria Jansen,1885,1958,500084362,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q33567,Q33567,Frederick Catherwood,1799,1854,500029939,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4143364,Q4143364,Frederick Gore,1913,2009,500001649,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q13585004,Q13585004,Frédérique Émilie Auguste O'Connell,1822,1885,500057266,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1337678,Q1337678,Friedrich Aduatz,1907,1994,500150649,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1460064,Q1460064,Friedrich Jentzen,1815,1901,500089282,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/450e5560-2b39-3bdc-812d-aa0ad148f0cf,1804,1875,canonical_name_exact;ulan_alias_support
+Q1460839,Q1460839,Friedrich Ludwig,1895,1970,500110233,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q181503,Q181503,Frits Van den Berghe,1883,1939,500029175,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1465534,Q1465534,Fritz Ascher,1893,1970,500404193,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q164124,Q164124,Fritz Bleyl,1880,1966,500073240,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1468140,Q1468140,Fritz Schaefler,1888,1954,500071049,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1468357,Q1468357,Fritz Schwarz-Waldegg,1889,1942,500340505,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/3cca1325-4d6b-3050-b9bb-2a58e37baa36,,,ulan_name_exact;ulan_alias_support
+Q23000781,Q23000781,Fritz Winkler,1894,1964,500104611,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/e29edfd2-0ed0-33cf-bf09-929a20f614da,,,canonical_name_exact;ulan_alias_support
+Q970016,Q970016,Gabor Peterdi,1915,2001,500022299,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q24279413,Q24279413,Gabriel Guérin,1869,1916,500142964,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q56739110,Q56739110,Gabriele Patriarca,1916,1988,500490142,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q913979,Q913979,Gaetano Previati,1852,1920,500030319,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/30b37b9b-f5fb-3a09-a919-b2a4362b7606,,,canonical_name_exact;ulan_alias_support
+Q325582,Q325582,Gaston Bogaert,1918,2008,500180470,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1495565,Q1495565,Gaston Bussière,1862,1928,500110227,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3099166,Q3099166,Gaston Thiesson,1882,1920,500078924,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4279270,Q4279270,Gavriil Malish,1907,1998,500638732,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q741159,Q741159,Gen Paul,1895,1975,500090552,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q71992,Q71992,Genaro Pérez Villaamil,1807,1854,500111885,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q30312887,Q30312887,Geoffroy Alphonse Chocarne,1797,1870,500183868,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q288218,Q288218,Georg Jensen,1866,1935,500103789,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1381512,Q1381512,Georg Pauli,1855,1935,500107733,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q743633,Q743633,Georg Schrimpf,1889,1938,500029672,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/e179652b-20a4-3b6c-ad25-061259be319e,,,canonical_name_exact;ulan_alias_support
+Q3101522,Q3101522,George Demetrescu-Mirea,1852,1934,500109677,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3101526,Q3101526,George Desvallières,1861,1950,500004489,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1507251,Q1507251,George Duncan Beechey,1798,1852,500004755,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/28ba5d58-4a61-3708-a4d4-f6ebdaaa9585,,,canonical_name_exact;ulan_alias_support
+Q346319,Q346319,George Leslie Hunter,1877,1931,500014067,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q109886162,Q109886162,Georges Breuil,1904,1997,500041320,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3102529,Q3102529,Georges Creten,1887,1966,500041379,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3103157,Q3103157,Georges Henri Manzana Pissarro,1871,1961,500021598,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q458721,Q458721,Georges Hugnet,1906,1974,500025276,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q346846,Q346846,Georges Rochegrosse,1859,1938,500053678,,,ambiguous_or_low_confidence,0.75,True,,2,https://data.getty.edu/provenance/7ffc5568-17d9-3f61-9aa5-784cab2ac5f2;https://data.getty.edu/provenance/891018d2-c077-3301-a9c1-437f4ee20967,1852,1938,canonical_name_exact;death_year_exact;ulan_alias_support
+Q1009528,Q1009528,Georges Valmier,1885,1937,500005229,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5546919,Q5546919,Georges William Thornley,1857,1935,500033002,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q450730,Q450730,Georgette Agutte,1867,1922,500103575,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/e4827b22-79ca-3ab3-89cc-d691cef72168,,,canonical_name_exact;ulan_alias_support
+Q5322056,Q5322056,Ger van Iersel,1922,2014,500680155,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2441977,Q2441977,Gheorghe Tattarescu,1820,1894,500326801,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q368254,Q368254,Giacomo Balla,1871,1958,500014876,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2004749,Q2004749,Giacomo Grosso,1860,1938,500055488,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1122412,Q1122412,Giannino Castiglioni,1884,1971,500096596,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2655639,Q2655639,Gigo Gabashvili,1862,1936,500121574,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q50353298,Q50353298,Gino Galli,1893,1944,500108508,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1527263,Q1527263,Gisela Andersch,1913,1987,500386926,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1877235,Q1877235,Giuseppe Amisani,1881,1941,500129751,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15616103,Q15616103,Giuseppe Collignon,1778,1863,500059824,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3770535,Q3770535,Giuseppe Ferdinando Piana,1864,1956,500179730,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1528580,Q1528580,Giuseppe Pellizza da Volpedo,1868,1907,500028941,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3108143,Q3108143,Giuseppe Sciuti,1834,1911,500030025,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4403982,Q4403982,Gleb Savinov,1915,2000,500200014,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3772850,Q3772850,Gojmir Anton Kos,1896,1970,500150637,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3889392,Q3889392,Gordon Onslow Ford,1912,2003,500020355,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3778863,Q3778863,Guglielmo Achille Cavellini,1914,1990,500101081,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2223220,Q2223220,Guilherme de Santa-Rita,1889,1918,500092248,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2075154,Q2075154,Guillaume Seignac,1870,1924,500031567,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/76ea2bec-a3d6-33ee-80bc-9cc8e692565b,,,canonical_name_exact;ulan_alias_support
+Q981212,Q981212,Gustave De Smet,1877,1943,500013123,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19569779,Q19569779,Gustave Lassalle-Bordes,1812,1886,500108213,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3121272,Q3121272,Gustave Miklos,1888,1967,500007590,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3121050,Q3121050,Gustave Mossa,1883,1971,500021587,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2519247,Q2519247,Gustave Van de Woestijne,1881,1947,500030799,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2666703,Q2666703,Halfdan Egedius,1877,1899,500024706,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q463411,Q463411,Hannah Höch,1889,1978,500014841,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/e043e14d-f006-3232-99d7-3836fee89966,,,ulan_name_exact;ulan_alias_support
+Q828405,Q828405,Hanns Bolz,1885,1918,500025845,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q116550,Q116550,Hans Aeschbacher,1906,1980,500066288,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213703,Q213703,Hans Bellmer,1902,1975,500018770,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1581895,Q1581895,Hans Ralfs,1883,1945,500110773,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213597,Q213597,Hans Richter,1888,1976,500018123,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/83b4c09e-44bf-3fbb-be75-1675de281e88,,,canonical_name_exact;ulan_alias_support
+Q1582769,Q1582769,Hans Thuar,1887,1945,500021987,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4994489,Q4994489,Harald Giersing,1881,1927,500019766,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q114460,Q114460,Hede von Trapp,1877,1947,500096873,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q321284,Q321284,Heinrich Altherr,1878,1947,500083321,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/9bc7d4b3-85be-31ae-980c-e7da4d0b854f,,,canonical_name_exact;ulan_alias_support
+Q1500100,Q1500100,Helen Dahm,1878,1968,500096278,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/8cf73fb5-7021-3f52-8410-1f52f99ba7a3,,,canonical_name_exact;ulan_alias_support
+Q135711099,Q135711099,Héléna Joséphine Robelet,1817,1889,500199744,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q236985,Q236985,Helene Schjerfbeck,1862,1946,500012966,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2638473,Q2638473,Hendrik Chabot,1894,1949,500032393,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q559440,Q559440,Hendrik Nicolaas Werkman,1882,1945,500003221,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3130665,Q3130665,Henri Bergé,1870,1937,500197689,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q42305657,Q42305657,Henri Ginet,1923,1970,500466748,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2748223,Q2748223,Henri Goetz,1909,1989,500010355,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4148362,Q4148362,Henri Grevedon,1776,1860,500007693,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/033ee6d9-3c8c-33a2-9c9f-138b230e604f,,,ulan_name_exact;ulan_alias_support
+Q20089685,Q20089685,Henri Michel-Lévy,1844,1914,500112922,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2583496,Q2583496,Henri Permeke,1849,1912,500162186,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q177978,Q177978,Henri-Jean Guillaume Martin,1860,1943,500025616,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/35d809dd-1d1c-3766-830e-f85d38a400e0,1860,1936,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q16743789,Q16743789,Henriette Tirman,1875,1952,500469021,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3847723,Q3847723,Henrique Pousão,1859,1884,500029222,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21582445,Q21582445,Henry Pluchart,1835,1898,500180346,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q154083,Q154083,Henry van de Velde,1863,1957,500002737,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2495706,Q2495706,Herman Kruyder,1881,1935,500021198,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q25973,Q25973,Hermann Hesse,1877,1962,500018217,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/1c822ee3-48ee-39f3-9320-d37e027ddeda,,,canonical_name_exact;ulan_alias_support
+Q1612833,Q1612833,Hermann Stenner,1891,1914,500011003,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/b932a780-6e3f-33fb-a677-ed7d44c25549,,,ulan_name_exact;ulan_alias_support
+Q62661,Q62661,Herwarth Walden,1878,1941,500327860,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3942427,Q3942427,Hildo Krop,1884,1970,500040704,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q436267,Q436267,Hilma af Klint,1862,1944,500125096,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1489046,Q1489046,Hippolyte Daeye,1873,1952,500041380,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q263080,Q263080,Hugo Simberg,1873,1917,500010149,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q254379,Q254379,Ignacio Pinazo Camarlench,1849,1916,500018149,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3792288,Q3792288,Ignaz Epper,1892,1969,500068522,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q984030,Q984030,Ilia Zdanevich,1894,1975,500080494,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q546182,Q546182,Ilka Gedő,1921,1985,500482634,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4091000,Q4091000,Ilya Bolotowsky,1907,1981,500014068,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2704611,Q2704611,Ilya Mashkov,1881,1944,500031575,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1660494,Q1660494,Imre Földes,1881,1948,500139133,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3154048,Q3154048,Ioannis Altamouras,1852,1878,500123618,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q723350,Q723350,Ion Andreescu,1850,1882,500011952,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3154105,Q3154105,Ion Theodorescu-Sion,1882,1939,500111792,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q661172,Q661172,Iosif Iser,1881,1958,500031971,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q731125,Q731125,Isaac Grünewald,1889,1946,500078890,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1674765,Q1674765,Issachar Ber Ryback,1897,1935,500009480,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q439844,Q439844,Ithell Colquhoun,1906,1988,500031141,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4141145,Q4141145,Ivan Godlevsky,1908,1998,500060231,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2339347,Q2339347,Ivan Grohar,1867,1911,500069514,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q897653,Q897653,Ivan Milev,1897,1927,500124588,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1364775,Q1364775,Ivan Trush,1869,1941,500108208,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q214106,Q214106,Jacob Steinhardt,1887,1968,500018899,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/68d15984-686b-3a45-b163-83bf4186b84b,,,canonical_name_exact;ulan_alias_support
+Q806616,Q806616,Jacobus van Looy,1855,1930,500019445,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1677808,Q1677808,Jacqueline Comerre-Paton,1859,1955,500109380,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q518669,Q518669,Jacqueline Lamba,1910,1993,500057281,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q583015,Q583015,Jacques Amans,1801,1888,500028008,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1677964,Q1677964,Jacques Ernst Sonderegger,1882,1956,500061505,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3159139,Q3159139,Jacques Hérold,1910,1987,500031494,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q30173607,Q30173607,Jacques Traversier,1875,1935,500112939,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1679686,Q1679686,Jakub Obrovský,1882,1949,500111424,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16062634,Q16062634,James Irvine,1822,1889,500123567,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/192ef90f-9b72-3052-bbad-4ee6f3c838db,1757,1831,canonical_name_exact;ulan_alias_support
+Q4215366,Q4215366,James Wilson Carmichael,1799,1868,500019808,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/0614e523-3af9-3c5a-85f5-5d1c9651b0c9,1800,1868,ulan_name_exact;birth_year_near;death_year_exact;ulan_alias_support
+Q2155072,Q2155072,Jan Bons,1918,2012,500078199,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2976584,Q2976584,Jan Damel,1780,1840,500081067,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1681702,Q1681702,Jan David Zocher,1791,1870,500033048,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21289182,Q21289182,Jan Hendrik Scheltema,1861,1941,500108968,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1383568,Q1383568,Jan Le Witt,1907,1991,500339846,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q204264,Q204264,Jan Nepomucen Głowacki,1802,1847,500069905,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/63ffa4e4-a30b-3b67-b5fe-f3732c8f0dc7,,,ulan_name_exact;ulan_alias_support
+Q2104325,Q2104325,Jan Preisler,1872,1918,500014295,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/93860f1d-5fb6-3d09-9991-00d2f8b092b9,,,ulan_name_exact;ulan_alias_support
+Q1682227,Q1682227,Jan Sluijters,1881,1957,500008116,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q458861,Q458861,Jan Thorn Prikker,1868,1932,500011607,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2493928,Q2493928,Jan Vaerten,1909,1980,500176791,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1964962,Q1964962,Jan van Heel,1898,1990,500341069,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2675322,Q2675322,Jan Wiegers,1893,1959,500027873,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18516654,Q18516654,Jan Zoetelief Tromp,1872,1947,500030947,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q830827,Q830827,János Mattis-Teutsch,1884,1960,500077481,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1320457,Q1320457,János Thorma,1870,1937,500060161,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1323045,Q1323045,János Tornyai,1869,1936,500084077,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4150307,Q4150307,Jāzeps Grosvalds,1891,1920,500121446,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q368968,Q368968,Jean Alexandru Steriadi,1880,1956,500010333,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16059758,Q16059758,Jean Carolus,1814,1897,500050626,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/a3b87151-ad14-35d6-97a7-d3cc6d6b770a,,,ulan_name_exact;ulan_alias_support
+Q18214492,Q18214492,Jean d'Esparbès,1899,1968,500074466,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1395469,Q1395469,Jean Delville,1867,1953,500027312,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/b7bf989e-81e1-3a1b-a255-7a260be5023a,,,canonical_name_exact;ulan_alias_support
+Q52156327,Q52156327,Jean Fernand Trochain,1879,1969,500086640,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3172085,Q3172085,Jean Francis Auburtin,1866,1930,500102170,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q744442,Q744442,Jean Ignace Isidore Gérard Grandville,1803,1847,500029535,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/9b9bd5a5-1ad4-33e4-aed5-86786a9270e3,,,ulan_name_exact;ulan_alias_support
+Q3172966,Q3172966,Jean Lambert-Rucki,1888,1967,500120898,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19944954,Q19944954,Jean Louis Bezard,1799,1881,500004662,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3174332,Q3174332,Jean Rigaud,1912,1999,500344631,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/10bb68ce-b87c-3d2d-8921-8242c2013af9,,,canonical_name_exact;ulan_alias_support
+Q163938,Q163938,Jean Tinguely,1925,1991,500010804,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15961685,Q15961685,Jean-Amédée Gibert,1869,1945,500085255,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q281998,Q281998,Jean-Baptiste Debret,1768,1848,500011760,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2325139,Q2325139,Jean-Baptiste Wicar,1762,1834,500029542,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3164597,Q3164597,Jean-Bruno Gassies,1786,1832,500023551,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3164698,Q3164698,Jean-Charles Tardieu,1765,1830,500029116,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q58212574,Q58212574,Jean-Denis Maillart,1913,2004,500091127,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/e16d6230-2942-3cb7-95a3-04e2ec894630,,,ulan_name_exact;ulan_alias_support
+Q658862,Q658862,Jean-François Raffaëlli,1850,1924,500048150,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/4cd757fa-bb7a-31bd-95fe-222d5b59d217,,,ulan_name_exact;ulan_alias_support
+Q3166131,Q3166131,Jean-Hilaire Belloc,1786,1866,500008677,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q665818,Q665818,Jean-Jacques Henner,1829,1905,500026774,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/3d115579-c871-349b-b3dd-593b479bc37e,,,canonical_name_exact;ulan_alias_support
+Q3166545,Q3166545,Jean-Joseph Weerts,1846,1927,500020250,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q707904,Q707904,Jean-Jules-Antoine Lecomte du Nouÿ,1842,1923,500022329,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q22227067,Q22227067,Jeanne Jacquemin,1863,1938,500042806,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6305444,Q6305444,Jef Leempoels,1867,1935,500041956,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/3de5cb83-9b44-3866-93d3-a1bbc4a42d32,,,canonical_name_exact;ulan_alias_support
+Q5763621,Q5763621,Jēkabs Kazaks,1895,1920,500121445,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q288087,Q288087,Jens Adolf Jerichau,1816,1883,500023885,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2078865,Q2078865,Jessie M. King,1875,1949,500015394,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3544236,Q3544236,Joan Brull Vinyoles,1863,1912,500035405,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q152384,Q152384,Joan Miró,1893,1983,500014094,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q571534,Q571534,Joannis Avramidis,1922,2016,500019826,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21296215,Q21296215,Joaquín Bárbara y Balza,1867,1931,500035284,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1280790,Q1280790,Joaquín Peinado,1898,1975,500039965,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q520713,Q520713,Joaquín Torres-García,1874,1949,500031259,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4102980,Q4102980,Johann Walter-Kurau,1869,1932,500000145,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/823f1107-c208-3c1e-b468-c28b46b0a18c,1869,1832,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q123138,Q123138,Johannes Itten,1888,1967,500029154,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1521460,Q1521460,John Duncan,1866,1945,500000149,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1959908,Q1959908,John Grosman,1916,1970,500636071,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q168671,Q168671,John Heartfield,1891,1968,500018521,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21727807,Q21727807,John Ingleby,1749,1808,500024180,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q316016,Q316016,John Singleton Copley,1738,1815,500009177,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/6e032801-1c3a-391c-885f-794e60f21e16,1733,1815,canonical_name_exact;death_year_exact;ulan_alias_support
+Q212754,Q212754,John William Waterhouse,1849,1917,500027032,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12012418,Q12012418,Joost Baljeu,1925,1991,500000507,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q616169,Q616169,Jorge Oteiza,1908,2003,500039914,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2699511,Q2699511,José Amador de los Ríos,1818,1878,500313265,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2563287,Q2563287,José Aparicio,1770,1838,500030856,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/ec826b20-fe77-3e04-b031-8b9fccaed114,1773,1838,canonical_name_exact;death_year_exact;ulan_alias_support
+Q14638745,Q14638745,José Arrau y Barba,1802,1872,500035202,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1376821,Q1376821,José de Almada Negreiros,1893,1970,500103981,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2343934,Q2343934,José de Madrazo y Agudo,1781,1859,500004738,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q13049239,Q13049239,José Luis González Bernal,1908,1939,500038992,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q45926739,Q45926739,José Maea,1760,1826,500037508,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q720979,Q720979,José Malhoa,1855,1933,500007074,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q47001819,Q47001819,José Saló y Junquet,1810,1877,500037974,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1704156,Q1704156,Josef Achmann,1885,1958,500008624,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12025851,Q12025851,Josef Anton Trčka,1893,1940,500343126,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q454568,Q454568,Josef Čapek,1887,1945,500115342,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q551857,Q551857,Josef Šíma,1891,1971,500027630,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q9013244,Q9013244,Josep Maria Tamburini i Dalmau,1856,1932,500038047,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q957928,Q957928,Josep Tapiró Baró,1830,1913,500038048,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q97583695,Q97583695,Josep Ventosa Domènech,1897,1982,500038166,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q730344,Q730344,Joseph Csaky,1888,1971,500029147,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3184825,Q3184825,Joseph Delattre,1858,1912,500111746,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1706333,Q1706333,Joseph Denis Odevaere,1775,1830,500029603,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/865212c2-584a-3daa-8589-21a915c55fc5,1778,1830,ulan_name_exact;death_year_exact;ulan_alias_support
+Q1348571,Q1348571,Joseph Ferdinand Boissard de Boisdenier,1813,1866,500002694,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q928638,Q928638,Joseph Kutter,1894,1941,500041932,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1403499,Q1403499,Joseph Quinaux,1822,1895,500053806,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/b67d6dc6-a265-3022-a480-42f77f4ad31b,,,canonical_name_exact;ulan_alias_support
+Q41347918,Q41347918,Joseph Zabeau,1901,1978,500528276,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q360679,Q360679,Joseph-Noël Sylvestre,1847,1926,500025943,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1038450,Q1038450,Józef Pankiewicz,1866,1940,500029453,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1119767,Q1119767,József Koszta,1861,1949,500003198,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q569369,Q569369,József Rippl-Rónai,1861,1927,500009950,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3187562,Q3187562,Juan Antonio de Ribera,1779,1860,500023066,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q736886,Q736886,Juan Barjola,1919,2004,500035303,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6300035,Q6300035,Juan Ismael,1907,1982,500039004,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4844253,Q4844253,Jules Benoit-Lévy,1866,1952,500085092,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6305835,Q6305835,Jules Ernest Renoux,1863,1932,500048151,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1698761,Q1698761,Jules-Alexandre Grün,1868,1938,500021283,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19975144,Q19975144,Juliette Roche,1884,1980,500057235,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3189783,Q3189783,Juliette Wytsman,1866,1925,500182728,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q316531,Q316531,Julio González,1876,1942,500024353,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1712402,Q1712402,Julio Romero de Torres,1874,1930,500006065,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q733725,Q733725,Julo Levin,1901,1943,500153434,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q47737,Q47737,Kahlil Gibran,1883,1931,500053530,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2938145,Q2938145,Karel de Nerée tot Babberich,1880,1909,500002505,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q67053,Q67053,Karl Otto Götz,1914,2017,500017831,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15461781,Q15461781,Karl Zerbe,1903,1972,500020391,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4342040,Q4342040,Kārlis Padegs,1911,1940,500121470,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q290168,Q290168,Katarzyna Kobro,1898,1951,500094462,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6567261,Q6567261,Kate Steinitz,1889,1975,500082432,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3107486,Q3107486,Kay Rasmus Nielsen,1886,1957,500023620,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q367832,Q367832,Kazimierz Alchimowicz,1840,1916,500176695,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q368728,Q368728,Kazimierz Stabrowski,1869,1929,500071776,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1869148,Q1869148,Kees Franse,1924,1982,500086540,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4392288,Q4392288,Kliment Red'ko,1897,1956,500120734,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1390711,Q1390711,Kolë Idromeno,1860,1939,500106004,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q301139,Q301139,Konrad Krzyżanowski,1872,1922,500030360,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q389816,Q389816,Konrad Mägi,1878,1925,500120500,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6429766,Q6429766,Konrāds Ubāns,1893,1981,500121487,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q437792,Q437792,Konstantin Korovin,1861,1939,500026648,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1343751,Q1343751,Konstantin Yuon,1875,1958,500120860,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q737559,Q737559,Konstantinos Maleas,1879,1928,500156648,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6430240,Q6430240,Konstanty Laszczka,1865,1956,500120378,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q496692,Q496692,Kristians Tonny,1907,1977,500082049,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16360566,Q16360566,Kurts Fridrihsons,1911,1991,500121448,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q364226,Q364226,Kuzma Petrov-Vodkin,1878,1939,500014171,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1694168,Q1694168,Lado Gudiashvili,1896,1980,500005759,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q856707,Q856707,Lajos Tihanyi,1885,1938,500056320,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q692098,Q692098,Lasar Segall,1891,1957,500074552,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3218271,Q3218271,Lascăr Vorel,1879,1918,500113182,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2199553,Q2199553,Laurits Andersen Ring,1854,1933,500115583,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q28874619,Q28874619,Leandra Angelucci Cominazzini,1890,1981,500199628,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q21936861,Q21936861,Leandre Cristòfol,1908,1998,500035857,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q597999,Q597999,Leo Gestel,1881,1941,500007182,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1287311,Q1287311,Léo Maillet,1902,1990,500378075,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1642398,Q1642398,Leo Nardus,1868,1955,500101180,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3271368,Q3271368,Léon Arthur Tutundjian,1906,1968,500056564,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1361500,Q1361500,Léon Frédéric,1856,1940,500020509,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/f8ffd585-77ed-373b-857d-42ed86835b7c,,,canonical_name_exact;ulan_alias_support
+Q18944763,Q18944763,Léon Lehmann,1873,1953,500046000,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q26837987,Q26837987,Léon Maxime Faivre,1856,1941,500137939,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/37a305fe-af06-3afc-a454-f18335170e6e,1856,1914,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q2523574,Q2523574,Léon Philippet,1843,1906,500179649,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1394505,Q1394505,Léon Spilliaert,1881,1946,500018978,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q52156759,Q52156759,Leon Weissberg,1895,1943,500479021,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19859018,Q19859018,Léon-Marie-Joseph Billardet,1818,1862,500046195,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q598919,Q598919,Leonard Turzhansky,1875,1945,500057908,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q213596,Q213596,Leonid Pasternak,1862,1945,500025736,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q233207,Q233207,Leonora Carrington,1917,2011,500018196,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3229810,Q3229810,Leopold Pilichowski,1869,1934,500097173,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/3d976b80-e2df-3b1c-9793-b35e7a2ea99c,,,ulan_name_exact;ulan_alias_support
+Q3833098,Q3833098,Lino Selvatico,1872,1924,500023762,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q9023749,Q9023749,Llorenç Cerdà i Bisbal,1862,1955,500035635,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2913566,Q2913566,Lluís Rigalt,1814,1894,500120746,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3837108,Q3837108,Lorenzo Viani,1882,1936,500012582,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q255662,Q255662,Lothar Schreyer,1886,1966,500011589,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q273197,Q273197,Lou Albert-Lasard,1885,1969,500385910,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3261061,Q3261061,Louis Anselme Longa,1809,1869,500154279,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18214175,Q18214175,Louis Bonamici,1878,1966,500632428,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q20829637,Q20829637,Louis Chalon,1862,1915,500007646,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/3f61c954-1967-33dc-86b9-426689342965,1687,1741,canonical_name_exact;ulan_alias_support
+Q535800,Q535800,Louis Édouard Fournier,1857,1917,500018454,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/4e169e7a-7dfc-38dd-acbc-035b7ff14620,1857,1903,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q1872117,Q1872117,Louis le Brocquy,1916,2012,500000165,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2537308,Q2537308,Louis Majorelle,1859,1926,500097897,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q690446,Q690446,Louis Moilliet,1880,1962,500014426,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3262736,Q3262736,Louis Monzies,1849,1930,500044466,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19507748,Q19507748,Louis Neillot,1898,1973,500027851,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q37032097,Q37032097,Louis-Joseph Courtat,1847,1909,500132670,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q14563575,Q14563575,Louis-Marie Baader,1828,1920,500028166,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/c030d30e-5f35-31bc-b467-9bc52fadd705,1828,1915,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q16217145,Q16217145,Louise Héger,1839,1933,500144817,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q154594,Q154594,Lucian Freud,1922,2011,500116243,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6696710,Q6696710,Lucian Grigorescu,1894,1965,500065530,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18744574,Q18744574,Lucien Frank,1857,1920,500066834,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3265328,Q3265328,Lucien-Victor Guirand de Scévola,1871,1950,500003323,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q22965762,Q22965762,Lucile Passavant,1910,2012,500112730,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3266100,Q3266100,Ludovic Alleaume,1859,1941,500195378,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q606489,Q606489,Ludovic-Napoléon Lepic,1839,1889,500004301,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q119891,Q119891,Ludwig Fahrenkrog,1867,1952,500058130,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/2fb8a5fb-c940-3c28-94b9-50f569f7a676,,,canonical_name_exact;ulan_alias_support
+Q117887,Q117887,Ludwik de Laveaux,1868,1894,500085094,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3266421,Q3266421,Luigi Corbellini,1901,1968,500018838,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q434916,Q434916,Luigi Russolo,1885,1947,500018220,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q259594,Q259594,Lyubov Popova,1889,1924,500002046,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q983833,Q983833,M. H. Maxy,1895,1971,500030192,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6729786,Q6729786,Magda Cordell McHale,1921,2008,500128925,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q967073,Q967073,Magnus Enckell,1870,1925,500002732,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6736649,Q6736649,Mainie Harriet Jellett,1897,1944,500106470,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1886542,Q1886542,Maksymilian Gierymski,1846,1874,500008341,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3544139,Q3544139,Manuel Aguirre y Monsalbe,1822,1856,500035149,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3288650,Q3288650,Marcel Baschet,1862,1941,500009550,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q366217,Q366217,Marcel Janco,1895,1984,500029855,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1865524,Q1865524,Marcel Mariën,1920,1993,500016802,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3773898,Q3773898,Marcel Martí,1925,2010,500194683,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3289246,Q3289246,Marcel Mouly,1918,2008,500041011,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1243235,Q1243235,Marcel Rieder,1862,1942,500094326,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/df4ef909-8d4b-37f2-9bab-7af3564cb8c9,1852,,canonical_name_exact;ulan_alias_support
+Q1936310,Q1936310,Marcello Dudovich,1878,1962,500054789,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q508344,Q508344,Margaret MacDonald,1864,1933,500001450,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2064550,Q2064550,Marguerite Verboeckhoven,1865,1949,500177358,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q9029249,Q9029249,Marià Pidelaserra Brias i Brias,1877,1946,500124803,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q11769315,Q11769315,Marian Bohusz-Szyszko,1901,1995,500183689,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q52161723,Q52161723,Marie Baudet,1864,1916,500068261,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q273552,Q273552,Marie Bracquemond,1840,1916,500023058,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3292492,Q3292492,Marie Duhem,1871,1918,500092450,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q275813,Q275813,Marie Howet,1897,1984,500146922,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q233088,Q233088,Marie Laurencin,1883,1956,500011424,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/7d0449b6-f85a-37b7-bf19-19f398ecdcc5,1885,1956,canonical_name_exact;death_year_exact;ulan_alias_support
+Q94755225,Q94755225,Marie Sieger-Polack,1886,1970,500344657,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q462767,Q462767,Marie Vassilieff,1884,1957,500005422,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q452123,Q452123,Marie-Denise Villers,1774,1821,500045597,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q118810,Q118810,Marie-Guillemine Benoist,1768,1826,500017979,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3502468,Q3502468,Marino Tartaglia,1894,1984,500103867,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1750588,Q1750588,Mário Eloy,1900,1951,500069157,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3849006,Q3849006,Mario Puccini,1869,1920,500099741,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q19408331,Q19408331,Marisa Mori,1900,1985,500199655,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4099197,Q4099197,Marius Bunescu,1881,1971,500010203,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q23765900,Q23765900,Marius Roy,1853,1921,500061278,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/4e0a6fd9-2c78-3c4d-b32e-b5258d793b92,1833,,canonical_name_exact;ulan_alias_support
+Q1242303,Q1242303,Márta Pán,1923,2008,500031898,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q946393,Q946393,Martin von Feuerstein,1856,1931,500007177,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/bb811563-cfe6-334a-a7a5-44610f43bbd7,,,canonical_name_exact
+Q2447692,Q2447692,Maruja Mallo,1902,1995,500037513,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6780260,Q6780260,Mary Martin,1907,1969,500017187,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6792218,Q6792218,Maud Earl,1864,1943,500032696,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q130467517,Q130467517,Maurice Le Lièpvre,1848,1897,500552310,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3301346,Q3301346,Maurice Rocher,1918,1995,500041646,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q123454,Q123454,Max Bill,1908,1994,500005369,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1726139,Q1726139,Max Olderock,1895,1972,500069547,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3302549,Q3302549,Maxime Dethomas,1867,1929,500072072,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q358885,Q358885,Maximilian Voloshin,1877,1932,500064726,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3303023,Q3303023,Mayou Iserentant,1903,1978,500147716,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q61594,Q61594,Meret Oppenheim,1913,1985,500029314,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q684675,Q684675,Michel Kikoine,1892,1968,500050098,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2463574,Q2463574,Michel Martin Drolling,1786,1882,500003754,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/fd87986c-e7bd-3508-9a0e-8815e404cd7f,,,canonical_name_exact;ulan_alias_support
+Q3543874,Q3543874,Miguel Ângelo Lupi,1826,1883,500035077,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4055907,Q4055907,Mikhail Avilov,1882,1954,500190258,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q446948,Q446948,Mikoláš Aleš,1852,1913,500127907,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2985710,Q2985710,Milan Konjović,1898,1993,500320709,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5844892,Q5844892,Miquel Villà Bassols,1901,1988,500124988,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4683634,Q4683634,Mișu Popp,1827,1892,500098062,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q10331431,Q10331431,Modesto Brocos Gómez,1852,1936,500035959,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1948185,Q1948185,Moritz Melzer,1877,1966,500064261,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/52bdd14f-5b93-33a2-8fd7-113ec6f0ce74,,,ulan_name_exact;ulan_alias_support
+Q972018,Q972018,Mstislav Dobuzhinsky,1875,1957,500120586,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2312883,Q2312883,Mykola Burachek,1871,1942,500121099,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q44056511,Q44056511,Mykola Fedorovych Bortnykov,1916,1997,500645238,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q264453,Q264453,Nadežda Petrović,1873,1915,500323963,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1867953,Q1867953,Nanine Vallain,1767,1815,500029701,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/f6052a91-49e1-3821-9d81-38c758500f0a,,,canonical_name_exact;ulan_alias_support
+Q3336068,Q3336068,Narcisse Guilbert,1878,1942,500043427,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q522983,Q522983,Natale Schiavoni,1777,1858,500031010,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/9ae7107e-7bd4-3204-9b5a-b1f8223d974f,1773,1858,canonical_name_exact;death_year_exact;ulan_alias_support
+Q232391,Q232391,Natalia Goncharova,1881,1962,500115630,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q451131,Q451131,Nélie Jacquemart,1841,1912,500030006,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3114275,Q3114275,Nelly van Doesburg,1899,1975,500650591,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3889283,Q3889283,Nicolae Dărăscu,1883,1959,500017677,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q454321,Q454321,Nicolae Grigorescu,1838,1907,500028434,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/bdb8e855-f17c-3c6e-92ea-33f3afb016b3,,,ulan_name_exact;ulan_alias_support
+Q18545582,Q18545582,Nicolae Popescu,1835,1877,500056234,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q733762,Q733762,Nicolae Tonitza,1886,1940,500013832,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2975722,Q2975722,Nicolae Vermont,1866,1932,500088273,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1898155,Q1898155,Nicolas Eekman,1889,1973,500041787,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3339942,Q3339942,Nicolas-André Monsiau,1754,1837,500004275,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q924865,Q924865,Nikola Martinoski,1903,1973,500124625,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q352190,Q352190,Nikolai Triik,1884,1940,500120528,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4079018,Q4079018,Nikolay Baskakov,1918,1993,500199965,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q972033,Q972033,Nikolay Kasatkin,1859,1930,500032643,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4242904,Q4242904,Nikolay Krymov,1884,1958,500124424,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q675849,Q675849,Nils Blommér,1816,1853,500109714,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15402320,Q15402320,Nina Arbore,1889,1942,500069388,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q881362,Q881362,Norbert Kricke,1922,1984,500099695,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3068361,Q3068361,Octav Băncilă,1872,1944,500018475,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4088990,Q4088990,Olga Bogaevskaya,1915,2000,500199968,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2581909,Q2581909,Olga Sacharoff,1881,1967,500038224,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1565449,Q1565449,Oskar Herman,1886,1974,500485856,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q160172,Q160172,Ossip Zadkine,1888,1967,500007328,,,ambiguous_or_low_confidence,0.65,True,,2,https://data.getty.edu/provenance/a00e2a37-4838-31c1-bcc2-3e5846a7dbf6;https://data.getty.edu/provenance/af1dd718-fef9-3a62-baae-5dbdb73cd66a,1890,1967,ulan_name_exact;death_year_exact;ulan_alias_support
+Q3357592,Q3357592,Othello Radou,1910,2006,500041619,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4422702,Q4422702,Oto Skulme,1889,1967,500121476,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q699326,Q699326,Otto Freundlich,1878,1943,500030544,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q319627,Q319627,Otto Gleichmann,1887,1963,500017055,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1237680,Q1237680,Otto Herbig,1889,1971,500011824,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1581259,Q1581259,Otto Lais,1897,1988,500347519,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2040016,Q2040016,Otto Möller,1883,1964,500065481,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/7ba3e335-738e-315d-abfa-90735fb56de6,,,ulan_name_exact;ulan_alias_support
+Q317041,Q317041,Otto Mueller,1874,1930,500125010,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/195fe895-6af5-37c0-a3d8-2a8b2bf7c1dc,,,canonical_name_exact;ulan_alias_support
+Q7109746,Q7109746,Otto Neumann,1895,1975,500090475,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q979105,Q979105,Otto Ritschl,1885,1976,500022850,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1501421,Q1501421,Otto Tschumi,1904,1985,500026366,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1381297,Q1381297,Pablo Palazuelo,1915,2007,500036439,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q260892,Q260892,Paja Jovanović,1859,1957,500009660,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/700affb6-e73f-3656-b4d2-f975a114cc4c,1859,1910,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q742322,Q742322,Pál Szinyei Merse,1845,1920,500015176,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3894099,Q3894099,Paolo Gerolamo Brusco,1742,1820,500107028,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1345060,Q1345060,Paul Adolf Seehaus,1891,1919,500013103,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2178796,Q2178796,Paul Berthon,1872,1934,500006763,,,ambiguous_or_low_confidence,0.7,True,,1,https://data.getty.edu/provenance/71faa8fb-1a00-3a99-b77d-a81e88578ad4,1872,1909,ulan_name_exact;birth_year_exact;ulan_alias_support
+Q3370650,Q3370650,Paul Biva,1851,1900,500174943,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q123323,Q123323,Paul Camenisch,1893,1970,500017200,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2339568,Q2339568,Paul Cauchie,1875,1952,500101320,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q555505,Q555505,Paul Colin,1892,1985,500004506,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/be5927bc-49b9-3048-a85c-3fbe635ffac2,,,canonical_name_exact;ulan_alias_support
+Q3370904,Q3370904,Paul Colinet,1898,1957,500188633,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q152176,Q152176,Paul Éluard,1895,1952,500079198,,,ambiguous_or_low_confidence,0.45,True,,7,https://data.getty.edu/provenance/01d9038c-b3e3-3850-95f0-784399abc930;https://data.getty.edu/provenance/24fcd919-3c8d-351d-bfd3-1b8bce4165f6;https://data.getty.edu/provenance/4fc640b4-acbc-3500-9824-6993975a5e9d;https://data.getty.edu/provenance/53a403f0-eca3-3e08-8e9c-833c6416bc34;https://data.getty.edu/provenance/b4f01b80-869a-34e0-b86f-16913803aa60;https://data.getty.edu/provenance/b8f37628-bbf5-3328-b19e-f3b6a06eb793;https://data.getty.edu/provenance/d93be862-d682-39a7-98af-9172f2667271,,,ulan_name_exact;ulan_alias_support
+Q20973384,Q20973384,Paul Emile Nicolié,1828,1894,500159477,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q98013,Q98013,Paul Goesch,1885,1940,500033490,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3371795,Q3371795,Paul Mascart,1874,1958,500157599,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q585067,Q585067,Paul Ranson,1861,1909,500029480,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1365771,Q1365771,Paul Raud,1865,1930,500120499,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q911575,Q911575,Paul-Jacques-Aimé Baudry,1828,1886,500021687,,,ambiguous_or_low_confidence,0.45,True,,3,https://data.getty.edu/provenance/47214aea-16ea-3fa8-ae98-dbe32196a29a;https://data.getty.edu/provenance/f6a54dca-9265-338e-be70-e3c0a3451a03;https://data.getty.edu/provenance/f6b941d8-e730-3e33-b6ce-0c0e03eb36ab,,,ulan_name_exact;ulan_alias_support
+Q15997394,Q15997394,Paule Gobillard,1867,1946,500104911,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4245043,Q4245043,Pavel Kuznetsov,1878,1968,500015864,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2070296,Q2070296,Percy Robert Craft,1856,1934,500000467,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q584235,Q584235,Pere Borrell del Caso,1835,1920,500035402,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1843324,Q1843324,Pere Ysern i Alié,1875,1946,500037292,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q472646,Q472646,Pericle Fazzini,1913,1987,500012647,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1395470,Q1395470,Peter August Böckstiegel,1889,1951,500090572,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3378108,Q3378108,Pharaon de Winter,1849,1924,500089330,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16038690,Q16038690,Philippe Marie Picard,1915,1997,500041602,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3237916,Q3237916,Pierre Adolphe Valette,1876,1942,500018509,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3383669,Q3383669,Pierre Albert-Birot,1876,1967,500126269,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q62588473,Q62588473,Pierre Amédée Marcel-Béronneau,1869,1937,500056154,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1750942,Q1750942,Pierre Cabanel,1838,1918,500201232,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/60a05a33-ef50-34e6-a87e-083da3b6f8d2,,,canonical_name_exact;ulan_alias_support
+Q60836330,Q60836330,Pierre Edme Louis Pellier,1777,1848,500073435,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q679299,Q679299,Pierre Molinier,1900,1976,500025168,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18195254,Q18195254,Pierre Thévenet,1870,1937,500174416,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18574379,Q18574379,Pierre-Désiré Guillemet,1827,1878,500143090,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q652952,Q652952,Pierre-François-Léonard Fontaine,1762,1853,500016389,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16872927,Q16872927,Pierre-Isidore Bureau,1822,1876,500054094,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15970229,Q15970229,Pierre-Louis Delaval,1790,1881,500022052,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q362704,Q362704,Pierre-Narcisse Guérin,1774,1833,500015720,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2088153,Q2088153,Pierre-Nicolas Brisset,1810,1890,500025242,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q556288,Q556288,Pietro Aldi,1852,1888,500008409,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1348381,Q1348381,Pietro Annigoni,1910,1988,500001724,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1333398,Q1333398,Pietro Canonica,1869,1959,500022362,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/db50e147-0afd-3289-90de-8b1d38ae1f16,,,canonical_name_exact;ulan_alias_support
+Q955906,Q955906,Pinchus Krémègne,1890,1981,500048142,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4082869,Q4082869,Piotr Belousov,1912,1989,500645071,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4100639,Q4100639,Piotr Buchkin,1886,1965,500199972,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1389396,Q1389396,Piotr Michałowski,1800,1855,500006524,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q492909,Q492909,Pol Bury,1922,2005,500008200,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2166424,Q2166424,Polydore Beaufaux,1829,1905,500157098,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3396084,Q3396084,Pompeo Mariani,1857,1927,500053932,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/663cbc50-fe56-3857-a118-d7051c2ba08b,,,canonical_name_exact;ulan_alias_support
+Q2478132,Q2478132,Primo Conti,1900,1988,500018028,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3064473,Q3064473,Princess Fahrelnissa Zeid,1901,1991,500056373,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3498572,Q3498572,Prosper De Troyer,1880,1961,500097726,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5670501,Q5670501,Rafael Romero Barros,1832,1895,500039760,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7287617,Q7287617,Ralph Hedley,1848,1913,500032039,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q725681,Q725681,Ramon Casas,1866,1932,500030915,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q84503,Q84503,Raoul Hausmann,1886,1971,500013293,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q235275,Q235275,Remedios Varo,1908,1963,500112426,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3456131,Q3456131,Rémy Cogghe,1854,1935,500075116,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q381277,Q381277,Renato Guttuso,1911,1987,500022749,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q51752390,Q51752390,Renato Righetti,1905,1982,500199658,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3425770,Q3425770,René Aubert,1894,1977,500102773,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3426309,Q3426309,René Guiette,1893,1976,500058498,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1356488,Q1356488,Richard Bergh,1858,1919,500011798,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q129113,Q129113,Richard Gerstl,1883,1908,500028160,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7333852,Q7333852,Rigoberto Soler,1896,1968,500038226,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2497776,Q2497776,Rihard Jakopič,1869,1943,500125934,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3434445,Q3434445,Robert Antoine Pinchon,1886,1943,500049715,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q718722,Q718722,Róbert Berény,1887,1953,500010168,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q170095,Q170095,Robert Desnos,1900,1945,500090542,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18160938,Q18160938,Robert Ladbrooke,1768,1842,500018552,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/6d8f25fe-2d5c-39c4-a97e-45609b45ff2f,1770,1842,canonical_name_exact;death_year_exact;ulan_alias_support
+Q3436103,Q3436103,Robert Poughéon,1886,1955,500095575,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q100149107,Q100149107,Roberto Franzoni,1882,1960,500103360,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q450236,Q450236,Roberto Matta,1911,2002,500057123,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3438804,Q3438804,Roger Chapelain-Midy,1904,1992,500104301,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q982677,Q982677,Roland Penrose,1900,1984,500004543,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7360842,Q7360842,Rolinda Sharples,1793,1838,500020314,,,ambiguous_or_low_confidence,0.75,True,,1,https://data.getty.edu/provenance/c1dfa5c1-f86b-3cea-9c10-135f8a3153d2,1794,1838,ulan_name_exact;birth_year_near;death_year_exact;ulan_alias_support
+Q3440608,Q3440608,Romain Cazes,1808,1881,500020557,,,ambiguous_or_low_confidence,0.45,True,,6,https://data.getty.edu/provenance/087b36b3-e2ab-3ee2-98b6-279f0cadd0dc;https://data.getty.edu/provenance/48671c0e-b063-3574-916c-43333bd12d9f;https://data.getty.edu/provenance/4f95e91e-fa60-33b6-9e23-e799fa7d6197;https://data.getty.edu/provenance/c560ed6e-819c-3ead-8b8d-2a756bb68e88;https://data.getty.edu/provenance/e3a239f7-be01-32f5-8743-003253ae1b02;https://data.getty.edu/provenance/f9aa0ae8-e349-3e04-b01a-c0ddc505a7d9,,,ulan_name_exact;ulan_alias_support
+Q466607,Q466607,Romaine Brooks,1874,1970,500029034,,,ambiguous_or_low_confidence,0.45,True,,3,https://data.getty.edu/provenance/48671c0e-b063-3574-916c-43333bd12d9f;https://data.getty.edu/provenance/c92f1a26-7216-3fa3-a253-afacd6e0774b;https://data.getty.edu/provenance/e3a239f7-be01-32f5-8743-003253ae1b02,1619,1694,ulan_name_exact;ulan_alias_support
+Q12049678,Q12049678,Roman Havelka,1877,1950,500080506,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q6711504,Q6711504,Romans Suta,1896,1944,500121441,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2215630,Q2215630,Rudi Bierman,1921,1972,500388598,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1682600,Q1682600,Rudolf Ausleger,1897,1974,500140721,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1401377,Q1401377,Rudolf Hoflehner,1916,1995,500019514,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q640787,Q640787,Rudolf Schlichter,1890,1955,500028309,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/1be5c85a-40b0-3860-9dab-7f76defaf65d,,,canonical_name_exact;ulan_alias_support
+Q12739640,Q12739640,Rudolf Schweitzer–Cumpăna,1886,1975,500067603,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2174385,Q2174385,Rudolph Carl von Ripper,1905,1960,500079842,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q76426,Q76426,Rupprecht Geiger,1908,2009,500024227,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q691706,Q691706,Sadik Kaceli,1914,2000,500121757,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q5577,Q5577,Salvador Dalí,1904,1989,500009365,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2215703,Q2215703,Salvatore Lo Forte,1804,1885,500340068,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q27526154,Q27526154,Sam Schellink,1876,1958,500337215,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q594345,Q594345,Samuel Hirszenberg,1865,1908,500145943,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2455247,Q2455247,Samuel Jessurun de Mesquita,1868,1944,500022618,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q65217201,Q65217201,Sándor Gergely,1889,1932,500100203,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2423054,Q2423054,Sante Monachesi,1910,1991,500199608,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1646368,Q1646368,Sella Hasse,1878,1963,500083792,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2272573,Q2272573,Sergey Vinogradov,1869,1938,500042143,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q102228,Q102228,Siegfried Schott,1897,1971,500463168,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q272405,Q272405,Sigrid Hjertén,1885,1948,500017513,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7513293,Q7513293,Sigurd Swane,1879,1973,500030462,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q369633,Q369633,Silvestro Lega,1826,1895,500010314,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q928729,Q928729,Simon Segal,1898,1969,500041680,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12117354,Q12117354,Sonia Lewitska,1882,1937,500466100,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q381238,Q381238,Stanisław Ignacy Witkiewicz,1885,1939,500028450,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q319274,Q319274,Stanislaw Kubicki,1889,1942,500120458,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2331375,Q2331375,Stanisław Lentz,1861,1920,500020662,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q541702,Q541702,Stanisław Masłowski,1853,1926,500062924,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q312627,Q312627,Stanisław Wyspiański,1869,1907,500027394,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7599553,Q7599553,Stanley Cursiter,1887,1976,500001351,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q367357,Q367357,Ștefan Dimitrescu,1886,1933,500002019,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q397123,Q397123,Ștefan Luchian,1868,1916,500019613,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q435558,Q435558,Suzanne Duchamp,1889,1963,500030274,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q20988913,Q20988913,Suzanne Eisendieck,1906,1998,500003662,,,ambiguous_or_low_confidence,0.65,True,,1,https://data.getty.edu/provenance/a458c27b-7b4d-32fd-a773-e4dd3b11d12b,1908,1998,ulan_name_exact;death_year_exact;ulan_alias_support
+Q2893049,Q2893049,Taisia Afonina,1913,1994,500643423,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q568284,Q568284,Theodor Pallady,1871,1956,500003773,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q183713,Q183713,Théophile Gautier,1811,1872,500100875,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15147708,Q15147708,Théophile Poilpot,1848,1915,500053673,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q12877974,Q12877974,Theophrastos Triantafyllidis,1881,1955,500175394,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q547736,Q547736,Thilo Maatsch,1900,1983,500086997,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4334890,Q4334890,Thomas Webster,1800,1886,500119255,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/27ae7e3d-7606-3229-90a7-1110ce67550e,,,canonical_name_exact;ulan_alias_support
+Q21289884,Q21289884,Thomas William Marshall,1875,1914,500106923,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q17984096,Q17984096,Tinus van Doorn,1905,1940,500013637,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q613125,Q613125,Tivadar Csontváry Kosztka,1853,1919,500115584,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q16409,Q16409,Tristan Tzara,1896,1963,500175780,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q947790,Q947790,Tyko Sallinen,1879,1955,500058179,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q15438408,Q15438408,Ugo Gianattasio,1888,1958,500069167,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2384009,Q2384009,Ülo Sooster,1924,1970,500627719,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q152797,Q152797,Umberto Boccioni,1882,1916,500012624,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/6c2f6817-5e78-3ffb-8f90-0af484048609,,,ulan_name_exact;ulan_alias_support
+Q4003415,Q4003415,Umberto Lilloni,1898,1980,500075556,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q543857,Q543857,Urbano Lugrís González,1908,1973,500037587,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q995853,Q995853,Valentin Nagel,1891,1942,500071667,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q273338,Q273338,Valentine de Saint-Point,1875,1953,500099019,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3553651,Q3553651,Valentine Hugo,1887,1968,500092209,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2413750,Q2413750,Valentine Prax,1897,1981,500041615,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q986897,Q986897,Valéria Dénes,1877,1915,500095840,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2441160,Q2441160,Valerius de Saedeleer,1867,1941,500010415,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/b5ec811d-36f9-32d9-b57e-52f50637ad63,1876,1946,canonical_name_exact;ulan_alias_support
+Q12743174,Q12743174,Vasile Dobrian,1912,1999,500065845,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q20819181,Q20819181,Vasile Popescu,1894,1944,500324278,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q318393,Q318393,Vasily Polenov,1844,1927,500020960,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q7917745,Q7917745,Vecheslav Zagonek,1919,1994,500085115,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q22009466,Q22009466,Vicente Santaolaria Montoro,1886,1967,500038020,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q558060,Q558060,Victor Brauner,1903,1966,500027528,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q735141,Q735141,Victor Leclercq,1896,1945,500152550,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q668411,Q668411,Victor Mottez,1809,1897,500020891,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1617507,Q1617507,Vieira Portuense,1764,1805,500006717,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q178279,Q178279,Viktor Madarász,1830,1917,500030832,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q204138,Q204138,Viktor Vasnetsov,1848,1926,500005685,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2663470,Q2663470,Vilhelms Purvītis,1872,1945,500058605,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q18165,Q18165,Vilmos Aba-Novák,1894,1941,500026028,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q781561,Q781561,Vilmos Huszár,1884,1960,500012149,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/04f0efb5-5601-35fe-8ae7-d7ddd29bee0b,,,ulan_name_exact;ulan_alias_support
+Q7944819,Q7944819,Vítězslav Karel Mašek,1865,1927,500157606,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4015187,Q4015187,Vittore Grubicy de Dragon,1851,1920,500026243,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q132964,Q132964,Vladimir Mayakovsky,1893,1930,500111584,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1444224,Q1444224,Vladimir Ovchinnikov,1911,1978,500200000,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q179893,Q179893,Vojtěch Hynais,1854,1925,500109614,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3237641,Q3237641,Wacław Wąsowicz,1891,1942,500079657,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2541373,Q2541373,Waldemar Rösler,1882,1916,500013691,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/0adcaa85-ea4f-35fa-9f72-a2248d9fa707,,,canonical_name_exact;ulan_alias_support
+Q449677,Q449677,Walter Dexel,1890,1973,500005708,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1482415,Q1482415,Walter Helbig,1878,1968,500047836,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/fc84f68a-785a-3088-8234-23f93fd37a99,,,ulan_name_exact;ulan_alias_support
+Q1257938,Q1257938,Werner Berg,1904,1981,500021839,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q924094,Q924094,Werner Graeff,1901,1978,500083866,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2562157,Q2562157,Werner Neuhaus,1897,1934,500098547,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2562513,Q2562513,Werner Scholz,1898,1982,500089483,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/d5a8aae4-0fa8-33f2-beba-026ea123f1dd,,,ulan_name_exact;ulan_alias_support
+Q2512767,Q2512767,Wessel Couzijn,1912,1984,500040693,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q465342,Q465342,Wifredo Lam,1902,1982,500006317,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2573577,Q2573577,Wilhelm Kaufmann,1895,1975,500045041,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/001a1dde-8638-3911-8fdc-ab30e05ee356,,,canonical_name_exact;ulan_alias_support
+Q69538,Q69538,Wilhelm Morgner,1891,1917,500005254,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4321849,Q4321849,Willi Nowak,1886,1977,500202718,,,ambiguous_or_low_confidence,0.55,True,,1,https://data.getty.edu/provenance/7f13b646-6060-311c-9da0-f876c0d9c0d8,1868,1945,canonical_name_exact;ulan_alias_support
+Q11705308,Q11705308,William Brymner,1855,1925,500025001,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q20776397,Q20776397,William Chadwick,1879,1962,500017444,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1049510,Q1049510,William Degouve de Nuncques,1867,1935,500022649,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q182589,Q182589,William Morris,1834,1896,500030629,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/1d23c06c-5ec5-3ec5-9d42-4e5ceae76051,,,ulan_name_exact;ulan_alias_support
+Q257928,Q257928,William Scott,1913,1989,500125958,,,ambiguous_or_low_confidence,0.45,True,,1,https://data.getty.edu/provenance/2d01bd60-ed9b-3479-8364-ddf3b60e0e73,,,ulan_name_exact;ulan_alias_support
+Q2580668,Q2580668,William Stott,1857,1900,500032809,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q526513,Q526513,Willy Anthoons,1911,1982,500192099,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2093769,Q2093769,Witold Wojtkiewicz,1879,1909,500022571,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q440896,Q440896,Władysław Łuszczkiewicz,1828,1900,500100501,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q2065760,Q2065760,Władysław Podkowiński,1866,1895,500120453,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1364258,Q1364258,Wojciech Gerson,1831,1901,500031052,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q941359,Q941359,Wojciech Weiss,1875,1950,500029383,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q669728,Q669728,Wolfgang Paalen,1905,1959,500031356,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1041605,Q1041605,Xavier Mellery,1845,1921,500015450,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q3570799,Q3570799,Xavier Sigalon,1787,1837,500006662,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q4317391,Q4317391,Yuri Neprintsev,1909,1996,500069151,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q1362480,Q1362480,Yury Annenkov,1889,1974,500031571,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate
+Q161858,Q161858,Zinaida Serebryakova,1884,1967,500120608,,,unmatched,0.0,True,,0,,,,no exact canonical or ULAN-supported name candidate

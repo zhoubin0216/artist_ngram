@@ -413,30 +413,37 @@ A also remains a full-name mention proxy based on recorded artist cleaning decis
 - Analyze common source-coverage years, separate zero counts from unavailable observations, and document ambiguous movement terms in the final report.
 - Complete the team's storage/query performance experiments, cross-source plots and machine-learning evaluation separately; producing these movement tables alone does not complete the entire project.
 
-## Getty Provenance pilot and Task 3 benchmark
+## Getty Provenance full-dictionary run and Task 3 benchmark
 
-This branch also contains a reproducible Getty Provenance Index pilot and the
-first local single-node Spark performance benchmark. The Getty pilot is kept
-separate from the OpenAlex and Google Books pipelines above.
+This branch contains a reproducible Getty Provenance Index pipeline covering
+the complete 1,370-artist project dictionary and a local single-node Spark
+performance benchmark. The original 25-artist pilot remains available for
+audit, while Task 3 now reads the full-dictionary Getty outputs.
 
 ### Completed scope
 
-- Selected a representative 25-artist pilot from the project artist dictionary.
+- Ran candidate discovery for all 1,370 artists after validating a 25-artist pilot.
 - Queried Getty's official Provenance SPARQL endpoint with saved query templates.
 - Matched artists using names, life dates, ULAN evidence, and Getty person
   records. A ULAN identifier is supporting evidence, not an assumed direct link
   to a Provenance person URI.
 - Preserved raw endpoint responses locally and wrote reviewable CSV plus Spark
   Parquet outputs.
+- Added deterministic page-by-page event retrieval, retries, caching and safe
+  resume behavior. The old unpaged pilot was capped at 500 bindings per query
+  and must not be treated as complete.
 - Implemented four Spark queries and comparisons for text versus Parquet,
   unpartitioned versus year-partitioned Parquet, and standard versus broadcast
   joins.
 - Added deterministic row-count/checksum validation and automated tests.
 
-The pilot produced 25 mapping rows: 23 automatic matches and 2 manual-review
-records. Salvador Dalí is unmatched in the current endpoint response; Umberto
-Boccioni is retained as a low-confidence candidate. The event table contains
-5,540 rows: 2,805 confirmed sales and 2,735 catalog entries.
+The full run attempted all 1,370 artists. It accepted 495 mappings at confidence
+0.80 or higher, retained 122 candidate-bearing rows for manual review, and found
+no candidate for 753 artists. The event table contains 79,715 deduplicated rows:
+39,388 confirmed sales and 40,327 catalog entries. Of the accepted mappings,
+450 artists have at least one event and 45 have none under the current query
+model. Getty supplies a usable year for 23,007 events; the other 56,708 remain
+undated rather than being inferred.
 
 ### Data rules
 
@@ -445,7 +452,7 @@ Boccioni is retained as a low-confidence candidate. The event table contains
 - Catalog entries and confirmed transactions remain separate in every aggregate.
 - Prices in different currencies are not summed together.
 - Missing values remain empty and uncertain mappings are marked for review.
-- Raw API responses are ignored by Git; cleaned pilot outputs are versioned.
+- Raw API responses are ignored by Git; cleaned full-run outputs are versioned.
 
 The field definitions, provenance caveats, and matching policy are documented in
 `docs/getty_data_dictionary.md`.
@@ -472,6 +479,10 @@ py -3.9 -m venv .venv
 .\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 5
 .\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --limit 25
 
+# Full dictionary: map first, review statistics, then retrieve paginated events
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --scope all --mapping-only
+.\.venv\Scripts\python.exe scripts\getty\run_pipeline.py --scope all --events-only
+
 # Task 3 benchmark and tests
 .\.venv\Scripts\python.exe scripts\benchmark\run_benchmark.py --config configs\benchmark.yaml
 .\.venv\Scripts\python.exe scripts\benchmark\run_openalex_benchmark.py --config configs\openalex_benchmark.yaml
@@ -485,7 +496,13 @@ Important outputs:
 - `data/getty/getty_artist_mapping.csv`
 - `data/getty/getty_events.csv` and `data/getty/getty_events.parquet`
 - `data/getty/getty_artist_year.csv` and `data/getty/getty_artist_year.parquet`
-- `data/getty/getty_pilot_summary.json`
+- `data/getty/pilot_summary.json`
+- `data/getty/full/artists.csv`
+- `data/getty/full/getty_artist_mapping.csv`
+- `data/getty/full/getty_mapping_review.csv`
+- `data/getty/full/getty_events.csv` and `data/getty/full/getty_events.parquet`
+- `data/getty/full/getty_artist_year.csv` and `data/getty/full/getty_artist_year.parquet`
+- `data/getty/full/full_summary.json`
 - `outputs/benchmark_results.csv`
 - `outputs/benchmark_summary.md`
 - `outputs/benchmark_chart.png`
@@ -501,13 +518,14 @@ Important outputs:
 
 ### Current benchmark snapshot
 
-The engineering stress test uses 554,000 explicitly synthetic rows expanded from
-the cleaned Getty pilot. It is benchmark-only data, not research evidence. On
-the recorded machine, the generated storage sizes were 281.7 MB for CSV,
-456.3 MB for JSON, 34.7 MB for unpartitioned Parquet, and 23.0 MB for
-year-partitioned Parquet. For the year-filter query, median time was 0.390 s for
-partitioned Parquet and 0.546 s for unpartitioned Parquet. On this small local
-join, broadcast was slower (1.047 s versus 0.700 s), illustrating that an
+The engineering stress test uses 558,005 explicitly synthetic rows produced by
+seven labelled copies of the 79,715 cleaned Getty rows. It is benchmark-only
+data, not research evidence. On the recorded machine, the generated storage
+sizes were 281.0 MB for CSV, 457.8 MB for JSON, 64.7 MB for unpartitioned
+Parquet, and 56.0 MB for year-partitioned Parquet. For the year-filter query,
+median time was 0.366209 s for partitioned Parquet and 0.397954 s for
+unpartitioned Parquet. On this local join, broadcast was slower (0.814653 s
+versus 0.613597 s), illustrating that an
 optimization must be measured rather than assumed. See
 `outputs/benchmark_summary.md` for all query medians and validation checks.
 
@@ -532,11 +550,12 @@ performance results.
 
 ### Remaining work
 
-- Manually review the two uncertain/unmatched Getty records before treating them
-  as resolved identities.
-- Add robust endpoint pagination/retry/checkpoint handling before expanding from
-  25 to all approximately 1,370 artists.
-- Reassess query coverage and Getty data-model variations during the full run.
+- Manually review the 122 Getty rows with candidates before accepting any of
+  them; 753 artists currently have no exact canonical or ULAN-supported match.
+- Investigate whether additional documented Getty identifiers or non-exact name
+  strategies can improve recall without lowering the 0.80 acceptance threshold.
+- Reassess Getty data-model variations and the 56,708 undated event records
+  before making year-based historical claims.
 - Repeat both fixed benchmarks only if final input tables or Spark configuration
   change, and retain the input hashes with the new results.
 - Add HDFS only if a correctly configured local HDFS environment becomes

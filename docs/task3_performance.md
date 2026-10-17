@@ -9,10 +9,11 @@ from other machines are not mixed into the tables.
 
 There are two complementary workloads:
 
-1. The Getty workload uses 5,540 cleaned pilot events expanded to 554,000 rows.
-   Every copied event has a unique benchmark identifier and is explicitly marked
-   synthetic. It supplies the four required event queries, including separate
-   confirmed-sale and catalog-entry counts.
+1. The Getty workload uses 79,715 cleaned events from the full-dictionary run,
+   expanded with seven labelled copies to 558,005 rows. Every copied event has a
+   unique benchmark identifier and is explicitly marked synthetic. It supplies
+   the four required event queries, including separate confirmed-sale and
+   catalog-entry counts.
 2. The OpenAlex workload uses the real 301,400-row normalized artist-year table
    without duplication. It verifies that the engineering conclusions also hold
    on the team's latest annual research table.
@@ -84,6 +85,21 @@ Thus year partitioning helped the selective single-year query but substantially
 hurt full-range scans because of 220 small files. Broadcast was also slower for
 this small local dimension. These measurements should not be generalized to a
 different machine or cluster without rerunning the same protocol.
+
+The rerun Getty workload produced these storage sizes and representative
+medians:
+
+- CSV: 281,015,324 bytes
+- JSON Lines: 457,821,378 bytes
+- unpartitioned Parquet: 64,744,426 bytes
+- year-partitioned Parquet: 56,034,637 bytes
+- Q2 median: 0.397954 s unpartitioned versus 0.366209 s partitioned
+- Q3 standard join: 0.613597 s; broadcast join: 0.814653 s
+
+The synthetic multiplier changed from 100 to 7 so the engineering input stayed
+near the original 554,000-row scale after replacing the pilot with full-run
+Getty data. Synthetic copies are never presented as additional research
+observations.
 
 Shuffle read/write columns remain empty because PySpark 3.5 has no stable public
 Python API for per-query task shuffle metrics. The absence is explicit rather

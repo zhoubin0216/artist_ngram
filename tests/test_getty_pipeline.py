@@ -3,7 +3,13 @@ from __future__ import annotations
 import pandas as pd
 
 from matching import choose_candidate, score_candidate
-from run_pipeline import build_artist_year, build_events, classify_catalog_source
+from run_pipeline import (
+    build_artist_year,
+    build_events,
+    classify_catalog_source,
+    run_event_queries,
+)
+from select_sample import select_artists
 
 
 def test_exact_name_and_years_score_high() -> None:
@@ -51,6 +57,28 @@ def test_ambiguous_candidates_require_manual_review() -> None:
     assert result["candidate_count"] == 2
 
 
+def test_low_confidence_candidate_is_not_accepted() -> None:
+    result = choose_candidate(
+        {"canonical_name": "Example Artist", "birth_year": "1900", "death_year": ""},
+        [
+            {
+                "person": "https://example.test/person",
+                "candidate_name": "Example Artist",
+                "getty_preferred_name": "Example Artist",
+                "birth_begin": "1900-01-01",
+                "death_begin": "",
+            }
+        ],
+        [],
+        low_confidence_threshold=0.8,
+        ambiguity_margin=0.15,
+    )
+    assert result["match_confidence"] == 0.70
+    assert result["manual_review"] is True
+    assert result["getty_person_uri"] == ""
+    assert result["candidate_uris"] == "https://example.test/person"
+
+
 def test_catalog_rows_are_not_counted_as_sales() -> None:
     mapping = pd.DataFrame(
         [{"artist_id": "Q1", "getty_person_uri": "https://example.test/person"}]
@@ -94,3 +122,46 @@ def test_source_classification() -> None:
         classify_catalog_source("Paris Sales Catalog lot 4", "", "")
         == "sales_catalog_entry"
     )
+
+
+def test_all_scope_reads_dictionary_not_curated_pilot() -> None:
+    selected = select_artists(scope="all", start_index=30, limit=3)
+    assert len(selected) == 3
+    assert selected["artist_id"].is_unique
+    assert not set(selected["canonical_name"]).issubset(
+        {"Claude Monet", "Vincent van Gogh", "Pablo Picasso"}
+    )
+
+
+def test_event_queries_page_until_short_page(monkeypatch) -> None:
+    calls: list[str] = []
+
+    def fake_query(query: str, *, raw_name: str, config: dict) -> dict:
+        calls.append(raw_name)
+        offset = 2 if "OFFSET 2" in query else 0
+        count = 1 if offset else 2
+        return {
+            "results": {
+                "bindings": [
+                    {
+                        "person": {"value": "https://example.test/person"},
+                        "object": {"value": f"https://example.test/object/{offset + i}"},
+                    }
+                    for i in range(count)
+                ]
+            }
+        }
+
+    monkeypatch.setattr("run_pipeline.query_sparql", fake_query)
+    mapping = pd.DataFrame(
+        [{"artist_id": "Q1", "getty_person_uri": "https://example.test/person"}]
+    )
+    sales, catalogs = run_event_queries(
+        mapping,
+        {"event_limit_per_chunk": 2, "event_max_pages_per_artist": 3},
+        "test",
+    )
+    assert len(sales) == 3
+    assert len(catalogs) == 3
+    assert len(calls) == 4
+    assert any("page_0002" in call for call in calls)

@@ -5,7 +5,7 @@
     "ngram_movement": "outputs\\ngram_movement_15\\movement_year_counts.jsonl",
     "openalex_artist": "results\\openalex_normalized\\artist_year_normalized.csv",
     "openalex_movement": "results\\openalex_movements_keyword_proxy\\movement_year_union.csv",
-    "getty_artist_year": "data\\getty\\getty_artist_year.csv"
+    "getty_artist_year": "data\\getty\\full\\getty_artist_year.csv"
   },
   "source_sha256": {
     "artist_dictionary": "7562a00999592a470ca9b5b236493b42e22074fc3e619eeb330733448ea1ff67",
@@ -13,19 +13,19 @@
     "ngram_movement": "fa47a3912a62097baf7efb590bded9a86837a11b9760d5ff88a701cbd474b1e4",
     "openalex_artist": "c72b0bbfbdf64b249d3fef64ea988ef128c9636d517b02377df76b5dc2e10d47",
     "openalex_movement": "b7aa77e5cf07d797afe2d5a3ec4f7e541fb6d90127ef1eba9e0d8c5ca1880658",
-    "getty_artist_year": "edd2026394589baa3727ea4130b30e5ee41158846c89db7e8508d5ab2b3fe64f"
+    "getty_artist_year": "4daa545263e116b0dcc5b47c1dd72635dce38b5e708da02a9cdc5469c386fbf7"
   },
   "artist_dictionary_rows": 1370,
   "artist_movement_bridge_rows": 1533,
-  "integrated_metric_rows": 1399840,
+  "integrated_metric_rows": 1409050,
   "rows_by_source": {
-    "getty": 3252,
+    "getty": 12462,
     "ngram": 157988,
     "openalex": 1238600
   },
   "rows_by_entity_type": {
-    "artist": 1354503,
-    "movement": 45337
+    "artist": 1362519,
+    "movement": 46531
   },
   "year_min": 1800,
   "year_max": 2019,

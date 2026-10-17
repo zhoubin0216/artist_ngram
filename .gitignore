@@ -61,6 +61,7 @@ results/openalex_movements_keyword_proxy/movement_work_union.jsonl
 # Getty API/SPARQL responses are reproducible but may be large.
 data/getty/raw/*
 !data/getty/raw/.gitkeep
+data/getty/full_smoke/
 
 # Benchmark input copies, Spark event logs, and query-plan scratch files.
 data/benchmark/

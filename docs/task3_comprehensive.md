@@ -43,15 +43,15 @@ n
 availability
 ```
 
-The current build contains 1,399,840 metric rows:
+The current build contains 1,409,050 metric rows:
 
 | Source | Metric rows |
 |---|---:|
 | Ngram | 157,988 |
 | OpenAlex | 1,238,600 |
-| Getty | 3,252 |
+| Getty | 12,462 |
 
-There are 1,354,503 artist metric rows and 45,337 movement metric rows. The
+There are 1,362,519 artist metric rows and 46,531 movement metric rows. The
 artist dictionary contains 1,370 artists, and splitting multi-valued movement
 fields creates 1,533 unique artist-movement relations.
 
@@ -110,7 +110,7 @@ The verified Claude Monet query returned:
 |---|---:|
 | Ngram | 290 |
 | OpenAlex | 880 |
-| Getty | 183 |
+| Getty | 204 |
 | Cross-source summary | 220 |
 
 The summary has one row per year. Sparse Ngram and Getty observations remain
@@ -130,7 +130,7 @@ The verified Impressionism query returned:
 |---|---:|
 | Ngram | 246 |
 | OpenAlex | 710 |
-| Getty | 96 |
+| Getty | 168 |
 | Cross-source summary | 142 |
 
 The summary contains 71 years and two rows per year: one
@@ -144,7 +144,7 @@ The summary contains 71 years and two rows per year: one
 ```
 
 The verified 1900 query returned 666 Ngram metric rows, 5,630 OpenAlex metric
-rows, 24 Getty metric rows and 1,400 summary rows. Entity IDs and canonical
+rows, 93 Getty metric rows and 1,400 summary rows. Entity IDs and canonical
 dictionary names are used as the cross-source identity; capitalization variants
 cannot create duplicate summary rows.
 
@@ -161,7 +161,7 @@ The verified range query returned:
 |---|---:|
 | Ngram | 28,648 |
 | OpenAlex | 399,730 |
-| Getty | 1,149 |
+| Getty | 6,645 |
 | Cross-source summary | 99,400 |
 
 Every generated manifest records a checksum for each independent source and the
@@ -190,10 +190,10 @@ Fixed configuration:
 
 | Format | Bytes |
 |---|---:|
-| CSV | 134,485,879 |
-| JSON Lines | 332,336,831 |
-| Unpartitioned Parquet | 703,911 |
-| Year-partitioned Parquet | 13,680,765 |
+| CSV | 135,371,351 |
+| JSON Lines | 334,530,123 |
+| Unpartitioned Parquet | 727,251 |
+| Year-partitioned Parquet | 13,637,595 |
 
 Unpartitioned Parquet is highly compact because the metric-long table contains
 many repeated categorical values and zero-filled OpenAlex annual measures. The
@@ -203,14 +203,15 @@ many repeated categorical values and zero-filled OpenAlex annual measures. The
 
 | Format | Artist Q296 | Movement M05, 1850–1920 | Period 1900 |
 |---|---:|---:|---:|
-| CSV | 2.627414 s | 2.395323 s | 2.544367 s |
-| JSON Lines | 2.547306 s | 2.416618 s | 2.790410 s |
-| Unpartitioned Parquet | 0.900818 s | 0.829913 s | 0.760498 s |
-| Year-partitioned Parquet | 1.618993 s | 1.076985 s | 0.706005 s |
+| CSV | 2.536218 s | 2.451271 s | 2.559218 s |
+| JSON Lines | 2.556601 s | 2.399750 s | 2.826366 s |
+| Unpartitioned Parquet | 0.871527 s | 0.830156 s | 0.746869 s |
+| Year-partitioned Parquet | 1.637942 s | 1.083737 s | 0.761091 s |
 
-Year partitioning helped the selective one-year query by reading one 61,913-byte
-file. It was slower for the 71-year movement range and the full 220-year artist
-query because file-opening overhead outweighed pruning benefits.
+Year partitioning read one 60,810-byte file for the selective one-year query,
+but was slightly slower than unpartitioned Parquet in this run. It was also
+slower for the 71-year movement range and the full 220-year artist query because
+file-opening overhead outweighed pruning benefits.
 
 ### Join strategy
 
@@ -219,10 +220,10 @@ artist metric rows and the 1,533-row bridge:
 
 | Strategy | Median | Output rows |
 |---|---:|---:|
-| Standard join | 0.434860 s | 14,181 |
-| Broadcast join | 0.319699 s | 14,181 |
+| Standard join | 0.432874 s | 15,375 |
+| Broadcast join | 0.355631 s | 15,375 |
 
-Broadcast was about 26% faster in this integrated workload. This differs from
+Broadcast was about 18% faster in this integrated workload. This differs from
 the earlier OpenAlex-only benchmark, where broadcast was slower. Join strategy
 therefore depends on the input layout and must be measured for the final query,
 not selected from a general rule.
@@ -277,6 +278,10 @@ outputs or running Task 3.
 - Stable per-query shuffle byte counts are unavailable through PySpark 3.5's
   public Python API. Executed physical plans are retained locally for audit.
 - Getty provides no independent movement-term dataset.
+- Getty mapping attempted all 1,370 artists, but only 495 passed the automatic
+  acceptance threshold. Unmatched and review-required artists remain missing.
+- Getty supplies no usable year for 56,708 of 79,715 events, so year-based
+  queries use only the 23,007 dated events and do not infer missing dates.
 - Ngram direct movement counts measure exact terms; ambiguous terms can include
   non-art meanings.
 - OpenAlex member-artist sums and official Work-ID unions answer different
