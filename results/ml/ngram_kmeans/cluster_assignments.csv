@@ -1,0 +1,877 @@
+﻿artist_id,canonical_name,n,movements,birth_year,extraction_status,observed_year_rows,total_match_count,nonzero_decades,prebirth_match_count,peak_decade,cluster_id
+Q296,Claude Monet,2,impressionism,1840,matched,145,143148,19,3,1990,1
+Q5582,Vincent van Gogh,3,expressionism;post_impressionism,1853,matched,128,152584,17,2,1990,1
+Q241732,Rosa Bonheur,2,realism,1822,matched,185,88381,22,10,1860,0
+Q104884,Caspar David Friedrich,3,romanticism,1774,matched,102,41216,13,0,2010,1
+Q944962,Achille Etna Michallon,3,neoclassicism,1796,matched,58,150,14,0,1980,1
+Q728173,Achille Devéria,2,romanticism,1800,matched,115,987,16,0,2010,0
+Q80588,Abram Arkhipov,2,realism,1862,matched,58,390,9,0,1990,1
+Q2830918,Albert André,2,post_impressionism,1869,matched,104,791,14,0,1920,0
+Q4685750,Adrià Gual,2,art_nouveau;symbolism,1872,matched,40,302,8,0,2010,1
+Q76185,Adolfo Hohenstein,2,art_nouveau,1854,matched,44,195,7,0,1990,1
+Q361407,Adolf Erbslöh,2,expressionism,1881,matched,47,124,10,0,1990,1
+Q1984317,Alexander Bogomazov,2,cubism;futurism,1880,matched,33,93,6,0,1980,1
+Q451771,Amadeo de Souza Cardoso,4,cubism;expressionism;futurism;impressionism,1887,matched,45,406,6,0,1990,1
+Q703331,Christian Schad,2,dada,1894,matched,90,4044,16,17,2000,1
+Q116418,Adolf Ulrik Wertmüller,3,neoclassicism,1751,matched,36,74,11,0,1930,1
+Q4115633,Adolf von Becker,3,realism,1831,matched,41,187,10,0,2000,1
+Q630973,Albert Lebourg,2,impressionism;post_impressionism,1849,matched,100,676,13,0,1980,1
+Q980735,Alexandre Charpentier,2,art_nouveau,1856,matched,111,2170,14,0,1890,0
+Q267858,Albert Marquet,2,fauvism,1875,matched,114,5770,13,0,1980,1
+Q312631,Alexander Rodchenko,2,cubism,1891,matched,86,11599,12,2,1990,1
+Q1115614,Arnaldo Ginna,2,futurism,1890,matched,58,807,9,0,2010,1
+Q157194,Alberto Giacometti,2,surrealism,1901,matched,94,43071,13,3,2000,1
+Q4683136,Adja Yunkers,2,abstract_art,1900,matched,84,2977,12,1,1950,1
+Q593879,Alexandre Jacovleff,2,neoclassicism,1887,matched,83,400,10,0,1940,1
+Q1389252,Albert Bartholomé,2,romanticism,1848,matched,91,363,13,0,1900,0
+Q164961,Adolph von Menzel,3,realism,1815,matched,111,2603,13,0,1910,1
+Q2350977,Alexandre Bida,2,academic_art,1813,matched,107,893,16,0,1890,0
+Q2825301,Adrien de Witte,3,impressionism,1850,matched,27,71,8,0,1900,1
+Q1399837,Albert Joseph Moore,3,symbolism,1841,matched,98,641,14,0,1990,1
+Q4720922,Alexandre de Riquer,3,art_nouveau;symbolism,1856,matched,57,395,13,0,1980,1
+Q4721120,Alexandru Ciucurencu,2,fauvism;post_impressionism,1903,matched,44,257,7,0,1970,1
+Q2638519,Albert Müller,2,expressionism,1897,matched,138,1526,17,434,1870,0
+Q381937,Amédée Ozenfant,2,cubism,1886,matched,92,2690,10,0,2010,1
+Q816819,Benedetta Cappa,2,futurism,1897,matched,37,672,6,0,2010,1
+Q107194,George Grosz,2,dada;expressionism,1893,matched,115,64609,14,13,1990,1
+Q2831339,Albert Lenoir,2,romanticism,1801,matched,170,1584,19,0,1840,0
+Q72510,Albert Anker,2,impressionism;realism,1831,matched,108,1141,15,0,1980,1
+Q310437,Alexandre Cabanel,2,academic_art,1823,matched,145,5481,16,0,1880,1
+Q4723449,Alfred Smith,2,fauvism;post_impressionism,1854,matched,206,44329,22,1151,1920,0
+Q18692616,Albert Trachsel,2,symbolism,1863,matched,65,317,10,0,1970,1
+Q146691,Alphonse Mucha,2,art_nouveau;symbolism,1860,matched,121,12431,14,1,1990,1
+Q697839,Albert Paris Gütersloh,3,expressionism,1887,matched,44,288,7,0,1990,1
+Q156272,André Derain,2,cubism;fauvism,1880,matched,110,8312,12,0,2010,1
+Q708028,Bruno Munari,2,futurism,1907,matched,77,8014,11,2,1960,1
+Q458721,Georges Hugnet,2,dada,1906,matched,93,6827,10,0,1950,1
+Q250333,Alice Rahon,2,surrealism,1904,matched,74,1270,9,0,1990,1
+Q593715,Alexander Liberman,2,abstract_art,1912,matched,82,9982,10,0,1990,1
+Q493349,Andrea Appiani,2,neoclassicism,1754,matched,162,2054,20,0,1870,0
+Q356644,Albert Edelfelt,2,realism,1854,matched,126,3015,14,0,2000,1
+Q690693,Albert Welti,2,symbolism,1862,matched,102,527,13,0,1900,0
+Q4742222,Amelia Bauerle,2,art_nouveau,1870,matched,39,420,13,0,1890,0
+Q2848249,André Mare,2,cubism,1885,matched,88,792,11,0,2010,1
+Q185850,C. R. W. Nevinson,4,futurism,1889,matched,113,7522,13,2,1930,1
+Q3778863,Guglielmo Achille Cavellini,3,dada,1914,matched,34,153,7,0,1980,1
+Q312529,André Masson,2,surrealism,1896,matched,102,10107,13,1,2010,1
+Q539657,Alicia Penalba,2,abstract_art,1913,matched,62,893,9,0,1960,1
+Q123098,Angelica Kauffmann,2,neoclassicism,1741,matched,206,28997,22,0,1890,0
+Q323144,Ambroise Louis Garneray,3,romanticism,1783,matched,64,196,14,0,1940,1
+Q958927,Aleksander Gierymski,2,impressionism;realism,1850,matched,73,737,9,0,1990,1
+Q706359,Auguste Herbin,2,cubism;fauvism,1882,matched,102,2315,15,8,1980,1
+Q2197592,Albert Servaes,2,expressionism,1883,matched,74,577,10,0,1970,1
+Q698151,Bohumil Kubišta,2,cubism;expressionism,1884,matched,35,250,7,0,2010,1
+Q168496,Carlo Carrà,2,futurism,1881,matched,87,3226,11,0,2010,1
+Q463411,Hannah Höch,2,dada,1889,matched,62,5215,9,0,2010,1
+Q1032506,Benjamín Palencia,2,surrealism,1894,matched,51,307,9,0,1950,1
+Q451736,Amadeo Gabino,2,abstract_art,1922,matched,48,216,9,0,1960,1
+Q3615741,Andrea Gastaldi,2,romanticism,1826,matched,39,124,14,0,1900,0
+Q1494309,Alphonse de Neuville,3,academic_art,1835,matched,143,2747,16,0,1880,0
+Q1960170,Alexandre Séon,2,symbolism,1855,matched,47,196,11,0,2010,1
+Q6100012,Cemal Tollu,2,cubism,1899,matched,46,194,8,0,1980,1
+Q62572109,Domenico Belli,2,futurism,1909,matched,75,410,13,21,1840,1
+Q213597,Hans Richter,2,cubism;dada,1888,matched,151,63392,17,1278,1980,1
+Q219634,Claude Cahun,2,surrealism,1894,matched,56,8036,9,0,2010,1
+Q250194,Anselm Feuerbach,2,neoclassicism,1829,matched,157,5717,18,0,1990,1
+Q76416,Andreas Achenbach,2,romanticism,1815,matched,170,3262,20,1,1880,0
+Q175130,Alfred Sisley,2,impressionism,1839,matched,127,13449,14,0,1990,1
+Q664360,Aristarkh Lentulov,2,post_impressionism,1882,matched,63,967,9,0,1980,1
+Q2579811,Alphonse Osbert,2,symbolism,1857,matched,54,438,12,0,1990,1
+Q120582,Camille Claudel,2,art_nouveau;expressionism;realism,1864,matched,99,15486,14,0,1990,1
+Q391182,Charles Dufresne,2,cubism;fauvism,1876,matched,165,1865,21,62,1930,0
+Q62544,Alexander Kanoldt,2,expressionism,1881,matched,82,969,11,0,1990,1
+Q83294124,Elica Balla,2,futurism,1914,matched,35,194,6,0,1990,1
+Q984030,Ilia Zdanevich,2,dada,1894,matched,46,540,6,0,1990,1
+Q5162696,Conroy Maddox,2,surrealism,1912,matched,71,2126,10,0,2000,1
+Q381950,Antoine Pevsner,2,abstract_art,1884,matched,93,8075,11,0,1960,1
+Q3163756,Ange Tissier,2,romanticism,1814,matched,32,100,11,0,1860,1
+Q2847388,André Brouillet,2,academic_art,1857,matched,60,600,12,0,2010,0
+Q914211,Alfred William Finch,3,impressionism,1854,matched,77,522,12,0,1990,1
+Q562540,Augustus John,2,post_impressionism,1878,matched,219,100310,22,3430,1810,1
+Q1941254,Antoon Derkinderen,2,symbolism,1859,matched,37,234,9,0,1990,1
+Q697780,Carl Moll,2,art_nouveau,1861,matched,124,4157,16,1,1990,1
+Q4143364,Frederick Gore,2,fauvism,1913,matched,192,5092,22,1583,1900,0
+Q156426,Alexej von Jawlensky,3,expressionism,1864,matched,71,1988,10,0,1990,1
+Q963123,Daniel Vázquez Díaz,3,cubism,1882,matched,54,235,9,0,1950,1
+Q368254,Giacomo Balla,2,futurism,1871,matched,104,12054,11,0,2000,1
+Q153739,Jean Arp,2,dada;surrealism,1886,matched,91,24080,13,0,1980,1
+Q236161,Dora Maar,2,surrealism,1907,matched,92,16611,13,2,2000,1
+Q174655,Bart van der Leck,4,abstract_art,1876,matched,72,1819,10,0,1980,1
+Q19820052,Antoine Dubost,2,neoclassicism,1769,matched,40,108,12,0,1920,0
+Q352978,Antoine Wiertz,2,romanticism,1806,matched,142,2448,16,0,1870,0
+Q16164141,Alexander Struys,2,realism,1852,matched,21,53,9,0,1910,0
+Q2861767,Armand Bernard,2,academic_art,1829,matched,130,948,18,0,1950,1
+Q206820,Anders Zorn,2,impressionism,1860,matched,134,16001,16,4,1920,0
+Q153920,Aristide Maillol,2,symbolism,1861,matched,116,16693,15,3,1980,1
+Q153793,Georges Braque,2,cubism;fauvism,1882,matched,111,58085,12,0,2000,1
+Q687335,Emil Filla,2,cubism,1882,matched,88,1757,11,1,2000,1
+Q50353298,Gino Galli,2,futurism,1893,matched,42,142,12,2,1980,1
+Q163938,Jean Tinguely,2,dada,1925,matched,79,19468,11,34,1990,1
+Q3049418,Eileen Agar,2,surrealism,1899,matched,88,2974,11,0,1990,1
+Q281637,Ben Nicholson,2,abstract_art,1894,matched,118,42546,16,15,1980,1
+Q2857134,Antonin Moine,2,romanticism,1796,matched,76,365,14,0,1840,0
+Q326167,Alfred Philippe Roll,3,realism,1845,matched,84,365,15,0,1910,0
+Q16039631,Armand Berton,2,academic_art,1854,matched,44,132,14,0,1890,0
+Q253446,Anna Ancher,2,impressionism,1859,matched,84,1633,13,0,2000,1
+Q12723699,Catul Bogdan,2,post_impressionism,1897,matched,36,286,8,0,2000,1
+Q3623704,Arkady Rylov,2,symbolism,1870,matched,46,152,9,0,1990,1
+Q450730,Georgette Agutte,2,fauvism;post_impressionism,1867,matched,41,263,10,0,2000,1
+Q4725866,Alice Frey,2,expressionism,1895,matched,82,300,14,2,1940,1
+Q169984,Gino Severini,2,futurism,1883,matched,111,13226,13,1,1990,1
+Q168671,John Heartfield,2,dada,1891,matched,99,22564,12,8,1990,1
+Q5373615,Emmy Bridgwater,2,surrealism,1906,matched,36,382,6,0,1990,1
+Q5485139,Antonio Cabral Bejarano,3,romanticism,1798,matched,20,45,9,0,1980,1
+Q466668,Anna Boch,2,impressionism,1848,matched,78,887,12,0,1990,1
+Q37512862,Charles Agard,2,post_impressionism,1866,matched,84,454,20,60,1810,0
+Q732208,Armand Point,2,symbolism,1861,matched,94,886,13,0,1970,1
+Q2980574,Henri Evenepoel,2,fauvism,1872,matched,93,1198,13,0,1970,1
+Q157183,Fernand Léger,2,cubism,1881,matched,100,20363,12,1,2010,1
+Q309618,Giorgio Morandi,2,futurism,1890,matched,94,12020,13,8,2000,1
+Q6567261,Kate Steinitz,2,dada,1889,matched,81,1421,10,0,1960,1
+Q1251377,Endre Rozsda,2,surrealism,1913,matched,37,180,7,0,1970,1
+Q527386,Christine Boumeester,2,abstract_art,1904,matched,48,229,8,0,1990,1
+Q310213,Anton Graff,2,neoclassicism,1736,matched,147,2894,17,0,1990,0
+Q2857218,Antonio de Brugada,3,romanticism,1804,matched,19,85,6,0,1980,1
+Q452733,Amaldus Nielsen,2,realism,1838,matched,64,258,12,0,1930,1
+Q1574250,Charles Cottet,2,post_impressionism;symbolism,1863,matched,123,2818,15,1,1900,0
+Q123071,Arnold Böcklin,2,symbolism,1827,matched,133,5156,15,0,2010,1
+Q5589,Henri Matisse,2,fauvism;impressionism;post_impressionism,1869,matched,122,127958,15,3,1990,1
+Q443429,Florence Henri,2,cubism,1893,matched,69,2701,11,1,1990,1
+Q155158,Kurt Schwitters,2,dada,1887,matched,101,44392,12,0,2000,1
+Q3058864,Esteban Francés,2,surrealism,1913,matched,56,349,8,0,1940,1
+Q2717011,César Domela,2,abstract_art,1900,matched,61,387,10,0,2000,1
+Q5547,Antonio Canova,2,neoclassicism,1757,matched,210,28260,22,0,1820,1
+Q714401,Artur Grottger,2,romanticism,1837,matched,92,976,13,0,1940,1
+Q2842660,Amelia Curran,2,realism,1775,matched,134,2322,19,0,1940,1
+Q272566,Aubrey Beardsley,2,symbolism,1872,matched,151,111397,20,87,1890,1
+Q524154,Eugène Grasset,2,art_nouveau;symbolism,1845,matched,108,1121,13,0,2010,1
+Q1611548,Hermann Huber,2,expressionism;fauvism;post_impressionism;symbolism,1888,matched,73,386,12,0,1980,1
+Q154340,Francis Bacon,2,cubism;expressionism;surrealism,1909,matched,220,969559,22,144153,1800,1
+Q1347418,Joseph Stella,2,futurism,1877,matched,132,20160,20,25,1980,1
+Q46139,Man Ray,2,dada;surrealism,1890,matched,117,220484,15,4,2000,1
+Q5423877,F. E. McWilliam,3,surrealism,1909,matched,80,1357,11,1,1960,1
+Q156736,Eduardo Chillida,2,abstract_art,1924,matched,69,7745,9,24,1990,1
+Q16855463,Auguste Pichon,2,neoclassicism,1805,matched,31,78,12,0,1870,0
+Q436726,Ary Scheffer,2,romanticism,1795,matched,189,36382,21,0,1860,0
+Q4104520,Anatoli Vasiliev,2,realism,1917,matched,28,165,5,0,1980,1
+Q771320,Charles Bargue,2,academic_art,1825,matched,107,770,14,0,2000,0
+Q608745,Antonín Slavíček,2,impressionism,1870,matched,28,64,7,0,2010,1
+Q2966664,Christopher Wood,2,post_impressionism,1901,matched,210,27824,22,1264,1990,1
+Q2871159,Auguste Donnay,2,symbolism,1862,matched,57,247,13,0,1910,0
+Q589241,Anton Faistauer,2,expressionism,1887,matched,88,608,10,0,1970,1
+Q1376821,José de Almada Negreiros,4,futurism,1893,matched,35,305,7,0,2010,1
+Q5912,Marcel Duchamp,2,dada;surrealism,1887,matched,115,223004,15,2,2000,1
+Q5482916,Francis de Erdely,3,surrealism,1904,matched,60,425,9,0,1940,1
+Q449119,Emil Schumacher,2,abstract_art,1912,matched,101,1763,14,28,1990,1
+Q2871155,Auguste Clésinger,2,romanticism,1814,matched,51,356,9,0,2010,1
+Q3740994,Andrei Mylnikov,2,realism,1919,matched,29,194,7,0,1980,1
+Q2959887,Charles Louis Müller,3,academic_art,1815,matched,35,71,11,0,1880,0
+Q436844,Armand Guillaumin,2,impressionism,1841,matched,109,3118,14,0,1990,1
+Q214564,Ferdinand Hodler,2,art_nouveau;symbolism,1853,matched,118,11364,13,0,1980,1
+Q2292672,Jean Dufy,2,fauvism,1888,matched,88,976,11,1,1960,1
+Q74051,Anton Räderscheidt,2,expressionism,1892,matched,35,282,5,0,2010,1
+Q1009528,Georges Valmier,2,cubism,1885,matched,74,371,10,0,1980,1
+Q154842,Max Ernst,2,dada;surrealism,1891,matched,135,137600,16,12,1990,1
+Q325582,Gaston Bogaert,2,surrealism,1918,matched,28,127,9,0,1960,1
+Q5443868,Ferdinand Kulmer,2,abstract_art,1925,matched,26,96,8,1,1980,1
+Q979783,Charles Thévenin,2,neoclassicism,1764,matched,48,207,11,0,2010,1
+Q4768347,Anne Frances Byrne,3,realism,1775,matched,49,133,15,0,1830,0
+Q5345269,Edward Seago,2,post_impressionism,1910,matched,94,4534,12,1,1980,1
+Q30755,Auguste Rodin,2,symbolism,1840,matched,143,75967,16,0,1990,1
+Q288218,Georg Jensen,2,art_nouveau,1866,matched,111,26864,14,1,1950,1
+Q170345,Kees van Dongen,3,fauvism,1877,matched,104,5039,13,0,1990,1
+Q4776933,Antonio Rodríguez Luna,3,expressionism,1910,matched,49,230,9,0,1940,1
+Q3121272,Gustave Miklos,2,cubism,1888,matched,46,281,7,0,1980,1
+Q434916,Luigi Russolo,2,futurism,1885,matched,102,10229,11,0,2010,1
+Q3114275,Nelly van Doesburg,3,dada,1899,matched,65,1193,8,0,2000,1
+Q3889392,Gordon Onslow Ford,3,surrealism,1912,matched,67,1648,10,0,1990,1
+Q769610,Frans Krajcberg,2,abstract_art,1921,matched,52,491,9,0,1990,1
+Q1029257,Camille Roqueplan,2,romanticism,1802,matched,143,1118,19,0,1850,0
+Q586332,Antoine Guillemet,2,realism,1841,matched,97,1198,15,0,1980,1
+Q4799572,Arthur Lowe,2,impressionism,1865,matched,200,10559,22,296,1970,1
+Q3723179,Elisabeth Chaplin,2,post_impressionism,1890,matched,24,69,7,4,1920,0
+Q671236,Augusto Giacometti,2,symbolism,1877,matched,85,1754,10,0,1970,1
+Q1921617,Georges de Feure,3,art_nouveau;symbolism,1868,matched,84,2426,13,0,1980,1
+Q856707,Lajos Tihanyi,2,fauvism,1885,matched,68,937,11,0,1990,1
+Q552055,Antonín Procházka,2,expressionism,1882,matched,27,278,9,0,2000,1
+Q259594,Lyubov Popova,2,cubism;futurism,1889,matched,64,1944,9,0,1990,1
+Q152176,Paul Éluard,2,dada;surrealism,1895,matched,84,6047,10,0,2010,1
+Q213703,Hans Bellmer,2,surrealism,1902,matched,82,11853,11,0,2000,1
+Q167414,František Kupka,2,abstract_art;symbolism,1871,matched,57,1271,10,0,2010,1
+Q3416034,Christian August Lorentzen,3,neoclassicism,1749,matched,37,190,5,0,1990,1
+Q1065323,Charles Leickert,2,romanticism,1818,matched,32,99,8,0,1970,1
+Q98822279,Antoine Richard,2,realism,1817,matched,130,1425,19,1,1950,1
+Q713017,Austin Osman Spare,3,symbolism,1886,matched,82,3054,12,0,2010,1
+Q1122412,Giannino Castiglioni,2,art_nouveau,1884,matched,43,266,8,0,1990,1
+Q643778,Mario Sironi,2,expressionism;futurism,1885,matched,96,4854,11,0,2000,1
+Q84503,Raoul Hausmann,2,dada,1886,matched,88,12659,11,0,2000,1
+Q463270,Constance Mayer,2,neoclassicism,1774,matched,147,1845,19,0,1990,0
+Q4274792,Constant Mayer,2,neoclassicism;romanticism,1829,matched,129,727,17,0,1870,0
+Q2072609,Ernest Laurent,2,impressionism;post_impressionism,1859,matched,120,861,15,0,1910,0
+Q1877235,Giuseppe Amisani,2,art_nouveau,1881,matched,16,63,7,0,1930,0
+Q1872017,Louis Valtat,2,fauvism;post_impressionism,1869,matched,81,1341,11,0,1990,1
+Q3847713,António Carneiro,2,expressionism,1872,matched,51,241,8,0,1950,1
+Q827495,Jean Messagier,2,cubism,1920,matched,54,275,10,0,1960,1
+Q19408331,Marisa Mori,2,futurism,1900,matched,26,120,6,0,2010,1
+Q2748223,Henri Goetz,2,surrealism,1909,matched,71,670,12,4,1980,1
+Q970016,Gabor Peterdi,2,abstract_art;expressionism,1915,matched,86,3861,13,9,1950,1
+Q2907846,Constantin Daniel Rosenthal,3,romanticism,1820,matched,34,67,8,0,1970,1
+Q3620122,Antonio Rotta,2,realism,1828,matched,89,524,15,0,1920,0
+Q1096818,Claudius Jacquand,2,academic_art,1803,matched,64,422,16,0,1900,0
+Q4822200,Aurel Ciupe,2,impressionism,1900,matched,44,179,8,0,1980,1
+Q21516056,Carl Strathmann,2,symbolism,1866,matched,41,174,11,0,1900,0
+Q3772850,Gojmir Anton Kos,3,art_nouveau,1896,matched,25,73,6,0,1950,1
+Q696405,Arnold Topp,2,expressionism,1887,matched,42,117,9,0,1990,1
+Q313096,Jean Metzinger,2,cubism,1883,matched,110,7631,11,0,2000,1
+Q232391,Natalia Goncharova,2,futurism,1881,matched,91,8712,11,1,2000,1
+Q435558,Suzanne Duchamp,2,dada,1889,matched,83,1881,10,0,2000,1
+Q439844,Ithell Colquhoun,2,surrealism,1906,matched,83,1897,10,0,2010,1
+Q696720,Daniel Nikolaus Chodowiecki,3,neoclassicism,1726,matched,74,589,12,0,2000,1
+Q5163740,Constantin Lecca,2,romanticism,1807,matched,51,158,9,0,1980,1
+Q105320,Berthe Morisot,2,impressionism,1841,matched,136,46747,15,0,1990,1
+Q694113,Carlos Schwabe,2,symbolism,1866,matched,103,1348,13,0,1890,1
+Q34661,Gustav Klimt,2,art_nouveau;symbolism,1862,matched,120,43837,14,0,2000,1
+Q3289246,Marcel Mouly,2,fauvism,1918,matched,21,78,8,0,1960,1
+Q1280790,Joaquín Peinado,2,cubism,1898,matched,26,201,7,0,2010,1
+Q2478132,Primo Conti,2,futurism,1900,matched,92,1304,15,16,1980,1
+Q16409,Tristan Tzara,2,dada;surrealism,1896,matched,106,52623,13,1,2000,1
+Q518669,Jacqueline Lamba,2,surrealism,1910,matched,65,1984,9,0,2000,1
+Q18663487,Domenico De Angelis,3,neoclassicism,1735,matched,46,164,10,0,1980,1
+Q4820747,August Jerndorff,2,realism,1846,matched,40,126,12,0,1920,0
+Q1063574,Charles Angrand,2,symbolism,1854,matched,75,1368,9,0,1990,1
+Q5650790,Hans Unger,2,art_nouveau,1872,matched,97,915,13,0,1960,0
+Q233088,Marie Laurencin,2,cubism;fauvism,1883,matched,109,28669,13,0,1930,1
+Q33981,August Macke,2,expressionism,1887,matched,100,10801,15,2,1980,1
+Q454568,Josef Čapek,2,cubism;expressionism,1887,matched,78,917,10,0,2010,1
+Q12743174,Vasile Dobrian,2,cubism;dada;surrealism,1912,matched,33,140,7,0,1960,1
+Q3159139,Jacques Hérold,2,surrealism,1910,matched,61,536,9,0,2010,1
+Q1234389,Domingos Sequeira,2,neoclassicism,1768,matched,73,285,11,0,1950,1
+Q474066,Cornelis Springer,2,romanticism,1817,matched,59,283,13,0,1990,1
+Q134741,Camille Pissarro,2,impressionism,1830,matched,133,50475,15,0,1990,1
+Q1406530,Fernand Piet,2,post_impressionism,1869,matched,21,68,10,0,1890,0
+Q2282495,Charles Doudelet,2,symbolism,1861,matched,73,215,12,0,1900,0
+Q241098,Maurice de Vlaminck,3,cubism;fauvism,1876,matched,107,7357,12,0,1990,1
+Q793689,Aurél Bernáth,2,expressionism,1895,matched,48,192,9,0,1970,1
+Q2423054,Sante Monachesi,2,futurism,1910,matched,31,118,9,0,1960,1
+Q152384,Joan Miró,2,surrealism,1893,matched,94,25015,13,6,2010,1
+Q18527925,Edith Hayllar,2,neoclassicism,1860,matched,54,327,9,0,1880,1
+Q2060942,Charles Filiger,2,symbolism,1863,matched,72,945,11,0,1990,1
+Q3130665,Henri Bergé,2,art_nouveau,1870,matched,30,66,8,0,1890,0
+Q1778859,Bernard Lorjou,2,expressionism,1908,matched,64,411,9,0,1950,1
+Q730344,Joseph Csaky,2,cubism,1888,matched,57,467,8,0,1990,1
+Q7599553,Stanley Cursiter,2,futurism,1887,matched,110,2154,12,0,1940,1
+Q116550,Hans Aeschbacher,2,abstract_art,1906,matched,65,349,11,1,1960,1
+Q150471,E. T. A. Hoffmann,4,romanticism,1776,matched,171,51441,20,0,1970,1
+Q345864,Francis Cadell,2,post_impressionism,1883,matched,175,2293,21,288,1880,0
+Q371549,Charles Maurin,2,symbolism,1856,matched,99,1197,16,9,1900,1
+Q154083,Henry van de Velde,4,art_nouveau,1863,matched,106,15301,13,0,1990,1
+Q825177,Bernhard Hasler,2,expressionism,1884,matched,49,291,7,0,1980,1
+Q151152,Juan Gris,2,cubism,1887,matched,113,51669,15,2,1950,1
+Q152797,Umberto Boccioni,2,futurism,1882,matched,105,17691,11,0,2000,1
+Q6300035,Juan Ismael,2,surrealism,1907,matched,66,259,12,6,1920,1
+Q738892,Henri Laurens,2,abstract_art,1885,matched,129,10395,15,1,1960,1
+Q328369,Edwin Landseer,2,romanticism,1802,matched,210,64523,22,12,1870,0
+Q16836507,Felipe Checa,2,academic_art,1844,matched,20,42,6,0,1990,1
+Q983262,Corneliu Baba,2,expressionism;impressionism,1906,matched,62,805,7,0,1970,1
+Q2994899,Constant Montald,2,symbolism,1862,matched,66,363,12,0,1990,1
+Q25973,Hermann Hesse,2,art_nouveau,1877,matched,127,86907,16,3,1970,1
+Q213790,Bernhard Hoetger,2,expressionism,1874,matched,98,1430,12,0,1990,1
+Q19975144,Juliette Roche,2,cubism,1884,matched,67,583,11,0,2000,1
+Q67053,Karl Otto Götz,3,surrealism,1914,matched,44,198,8,0,2010,1
+Q3942427,Hildo Krop,2,abstract_art,1884,matched,89,833,10,0,1920,1
+Q452321,Emanuel Leutze,2,romanticism,1816,matched,161,12930,17,0,1970,1
+Q457098,Fernand Cormon,2,academic_art,1845,matched,129,2868,14,0,2000,1
+Q15804115,Curt Herrmann,2,impressionism,1854,matched,62,369,11,0,1990,1
+Q186748,Dante Gabriel Rossetti,3,symbolism,1828,matched,182,162905,22,16,1890,0
+Q15402320,Nina Arbore,2,fauvism;impressionism,1889,matched,35,110,9,0,2000,1
+Q558060,Victor Brauner,2,cubism;expressionism;futurism;surrealism;symbolism,1903,matched,87,6050,10,0,2000,1
+Q496692,Kristians Tonny,2,surrealism,1907,matched,84,884,10,0,2010,1
+Q436267,Hilma af Klint,3,abstract_art,1862,matched,37,1262,5,0,2010,1
+Q647805,Carl Rottmann,2,realism,1797,matched,80,640,16,0,1990,1
+Q174477,Fernand Pelez,2,academic_art,1848,matched,44,308,9,0,1880,0
+Q1837855,Darío de Regoyos,3,impressionism,1857,matched,52,237,9,0,2010,1
+Q3099166,Gaston Thiesson,2,post_impressionism,1882,matched,26,101,10,0,1920,0
+Q3712893,Domenico Baccarini,2,symbolism,1882,matched,23,57,8,0,2000,1
+Q2078865,Jessie M. King,3,art_nouveau,1875,matched,121,5021,15,2,1900,0
+Q708482,Othon Friesz,2,fauvism;post_impressionism,1879,matched,109,5551,12,0,1930,1
+Q4953063,Božidar Jakac,2,expressionism,1899,matched,49,262,8,0,2010,1
+Q462767,Marie Vassilieff,2,cubism,1884,matched,60,671,11,1,2000,1
+Q132964,Vladimir Mayakovsky,2,futurism,1893,matched,104,32526,13,61,1980,1
+Q21936861,Leandre Cristòfol,2,surrealism,1908,matched,16,58,4,0,2010,1
+Q4091000,Ilya Bolotowsky,2,abstract_art,1907,matched,92,4515,12,2,1980,1
+Q964812,François Marius Granet,3,neoclassicism,1775,matched,48,120,15,0,2010,1
+Q871427,Ernst Ferdinand Oehme,3,romanticism,1797,matched,47,178,10,0,2000,1
+Q15429607,Dorothea Sharp,2,impressionism,1874,matched,96,1063,12,0,1930,0
+Q346319,George Leslie Hunter,3,post_impressionism,1877,matched,57,290,10,0,1980,1
+Q21645467,Edgar Gevaert,2,symbolism,1891,matched,30,102,7,0,2000,1
+Q610202,Jules Chéret,2,art_nouveau,1836,matched,134,3225,16,0,2010,0
+Q20735044,Mario Bacchelli,2,cubism,1893,matched,35,122,9,0,1940,1
+Q233207,Leonora Carrington,2,surrealism,1917,matched,93,13833,11,5,1990,1
+Q380426,Jacques Lipchitz,2,abstract_art,1891,matched,101,24311,11,0,1960,1
+Q1372410,Eugen Bracht,2,romanticism,1842,matched,83,546,14,0,1900,0
+Q175257,Charles Verlat,2,realism,1824,matched,125,953,17,0,1880,0
+Q168659,Franz Xaver Winterhalter,3,academic_art,1805,matched,80,1809,14,0,2010,1
+Q46373,Edgar Degas,2,impressionism,1834,matched,127,70031,16,0,1990,1
+Q3101776,George Morren,2,post_impressionism,1868,matched,67,470,13,0,1980,1
+Q399091,Edgar Maxence,2,symbolism,1871,matched,37,111,7,0,1970,0
+Q45205,Raoul Dufy,2,fauvism,1877,matched,111,22880,13,0,1950,1
+Q900177,Béla Czóbel,2,expressionism,1883,matched,46,182,9,0,1960,1
+Q443779,María Blanchard,2,cubism,1881,matched,37,240,7,0,2000,1
+Q159409,Louise Bourgeois,2,surrealism,1911,matched,170,41379,19,410,1990,1
+Q2155072,Jan Bons,2,abstract_art,1918,matched,53,283,8,0,1990,1
+Q33477,Eugène Delacroix,2,romanticism,1798,matched,181,23383,21,0,2010,0
+Q130511,François Lafon,2,academic_art,1846,matched,30,69,11,0,1880,0
+Q34013,Georges Seurat,2,post_impressionism,1859,matched,121,37449,14,0,2000,1
+Q20829637,Louis Chalon,2,art_nouveau,1862,matched,130,1533,16,5,1920,0
+Q347920,Béla Kádár,2,expressionism,1877,matched,45,206,8,0,2010,1
+Q156214,Max Jacob,2,cubism,1876,matched,143,48035,18,8,1960,1
+Q1383568,Jan Le Witt,3,abstract_art,1907,matched,62,501,9,0,1950,1
+Q160252,Frederic Leighton,2,neoclassicism;symbolism,1830,matched,154,19437,18,5,1890,0
+Q676001,Eugène Devéria,2,romanticism,1805,matched,107,512,19,0,1900,0
+Q334200,Christian Krohg,2,realism,1852,matched,122,4590,14,0,1930,1
+Q2340277,Eliseu Visconti,2,impressionism,1866,matched,62,339,9,0,2000,1
+Q41406,Edvard Munch,2,expressionism;symbolism,1863,matched,120,90548,14,0,2000,1
+Q2537308,Louis Majorelle,2,art_nouveau,1859,matched,86,3174,13,0,1990,1
+Q718722,Róbert Berény,2,expressionism;fauvism,1887,matched,43,162,7,0,2010,1
+Q535334,Max Weber,2,cubism;expressionism,1881,matched,173,1164805,20,904,2010,1
+Q1964962,Jan van Heel,3,abstract_art,1898,matched,31,61,9,0,1950,1
+Q5146236,Colleen Browning,2,realism,1918,matched,74,1644,10,0,1970,1
+Q1565466,Emanuel Vidović,2,impressionism,1870,matched,26,114,8,0,2010,1
+Q119891,Ludwig Fahrenkrog,2,art_nouveau,1867,matched,41,167,9,0,2000,1
+Q7513293,Sigurd Swane,2,fauvism,1879,matched,53,198,11,0,1910,1
+Q566849,Carl Grossberg,2,expressionism,1894,matched,64,437,9,0,1980,1
+Q160172,Ossip Zadkine,2,cubism,1888,matched,98,7840,13,0,1960,1
+Q1865524,Marcel Mariën,2,surrealism,1920,matched,43,501,8,0,2010,1
+Q2164632,Georges Rouget,2,neoclassicism,1783,matched,68,231,12,0,1900,1
+Q24279413,Gabriel Guérin,2,academic_art,1869,matched,58,119,14,13,1880,0
+Q2183848,Gustave Loiseau,2,post_impressionism,1865,matched,92,550,13,4,1980,1
+Q1192595,Ellen Thesleff,2,expressionism;symbolism,1869,matched,64,442,13,0,1990,1
+Q1936310,Marcello Dudovich,2,art_nouveau,1878,matched,57,518,9,0,2000,1
+Q4422702,Oto Skulme,2,cubism,1889,matched,25,160,7,0,2000,1
+Q2447692,Maruja Mallo,2,surrealism,1902,matched,59,1684,9,0,2010,1
+Q571534,Joannis Avramidis,2,abstract_art,1922,matched,49,216,6,0,1960,1
+Q2441977,Gheorghe Tattarescu,2,academic_art;neoclassicism,1820,matched,54,236,7,0,1980,1
+Q1345186,Federico de Madrazo y Kuntz,5,romanticism,1815,matched,41,101,9,0,1930,1
+Q552440,Constantin Meunier,2,realism,1831,matched,134,10073,16,0,1910,0
+Q7127637,Ernest Rouart,2,impressionism,1874,matched,98,1229,12,0,1950,1
+Q4994489,Harald Giersing,2,post_impressionism,1881,matched,78,423,11,0,1990,1
+Q508344,Margaret MacDonald,2,art_nouveau,1864,matched,177,13635,20,255,1930,1
+Q3659604,Carlo Mattioli,2,expressionism,1911,matched,41,238,8,0,1990,1
+Q5593,Pablo Picasso,2,cubism;post_impressionism;surrealism,1881,matched,123,242014,16,7,2000,1
+Q61594,Meret Oppenheim,2,surrealism,1913,matched,79,10212,10,0,1990,1
+Q1175801,David Murray,2,realism,1849,matched,220,105759,22,3675,1880,0
+Q183245,George Frederic Watts,3,academic_art;symbolism,1817,matched,131,6416,16,0,2000,1
+Q1359654,Ernst Oppler,2,impressionism,1867,matched,75,419,13,0,1910,0
+Q3131012,Henri Duhem,2,post_impressionism,1860,matched,47,273,10,0,1890,0
+Q1350125,Ernest Hébert,2,symbolism,1817,matched,100,552,16,0,2010,0
+Q253339,Oskar Zwintscher,2,art_nouveau;symbolism,1870,matched,37,185,11,0,1900,0
+Q213848,Cesar Klein,2,expressionism,1876,matched,91,1075,12,0,1970,1
+Q555505,Paul Colin,2,cubism;surrealism,1892,matched,129,6071,16,41,1940,1
+Q2581909,Olga Sacharoff,2,surrealism,1881,matched,43,192,9,0,1990,1
+Q1959908,John Grosman,2,abstract_art,1916,matched,37,125,10,10,1850,1
+Q2004749,Giacomo Grosso,2,academic_art,1860,matched,89,402,13,0,1920,0
+Q1596249,Henri Lebasque,2,post_impressionism,1865,matched,97,717,12,0,1920,1
+Q709853,Ernst Josephson,2,symbolism,1851,matched,119,2896,13,0,1940,1
+Q2178796,Paul Berthon,2,art_nouveau,1872,matched,116,963,18,41,1890,0
+Q1865834,Charles Eyck,2,expressionism,1897,matched,64,199,9,0,1950,1
+Q1501421,Otto Tschumi,2,surrealism,1904,matched,75,448,11,0,1950,1
+Q12012418,Joost Baljeu,2,abstract_art,1925,matched,68,1389,10,5,1970,1
+Q223725,Francesco Hayez,2,romanticism,1791,matched,123,2531,19,0,2010,1
+Q2075154,Guillaume Seignac,2,academic_art,1870,matched,28,56,10,0,2010,0
+Q1373445,Eugène Boch,2,impressionism,1855,matched,42,278,7,0,2010,1
+Q1605934,Henri Manguin,2,post_impressionism,1874,matched,86,1483,11,0,1990,1
+Q259946,Ettore Tito,2,realism;symbolism,1859,matched,127,1645,14,0,1890,0
+Q2339568,Paul Cauchie,2,art_nouveau,1875,matched,46,233,8,0,2010,1
+Q446922,Charley Toorop,2,expressionism,1891,matched,86,1547,10,0,1960,1
+Q3370904,Paul Colinet,2,surrealism,1898,matched,58,674,10,0,1990,1
+Q616169,Jorge Oteiza,2,abstract_art,1908,matched,47,1412,7,0,2000,1
+Q122382,Henry Fuseli,2,neoclassicism;romanticism,1741,matched,218,34307,22,0,1830,1
+Q5432,Francisco Goya,2,romanticism,1746,matched,174,34157,22,0,2000,1
+Q1555416,Gustaf Cederström,2,academic_art,1845,matched,36,84,12,0,1910,1
+Q156386,Henri Rousseau,2,post_impressionism,1844,matched,139,38022,17,0,1980,1
+Q461464,Eugène Carrière,2,symbolism,1849,matched,129,2012,14,0,1900,0
+Q213735,Charlotte Salomon,2,expressionism,1917,matched,65,7236,12,13,2000,1
+Q727643,Paul Nash,2,surrealism,1889,matched,155,56850,22,64,1980,1
+Q170071,Josef Albers,2,abstract_art,1888,matched,101,43538,14,4,1980,1
+Q472235,Hippolyte Flandrin,2,neoclassicism,1809,matched,164,6055,19,0,1860,0
+Q1338170,Erik Henningsen,2,realism,1855,matched,69,250,12,0,1890,1
+Q632046,Gyula Benczúr,2,academic_art,1844,matched,37,240,8,0,2010,1
+Q212600,Eugène Louis Boudin,3,impressionism,1824,matched,39,55,12,0,1910,0
+Q160141,Chaïm Soutine,2,expressionism,1893,matched,33,400,6,0,2010,1
+Q718882,Roger de La Fresnaye,4,cubism,1885,matched,88,1493,11,0,1960,1
+Q679299,Pierre Molinier,2,surrealism,1900,matched,58,1258,9,0,1990,1
+Q316531,Julio González,2,abstract_art,1876,matched,77,3255,11,0,2010,1
+Q1398238,Frank Cadogan Cowper,3,romanticism,1877,matched,59,340,12,0,2000,1
+Q5625600,Gyula Tornai,2,academic_art,1861,matched,19,56,8,0,1900,0
+Q3060058,Eugène Murer,2,impressionism,1841,matched,45,209,10,0,2010,1
+Q565569,Ferdinand Keller,2,symbolism,1842,matched,171,5225,19,2,1860,0
+Q312627,Stanisław Wyspiański,2,art_nouveau,1869,matched,83,2050,10,0,2010,1
+Q1080695,Christian Kruck,2,expressionism,1925,matched,69,276,15,37,1930,0
+Q6711504,Romans Suta,2,cubism,1896,matched,25,233,6,0,2000,1
+Q492909,Pol Bury,2,surrealism,1922,matched,69,4314,10,0,1970,1
+Q290168,Katarzyna Kobro,2,abstract_art,1898,matched,62,1922,10,0,1990,1
+Q583015,Jacques Amans,2,neoclassicism,1801,matched,61,218,11,0,1960,1
+Q835503,Heinrich Knirr,2,academic_art,1862,matched,63,431,12,0,2000,1
+Q454670,Eva Bonnier,2,impressionism,1857,matched,58,342,13,0,1910,0
+Q3132990,Henry Ottmann,2,post_impressionism,1877,matched,22,88,8,0,1900,0
+Q1392368,Ferdynand Ruszczyc,2,symbolism,1870,matched,55,378,10,0,1980,1
+Q706041,Théophile Steinlen,2,art_nouveau,1859,matched,79,516,11,0,2010,1
+Q62992,Christian Rohlfs,2,expressionism,1849,matched,96,2626,12,0,1960,1
+Q65217201,Sándor Gergely,2,abstract_art;cubism,1889,matched,33,80,9,0,1950,1
+Q235275,Remedios Varo,2,surrealism,1908,matched,65,7137,10,0,1990,1
+Q464300,Eva Gonzalès,2,impressionism,1847,matched,53,629,13,0,2010,1
+Q2704611,Ilya Mashkov,2,post_impressionism,1881,matched,65,626,9,0,1990,1
+Q957157,František Bílek,2,symbolism,1872,matched,36,185,8,0,2010,1
+Q693095,Conrad Felixmüller,2,expressionism,1897,matched,49,512,7,0,2010,1
+Q170095,Robert Desnos,2,surrealism,1900,matched,98,16872,12,0,2000,1
+Q33567,Frederick Catherwood,2,romanticism,1799,matched,159,14226,20,0,1970,1
+Q5729003,Henry Tanworth Wells,3,academic_art,1828,matched,82,579,16,0,1920,0
+Q8022594,Willy Pogany,2,art_nouveau,1882,matched,121,13756,14,2,1910,0
+Q381911,Constant Permeke,2,expressionism,1886,matched,94,2407,10,0,1990,1
+Q450236,Roberto Matta,2,surrealism,1911,matched,81,7829,10,0,2000,1
+Q706335,Lynn Chadwick,2,abstract_art,1914,matched,88,7067,14,8,1960,1
+Q1681702,Jan David Zocher,3,neoclassicism,1791,matched,39,165,7,0,1990,1
+Q1355820,Federico Zandomeneghi,2,impressionism,1841,matched,59,536,10,0,1990,1
+Q378129,Félicien Rops,2,symbolism,1833,matched,139,4134,16,0,2010,0
+Q982677,Roland Penrose,2,surrealism,1900,matched,95,19745,12,0,1980,1
+Q192544,Henryk Siemiradzki,2,academic_art,1843,matched,63,559,12,0,2010,1
+Q3749980,Francesco Filippini,2,impressionism,1853,matched,58,196,11,0,1980,1
+Q6171106,Jean Marchand,2,post_impressionism,1883,matched,129,20734,17,14,1970,1
+Q913979,Gaetano Previati,2,symbolism,1852,matched,110,1358,13,0,1910,1
+Q206524,Marthe Donas,2,abstract_art,1885,matched,28,100,7,0,2010,1
+Q317355,Hermann Kaulbach,2,academic_art,1846,matched,83,305,15,0,1880,0
+Q729777,Frantz Charlet,2,impressionism,1862,matched,30,171,12,0,1900,0
+Q351746,Joaquín Sorolla,2,impressionism;post_impressionism,1863,matched,102,1757,12,0,2010,1
+Q1495565,Gaston Bussière,2,symbolism,1862,matched,30,108,12,1,1910,0
+Q1287966,Eduard Bargheer,2,expressionism,1901,matched,58,310,7,0,1990,1
+Q5577,Salvador Dalí,2,surrealism,1904,matched,86,38613,11,0,2010,1
+Q6780260,Mary Martin,2,abstract_art,1907,matched,220,122441,22,11524,1950,1
+Q381728,George Stubbs,2,romanticism,1724,matched,217,31558,22,0,1980,1
+Q210201,Fritz von Uhde,3,impressionism;realism,1848,matched,135,3258,15,0,1890,0
+Q663721,Franz Courtens,2,impressionism,1854,matched,71,393,15,0,1900,0
+Q21727807,John Ingleby,2,post_impressionism,1749,matched,216,2892,22,0,1810,0
+Q1381512,Georg Pauli,2,symbolism,1855,matched,83,716,13,0,1990,1
+Q2455247,Samuel Jessurun de Mesquita,4,surrealism,1868,matched,34,104,8,0,1980,1
+Q123454,Max Bill,2,abstract_art,1908,matched,96,22722,14,15,2000,1
+Q739419,Giovanni Migliara,2,romanticism,1785,matched,59,205,15,0,1840,1
+Q5497941,Frederick Hall,2,impressionism,1860,matched,214,21199,22,1169,1920,0
+Q3101526,George Desvallières,2,symbolism,1861,matched,30,84,10,0,2010,1
+Q3101395,George Arnald,2,realism,1763,matched,156,796,22,0,1820,0
+Q3806718,James Sant,2,academic_art;romanticism;symbolism,1820,matched,173,2672,22,5,1880,0
+Q559281,George Minne,2,symbolism,1866,matched,117,2650,19,19,1970,1
+Q44032,Egon Schiele,2,expressionism,1890,matched,100,33682,12,0,1990,1
+Q3553651,Valentine Hugo,2,surrealism,1887,matched,86,3299,10,0,1980,1
+Q881362,Norbert Kricke,2,abstract_art,1922,matched,71,1067,10,0,1960,1
+Q727869,Gustaaf Wappers,2,romanticism,1803,matched,45,129,12,0,1890,0
+Q1507251,George Duncan Beechey,3,realism,1798,matched,36,103,10,0,1900,1
+Q1398223,Georges Clairin,2,symbolism,1843,matched,118,1564,15,0,1880,0
+Q5889945,Einar Jolin,2,expressionism,1890,matched,62,271,11,0,1930,1
+Q465342,Wifredo Lam,2,surrealism,1902,matched,84,14488,10,0,2000,1
+Q6682,Gustave Doré,2,romanticism;symbolism,1832,matched,175,39520,21,9,1860,0
+Q3979368,Georges Croegaert,2,realism,1848,matched,46,108,9,0,1940,1
+Q445891,Frits Thaulow,2,impressionism,1847,matched,111,1502,13,0,1990,1
+Q652723,Georges Lacombe,2,symbolism,1868,matched,90,2617,13,0,1990,1
+Q669728,Wolfgang Paalen,2,surrealism,1905,matched,88,5700,11,0,2000,1
+Q699326,Otto Freundlich,2,abstract_art,1878,matched,77,2186,11,0,1980,1
+Q207298,Frédéric Bazille,2,impressionism,1841,matched,82,1744,12,0,2010,1
+Q346846,Georges Rochegrosse,2,symbolism,1859,matched,126,1147,17,4,1910,0
+Q1381297,Pablo Palazuelo,2,abstract_art,1915,matched,66,508,10,0,2000,1
+Q321579,Hendrik Scheffer,2,romanticism,1798,matched,23,77,11,0,1940,0
+Q213596,Leonid Pasternak,2,post_impressionism,1862,matched,92,5680,12,0,1980,1
+Q214687,Else Meidner,2,expressionism,1901,matched,39,245,8,0,1990,1
+Q708631,Pierre Soulages,2,abstract_art,1919,matched,79,4732,11,1,1960,1
+Q4148362,Henri Grevedon,2,romanticism,1776,matched,52,134,13,0,1820,1
+Q379300,Giovanni Segantini,2,symbolism,1858,matched,129,6058,14,0,1900,0
+Q152788,Emil Nolde,2,expressionism,1867,matched,107,23841,12,0,1980,1
+Q72615,Rudolf Bauer,2,abstract_art,1889,matched,106,3033,14,0,1970,1
+Q288087,Jens Adolf Jerichau,3,neoclassicism,1816,matched,48,162,15,0,1860,0
+Q561916,Henry Raeburn,2,romanticism,1756,matched,215,26648,22,0,1820,0
+Q1062517,Giulio Aristide Sartorio,3,realism;symbolism,1860,matched,81,515,13,0,2000,1
+Q689411,Giovanni Giacometti,2,impressionism,1868,matched,83,1927,12,0,1970,1
+Q6696710,Lucian Grigorescu,2,post_impressionism,1894,matched,60,308,9,0,1970,1
+Q1528580,Giuseppe Pellizza da Volpedo,4,symbolism,1868,matched,53,597,8,0,2000,1
+Q1401377,Rudolf Hoflehner,2,abstract_art,1916,matched,58,391,8,0,1960,1
+Q702272,Johann Zoffany,2,neoclassicism,1733,matched,152,6204,19,0,2000,1
+Q161145,Horace Vernet,2,romanticism,1789,matched,206,53115,22,0,1850,0
+Q3108143,Giuseppe Sciuti,2,realism,1834,matched,35,89,11,0,1900,0
+Q295144,Gustave Caillebotte,2,impressionism,1848,matched,102,9567,13,0,1990,1
+Q3266421,Luigi Corbellini,2,post_impressionism,1901,matched,26,61,8,0,1950,1
+Q203828,Gustave Moreau,2,symbolism,1826,matched,153,47919,17,1,1970,1
+Q76426,Rupprecht Geiger,2,abstract_art,1908,matched,66,651,9,0,1990,1
+Q6305444,Jef Leempoels,2,academic_art;realism,1867,matched,27,128,8,0,1900,0
+Q1030080,Hans Olde,2,impressionism,1855,matched,81,547,13,0,1900,0
+Q4167670,Malcolm Drummond,2,post_impressionism,1880,matched,200,3649,22,601,1800,0
+Q1352028,Erich Buchholz,2,expressionism,1891,matched,72,817,10,0,1990,1
+Q781561,Vilmos Huszár,2,abstract_art,1884,matched,48,304,7,0,2010,1
+Q254379,Ignacio Pinazo Camarlench,3,romanticism,1849,matched,16,61,6,0,1930,0
+Q236985,Helene Schjerfbeck,2,realism,1862,matched,76,2035,11,0,1990,1
+Q561091,Hans am Ende,3,impressionism,1864,matched,89,570,13,0,1910,0
+Q3292492,Marie Duhem,2,post_impressionism,1871,matched,63,409,11,0,1900,1
+Q2519247,Gustave Van de Woestijne,4,expressionism;symbolism,1881,matched,24,90,6,0,1970,1
+Q156700,Erich Heckel,2,expressionism,1883,matched,102,10426,13,2,1980,1
+Q449677,Walter Dexel,2,abstract_art,1890,matched,71,1102,10,0,1990,1
+Q159758,J. M. W. Turner,4,romanticism,1775,matched,218,80899,22,0,1900,0
+Q3502468,Marino Tartaglia,2,post_impressionism,1894,matched,26,64,8,0,2010,1
+Q2666703,Halfdan Egedius,2,symbolism,1877,matched,74,354,13,0,1950,1
+Q5388046,Erich Kahn,2,expressionism,1904,matched,54,272,8,0,1950,1
+Q924094,Werner Graeff,2,abstract_art,1901,matched,68,1161,9,0,1980,1
+Q467658,Joseph Karl Stieler,3,neoclassicism,1781,matched,57,355,10,0,2010,1
+Q433973,Jules Lefebvre,2,academic_art,1836,matched,156,6254,18,4,1880,0
+Q3849006,Mario Puccini,2,post_impressionism,1869,matched,95,563,12,0,1930,0
+Q437704,Hans Sandreuter,2,symbolism,1850,matched,35,187,12,0,1900,0
+Q1355806,Erma Bossi,2,expressionism,1875,matched,49,167,10,0,1980,1
+Q257928,William Scott,2,abstract_art,1913,matched,220,322082,22,141729,1800,0
+Q187506,Honoré Daumier,2,realism,1808,matched,146,11961,17,0,2010,1
+Q602549,Heinrich von Zügel,3,impressionism,1850,matched,41,83,11,0,1910,0
+Q3299800,Matthew Smith,2,post_impressionism,1879,matched,220,46072,22,6041,1850,0
+Q678094,Hans Thoma,2,symbolism,1839,matched,133,6606,16,0,1900,0
+Q156890,Ernst Barlach,2,expressionism,1870,matched,109,16195,12,0,1960,1
+Q526513,Willy Anthoons,2,abstract_art,1911,matched,31,90,9,0,1960,1
+Q4215366,James Wilson Carmichael,3,romanticism,1799,matched,66,196,13,0,1960,1
+Q3302549,Maxime Dethomas,2,post_impressionism,1867,matched,105,1009,12,0,1930,1
+Q516121,Hans von Marées,3,symbolism,1837,matched,124,1547,14,0,1950,1
+Q229272,Ernst Ludwig Kirchner,3,expressionism,1880,matched,95,17540,12,0,2000,1
+Q2563287,José Aparicio,2,neoclassicism,1770,matched,78,320,16,0,2010,1
+Q576824,Jan Adam Kruseman,3,romanticism,1804,matched,54,215,12,0,1900,0
+Q16062634,James Irvine,2,realism,1822,matched,220,65564,22,127,1850,0
+Q3262736,Louis Monzies,2,academic_art,1849,matched,52,115,15,0,1920,0
+Q733762,Nicolae Tonitza,2,expressionism;post_impressionism,1886,matched,60,494,7,0,1980,1
+Q213734,Heinrich Vogeler,2,symbolism,1872,matched,109,3579,13,0,1990,1
+Q512948,Jan Willem Pieneman,3,romanticism,1779,matched,77,477,13,0,1890,0
+Q381248,James Tissot,2,realism,1836,matched,157,12499,18,14,1890,0
+Q35548,Paul Cézanne,2,post_impressionism,1839,matched,125,32234,15,0,2010,1
+Q577050,Henri Le Sidaner,3,symbolism,1862,matched,107,1270,13,0,1900,0
+Q1235151,Eugen von Kahler,3,expressionism,1882,matched,36,94,7,0,1960,1
+Q1606016,Henri Rouart,2,impressionism,1833,matched,136,4393,16,0,1980,1
+Q37693,Paul Gauguin,2,impressionism;post_impressionism;symbolism,1848,matched,128,106418,16,2,2000,1
+Q1382776,Ewald Dülberg,2,expressionism,1888,matched,27,91,6,0,1930,1
+Q3187562,Juan Antonio de Ribera,4,neoclassicism,1779,matched,20,63,6,0,2000,1
+Q2076864,Henry Moret,2,impressionism,1856,matched,100,1035,15,3,1990,1
+Q15997394,Paule Gobillard,2,post_impressionism,1867,matched,59,435,9,0,1980,1
+Q159297,John Constable,2,realism;romanticism,1776,matched,220,101835,22,0,1960,1
+Q1489046,Hippolyte Daeye,2,expressionism;impressionism,1873,matched,54,196,11,0,1970,1
+Q450114,Henry de Groux,3,symbolism,1866,matched,109,1028,13,0,1900,0
+Q5441839,Feliks Topolski,2,expressionism,1907,matched,92,5386,12,5,1940,1
+Q937096,John Martin,2,romanticism,1789,matched,220,500735,22,0,1870,0
+Q263080,Hugo Simberg,2,symbolism,1873,matched,79,1360,11,0,1990,1
+Q12055447,Matthew Ridley Corbet,3,neoclassicism,1850,matched,65,213,14,0,1920,0
+Q55617,Johann Baptist Seele,3,realism,1774,matched,32,90,7,0,1990,1
+Q20379903,Luigi Bazzani,2,academic_art,1836,matched,60,218,13,0,1900,0
+Q723350,Ion Andreescu,2,impressionism,1850,matched,67,768,9,0,1970,1
+Q448189,Jacek Malczewski,2,symbolism,1854,matched,90,2369,13,0,1990,1
+Q2016617,Francis Gruber,2,expressionism,1912,matched,89,906,15,19,1950,1
+Q2339347,Ivan Grohar,2,impressionism,1867,matched,64,454,10,0,2010,1
+Q151803,Piet Mondrian,2,post_impressionism;symbolism,1872,matched,106,55480,17,2,1990,1
+Q158840,James Ensor,2,expressionism;symbolism,1860,matched,189,24993,21,98,1990,1
+Q2463574,Michel Martin Drolling,3,neoclassicism,1786,matched,51,115,15,0,1880,0
+Q6221679,John Berney Crome,3,realism,1794,matched,107,749,18,0,1960,0
+Q170259,Léon Bonnat,2,academic_art,1833,matched,145,3513,15,0,1890,0
+Q1364775,Ivan Trush,2,impressionism,1869,matched,51,213,11,0,1980,1
+Q2104325,Jan Preisler,2,symbolism,1872,matched,68,726,11,0,1990,1
+Q1447132,Franz Heckendorf,2,expressionism,1888,matched,32,89,11,0,2000,1
+Q1867953,Nanine Vallain,2,neoclassicism,1767,matched,36,197,7,0,2010,1
+Q5390252,John Jackson,2,realism,1778,matched,220,231892,22,0,1810,0
+Q1798144,Léon Comerre,2,academic_art,1850,matched,43,109,12,0,1880,0
+Q806616,Jacobus van Looy,3,impressionism,1855,matched,78,379,12,0,1990,1
+Q21294799,Richard Ranft,2,post_impressionism,1862,matched,89,872,14,0,1900,0
+Q458861,Jan Thorn Prikker,3,symbolism,1868,matched,45,214,8,0,2000,1
+Q15857646,Franz Henseler,2,expressionism,1883,matched,21,102,7,0,1970,1
+Q522983,Natale Schiavoni,2,neoclassicism,1777,matched,74,223,19,0,1880,0
+Q2699511,José Amador de los Ríos,5,romanticism,1818,matched,109,733,16,0,2010,1
+Q6251999,John Partridge,2,realism,1789,matched,220,29970,22,0,1800,0
+Q3288650,Marcel Baschet,2,academic_art,1862,matched,106,505,14,0,1890,0
+Q369416,Jan Toorop,2,expressionism;symbolism,1858,matched,121,6366,14,0,1990,1
+Q44054,Franz Marc,2,expressionism,1880,matched,111,37055,12,0,1980,1
+Q454321,Nicolae Grigorescu,2,impressionism;neoclassicism;realism;romanticism,1838,matched,75,2460,10,0,1980,1
+Q316016,John Singleton Copley,3,realism,1738,matched,216,68296,22,0,1930,1
+Q12117354,Sonia Lewitska,2,post_impressionism,1882,matched,27,63,8,0,1920,1
+Q1395469,Jean Delville,2,symbolism,1867,matched,108,2288,14,0,1990,1
+Q720979,José Malhoa,2,realism,1855,matched,59,413,9,0,2010,1
+Q23765900,Marius Roy,2,academic_art,1853,matched,49,223,11,0,1890,0
+Q20988913,Suzanne Eisendieck,2,post_impressionism,1906,matched,61,259,10,0,1930,1
+Q282043,Jules Breton,2,realism,1827,matched,165,20768,19,1,1880,0
+Q3174332,Jean Rigaud,2,impressionism,1912,matched,103,651,14,60,1940,1
+Q156889,Suzanne Valadon,2,post_impressionism;symbolism,1865,matched,100,12238,12,0,1990,1
+Q6306018,Jules Scalbert,2,realism,1851,matched,29,68,10,0,1900,0
+Q3301559,Maurice de Lambert,3,academic_art,1873,matched,25,72,9,0,1910,0
+Q568284,Theodor Pallady,2,post_impressionism,1871,matched,62,700,8,0,1970,1
+Q1460839,Friedrich Ludwig,2,expressionism,1895,matched,188,27018,21,1291,2000,1
+Q3371528,Paul Flandrin,2,neoclassicism,1811,matched,134,1005,19,0,1860,0
+Q6215655,Johann Berthelsen,2,impressionism,1883,matched,51,208,12,1,1980,1
+Q21289884,Thomas William Marshall,3,post_impressionism,1875,matched,92,365,19,109,1840,0
+Q181503,Frits Van den Berghe,4,expressionism,1883,matched,50,346,7,0,1990,1
+Q2696989,Leonardo Alenza,2,romanticism,1807,matched,74,397,12,0,1950,1
+Q1038450,Józef Pankiewicz,2,impressionism;realism;symbolism,1866,matched,52,222,8,0,1990,1
+Q446948,Mikoláš Aleš,2,academic_art,1852,matched,46,264,9,0,2010,1
+Q212754,John William Waterhouse,3,impressionism;symbolism,1849,matched,87,3682,17,0,2010,1
+Q20819181,Vasile Popescu,2,post_impressionism,1894,matched,52,212,10,0,1980,1
+Q22227067,Jeanne Jacquemin,2,symbolism,1863,matched,47,236,9,0,1970,1
+Q3184825,Joseph Delattre,2,impressionism,1858,matched,23,66,9,0,1870,1
+Q468219,Vlaho Bukovac,2,post_impressionism,1855,matched,72,1127,12,0,2010,1
+Q164124,Fritz Bleyl,2,expressionism,1880,matched,72,1456,9,0,1980,1
+Q544646,Léon Cogniet,2,romanticism,1794,matched,159,2120,18,0,1880,0
+Q451131,Nélie Jacquemart,2,academic_art,1841,matched,71,503,16,0,2010,0
+Q703369,Walter Sickert,2,post_impressionism,1860,matched,138,31990,17,4,2000,1
+Q1521460,John Duncan,2,symbolism,1866,matched,220,123750,22,8917,1880,0
+Q1468140,Fritz Schaefler,2,expressionism,1888,matched,31,104,11,0,1920,1
+Q2085926,Léon Riesener,2,romanticism,1808,matched,39,159,9,0,1980,1
+Q159606,John Everett Millais,3,symbolism,1829,matched,176,38508,18,0,2010,0
+Q462183,Fritz Stuckenberg,2,expressionism,1881,matched,41,131,9,0,1990,1
+Q716808,Theodor Aman,2,academic_art;neoclassicism;realism;romanticism,1831,matched,76,1041,12,0,1970,1
+Q1694168,Lado Gudiashvili,2,realism,1896,matched,56,676,7,0,1980,1
+Q3378108,Pharaon de Winter,3,academic_art,1849,matched,28,82,9,0,1880,0
+Q3189783,Juliette Wytsman,2,impressionism,1866,matched,62,429,12,0,1980,1
+Q239394,Édouard Vuillard,2,post_impressionism,1868,matched,75,1446,9,0,2010,1
+Q23000781,Fritz Winkler,2,expressionism,1894,matched,90,839,13,1,1930,1
+Q668411,Victor Mottez,2,neoclassicism,1809,matched,91,569,14,0,1930,1
+Q664602,Léopold Robert,2,romanticism,1794,matched,164,1741,18,0,1870,0
+Q943537,Leon Wyczółkowski,2,realism,1852,matched,46,204,8,0,1990,1
+Q265665,Pierre Auguste Cot,3,academic_art,1837,matched,69,209,14,0,1900,0
+Q551857,Josef Šíma,2,symbolism,1891,matched,26,129,5,0,2010,1
+Q463978,Gabriele Münter,2,expressionism,1877,matched,74,2511,10,0,2010,1
+Q1617507,Vieira Portuense,2,neoclassicism,1764,matched,65,400,14,0,1850,1
+Q1886542,Maksymilian Gierymski,2,romanticism,1846,matched,53,323,8,0,1980,1
+Q3229810,Leopold Pilichowski,2,realism,1869,matched,87,413,12,0,1920,1
+Q1750942,Pierre Cabanel,2,academic_art,1838,matched,38,94,11,0,1880,0
+Q317202,Karl Caspar,2,impressionism,1879,matched,87,498,13,1,1980,1
+Q741159,Gen Paul,2,expressionism,1895,matched,88,4345,14,2,1960,1
+Q213163,Élisabeth Louise Vigée Le Brun,5,neoclassicism,1755,matched,14,95,4,0,2010,1
+Q3833098,Lino Selvatico,2,realism,1872,matched,31,131,10,0,1920,0
+Q1712402,Julio Romero de Torres,4,symbolism,1874,matched,83,1231,11,0,2000,1
+Q743633,Georg Schrimpf,2,expressionism,1889,matched,90,1092,10,0,1990,1
+Q828591,Georg Tappert,2,expressionism,1880,matched,65,933,11,0,1980,1
+Q1141251,Mosè Bianchi,2,romanticism,1840,matched,51,144,12,0,1990,1
+Q3271202,Léon Mignon,2,realism,1847,matched,27,53,10,0,1890,0
+Q437792,Konstantin Korovin,2,impressionism,1861,matched,82,3169,12,0,1990,1
+Q47737,Kahlil Gibran,2,symbolism,1883,matched,116,59710,15,16,2010,1
+Q6792218,Maud Earl,2,realism,1864,matched,128,2235,15,0,1910,0
+Q1343751,Konstantin Yuon,2,impressionism,1875,matched,71,849,11,0,1990,1
+Q465304,Otto Scholderer,2,romanticism,1834,matched,101,760,15,0,1880,0
+Q375814,Raphaël Collin,2,academic_art;impressionism;symbolism,1850,matched,64,237,13,0,1890,0
+Q692098,Lasar Segall,2,impressionism,1891,matched,88,4146,11,0,1940,1
+Q368728,Kazimierz Stabrowski,2,symbolism,1869,matched,28,98,7,0,1980,1
+Q4055907,Mikhail Avilov,2,realism,1882,matched,28,58,8,0,1990,1
+Q3425770,René Aubert,2,academic_art,1894,matched,132,552,22,156,1820,0
+Q2693890,Laura Knight,2,impressionism,1877,matched,136,17269,17,5,1930,1
+Q6430240,Konstanty Laszczka,2,symbolism,1865,matched,53,236,11,0,1900,1
+Q981212,Gustave De Smet,3,expressionism,1877,matched,59,386,10,0,2000,1
+Q1354027,Paul Huet,2,romanticism,1803,matched,179,5259,19,0,1870,0
+Q3440608,Romain Cazes,2,academic_art,1808,matched,19,71,9,0,1900,0
+Q1642398,Leo Nardus,2,impressionism,1868,matched,63,211,16,6,2000,1
+Q313982,Hans Baluschek,2,expressionism,1870,matched,89,752,13,0,1910,1
+Q2081067,Petrus van Schendel,3,romanticism,1806,matched,59,206,13,0,1900,0
+Q6525596,Leonard Ochtman,2,impressionism,1854,matched,138,3432,16,1,1900,0
+Q2199553,Laurits Andersen Ring,3,symbolism,1854,matched,27,92,5,0,1990,1
+Q655484,Hans Purrmann,2,expressionism,1880,matched,88,2151,10,0,1980,1
+Q556288,Pietro Aldi,2,romanticism,1852,matched,40,76,12,0,1920,1
+Q1360808,Leonardo Bistolfi,2,symbolism,1859,matched,108,965,13,0,1910,0
+Q1389396,Piotr Michałowski,2,romanticism,1800,matched,49,161,8,0,2010,1
+Q18545582,Nicolae Popescu,2,realism,1835,matched,59,269,8,0,1950,1
+Q270629,Louise Catherine Breslau,3,impressionism,1856,matched,57,745,10,0,1920,0
+Q956854,Louis Welden Hawkins,3,symbolism,1849,matched,32,154,7,0,1990,1
+Q1582769,Hans Thuar,2,expressionism,1887,matched,24,116,7,0,1980,1
+Q2975722,Nicolae Vermont,2,realism,1866,matched,37,98,7,0,1950,1
+Q326434,Thomas Couture,2,academic_art,1815,matched,157,14234,19,2,1980,1
+Q321284,Heinrich Altherr,2,expressionism,1878,matched,29,77,8,0,1990,1
+Q157610,Lovis Corinth,2,expressionism;impressionism,1858,matched,114,15452,13,0,1990,1
+Q213685,Heinrich Campendonk,2,expressionism,1889,matched,95,1970,10,0,1970,1
+Q18744574,Lucien Frank,2,impressionism,1857,matched,68,238,16,0,1920,0
+Q318551,Ludwig von Hofmann,3,symbolism,1861,matched,115,1358,15,0,1900,0
+Q461828,Heinrich Nauen,2,expressionism,1880,matched,77,477,11,0,1960,1
+Q972033,Nikolay Kasatkin,2,realism,1859,matched,24,130,5,0,1990,1
+Q179893,Vojtěch Hynais,2,academic_art,1854,matched,24,93,9,0,2010,1
+Q964608,Lucien Pissarro,2,impressionism,1863,matched,131,15328,15,9,1980,1
+Q2744493,Luis Ricardo Falero,3,symbolism,1851,matched,18,70,4,0,2010,1
+Q1500100,Helen Dahm,2,expressionism,1878,matched,43,124,11,0,1950,1
+Q982251,Samuel Palmer,2,romanticism,1805,matched,220,66765,22,66,1810,0
+Q1361500,Léon Frédéric,2,symbolism,1856,matched,76,413,14,0,1890,0
+Q2638473,Hendrik Chabot,2,expressionism,1894,matched,66,330,9,0,1960,1
+Q2534502,Thomas Hill,2,romanticism,1829,matched,220,155451,22,2553,1880,0
+Q559440,Hendrik Nicolaas Werkman,3,expressionism,1882,matched,58,404,8,0,1970,1
+Q312096,Thomas Lawrence,2,romanticism,1769,matched,220,201267,22,0,1830,0
+Q2032661,Oscar Begas,2,realism,1828,matched,40,111,16,0,1850,0
+Q652975,László Mednyánszky,2,impressionism,1852,matched,41,113,9,0,1940,1
+Q1394505,Léon Spilliaert,2,expressionism;symbolism,1881,matched,41,443,8,0,2010,1
+Q743877,Henryk Gotlib,2,expressionism,1890,matched,68,495,8,0,1940,1
+Q318584,Thomas Rowlandson,2,romanticism,1757,matched,210,40281,22,0,1940,1
+Q1807597,Otto Bache,2,realism,1839,matched,99,473,16,0,1860,0
+Q724148,Édouard Detaille,2,academic_art,1848,matched,79,430,16,1,2010,0
+Q920009,László Paál,2,impressionism,1846,matched,21,60,8,0,2010,1
+Q967073,Magnus Enckell,2,symbolism,1870,matched,85,856,13,0,2000,1
+Q324194,Herbert Boeckl,2,expressionism,1894,matched,72,870,10,0,1990,1
+Q342467,Théodore Chassériau,2,romanticism,1819,matched,106,1211,15,0,2010,1
+Q260892,Paja Jovanović,2,realism,1859,matched,36,139,8,0,2010,1
+Q2495706,Herman Kruyder,2,expressionism,1881,matched,58,311,9,0,1950,1
+Q184212,Théodore Géricault,2,romanticism,1791,matched,124,5113,16,0,2010,1
+Q7147317,Patrick Nasmyth,2,realism,1787,matched,176,2850,20,0,1880,0
+Q274909,Émile Bayard,2,academic_art,1837,matched,55,212,14,0,1890,0
+Q2367230,Maurice Chabas,2,symbolism,1862,matched,47,218,11,0,1910,0
+Q677797,Hermann Scherer,2,expressionism,1893,matched,55,618,12,13,2000,1
+Q183713,Théophile Gautier,2,romanticism,1811,matched,183,60390,20,1,1880,0
+Q3370650,Paul Biva,2,realism,1851,matched,26,52,6,0,1990,1
+Q1593149,Maria Slavona,2,impressionism,1865,matched,34,125,10,0,1990,1
+Q440369,Maurice Denis,2,symbolism,1870,matched,147,42748,22,76,1990,1
+Q1612833,Hermann Stenner,2,expressionism,1891,matched,29,141,6,0,1990,1
+Q1365771,Paul Raud,2,realism,1865,matched,36,108,10,0,1980,1
+Q3588633,Émile Lévy,2,academic_art,1826,matched,50,122,15,0,1880,0
+Q52161723,Marie Baudet,2,impressionism,1864,matched,23,57,11,6,1830,0
+Q44252,Max Klinger,2,symbolism,1857,matched,141,16528,16,0,1900,1
+Q62661,Herwarth Walden,2,expressionism,1878,matched,106,11478,11,0,1970,1
+Q273552,Marie Bracquemond,2,impressionism,1840,matched,67,1202,14,0,1980,1
+Q358885,Maximilian Voloshin,2,symbolism,1877,matched,94,2169,12,0,2000,1
+Q560757,Wilhelm Hensel,2,romanticism,1794,matched,137,3235,18,0,1880,1
+Q317275,Philipp Foltz,2,realism,1805,matched,27,119,13,0,1880,0
+Q41513,William Blake,2,romanticism,1757,matched,220,760105,22,0,2000,1
+Q1348381,Pietro Annigoni,2,realism,1910,matched,77,2757,10,0,1950,1
+Q4099197,Marius Bunescu,2,impressionism,1881,matched,48,209,10,0,1950,1
+Q154349,Odilon Redon,2,symbolism,1840,matched,134,42742,16,0,1990,1
+Q661172,Iosif Iser,2,expressionism,1881,matched,56,298,7,0,1970,1
+Q1364258,Wojciech Gerson,2,romanticism,1831,matched,70,665,12,0,1990,1
+Q1333398,Pietro Canonica,2,realism,1869,matched,96,822,13,0,2010,1
+Q585067,Paul Ranson,2,symbolism,1861,matched,95,2522,13,0,1990,1
+Q731125,Isaac Grünewald,2,expressionism,1889,matched,86,563,11,0,2010,1
+Q3570799,Xavier Sigalon,2,romanticism,1787,matched,80,281,15,0,1880,0
+Q326606,Paul Sérusier,2,symbolism,1864,matched,90,1943,12,0,2010,1
+Q1674765,Issachar Ber Ryback,3,expressionism,1897,matched,36,181,7,0,1990,1
+Q158062,Max Liebermann,2,impressionism,1847,matched,135,24089,15,0,2010,1
+Q897653,Ivan Milev,2,expressionism,1897,matched,59,391,9,0,1990,1
+Q703356,Max Slevogt,2,impressionism,1868,matched,127,4658,14,0,1980,1
+Q4245043,Pavel Kuznetsov,2,symbolism,1878,matched,81,2702,10,0,1990,1
+Q214106,Jacob Steinhardt,2,expressionism,1887,matched,129,1324,15,29,1950,0
+Q2506493,Raimundo de Madrazo y Garreta,5,realism,1841,matched,55,183,10,0,1930,1
+Q1419288,Molly Cramer,2,impressionism,1852,matched,23,105,8,0,1890,0
+Q7287617,Ralph Hedley,2,realism,1848,matched,136,1069,19,4,1890,0
+Q216873,Pierre Puvis de Chavannes,4,symbolism,1824,matched,132,6537,15,0,1990,1
+Q1682227,Jan Sluijters,2,expressionism,1881,matched,55,518,7,0,1990,1
+Q18160938,Robert Ladbrooke,2,realism,1768,matched,166,1422,22,0,1800,0
+Q1356488,Richard Bergh,2,symbolism,1858,matched,128,2436,16,4,1910,0
+Q7360842,Rolinda Sharples,2,realism,1793,matched,65,333,15,0,1820,0
+Q472237,Nikolaos Gyzis,2,impressionism,1842,matched,28,168,6,0,2010,1
+Q2675322,Jan Wiegers,2,expressionism,1893,matched,63,607,9,0,2000,1
+Q466607,Romaine Brooks,2,symbolism,1874,matched,103,12120,11,0,1980,1
+Q213726,Jankel Adler,2,expressionism,1895,matched,88,3038,11,2,1980,1
+Q2040272,Otto Reiniger,2,impressionism,1863,matched,25,103,10,0,1890,0
+Q569451,Sascha Schneider,2,symbolism,1870,matched,101,820,13,0,1900,0
+Q594345,Samuel Hirszenberg,2,realism,1865,matched,80,754,13,0,2000,1
+Q491039,Paul César Helleu,3,impressionism,1859,matched,46,172,11,0,2010,1
+Q204138,Viktor Vasnetsov,2,symbolism,1848,matched,62,2395,10,0,2000,1
+Q123138,Johannes Itten,2,expressionism,1888,matched,91,10139,10,0,1990,1
+Q369633,Silvestro Lega,2,realism,1826,matched,85,1216,11,0,1990,1
+Q4015187,Vittore Grubicy de Dragon,4,symbolism,1851,matched,49,203,11,0,2000,1
+Q7152290,Paul Maze,2,impressionism,1887,matched,93,2664,10,0,1970,1
+Q660917,Walter Crane,2,symbolism,1845,matched,188,129185,22,45,1890,0
+Q928638,Joseph Kutter,2,expressionism,1894,matched,76,343,16,11,1980,1
+Q3372389,Paul Vogler,2,impressionism,1852,matched,93,558,12,0,1930,1
+Q61064,Wassily Kandinsky,2,expressionism;symbolism,1866,matched,118,62899,17,3,2000,1
+Q365068,Peder Severin Krøyer,3,impressionism,1851,matched,24,116,5,0,2010,1
+Q653555,Wilhelm List,2,symbolism,1864,matched,86,4387,11,0,1940,1
+Q428928,José Gutiérrez Solana,3,expressionism,1886,matched,62,318,10,0,2010,1
+Q981439,Tadeusz Ajdukiewicz,2,realism,1851,matched,23,53,5,0,2010,1
+Q2076179,Philip Wilson Steer,3,impressionism,1860,matched,103,4642,13,0,2000,1
+Q1049510,William Degouve de Nuncques,4,symbolism,1867,matched,48,313,8,0,1990,1
+Q736886,Juan Barjola,2,expressionism,1919,matched,25,113,7,0,1960,1
+Q211763,William Holman Hunt,3,symbolism,1827,matched,165,26440,18,1,2000,1
+Q733725,Julo Levin,2,expressionism,1901,matched,26,229,6,0,1980,1
+Q1333386,Thomas Sidney Cooper,3,realism,1803,matched,169,2052,19,0,1900,0
+Q182589,William Morris,2,symbolism,1834,matched,220,1020244,22,1931,1890,0
+Q4334890,Thomas Webster,2,realism,1800,matched,220,34065,22,0,1810,0
+Q2093769,Witold Wojtkiewicz,2,expressionism;symbolism,1879,matched,64,462,12,0,1980,1
+Q62249,Karl Hofer,2,expressionism,1878,matched,107,4119,13,3,1930,1
+Q318393,Vasily Polenov,2,realism,1844,matched,56,849,7,0,1980,1
+Q3396084,Pompeo Mariani,2,impressionism,1857,matched,38,300,10,0,1980,0
+Q941359,Wojciech Weiss,2,expressionism;symbolism,1875,matched,68,580,11,0,1990,1
+Q15461781,Karl Zerbe,2,expressionism,1903,matched,94,3216,11,0,1940,1
+Q742322,Pál Szinyei Merse,3,impressionism,1845,matched,46,157,8,0,2010,1
+Q2065760,Władysław Podkowiński,2,impressionism;symbolism,1866,matched,26,67,7,0,2010,1
+Q725681,Ramon Casas,2,impressionism,1866,matched,108,3727,14,0,1990,1
+Q1041605,Xavier Mellery,2,symbolism,1845,matched,101,881,15,0,1990,1
+Q389816,Konrad Mägi,2,expressionism,1878,matched,28,172,8,0,2010,1
+Q1444224,Vladimir Ovchinnikov,2,realism,1911,matched,43,316,6,0,1990,1
+Q2497776,Rihard Jakopič,2,impressionism,1869,matched,32,172,7,0,2010,1
+Q264193,Émile Bernard,2,symbolism,1868,matched,104,3275,14,0,2010,1
+Q142472,Käthe Kollwitz,2,expressionism,1867,matched,112,13126,12,0,2010,1
+Q8004404,William Anderson,2,realism,1757,matched,220,194632,22,0,1810,0
+Q638183,Rudolf von Alt,3,impressionism,1812,matched,99,1563,13,0,1900,1
+Q1646368,Sella Hasse,2,expressionism;impressionism,1878,matched,24,140,7,0,2010,1
+Q2272573,Sergey Vinogradov,2,impressionism,1869,matched,26,105,7,0,1960,1
+Q597999,Leo Gestel,2,expressionism,1881,matched,76,585,11,0,1920,1
+Q4317391,Yuri Neprintsev,2,realism,1909,matched,25,68,7,0,1950,1
+Q2417677,Theodor Hagen,2,impressionism,1842,matched,96,481,16,0,1860,0
+Q52156759,Leon Weissberg,2,expressionism,1895,matched,29,65,7,0,1990,1
+Q3837108,Lorenzo Viani,2,expressionism,1882,matched,82,533,11,0,1990,1
+Q255662,Lothar Schreyer,2,expressionism,1886,matched,89,2581,11,0,1970,1
+Q877843,Ulrich Hübner,2,impressionism,1872,matched,44,334,10,0,2010,1
+Q178279,Viktor Madarász,2,impressionism,1830,matched,38,88,8,0,2010,1
+Q690446,Louis Moilliet,2,expressionism,1880,matched,72,950,8,0,1980,1
+Q1872117,Louis le Brocquy,3,expressionism,1916,matched,79,4107,9,0,2000,1
+Q154594,Lucian Freud,2,expressionism,1922,matched,88,27477,12,2,2010,1
+Q11705308,William Brymner,2,impressionism,1855,matched,131,3329,16,1,1970,1
+Q213727,Ludwig Meidner,2,expressionism,1884,matched,92,6059,10,0,1990,1
+Q20776397,William Chadwick,2,impressionism,1879,matched,214,10885,22,2048,1840,0
+Q2580668,William Stott,2,impressionism,1857,matched,204,8803,22,286,1870,0
+Q983833,M. H. Maxy,3,expressionism,1895,matched,54,363,7,0,2000,1
+Q161858,Zinaida Serebryakova,2,impressionism,1884,matched,37,350,6,0,1990,1
+Q6729786,Magda Cordell McHale,3,expressionism,1921,matched,51,1096,7,0,1970,1
+Q40599,Édouard Manet,2,impressionism,1832,matched,125,10504,15,0,2010,1
+Q1732961,Magnus Zeller,2,expressionism,1888,matched,40,266,9,0,1990,1
+Q93284,Marc Chagall,2,expressionism,1887,matched,112,94051,17,5,1990,1
+Q690155,Marcel Gromaire,2,expressionism,1892,matched,96,2324,12,0,1950,1
+Q366217,Marcel Janco,2,expressionism,1895,matched,78,6086,10,0,1990,1
+Q275813,Marie Howet,2,expressionism,1897,matched,53,143,11,0,1940,1
+Q3301346,Maurice Rocher,2,expressionism,1918,matched,35,111,9,0,1960,1
+Q164683,Max Beckmann,2,expressionism,1884,matched,107,42136,14,1,1990,1
+Q216480,Max Oppenheimer,2,expressionism,1885,matched,134,2755,16,10,1990,1
+Q162105,Max Pechstein,2,expressionism,1881,matched,105,8797,11,0,1990,1
+Q684675,Michel Kikoine,2,expressionism,1892,matched,60,251,9,0,1990,1
+Q1948185,Moritz Melzer,2,expressionism,1877,matched,33,104,9,0,1910,1
+Q972018,Mstislav Dobuzhinsky,2,expressionism,1875,matched,70,1772,11,0,1990,1
+Q924865,Nikola Martinoski,2,expressionism,1903,matched,45,168,9,0,1970,1
+Q352190,Nikolai Triik,2,expressionism,1884,matched,44,203,8,0,1960,1
+Q1565449,Oskar Herman,2,expressionism,1886,matched,44,115,9,0,1960,1
+Q154260,Oskar Kokoschka,2,expressionism,1886,matched,111,40014,13,0,1980,1
+Q153104,Otto Dix,2,expressionism,1891,matched,97,30520,11,0,1990,1
+Q319627,Otto Gleichmann,2,expressionism,1887,matched,39,216,9,0,1980,1
+Q1237680,Otto Herbig,2,expressionism,1889,matched,46,138,13,4,1990,1
+Q2039194,Otto Hettner,2,expressionism,1875,matched,39,97,10,0,1910,0
+Q1581259,Otto Lais,2,expressionism,1897,matched,20,230,7,11,2010,1
+Q71425,Otto Modersohn,2,expressionism,1865,matched,101,4497,13,0,1990,1
+Q317041,Otto Mueller,2,expressionism,1874,matched,149,9159,18,5,1940,1
+Q2040016,Otto Möller,2,expressionism,1883,matched,46,311,12,22,1880,0
+Q7109746,Otto Neumann,2,expressionism,1895,matched,131,1685,17,26,1910,0
+Q979105,Otto Ritschl,2,expressionism,1885,matched,131,2699,14,0,1900,0
+Q719109,Ottone Rosai,2,expressionism,1895,matched,81,1235,10,0,2000,1
+Q1345060,Paul Adolf Seehaus,3,expressionism,1891,matched,29,71,8,0,1960,1
+Q123323,Paul Camenisch,2,expressionism,1893,matched,48,584,7,0,2000,1
+Q98013,Paul Goesch,2,expressionism,1885,matched,33,118,7,0,1990,1
+Q472646,Pericle Fazzini,2,expressionism,1913,matched,78,710,10,0,1950,1
+Q381277,Renato Guttuso,2,expressionism,1911,matched,83,6020,10,0,1980,1
+Q646763,Renzo Vespignani,2,expressionism,1924,matched,73,513,9,0,1950,1
+Q3426309,René Guiette,2,expressionism,1893,matched,33,67,8,0,1950,1
+Q129113,Richard Gerstl,2,expressionism,1883,matched,65,2248,9,0,1990,1
+Q318053,Rolf Nesch,2,expressionism,1893,matched,77,1805,10,0,1960,1
+Q215550,Rudolf Levy,2,expressionism,1875,matched,84,753,10,0,1980,1
+Q640787,Rudolf Schlichter,2,expressionism,1890,matched,72,1815,10,0,1990,1
+Q102228,Siegfried Schott,2,expressionism,1897,matched,92,846,10,0,1930,1
+Q272405,Sigrid Hjertén,2,expressionism,1885,matched,45,332,10,0,2010,1
+Q928729,Simon Segal,2,expressionism,1898,matched,104,1755,13,0,1940,1
+Q319274,Stanislaw Kubicki,2,expressionism,1889,matched,31,129,8,0,1980,1
+Q381238,Stanisław Ignacy Witkiewicz,3,expressionism,1885,matched,66,1536,8,0,1990,1
+Q160422,Theo van Doesburg,3,expressionism,1883,matched,97,23487,11,4,1980,1
+Q613125,Tivadar Csontváry Kosztka,3,expressionism,1853,matched,40,168,6,0,2010,1
+Q261846,Tsuguharu Foujita,2,expressionism,1886,matched,51,576,9,0,2010,1
+Q947790,Tyko Sallinen,2,expressionism,1879,matched,65,373,9,0,1990,1
+Q2413750,Valentine Prax,2,expressionism,1897,matched,77,319,10,0,1930,1
+Q2441160,Valerius de Saedeleer,3,expressionism,1867,matched,76,453,11,0,2000,1
+Q639413,Walter Gramatté,2,expressionism,1897,matched,42,311,9,0,1990,1
+Q1482415,Walter Helbig,2,expressionism,1878,matched,79,484,11,0,1940,1
+Q573668,Walter Leistikow,2,expressionism,1865,matched,107,1368,13,0,1900,0
+Q879613,Wenzel Hablik,2,expressionism,1881,matched,48,570,8,0,1990,1
+Q1257938,Werner Berg,2,expressionism,1904,matched,72,734,13,4,2000,1
+Q2562157,Werner Neuhaus,2,expressionism,1897,matched,50,206,8,0,1980,1
+Q2562513,Werner Scholz,2,expressionism,1898,matched,86,763,10,0,1930,1
+Q2512767,Wessel Couzijn,2,expressionism,1912,matched,54,399,7,0,1960,1
+Q2573577,Wilhelm Kaufmann,2,expressionism,1895,matched,115,1043,13,5,1930,1
+Q551282,Wilhelm Lehmbruck,2,expressionism,1881,matched,106,7662,12,0,1980,1
+Q69538,Wilhelm Morgner,2,expressionism,1891,matched,64,615,9,0,1980,1
+Q4321849,Willi Nowak,2,expressionism,1886,matched,51,165,9,0,1970,1
+Q1362480,Yury Annenkov,2,expressionism,1889,matched,56,584,8,0,1970,1

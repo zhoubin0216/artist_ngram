@@ -1,0 +1,63 @@
+{
+  "stage": "C: Getty full-run descriptive validation against fixed Ngram A3 death-aligned clusters",
+  "not_retraining": true,
+  "relative_window_inclusive": [
+    -30,
+    49
+  ],
+  "relative_bins": [
+    -30,
+    -20,
+    -10,
+    0,
+    10,
+    20,
+    30,
+    40
+  ],
+  "source_files_sha256": {
+    "a3_assignments": "1617a4f8de232bec7a657dab1269e9dc2155c6f67a339e29813607c1f9be5fc6",
+    "a3_features": "4a06566fb4beccfadb0eda369d80bd33ab58e026212c672c0d8aa0e48797eb08",
+    "getty_mapping": "e73a0fcccbcdbebe9bf76d1132b0e797cd15b5c2840bb78c699bcdffd7881b73",
+    "getty_annual": "4daa545263e116b0dcc5b47c1dd72635dce38b5e708da02a9cdc5469c386fbf7",
+    "getty_events": "0e5e99f0fe0fbae1afa022cfe5dbde31ecbb79c533e1b636e2f5f3c6783f2d5d",
+    "stage_b": "6242b18fb6f229de2b2b59eb30520aae00edd3c2818d26bfa6b881c0f53c53f5"
+  },
+  "a3_artists": 575,
+  "clusters": {
+    "0": 391,
+    "1": 184
+  },
+  "a3_accepted_getty_mappings": 291,
+  "a3_any_getty_events": 261,
+  "a3_any_dated_getty_event_any_year": 134,
+  "a3_with_dated_event_in_window": 114,
+  "a3_with_sale_in_window": 114,
+  "a3_with_catalog_in_window": 112,
+  "a3_with_getty_trend_signal": 87,
+  "a3_window_confirmed_sale_records": 5647,
+  "a3_window_catalog_records": 3247,
+  "a3_total_event_rows_with_no_year": 38559,
+  "a3_total_event_rows_with_year": 12512,
+  "getty_full_dataset_event_rows": 79715,
+  "getty_full_dataset_events_without_year": 56708,
+  "getty_full_dataset_events_with_year": 23007,
+  "getty_full_dataset_dated_event_count_matches_yearly_csv": true,
+  "signal_rule": {
+    "min_dated_window_records": 3,
+    "min_nonzero_bins": 2
+  },
+  "three_source_overlap_present": true,
+  "three_source_any_overlap": 53,
+  "three_source_both_signal_sufficient": 27,
+  "cautions": [
+    "Getty mappings not automatically accepted are MISSING, never interpreted as zero transactions.",
+    "No dated Getty record means no indexed dated event; NOT zero historical transactions.",
+    "Undated event records excluded from all calendar/death-aligned bins.",
+    "Getty confirmed title-transfer records and catalog/source entries are counted separately.",
+    "Dated Getty coverage and indexing vary historically and by artist; no causal interpretation.",
+    "Getty counts are not normalized against a complete annual global-market denominator.",
+    "A3 sample is selected by Ngram coverage and signal; conclusions are conditional on selection.",
+    "OpenAlex and Getty missingness/coverage cannot be treated as the same construct."
+  ]
+}

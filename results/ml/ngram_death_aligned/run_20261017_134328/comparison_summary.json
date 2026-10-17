@@ -1,0 +1,92 @@
+{
+  "study": "Stage A3: Ngram calendar vs death-aligned shape K-Means",
+  "window_inclusive": {
+    "relative_start": -30,
+    "relative_end": 49,
+    "bins_relative_start": [
+      -30,
+      -20,
+      -10,
+      0,
+      10,
+      20,
+      30,
+      40
+    ],
+    "years_per_bin": 10
+  },
+  "selection": {
+    "a2_baseline_artists": 876,
+    "complete_window_artists": 679,
+    "eligible_for_both_models": 575,
+    "ineligible_reasons": {
+      "window_outside_1800_2019": 197,
+      "too_few_nonzero_relative_bins": 82,
+      "too_few_window_matches": 83,
+      "constant_relative_shape": 18
+    },
+    "identity_warnings_in_eligible": 34,
+    "unflagged_eligible": 541
+  },
+  "death_aligned": {
+    "k": 2,
+    "silhouette": 0.35365297581538213,
+    "initialization_ARI": 1.0,
+    "cluster_sizes": {
+      "0": 391,
+      "1": 184
+    }
+  },
+  "calendar_same_cohort": {
+    "k": 2,
+    "silhouette": 0.3227785892425473,
+    "initialization_ARI": 1.0,
+    "cluster_sizes": {
+      "0": 156,
+      "1": 419
+    }
+  },
+  "comparison": {
+    "ARI_calendar_vs_death": 0.3631410543914627,
+    "ARI_original_A1_vs_calendar_subset": 0.8946334121302502,
+    "ARI_original_A1_vs_death": 0.35382639202041927
+  },
+  "sensitivity_unflagged": {
+    "death_aligned": {
+      "selected_k": 2,
+      "silhouette": 0.35384918951390726,
+      "stability_mean_ARI": 0.9954778792902816,
+      "ARI_vs_full_cohort_clusters_on_unflagged_subset": 0.9774371921563502
+    },
+    "calendar_same_cohort": {
+      "selected_k": 2,
+      "silhouette": 0.3189347374637202,
+      "stability_mean_ARI": 0.9953685806786267,
+      "ARI_vs_full_cohort_clusters_on_unflagged_subset": 0.9158956149180028
+    }
+  },
+  "configuration": {
+    "min_nonzero_bins": 4,
+    "min_total_matches": 20,
+    "max_k": 6,
+    "min_cluster_size": 10,
+    "seed": 42,
+    "stability_runs": 5
+  },
+  "input_sha256": {
+    "artist_file": "2a156c2d562a86ac285c5766e4804d8c2f1fd7d910c5a2e3dde16bfeb212504f",
+    "data_file": "03201b44ccd5a230fb362286ce2013f9b365ba9ed6e526fbd1c491c21c1da653",
+    "report_file": "c82ce774a0afbce0ccb04535b57cde31ae03365d17b6cb8a0bcce50d73116864",
+    "a2_csv": "b978fb3c61d32b19723f639d739fad70f5f115962101550770573f732015eb77",
+    "a1_assignments": "6d2265c5d974f0b8e145696fdfc3e07d262294514d013014e954e5165185b06f"
+  },
+  "limits": [
+    "Both clustering methods use the EXACT SAME eligible artist IDs but different time axes and feature dimensions.",
+    "All relative bins are within the observed 1800-2019 window; outside years are NEVER filled with zero.",
+    "Unlisted years inside a completely scanned matched exact-name series are zero matches only as an explicit modelling assumption.",
+    "Warnings are review flags, not confirmed false identities; the unflagged sensitivity refits models.",
+    "Initialisation ARI does not test temporal or source-data perturbations.",
+    "Calendar and death-aligned silhouettes are calculated in different feature spaces and should not be ranked as if directly comparable.",
+    "Death-relative binning changes the interpretation of the analysis; it does not resolve same-name confusion."
+  ]
+}

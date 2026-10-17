@@ -1,0 +1,877 @@
+﻿artist_id,canonical_name,birth_year,death_year,a1_cluster_id,identity_warning,warning_reason,complete_window,window_match_count,nonzero_relative_bins,eligible,exclusion_reason
+Q1009528,Georges Valmier,1885,1937,1,False,,True,166,7,True,
+Q102228,Siegfried Schott,1897,1971,1,False,,False,,,False,window_outside_1800_2019
+Q1029257,Camille Roqueplan,1802,1855,0,False,,True,336,8,True,
+Q1030080,Hans Olde,1855,1917,0,False,,True,249,8,True,
+Q1032506,Benjamín Palencia,1894,1980,1,False,,False,,,False,window_outside_1800_2019
+Q1038450,Józef Pankiewicz,1866,1940,1,False,,True,64,5,True,
+Q1041605,Xavier Mellery,1845,1921,1,False,,True,159,8,True,
+Q104884,Caspar David Friedrich,1774,1840,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q1049510,William Degouve de Nuncques,1867,1935,1,False,,True,82,4,True,
+Q105320,Berthe Morisot,1841,1895,1,False,,True,3459,7,True,
+Q1062517,Giulio Aristide Sartorio,1860,1932,1,False,,True,172,8,True,
+Q1063574,Charles Angrand,1854,1926,1,False,,True,243,4,True,
+Q1065323,Charles Leickert,1818,1907,1,False,,True,2,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q107194,George Grosz,1893,1959,1,False,,True,52936,8,True,
+Q1080695,Christian Kruck,1925,1985,0,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q1096818,Claudius Jacquand,1803,1878,0,False,,True,333,7,True,
+Q1115614,Arnaldo Ginna,1890,1982,1,False,,False,,,False,window_outside_1800_2019
+Q1122412,Giannino Castiglioni,1884,1971,1,False,,False,,,False,window_outside_1800_2019
+Q1141251,Mosè Bianchi,1840,1904,1,False,,True,16,5,False,too_few_window_matches
+Q116418,Adolf Ulrik Wertmüller,1751,1811,1,False,,False,,,False,window_outside_1800_2019
+Q116550,Hans Aeschbacher,1906,1980,1,False,,False,,,False,window_outside_1800_2019
+Q11705308,William Brymner,1855,1925,1,False,,True,1478,8,True,
+Q1175801,David Murray,1849,1933,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,38435,8,True,
+Q1192595,Ellen Thesleff,1869,1954,1,False,,True,336,8,True,
+Q119891,Ludwig Fahrenkrog,1867,1952,1,False,,True,58,5,True,
+Q12012418,Joost Baljeu,1925,1991,1,False,,False,,,False,window_outside_1800_2019
+Q12055447,Matthew Ridley Corbet,1850,1902,0,False,,True,98,7,True,
+Q120582,Camille Claudel,1864,1943,1,False,,True,3872,8,True,
+Q12117354,Sonia Lewitska,1882,1937,1,False,,True,21,6,True,
+Q122382,Henry Fuseli,1741,1825,1,False,,False,,,False,window_outside_1800_2019
+Q123071,Arnold Böcklin,1827,1901,1,False,,True,999,8,True,
+Q123098,Angelica Kauffmann,1741,1807,0,False,,False,,,False,window_outside_1800_2019
+Q123138,Johannes Itten,1888,1967,1,False,,True,9331,8,True,
+Q123323,Paul Camenisch,1893,1970,1,False,,True,584,7,True,
+Q1234389,Domingos Sequeira,1768,1837,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q123454,Max Bill,1908,1994,1,False,,False,,,False,window_outside_1800_2019
+Q1235151,Eugen von Kahler,1882,1911,1,False,,True,5,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q1237680,Otto Herbig,1889,1971,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q1251377,Endre Rozsda,1913,1999,1,False,,False,,,False,window_outside_1800_2019
+Q1257938,Werner Berg,1904,1981,1,False,,False,,,False,window_outside_1800_2019
+Q12723699,Catul Bogdan,1897,1978,1,False,,False,,,False,window_outside_1800_2019
+Q12743174,Vasile Dobrian,1912,1999,1,False,,False,,,False,window_outside_1800_2019
+Q1280790,Joaquín Peinado,1898,1975,1,False,,False,,,False,window_outside_1800_2019
+Q1287966,Eduard Bargheer,1901,1979,1,False,,False,,,False,window_outside_1800_2019
+Q129113,Richard Gerstl,1883,1908,1,False,,True,22,3,False,too_few_nonzero_relative_bins
+Q130511,François Lafon,1846,1913,0,False,,True,21,6,True,
+Q132964,Vladimir Mayakovsky,1893,1930,1,False,,True,9076,8,True,
+Q1333386,Thomas Sidney Cooper,1803,1902,0,False,,True,731,8,True,
+Q1333398,Pietro Canonica,1869,1959,1,False,,True,459,8,True,
+Q1338170,Erik Henningsen,1855,1930,1,False,,True,103,7,True,
+Q1343751,Konstantin Yuon,1875,1958,1,False,,True,693,8,True,
+Q1345060,Paul Adolf Seehaus,1891,1919,1,False,,True,15,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q1345186,Federico de Madrazo y Kuntz,1815,1894,1,False,,True,14,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q134741,Camille Pissarro,1830,1903,1,False,,True,4698,8,True,
+Q1347418,Joseph Stella,1877,1946,1,False,,True,13935,8,True,
+Q1348381,Pietro Annigoni,1910,1988,1,False,,False,,,False,window_outside_1800_2019
+Q1350125,Ernest Hébert,1817,1908,0,False,,True,160,8,True,
+Q1352028,Erich Buchholz,1891,1972,1,False,,False,,,False,window_outside_1800_2019
+Q1354027,Paul Huet,1803,1869,0,False,,True,1598,8,True,
+Q1355806,Erma Bossi,1875,1952,1,False,,True,131,7,True,
+Q1355820,Federico Zandomeneghi,1841,1917,1,False,,True,20,4,True,
+Q1356488,Richard Bergh,1858,1919,0,False,,True,843,8,True,
+Q1359654,Ernst Oppler,1867,1929,0,False,,True,174,8,True,
+Q1360808,Leonardo Bistolfi,1859,1933,0,False,,True,451,8,True,
+Q1361500,Léon Frédéric,1856,1940,0,False,,True,115,8,True,
+Q1362480,Yury Annenkov,1889,1974,1,False,,False,,,False,window_outside_1800_2019
+Q1364258,Wojciech Gerson,1831,1901,1,False,,True,29,4,True,
+Q1364775,Ivan Trush,1869,1941,1,False,,True,127,7,True,
+Q1365771,Paul Raud,1865,1930,1,False,,True,38,6,True,
+Q1372410,Eugen Bracht,1842,1921,0,False,,True,321,8,True,
+Q1373445,Eugène Boch,1855,1941,1,False,,True,26,4,True,
+Q1376821,José de Almada Negreiros,1893,1970,1,False,,True,305,7,True,
+Q1381297,Pablo Palazuelo,1915,2007,1,False,,False,,,False,window_outside_1800_2019
+Q1381512,Georg Pauli,1855,1935,1,False,,True,224,8,True,
+Q1382776,Ewald Dülberg,1888,1933,1,False,,True,15,4,False,too_few_window_matches
+Q1383568,Jan Le Witt,1907,1991,1,False,,False,,,False,window_outside_1800_2019
+Q1389252,Albert Bartholomé,1848,1928,0,False,,True,123,8,True,
+Q1389396,Piotr Michałowski,1800,1855,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q1392368,Ferdynand Ruszczyc,1870,1936,1,False,,True,94,7,True,
+Q1394505,Léon Spilliaert,1881,1946,1,False,,True,162,6,True,
+Q1395469,Jean Delville,1867,1953,1,False,,True,1248,8,True,
+Q1398223,Georges Clairin,1843,1919,0,False,,True,548,8,True,
+Q1398238,Frank Cadogan Cowper,1877,1958,1,False,,True,213,6,True,
+Q1399837,Albert Joseph Moore,1841,1893,1,False,,True,84,6,True,
+Q1401377,Rudolf Hoflehner,1916,1995,1,False,,False,,,False,window_outside_1800_2019
+Q1406530,Fernand Piet,1869,1942,0,False,,True,23,6,True,
+Q1419288,Molly Cramer,1852,1936,0,False,,True,11,4,False,too_few_window_matches
+Q142472,Käthe Kollwitz,1867,1945,1,False,,True,3236,8,True,
+Q1444224,Vladimir Ovchinnikov,1911,1978,1,False,,False,,,False,window_outside_1800_2019
+Q1447132,Franz Heckendorf,1888,1962,1,False,,True,78,7,True,
+Q1460839,Friedrich Ludwig,1895,1970,1,True,prebirth_share_over_1pct_review_only,True,21820,8,True,
+Q146691,Alphonse Mucha,1860,1939,1,False,,True,4780,8,True,
+Q1468140,Fritz Schaefler,1888,1954,1,False,,True,87,7,True,
+Q1482415,Walter Helbig,1878,1968,1,False,,True,473,8,True,
+Q1489046,Hippolyte Daeye,1873,1952,1,False,,True,138,7,True,
+Q1494309,Alphonse de Neuville,1835,1885,0,False,,True,1022,8,True,
+Q1495565,Gaston Bussière,1862,1928,0,False,,True,52,5,True,
+Q1500100,Helen Dahm,1878,1968,1,False,,True,101,8,True,
+Q1501421,Otto Tschumi,1904,1985,1,False,,False,,,False,window_outside_1800_2019
+Q150471,E. T. A. Hoffmann,1776,1822,1,True,source_query_warning,False,,,False,window_outside_1800_2019
+Q1507251,George Duncan Beechey,1798,1852,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q151152,Juan Gris,1887,1927,1,False,,True,19290,8,True,
+Q151803,Piet Mondrian,1872,1944,1,False,,True,24284,8,True,
+Q1521460,John Duncan,1866,1945,0,True,prebirth_share_over_1pct_review_only,True,51800,8,True,
+Q152176,Paul Éluard,1895,1952,1,False,,True,1134,8,True,
+Q152384,Joan Miró,1893,1983,1,False,,False,,,False,window_outside_1800_2019
+Q152788,Emil Nolde,1867,1956,1,False,,True,18291,8,True,
+Q152797,Umberto Boccioni,1882,1916,1,False,,True,1278,6,True,
+Q1528580,Giuseppe Pellizza da Volpedo,1868,1907,1,False,,True,3,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q153104,Otto Dix,1891,1969,1,False,,True,29452,8,True,
+Q153739,Jean Arp,1886,1966,1,False,,True,23042,8,True,
+Q153793,Georges Braque,1882,1963,1,False,,True,50691,8,True,
+Q153920,Aristide Maillol,1861,1944,1,False,,True,9965,8,True,
+Q15402320,Nina Arbore,1889,1942,1,False,,True,36,6,True,
+Q154083,Henry van de Velde,1863,1957,1,False,,True,12280,8,True,
+Q154260,Oskar Kokoschka,1886,1980,1,False,,False,,,False,window_outside_1800_2019
+Q15429607,Dorothea Sharp,1874,1955,0,False,,True,699,8,True,
+Q154340,Francis Bacon,1909,1992,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,False,,,False,window_outside_1800_2019
+Q154349,Odilon Redon,1840,1916,1,False,,True,9557,8,True,
+Q154594,Lucian Freud,1922,2011,1,False,,False,,,False,window_outside_1800_2019
+Q15461781,Karl Zerbe,1903,1972,1,False,,False,,,False,window_outside_1800_2019
+Q154842,Max Ernst,1891,1976,1,False,,False,,,False,window_outside_1800_2019
+Q155158,Kurt Schwitters,1887,1948,1,False,,True,23591,8,True,
+Q1555416,Gustaf Cederström,1845,1933,1,False,,True,37,8,True,
+Q156214,Max Jacob,1876,1944,1,False,,True,29213,8,True,
+Q156272,André Derain,1880,1954,1,False,,True,4124,8,True,
+Q156386,Henri Rousseau,1844,1910,1,False,,True,6208,8,True,
+Q156426,Alexej von Jawlensky,1864,1941,1,False,,True,578,7,True,
+Q1565449,Oskar Herman,1886,1974,1,False,,False,,,False,window_outside_1800_2019
+Q1565466,Emanuel Vidović,1870,1953,1,False,,True,17,5,False,too_few_window_matches
+Q156700,Erich Heckel,1883,1970,1,False,,True,10255,8,True,
+Q156736,Eduardo Chillida,1924,2002,1,False,,False,,,False,window_outside_1800_2019
+Q156889,Suzanne Valadon,1865,1938,1,False,,True,5068,7,True,
+Q156890,Ernst Barlach,1870,1938,1,False,,True,8794,8,True,
+Q157183,Fernand Léger,1881,1955,1,False,,True,9967,8,True,
+Q157194,Alberto Giacometti,1901,1966,1,False,,True,39859,8,True,
+Q1574250,Charles Cottet,1863,1925,0,False,,True,2023,8,True,
+Q157610,Lovis Corinth,1858,1925,1,False,,True,3922,8,True,
+Q15804115,Curt Herrmann,1854,1929,1,False,,True,111,8,True,
+Q158062,Max Liebermann,1847,1935,1,False,,True,8856,8,True,
+Q1581259,Otto Lais,1897,1988,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q1582769,Hans Thuar,1887,1945,1,False,,True,92,4,True,
+Q15857646,Franz Henseler,1883,1918,1,False,,True,7,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q158840,James Ensor,1860,1949,1,False,,True,16044,8,True,
+Q159297,John Constable,1776,1837,1,False,,True,7808,8,True,
+Q1593149,Maria Slavona,1865,1931,1,False,,True,35,6,True,
+Q159409,Louise Bourgeois,1911,2010,1,False,,False,,,False,window_outside_1800_2019
+Q159606,John Everett Millais,1829,1896,0,False,,True,7887,8,True,
+Q1596249,Henri Lebasque,1865,1937,1,False,,True,441,8,True,
+Q159758,J. M. W. Turner,1775,1851,0,True,source_query_warning,True,16292,8,True,
+Q15997394,Paule Gobillard,1867,1946,1,False,,True,262,7,True,
+Q160141,Chaïm Soutine,1893,1943,1,False,,True,11,4,False,too_few_window_matches
+Q160172,Ossip Zadkine,1888,1967,1,False,,True,7484,8,True,
+Q160252,Frederic Leighton,1830,1896,0,False,,True,7097,8,True,
+Q16039631,Armand Berton,1854,1917,0,False,,True,77,6,True,
+Q160422,Theo van Doesburg,1883,1931,1,False,,True,5282,6,True,
+Q1605934,Henri Manguin,1874,1949,1,False,,True,970,8,True,
+Q1606016,Henri Rouart,1833,1912,1,False,,True,882,8,True,
+Q16062634,James Irvine,1822,1889,0,False,,True,11923,8,True,
+Q161145,Horace Vernet,1789,1863,0,False,,True,29888,8,True,
+Q1611548,Hermann Huber,1888,1967,1,False,,True,360,8,True,
+Q1612833,Hermann Stenner,1891,1914,1,False,,True,3,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q16164141,Alexander Struys,1852,1941,0,False,,True,24,2,False,too_few_nonzero_relative_bins
+Q1617507,Vieira Portuense,1764,1805,1,False,,False,,,False,window_outside_1800_2019
+Q161858,Zinaida Serebryakova,1884,1967,1,False,,True,348,5,True,
+Q162105,Max Pechstein,1881,1955,1,False,,True,6697,8,True,
+Q163938,Jean Tinguely,1925,1991,1,False,,False,,,False,window_outside_1800_2019
+Q16409,Tristan Tzara,1896,1963,1,False,,True,45098,8,True,
+Q164124,Fritz Bleyl,1880,1966,1,False,,True,1366,8,True,
+Q1642398,Leo Nardus,1868,1955,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,107,8,True,
+Q1646368,Sella Hasse,1878,1963,1,False,,True,65,5,True,
+Q164683,Max Beckmann,1884,1950,1,False,,True,26875,8,True,
+Q164961,Adolph von Menzel,1815,1905,1,False,,True,489,6,True,
+Q167414,František Kupka,1871,1957,1,False,,True,273,8,True,
+Q1674765,Issachar Ber Ryback,1897,1935,1,False,,True,19,4,False,too_few_window_matches
+Q1681702,Jan David Zocher,1791,1870,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q1682227,Jan Sluijters,1881,1957,1,False,,True,361,6,True,
+Q16836507,Felipe Checa,1844,1906,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q168496,Carlo Carrà,1881,1966,1,False,,True,2476,8,True,
+Q16855463,Auguste Pichon,1805,1900,0,False,,True,31,4,True,
+Q168659,Franz Xaver Winterhalter,1805,1873,1,False,,True,23,3,False,too_few_nonzero_relative_bins
+Q168671,John Heartfield,1891,1968,1,False,,True,21781,8,True,
+Q1694168,Lado Gudiashvili,1896,1980,1,False,,False,,,False,window_outside_1800_2019
+Q169984,Gino Severini,1883,1966,1,False,,True,11937,8,True,
+Q170071,Josef Albers,1888,1976,1,False,,False,,,False,window_outside_1800_2019
+Q170095,Robert Desnos,1900,1945,1,False,,True,7972,8,True,
+Q170259,Léon Bonnat,1833,1922,0,False,,True,1801,8,True,
+Q170345,Kees van Dongen,1877,1968,1,False,,True,4719,8,True,
+Q1712402,Julio Romero de Torres,1874,1930,1,False,,True,229,7,True,
+Q1732961,Magnus Zeller,1888,1972,1,False,,False,,,False,window_outside_1800_2019
+Q174477,Fernand Pelez,1848,1913,0,False,,True,29,3,False,too_few_nonzero_relative_bins
+Q174655,Bart van der Leck,1876,1958,1,False,,True,1553,7,True,
+Q1750942,Pierre Cabanel,1838,1918,0,False,,True,19,4,False,too_few_window_matches
+Q175130,Alfred Sisley,1839,1899,1,False,,True,1170,7,True,
+Q175257,Charles Verlat,1824,1890,0,False,,True,402,8,True,
+Q1778859,Bernard Lorjou,1908,1986,1,False,,False,,,False,window_outside_1800_2019
+Q178279,Viktor Madarász,1830,1917,1,False,,True,13,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q1798144,Léon Comerre,1850,1916,0,False,,True,49,5,True,
+Q179893,Vojtěch Hynais,1854,1925,1,False,,True,17,4,False,too_few_window_matches
+Q1807597,Otto Bache,1839,1927,0,False,,True,230,8,True,
+Q181503,Frits Van den Berghe,1883,1939,1,False,,True,106,4,True,
+Q18160938,Robert Ladbrooke,1768,1842,0,False,,True,203,8,True,
+Q182589,William Morris,1834,1896,0,False,,True,301081,8,True,
+Q183245,George Frederic Watts,1817,1904,1,False,,True,1083,7,True,
+Q183713,Théophile Gautier,1811,1872,0,False,,True,22068,8,True,
+Q1837855,Darío de Regoyos,1857,1913,1,False,,True,29,4,True,
+Q184212,Théodore Géricault,1791,1824,1,False,,False,,,False,window_outside_1800_2019
+Q18527925,Edith Hayllar,1860,1948,1,False,,True,214,4,True,
+Q18545582,Nicolae Popescu,1835,1877,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q185850,C. R. W. Nevinson,1889,1946,1,True,source_query_warning,True,5459,8,True,
+Q1865524,Marcel Mariën,1920,1993,1,False,,False,,,False,window_outside_1800_2019
+Q1865834,Charles Eyck,1897,1983,1,False,,False,,,False,window_outside_1800_2019
+Q18663487,Domenico De Angelis,1735,1804,1,False,,False,,,False,window_outside_1800_2019
+Q186748,Dante Gabriel Rossetti,1828,1882,0,False,,True,41090,8,True,
+Q1867953,Nanine Vallain,1767,1815,1,False,,False,,,False,window_outside_1800_2019
+Q18692616,Albert Trachsel,1863,1929,1,False,,True,168,7,True,
+Q1872017,Louis Valtat,1869,1952,1,False,,True,1022,8,True,
+Q1872117,Louis le Brocquy,1916,2012,1,False,,False,,,False,window_outside_1800_2019
+Q18744574,Lucien Frank,1857,1920,0,False,,True,175,8,True,
+Q187506,Honoré Daumier,1808,1879,1,False,,True,989,7,True,
+Q1877235,Giuseppe Amisani,1881,1941,0,False,,True,46,4,True,
+Q1886542,Maksymilian Gierymski,1846,1874,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q1921617,Georges de Feure,1868,1943,1,False,,True,1197,8,True,
+Q192544,Henryk Siemiradzki,1843,1902,1,False,,True,39,5,True,
+Q1936310,Marcello Dudovich,1878,1962,1,False,,True,411,7,True,
+Q19408331,Marisa Mori,1900,1985,1,False,,False,,,False,window_outside_1800_2019
+Q1941254,Antoon Derkinderen,1859,1925,1,False,,True,23,4,True,
+Q1948185,Moritz Melzer,1877,1966,1,False,,True,74,7,True,
+Q1959908,John Grosman,1916,1970,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,114,7,True,
+Q1960170,Alexandre Séon,1855,1917,1,False,,True,22,5,True,
+Q1964962,Jan van Heel,1898,1990,1,False,,False,,,False,window_outside_1800_2019
+Q19820052,Antoine Dubost,1769,1825,0,False,,False,,,False,window_outside_1800_2019
+Q1984317,Alexander Bogomazov,1880,1930,1,False,,True,13,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q19975144,Juliette Roche,1884,1980,1,False,,False,,,False,window_outside_1800_2019
+Q2004749,Giacomo Grosso,1860,1938,0,False,,True,201,8,True,
+Q2016617,Francis Gruber,1912,1948,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,570,8,True,
+Q2032661,Oscar Begas,1828,1883,0,False,,True,67,8,True,
+Q20379903,Luigi Bazzani,1836,1927,0,False,,True,101,7,True,
+Q203828,Gustave Moreau,1826,1898,1,False,,True,6866,8,True,
+Q2039194,Otto Hettner,1875,1931,0,False,,True,56,6,True,
+Q2040016,Otto Möller,1883,1964,0,True,prebirth_share_over_1pct_review_only,True,69,6,True,
+Q2040272,Otto Reiniger,1863,1909,0,False,,True,88,6,True,
+Q204138,Viktor Vasnetsov,1848,1926,1,False,,True,75,5,True,
+Q2060942,Charles Filiger,1863,1928,1,False,,True,217,6,True,
+Q206524,Marthe Donas,1885,1967,1,False,,True,72,6,True,
+Q2065760,Władysław Podkowiński,1866,1895,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q206820,Anders Zorn,1860,1920,0,False,,True,9152,8,True,
+Q2072609,Ernest Laurent,1859,1929,0,False,,True,550,8,True,
+Q207298,Frédéric Bazille,1841,1870,1,False,,True,13,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q20735044,Mario Bacchelli,1893,1951,1,False,,True,90,6,True,
+Q2075154,Guillaume Seignac,1870,1924,0,False,,True,17,7,False,too_few_window_matches
+Q2076179,Philip Wilson Steer,1860,1942,1,False,,True,2147,8,True,
+Q2076864,Henry Moret,1856,1913,1,False,,True,160,8,True,
+Q20776397,William Chadwick,1879,1962,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,4383,8,True,
+Q2078865,Jessie M. King,1875,1949,0,True,source_query_warning,True,3032,8,True,
+Q2081067,Petrus van Schendel,1806,1870,0,False,,True,40,4,True,
+Q20819181,Vasile Popescu,1894,1944,1,False,,True,133,7,True,
+Q20829637,Louis Chalon,1862,1915,0,False,,True,1007,8,True,
+Q2085926,Léon Riesener,1808,1878,1,False,,True,3,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q2093769,Witold Wojtkiewicz,1879,1909,1,False,,True,35,5,True,
+Q20988913,Suzanne Eisendieck,1906,1998,1,False,,False,,,False,window_outside_1800_2019
+Q210201,Fritz von Uhde,1848,1911,0,False,,True,1842,8,True,
+Q2104325,Jan Preisler,1872,1918,1,False,,True,81,6,True,
+Q211763,William Holman Hunt,1827,1910,1,False,,True,3005,8,True,
+Q212600,Eugène Louis Boudin,1824,1898,0,False,,True,17,4,False,too_few_window_matches
+Q212754,John William Waterhouse,1849,1917,1,False,,True,61,7,True,
+Q21289884,Thomas William Marshall,1875,1914,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,85,8,True,
+Q21294799,Richard Ranft,1862,1931,0,False,,True,241,8,True,
+Q213163,Élisabeth Louise Vigée Le Brun,1755,1842,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q213596,Leonid Pasternak,1862,1945,1,False,,True,3360,8,True,
+Q213597,Hans Richter,1888,1976,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q213685,Heinrich Campendonk,1889,1957,1,False,,True,1701,8,True,
+Q213703,Hans Bellmer,1902,1975,1,False,,False,,,False,window_outside_1800_2019
+Q213726,Jankel Adler,1895,1949,1,False,,True,2311,8,True,
+Q213727,Ludwig Meidner,1884,1966,1,False,,True,5758,8,True,
+Q213734,Heinrich Vogeler,1872,1942,1,False,,True,1572,8,True,
+Q213735,Charlotte Salomon,1917,1943,1,False,,True,781,7,True,
+Q213790,Bernhard Hoetger,1874,1949,1,False,,True,939,8,True,
+Q213848,Cesar Klein,1876,1954,1,False,,True,926,8,True,
+Q214106,Jacob Steinhardt,1887,1968,0,True,prebirth_share_over_1pct_review_only,True,1008,8,True,
+Q214564,Ferdinand Hodler,1853,1918,1,False,,True,1939,7,True,
+Q214687,Else Meidner,1901,1987,1,False,,False,,,False,window_outside_1800_2019
+Q21516056,Carl Strathmann,1866,1939,0,False,,True,103,6,True,
+Q2155072,Jan Bons,1918,2012,1,False,,False,,,False,window_outside_1800_2019
+Q215550,Rudolf Levy,1875,1944,1,False,,True,549,8,True,
+Q21645467,Edgar Gevaert,1891,1965,1,False,,True,88,7,True,
+Q2164632,Georges Rouget,1783,1869,1,False,,True,31,2,False,too_few_nonzero_relative_bins
+Q216480,Max Oppenheimer,1885,1954,1,False,,True,1963,8,True,
+Q216873,Pierre Puvis de Chavannes,1824,1898,1,False,,True,564,8,True,
+Q21727807,John Ingleby,1749,1808,0,False,,False,,,False,window_outside_1800_2019
+Q2178796,Paul Berthon,1872,1934,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,301,8,True,
+Q2183848,Gustave Loiseau,1865,1935,1,False,,True,168,8,True,
+Q21936861,Leandre Cristòfol,1908,1998,1,False,,False,,,False,window_outside_1800_2019
+Q219634,Claude Cahun,1894,1954,1,False,,True,2606,6,True,
+Q2197592,Albert Servaes,1883,1966,1,False,,True,546,8,True,
+Q2199553,Laurits Andersen Ring,1854,1933,1,False,,True,7,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q22227067,Jeanne Jacquemin,1863,1938,1,False,,True,107,4,True,
+Q223725,Francesco Hayez,1791,1882,1,False,,True,204,7,True,
+Q2272573,Sergey Vinogradov,1869,1938,1,False,,True,34,4,True,
+Q2282495,Charles Doudelet,1861,1938,0,False,,True,123,8,True,
+Q2292672,Jean Dufy,1888,1964,1,False,,True,915,8,True,
+Q229272,Ernst Ludwig Kirchner,1880,1938,1,False,,True,5178,7,True,
+Q23000781,Fritz Winkler,1894,1964,1,False,,True,665,8,True,
+Q232391,Natalia Goncharova,1881,1962,1,False,,True,7103,8,True,
+Q233088,Marie Laurencin,1883,1956,1,False,,True,23446,8,True,
+Q233207,Leonora Carrington,1917,2011,1,False,,False,,,False,window_outside_1800_2019
+Q2339347,Ivan Grohar,1867,1911,1,False,,True,46,4,True,
+Q2339568,Paul Cauchie,1875,1952,1,False,,True,101,4,True,
+Q2340277,Eliseu Visconti,1866,1944,1,False,,True,116,6,True,
+Q2350977,Alexandre Bida,1813,1895,0,False,,True,485,8,True,
+Q235275,Remedios Varo,1908,1963,1,False,,True,5977,8,True,
+Q236161,Dora Maar,1907,1997,1,False,,False,,,False,window_outside_1800_2019
+Q2367230,Maurice Chabas,1862,1947,0,False,,True,124,6,True,
+Q236985,Helene Schjerfbeck,1862,1946,1,False,,True,1010,7,True,
+Q23765900,Marius Roy,1853,1921,0,False,,True,88,6,True,
+Q239394,Édouard Vuillard,1868,1940,1,False,,True,150,6,True,
+Q241098,Maurice de Vlaminck,1876,1958,1,False,,True,6103,8,True,
+Q2413750,Valentine Prax,1897,1981,1,False,,False,,,False,window_outside_1800_2019
+Q241732,Rosa Bonheur,1822,1899,0,False,,True,48001,8,True,
+Q2417677,Theodor Hagen,1842,1919,0,False,,True,169,8,True,
+Q2423054,Sante Monachesi,1910,1991,1,False,,False,,,False,window_outside_1800_2019
+Q24279413,Gabriel Guérin,1869,1916,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,88,8,True,
+Q2441160,Valerius de Saedeleer,1867,1941,1,False,,True,253,8,True,
+Q2441977,Gheorghe Tattarescu,1820,1894,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q2447692,Maruja Mallo,1902,1995,1,False,,False,,,False,window_outside_1800_2019
+Q2455247,Samuel Jessurun de Mesquita,1868,1944,1,False,,True,44,7,True,
+Q2463574,Michel Martin Drolling,1786,1882,0,False,,True,44,6,True,
+Q2478132,Primo Conti,1900,1988,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q2495706,Herman Kruyder,1881,1935,1,False,,True,177,5,True,
+Q2497776,Rihard Jakopič,1869,1943,1,False,,True,18,4,False,too_few_window_matches
+Q250194,Anselm Feuerbach,1829,1880,1,False,,True,1048,8,True,
+Q250333,Alice Rahon,1904,1987,1,False,,False,,,False,window_outside_1800_2019
+Q2506493,Raimundo de Madrazo y Garreta,1841,1920,1,False,,True,57,5,True,
+Q2512767,Wessel Couzijn,1912,1984,1,False,,False,,,False,window_outside_1800_2019
+Q2519247,Gustave Van de Woestijne,1881,1947,1,False,,True,59,4,True,
+Q253339,Oskar Zwintscher,1870,1916,0,False,,True,71,4,True,
+Q253446,Anna Ancher,1859,1935,1,False,,True,279,8,True,
+Q2534502,Thomas Hill,1829,1908,0,True,prebirth_share_over_1pct_review_only,True,62001,8,True,
+Q2537308,Louis Majorelle,1859,1926,1,False,,True,399,7,True,
+Q254379,Ignacio Pinazo Camarlench,1849,1916,0,False,,True,36,3,False,too_few_nonzero_relative_bins
+Q255662,Lothar Schreyer,1886,1966,1,False,,True,2364,8,True,
+Q2562157,Werner Neuhaus,1897,1934,1,False,,True,89,4,True,
+Q2562513,Werner Scholz,1898,1982,1,False,,False,,,False,window_outside_1800_2019
+Q2563287,José Aparicio,1770,1838,1,False,,True,13,4,False,too_few_window_matches
+Q2573577,Wilhelm Kaufmann,1895,1975,1,False,,False,,,False,window_outside_1800_2019
+Q257928,William Scott,1913,1989,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,False,,,False,window_outside_1800_2019
+Q2579811,Alphonse Osbert,1857,1939,1,False,,True,126,7,True,
+Q2580668,William Stott,1857,1900,0,True,prebirth_share_over_1pct_review_only,True,2464,8,True,
+Q2581909,Olga Sacharoff,1881,1967,1,False,,True,174,7,True,
+Q259594,Lyubov Popova,1889,1924,1,False,,True,80,5,True,
+Q25973,Hermann Hesse,1877,1962,1,False,,True,70680,8,True,
+Q259946,Ettore Tito,1859,1941,0,False,,True,815,8,True,
+Q260892,Paja Jovanović,1859,1957,1,False,,True,59,7,True,
+Q261846,Tsuguharu Foujita,1886,1968,1,False,,True,536,8,True,
+Q263080,Hugo Simberg,1873,1917,1,False,,True,95,6,True,
+Q2638473,Hendrik Chabot,1894,1949,1,False,,True,255,7,True,
+Q2638519,Albert Müller,1897,1926,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,370,8,True,
+Q264193,Émile Bernard,1868,1941,1,False,,True,464,8,True,
+Q265665,Pierre Auguste Cot,1837,1883,0,False,,True,64,6,True,
+Q2666703,Halfdan Egedius,1877,1899,1,False,,True,63,5,True,
+Q2675322,Jan Wiegers,1893,1959,1,False,,True,535,8,True,
+Q267858,Albert Marquet,1875,1947,1,False,,True,3862,8,True,
+Q2693890,Laura Knight,1877,1970,1,False,,True,12447,8,True,
+Q2696989,Leonardo Alenza,1807,1845,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q2699511,José Amador de los Ríos,1818,1878,1,False,,True,57,7,True,
+Q2704611,Ilya Mashkov,1881,1944,1,False,,True,280,7,True,
+Q270629,Louise Catherine Breslau,1856,1927,0,False,,True,671,6,True,
+Q2717011,César Domela,1900,1992,1,False,,False,,,False,window_outside_1800_2019
+Q272405,Sigrid Hjertén,1885,1948,1,False,,True,53,8,True,
+Q272566,Aubrey Beardsley,1872,1898,1,False,,True,36778,8,True,
+Q273552,Marie Bracquemond,1840,1916,1,False,,True,59,7,True,
+Q2744493,Luis Ricardo Falero,1851,1896,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q2748223,Henri Goetz,1909,1989,1,False,,False,,,False,window_outside_1800_2019
+Q274909,Émile Bayard,1837,1891,0,False,,True,83,8,True,
+Q275813,Marie Howet,1897,1984,1,False,,False,,,False,window_outside_1800_2019
+Q281637,Ben Nicholson,1894,1982,1,False,,False,,,False,window_outside_1800_2019
+Q282043,Jules Breton,1827,1906,0,False,,True,12087,8,True,
+Q2825301,Adrien de Witte,1850,1935,1,False,,True,41,4,True,
+Q2830918,Albert André,1869,1954,0,False,,True,406,8,True,
+Q2831339,Albert Lenoir,1801,1891,0,False,,True,454,8,True,
+Q2842660,Amelia Curran,1775,1847,1,False,,True,85,7,True,
+Q2847388,André Brouillet,1857,1914,0,False,,True,69,5,True,
+Q2848249,André Mare,1885,1932,1,False,,True,196,8,True,
+Q2857134,Antonin Moine,1796,1849,0,False,,True,98,3,False,too_few_nonzero_relative_bins
+Q2857218,Antonio de Brugada,1804,1863,1,False,,True,2,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q2861767,Armand Bernard,1829,1894,1,False,,True,227,8,True,
+Q2871155,Auguste Clésinger,1814,1883,1,False,,True,5,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q2871159,Auguste Donnay,1862,1921,0,False,,True,134,8,True,
+Q288087,Jens Adolf Jerichau,1816,1883,0,False,,True,36,6,True,
+Q288218,Georg Jensen,1866,1935,1,False,,True,14725,8,True,
+Q290168,Katarzyna Kobro,1898,1951,1,False,,True,1355,8,True,
+Q2907846,Constantin Daniel Rosenthal,1820,1851,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q295144,Gustave Caillebotte,1848,1894,1,False,,True,125,5,True,
+Q2959887,Charles Louis Müller,1815,1892,0,False,,True,55,8,True,
+Q296,Claude Monet,1840,1926,1,False,,True,37419,8,True,
+Q2966664,Christopher Wood,1901,1930,1,True,prebirth_share_over_1pct_review_only,True,7205,8,True,
+Q2975722,Nicolae Vermont,1866,1932,1,False,,True,45,3,False,too_few_nonzero_relative_bins
+Q2980574,Henri Evenepoel,1872,1899,1,False,,True,130,6,True,
+Q2994899,Constant Montald,1862,1944,1,False,,True,183,7,True,
+Q3049418,Eileen Agar,1899,1991,1,False,,False,,,False,window_outside_1800_2019
+Q3058864,Esteban Francés,1913,1976,1,False,,False,,,False,window_outside_1800_2019
+Q3060058,Eugène Murer,1841,1906,1,False,,True,19,4,False,too_few_window_matches
+Q30755,Auguste Rodin,1840,1917,1,False,,True,18415,8,True,
+Q309618,Giorgio Morandi,1890,1964,1,False,,True,11092,8,True,
+Q3099166,Gaston Thiesson,1882,1920,0,False,,True,54,5,True,
+Q3101395,George Arnald,1763,1841,0,False,,True,218,8,True,
+Q3101526,George Desvallières,1861,1950,1,False,,True,34,7,True,
+Q3101776,George Morren,1868,1941,1,False,,True,208,8,True,
+Q310213,Anton Graff,1736,1813,0,False,,False,,,False,window_outside_1800_2019
+Q310437,Alexandre Cabanel,1823,1889,1,False,,True,895,8,True,
+Q3108143,Giuseppe Sciuti,1834,1911,0,False,,True,38,7,True,
+Q3114275,Nelly van Doesburg,1899,1975,1,False,,False,,,False,window_outside_1800_2019
+Q312096,Thomas Lawrence,1769,1830,0,False,,True,57151,8,True,
+Q3121272,Gustave Miklos,1888,1967,1,False,,True,275,7,True,
+Q312529,André Masson,1896,1987,1,False,,False,,,False,window_outside_1800_2019
+Q312627,Stanisław Wyspiański,1869,1907,1,False,,True,65,4,True,
+Q312631,Alexander Rodchenko,1891,1956,1,False,,True,8289,8,True,
+Q3130665,Henri Bergé,1870,1937,0,False,,True,5,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q313096,Jean Metzinger,1883,1956,1,False,,True,5437,8,True,
+Q3131012,Henri Duhem,1860,1941,0,False,,True,74,5,True,
+Q3132990,Henry Ottmann,1877,1927,0,False,,True,74,6,True,
+Q313982,Hans Baluschek,1870,1935,1,False,,True,282,7,True,
+Q3159139,Jacques Hérold,1910,1987,1,False,,False,,,False,window_outside_1800_2019
+Q316016,John Singleton Copley,1738,1815,1,False,,False,,,False,window_outside_1800_2019
+Q3163756,Ange Tissier,1814,1876,1,False,,True,8,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q316531,Julio González,1876,1942,1,False,,True,753,6,True,
+Q317041,Otto Mueller,1874,1930,1,False,,True,4541,8,True,
+Q317202,Karl Caspar,1879,1956,1,False,,True,389,8,True,
+Q317275,Philipp Foltz,1805,1877,0,False,,True,82,6,True,
+Q317355,Hermann Kaulbach,1846,1909,0,False,,True,189,8,True,
+Q3174332,Jean Rigaud,1912,1999,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q318053,Rolf Nesch,1893,1975,1,False,,False,,,False,window_outside_1800_2019
+Q318393,Vasily Polenov,1844,1927,1,False,,True,63,3,False,too_few_nonzero_relative_bins
+Q3184825,Joseph Delattre,1858,1912,1,False,,True,2,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q318551,Ludwig von Hofmann,1861,1945,0,False,,True,674,8,True,
+Q318584,Thomas Rowlandson,1757,1827,1,False,,False,,,False,window_outside_1800_2019
+Q3187562,Juan Antonio de Ribera,1779,1860,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q3189783,Juliette Wytsman,1866,1925,1,False,,True,99,6,True,
+Q319274,Stanislaw Kubicki,1889,1942,1,False,,True,54,6,True,
+Q319627,Otto Gleichmann,1887,1963,1,False,,True,206,8,True,
+Q321284,Heinrich Altherr,1878,1947,1,False,,True,65,6,True,
+Q321579,Hendrik Scheffer,1798,1862,0,False,,True,12,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q3229810,Leopold Pilichowski,1869,1934,1,False,,True,186,7,True,
+Q323144,Ambroise Louis Garneray,1783,1857,1,False,,True,6,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q324194,Herbert Boeckl,1894,1966,1,False,,True,844,7,True,
+Q325582,Gaston Bogaert,1918,2008,1,False,,False,,,False,window_outside_1800_2019
+Q326167,Alfred Philippe Roll,1845,1919,0,False,,True,252,8,True,
+Q3262736,Louis Monzies,1849,1930,0,False,,True,82,8,True,
+Q326434,Thomas Couture,1815,1879,1,False,,True,2158,8,True,
+Q326606,Paul Sérusier,1864,1927,1,False,,True,336,7,True,
+Q3266421,Luigi Corbellini,1901,1968,1,False,,True,59,7,True,
+Q3271202,Léon Mignon,1847,1898,0,False,,True,13,4,False,too_few_window_matches
+Q328369,Edwin Landseer,1802,1873,0,False,,True,34896,8,True,
+Q3288650,Marcel Baschet,1862,1941,0,False,,True,229,8,True,
+Q3289246,Marcel Mouly,1918,2008,1,False,,False,,,False,window_outside_1800_2019
+Q3292492,Marie Duhem,1871,1918,1,False,,True,90,6,True,
+Q3299800,Matthew Smith,1879,1959,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,25272,8,True,
+Q3301346,Maurice Rocher,1918,1995,1,False,,False,,,False,window_outside_1800_2019
+Q3301559,Maurice de Lambert,1873,1953,0,False,,True,14,6,False,too_few_window_matches
+Q3302549,Maxime Dethomas,1867,1929,1,False,,True,548,8,True,
+Q334200,Christian Krohg,1852,1925,1,False,,True,1377,8,True,
+Q33477,Eugène Delacroix,1798,1863,0,False,,True,2505,8,True,
+Q33567,Frederick Catherwood,1799,1854,1,False,,True,282,8,True,
+Q3370650,Paul Biva,1851,1900,1,False,,True,3,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q3370904,Paul Colinet,1898,1957,1,False,,True,590,7,True,
+Q3371528,Paul Flandrin,1811,1902,0,False,,True,362,8,True,
+Q3372389,Paul Vogler,1852,1904,1,False,,True,101,6,True,
+Q3378108,Pharaon de Winter,1849,1924,0,False,,True,15,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q3396084,Pompeo Mariani,1857,1927,0,False,,True,74,4,True,
+Q33981,August Macke,1887,1914,1,False,,True,1090,6,True,
+Q34013,Georges Seurat,1859,1891,1,False,,True,966,6,True,
+Q3416034,Christian August Lorentzen,1749,1828,1,False,,False,,,False,window_outside_1800_2019
+Q342467,Théodore Chassériau,1819,1856,1,False,,True,33,4,True,
+Q3425770,René Aubert,1894,1977,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,False,,,False,window_outside_1800_2019
+Q3426309,René Guiette,1893,1976,1,False,,False,,,False,window_outside_1800_2019
+Q3440608,Romain Cazes,1808,1881,0,False,,True,48,5,True,
+Q345864,Francis Cadell,1883,1937,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,703,8,True,
+Q346319,George Leslie Hunter,1877,1931,1,False,,True,41,5,True,
+Q34661,Gustav Klimt,1862,1918,1,False,,True,2045,8,True,
+Q346846,Georges Rochegrosse,1859,1938,0,False,,True,506,8,True,
+Q347920,Béla Kádár,1877,1956,1,False,,True,123,7,True,
+Q3502468,Marino Tartaglia,1894,1984,1,False,,False,,,False,window_outside_1800_2019
+Q351746,Joaquín Sorolla,1863,1923,1,False,,True,442,7,True,
+Q352190,Nikolai Triik,1884,1940,1,False,,True,84,5,True,
+Q352978,Antoine Wiertz,1806,1865,0,False,,True,728,5,True,
+Q3553651,Valentine Hugo,1887,1968,1,False,,True,3159,8,True,
+Q35548,Paul Cézanne,1839,1906,1,False,,True,2941,7,True,
+Q356644,Albert Edelfelt,1854,1905,1,False,,True,471,8,True,
+Q3570799,Xavier Sigalon,1787,1837,0,False,,True,28,2,False,too_few_nonzero_relative_bins
+Q3588633,Émile Lévy,1826,1890,0,False,,True,40,7,True,
+Q358885,Maximilian Voloshin,1877,1932,1,False,,True,560,8,True,
+Q361407,Adolf Erbslöh,1881,1947,1,False,,True,75,8,True,
+Q3615741,Andrea Gastaldi,1826,1889,0,False,,True,34,6,True,
+Q3620122,Antonio Rotta,1828,1903,0,False,,True,191,8,True,
+Q3623704,Arkady Rylov,1870,1939,1,False,,True,62,7,True,
+Q365068,Peder Severin Krøyer,1851,1909,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q3659604,Carlo Mattioli,1911,1994,1,False,,False,,,False,window_outside_1800_2019
+Q366217,Marcel Janco,1895,1984,1,False,,False,,,False,window_outside_1800_2019
+Q368254,Giacomo Balla,1871,1958,1,False,,True,8597,8,True,
+Q368728,Kazimierz Stabrowski,1869,1929,1,False,,True,6,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q369416,Jan Toorop,1858,1928,1,False,,True,1880,8,True,
+Q369633,Silvestro Lega,1826,1895,1,False,,True,56,5,True,
+Q3712893,Domenico Baccarini,1882,1907,1,False,,True,4,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q371549,Charles Maurin,1856,1914,1,False,,True,299,8,True,
+Q3723179,Elisabeth Chaplin,1890,1982,0,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q3740994,Andrei Mylnikov,1919,2012,1,False,,False,,,False,window_outside_1800_2019
+Q3749980,Francesco Filippini,1853,1895,1,False,,True,22,4,True,
+Q37512862,Charles Agard,1866,1950,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,115,8,True,
+Q375814,Raphaël Collin,1850,1916,0,False,,True,104,8,True,
+Q37693,Paul Gauguin,1848,1903,1,False,,True,8973,8,True,
+Q3772850,Gojmir Anton Kos,1896,1970,1,False,,True,73,6,True,
+Q3778863,Guglielmo Achille Cavellini,1914,1990,1,False,,False,,,False,window_outside_1800_2019
+Q378129,Félicien Rops,1833,1898,0,False,,True,1105,8,True,
+Q379300,Giovanni Segantini,1858,1899,0,False,,True,1792,7,True,
+Q380426,Jacques Lipchitz,1891,1973,1,False,,False,,,False,window_outside_1800_2019
+Q3806718,James Sant,1820,1916,0,False,,True,1422,8,True,
+Q381238,Stanisław Ignacy Witkiewicz,1885,1939,1,False,,True,550,5,True,
+Q381248,James Tissot,1836,1902,0,False,,True,3364,8,True,
+Q381277,Renato Guttuso,1911,1987,1,False,,False,,,False,window_outside_1800_2019
+Q381728,George Stubbs,1724,1806,1,False,,False,,,False,window_outside_1800_2019
+Q381911,Constant Permeke,1886,1952,1,False,,True,1767,8,True,
+Q381937,Amédée Ozenfant,1886,1966,1,False,,True,2144,8,True,
+Q381950,Antoine Pevsner,1884,1962,1,False,,True,7522,8,True,
+Q3833098,Lino Selvatico,1872,1924,0,False,,True,103,6,True,
+Q3837108,Lorenzo Viani,1882,1936,1,False,,True,228,8,True,
+Q3847713,António Carneiro,1872,1930,1,False,,True,63,4,True,
+Q3849006,Mario Puccini,1869,1920,0,False,,True,354,7,True,
+Q3889392,Gordon Onslow Ford,1912,2003,1,False,,False,,,False,window_outside_1800_2019
+Q389816,Konrad Mägi,1878,1925,1,False,,True,5,4,False,too_few_window_matches
+Q391182,Charles Dufresne,1876,1938,0,True,prebirth_share_over_1pct_review_only,True,981,8,True,
+Q3942427,Hildo Krop,1884,1970,1,False,,True,720,8,True,
+Q3979368,Georges Croegaert,1848,1923,1,False,,True,31,5,True,
+Q399091,Edgar Maxence,1871,1954,0,False,,True,66,5,True,
+Q4015187,Vittore Grubicy de Dragon,1851,1920,1,False,,True,34,6,True,
+Q4055907,Mikhail Avilov,1882,1954,1,False,,True,37,5,True,
+Q40599,Édouard Manet,1832,1883,1,False,,True,145,6,True,
+Q4091000,Ilya Bolotowsky,1907,1981,1,False,,False,,,False,window_outside_1800_2019
+Q4099197,Marius Bunescu,1881,1971,1,False,,False,,,False,window_outside_1800_2019
+Q4104520,Anatoli Vasiliev,1917,1994,1,False,,False,,,False,window_outside_1800_2019
+Q4115633,Adolf von Becker,1831,1909,1,False,,True,9,4,False,too_few_window_matches
+Q41406,Edvard Munch,1863,1944,1,False,,True,40112,8,True,
+Q4143364,Frederick Gore,1913,2009,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,False,,,False,window_outside_1800_2019
+Q4148362,Henri Grevedon,1776,1860,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q41513,William Blake,1757,1827,1,False,,False,,,False,window_outside_1800_2019
+Q4167670,Malcolm Drummond,1880,1945,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,1204,8,True,
+Q4215366,James Wilson Carmichael,1799,1868,1,False,,True,15,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q4245043,Pavel Kuznetsov,1878,1968,1,False,,True,2655,8,True,
+Q4274792,Constant Mayer,1829,1911,0,False,,True,351,8,True,
+Q428928,José Gutiérrez Solana,1886,1945,1,False,,True,100,6,True,
+Q4317391,Yuri Neprintsev,1909,1996,1,False,,False,,,False,window_outside_1800_2019
+Q4321849,Willi Nowak,1886,1977,1,False,,False,,,False,window_outside_1800_2019
+Q4334890,Thomas Webster,1800,1886,0,False,,True,14752,8,True,
+Q433973,Jules Lefebvre,1836,1911,0,False,,True,3195,8,True,
+Q434916,Luigi Russolo,1885,1947,1,False,,True,3560,8,True,
+Q435558,Suzanne Duchamp,1889,1963,1,False,,True,1675,8,True,
+Q436267,Hilma af Klint,1862,1944,1,False,,True,318,3,False,too_few_nonzero_relative_bins
+Q436726,Ary Scheffer,1795,1858,0,False,,True,18341,8,True,
+Q436844,Armand Guillaumin,1841,1927,1,False,,True,788,8,True,
+Q437704,Hans Sandreuter,1850,1901,0,False,,True,145,6,True,
+Q437792,Konstantin Korovin,1861,1939,1,False,,True,982,8,True,
+Q439844,Ithell Colquhoun,1906,1988,1,False,,False,,,False,window_outside_1800_2019
+Q44032,Egon Schiele,1890,1918,1,False,,True,2123,7,True,
+Q440369,Maurice Denis,1870,1943,1,False,,True,22939,8,True,
+Q44054,Franz Marc,1880,1916,1,False,,True,5723,7,True,
+Q4422702,Oto Skulme,1889,1967,1,False,,True,152,5,True,
+Q44252,Max Klinger,1857,1920,1,False,,True,4441,8,True,
+Q443429,Florence Henri,1893,1982,1,False,,False,,,False,window_outside_1800_2019
+Q443779,María Blanchard,1881,1932,1,False,,True,52,3,False,too_few_nonzero_relative_bins
+Q445891,Frits Thaulow,1847,1906,1,False,,True,293,6,True,
+Q446922,Charley Toorop,1891,1955,1,False,,True,1231,8,True,
+Q446948,Mikoláš Aleš,1852,1913,1,False,,True,6,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q448189,Jacek Malczewski,1854,1929,1,False,,True,404,8,True,
+Q449119,Emil Schumacher,1912,1999,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q449677,Walter Dexel,1890,1973,1,False,,False,,,False,window_outside_1800_2019
+Q450114,Henry de Groux,1866,1930,0,False,,True,519,8,True,
+Q450236,Roberto Matta,1911,2002,1,False,,False,,,False,window_outside_1800_2019
+Q450730,Georgette Agutte,1867,1922,1,False,,True,43,5,True,
+Q451131,Nélie Jacquemart,1841,1912,0,False,,True,71,8,True,
+Q451736,Amadeo Gabino,1922,2004,1,False,,False,,,False,window_outside_1800_2019
+Q451771,Amadeo de Souza Cardoso,1887,1918,1,False,,True,5,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q45205,Raoul Dufy,1877,1953,1,False,,True,17807,8,True,
+Q452321,Emanuel Leutze,1816,1868,1,False,,True,1019,7,True,
+Q452733,Amaldus Nielsen,1838,1932,1,False,,True,134,7,True,
+Q454321,Nicolae Grigorescu,1838,1907,1,False,,True,77,4,True,
+Q454568,Josef Čapek,1887,1945,1,False,,True,182,8,True,
+Q454670,Eva Bonnier,1857,1909,0,False,,True,110,7,True,
+Q457098,Fernand Cormon,1845,1924,1,False,,True,612,8,True,
+Q458721,Georges Hugnet,1906,1974,1,False,,False,,,False,window_outside_1800_2019
+Q458861,Jan Thorn Prikker,1868,1932,1,False,,True,36,4,True,
+Q46139,Man Ray,1890,1976,1,False,,False,,,False,window_outside_1800_2019
+Q461464,Eugène Carrière,1849,1906,0,False,,True,730,7,True,
+Q461828,Heinrich Nauen,1880,1940,1,False,,True,305,8,True,
+Q462183,Fritz Stuckenberg,1881,1944,1,False,,True,72,8,True,
+Q462767,Marie Vassilieff,1884,1957,1,False,,True,364,8,True,
+Q463270,Constance Mayer,1774,1821,0,False,,False,,,False,window_outside_1800_2019
+Q463411,Hannah Höch,1889,1978,1,False,,False,,,False,window_outside_1800_2019
+Q46373,Edgar Degas,1834,1917,1,False,,True,7445,8,True,
+Q463978,Gabriele Münter,1877,1962,1,False,,True,1669,8,True,
+Q464300,Eva Gonzalès,1847,1883,1,False,,True,29,5,True,
+Q465304,Otto Scholderer,1834,1902,0,False,,True,167,8,True,
+Q465342,Wifredo Lam,1902,1982,1,False,,False,,,False,window_outside_1800_2019
+Q466607,Romaine Brooks,1874,1970,1,False,,True,11870,8,True,
+Q466668,Anna Boch,1848,1936,1,False,,True,206,7,True,
+Q467658,Joseph Karl Stieler,1781,1858,1,False,,True,9,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q468219,Vlaho Bukovac,1855,1922,1,False,,True,134,7,True,
+Q4683136,Adja Yunkers,1900,1983,1,False,,False,,,False,window_outside_1800_2019
+Q4685750,Adrià Gual,1872,1943,1,False,,True,20,5,True,
+Q4720922,Alexandre de Riquer,1856,1920,1,False,,True,56,8,True,
+Q4721120,Alexandru Ciucurencu,1903,1977,1,False,,False,,,False,window_outside_1800_2019
+Q472235,Hippolyte Flandrin,1809,1864,0,False,,True,2858,8,True,
+Q472237,Nikolaos Gyzis,1842,1901,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q4723449,Alfred Smith,1854,1936,0,True,prebirth_share_over_1pct_review_only,True,21629,8,True,
+Q4725866,Alice Frey,1895,1981,1,False,,False,,,False,window_outside_1800_2019
+Q472646,Pericle Fazzini,1913,1987,1,False,,False,,,False,window_outside_1800_2019
+Q474066,Cornelis Springer,1817,1891,1,False,,True,25,6,True,
+Q4742222,Amelia Bauerle,1870,1916,0,False,,True,392,7,True,
+Q4768347,Anne Frances Byrne,1775,1837,0,False,,True,26,3,False,too_few_nonzero_relative_bins
+Q47737,Kahlil Gibran,1883,1931,1,False,,True,14470,8,True,
+Q4776933,Antonio Rodríguez Luna,1910,1985,1,False,,False,,,False,window_outside_1800_2019
+Q4799572,Arthur Lowe,1865,1940,1,True,prebirth_share_over_1pct_review_only,True,5239,8,True,
+Q4820747,August Jerndorff,1846,1906,0,False,,True,42,6,True,
+Q4822200,Aurel Ciupe,1900,1988,1,False,,False,,,False,window_outside_1800_2019
+Q491039,Paul César Helleu,1859,1927,1,False,,True,19,6,False,too_few_window_matches
+Q492909,Pol Bury,1922,2005,1,False,,False,,,False,window_outside_1800_2019
+Q493349,Andrea Appiani,1754,1817,0,False,,False,,,False,window_outside_1800_2019
+Q4953063,Božidar Jakac,1899,1989,1,False,,False,,,False,window_outside_1800_2019
+Q496692,Kristians Tonny,1907,1977,1,False,,False,,,False,window_outside_1800_2019
+Q4994489,Harald Giersing,1881,1927,1,False,,True,148,7,True,
+Q50353298,Gino Galli,1893,1944,1,True,prebirth_share_over_1pct_review_only,True,78,6,True,
+Q508344,Margaret MacDonald,1864,1933,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,4321,8,True,
+Q512948,Jan Willem Pieneman,1779,1853,0,False,,True,55,2,False,too_few_nonzero_relative_bins
+Q5146236,Colleen Browning,1918,2003,1,False,,False,,,False,window_outside_1800_2019
+Q516121,Hans von Marées,1837,1887,1,False,,True,256,6,True,
+Q5162696,Conroy Maddox,1912,2005,1,False,,False,,,False,window_outside_1800_2019
+Q5163740,Constantin Lecca,1807,1887,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q518669,Jacqueline Lamba,1910,1993,1,False,,False,,,False,window_outside_1800_2019
+Q52156759,Leon Weissberg,1895,1943,1,False,,True,13,4,False,too_few_window_matches
+Q52161723,Marie Baudet,1864,1916,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,24,5,True,
+Q522983,Natale Schiavoni,1777,1858,0,False,,True,76,7,True,
+Q524154,Eugène Grasset,1845,1917,1,False,,True,208,8,True,
+Q526513,Willy Anthoons,1911,1982,1,False,,False,,,False,window_outside_1800_2019
+Q527386,Christine Boumeester,1904,1971,1,False,,False,,,False,window_outside_1800_2019
+Q5345269,Edward Seago,1910,1974,1,False,,False,,,False,window_outside_1800_2019
+Q535334,Max Weber,1881,1961,1,False,,True,861876,8,True,
+Q5373615,Emmy Bridgwater,1906,1999,1,False,,False,,,False,window_outside_1800_2019
+Q5388046,Erich Kahn,1904,1980,1,False,,False,,,False,window_outside_1800_2019
+Q5390252,John Jackson,1778,1831,0,False,,True,38076,8,True,
+Q539657,Alicia Penalba,1913,1982,1,False,,False,,,False,window_outside_1800_2019
+Q5423877,F. E. McWilliam,1909,1992,1,True,source_query_warning,False,,,False,window_outside_1800_2019
+Q5432,Francisco Goya,1746,1828,1,False,,False,,,False,window_outside_1800_2019
+Q5441839,Feliks Topolski,1907,1989,1,False,,False,,,False,window_outside_1800_2019
+Q5443868,Ferdinand Kulmer,1925,1998,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q544646,Léon Cogniet,1794,1880,0,False,,True,1296,8,True,
+Q5482916,Francis de Erdely,1904,1959,1,False,,True,421,8,True,
+Q5485139,Antonio Cabral Bejarano,1798,1861,1,False,,True,5,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q5497941,Frederick Hall,1860,1948,0,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,12854,8,True,
+Q551282,Wilhelm Lehmbruck,1881,1919,1,False,,True,1585,7,True,
+Q551857,Josef Šíma,1891,1971,1,False,,False,,,False,window_outside_1800_2019
+Q552055,Antonín Procházka,1882,1945,1,False,,True,19,7,False,too_few_window_matches
+Q552440,Constantin Meunier,1831,1905,0,False,,True,5120,8,True,
+Q5547,Antonio Canova,1757,1822,1,False,,False,,,False,window_outside_1800_2019
+Q555505,Paul Colin,1892,1985,1,False,,False,,,False,window_outside_1800_2019
+Q55617,Johann Baptist Seele,1774,1814,1,False,,False,,,False,window_outside_1800_2019
+Q556288,Pietro Aldi,1852,1888,1,False,,True,17,4,False,too_few_window_matches
+Q5577,Salvador Dalí,1904,1989,1,False,,False,,,False,window_outside_1800_2019
+Q558060,Victor Brauner,1903,1966,1,False,,True,5597,8,True,
+Q5582,Vincent van Gogh,1853,1890,1,False,,True,3626,8,True,
+Q5589,Henri Matisse,1869,1954,1,False,,True,87106,8,True,
+Q559281,George Minne,1866,1941,1,False,,True,1400,8,True,
+Q5593,Pablo Picasso,1881,1973,1,False,,False,,,False,window_outside_1800_2019
+Q559440,Hendrik Nicolaas Werkman,1882,1945,1,False,,True,216,5,True,
+Q560757,Wilhelm Hensel,1794,1861,1,False,,True,434,7,True,
+Q561091,Hans am Ende,1864,1918,0,False,,True,202,8,True,
+Q561916,Henry Raeburn,1756,1823,0,False,,False,,,False,window_outside_1800_2019
+Q562540,Augustus John,1878,1961,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,True,73185,8,True,
+Q5625600,Gyula Tornai,1861,1928,0,False,,True,40,5,True,
+Q5650790,Hans Unger,1872,1936,0,False,,True,583,8,True,
+Q565569,Ferdinand Keller,1842,1922,0,False,,True,1768,8,True,
+Q566849,Carl Grossberg,1894,1940,1,False,,True,274,6,True,
+Q568284,Theodor Pallady,1871,1956,1,False,,True,577,6,True,
+Q569451,Sascha Schneider,1870,1927,0,False,,True,427,8,True,
+Q571534,Joannis Avramidis,1922,2016,1,False,,False,,,False,window_outside_1800_2019
+Q5729003,Henry Tanworth Wells,1828,1903,0,False,,True,269,7,True,
+Q573668,Walter Leistikow,1865,1908,0,False,,True,436,7,True,
+Q576824,Jan Adam Kruseman,1804,1862,0,False,,True,76,4,True,
+Q577050,Henri Le Sidaner,1862,1939,0,False,,True,534,8,True,
+Q583015,Jacques Amans,1801,1888,1,False,,True,25,3,False,too_few_nonzero_relative_bins
+Q585067,Paul Ranson,1861,1909,1,False,,True,114,7,True,
+Q586332,Antoine Guillemet,1841,1918,1,False,,True,241,8,True,
+Q5889945,Einar Jolin,1890,1976,1,False,,False,,,False,window_outside_1800_2019
+Q589241,Anton Faistauer,1887,1930,1,False,,True,265,6,True,
+Q5912,Marcel Duchamp,1887,1968,1,False,,True,213113,8,True,
+Q593715,Alexander Liberman,1912,1999,1,False,,False,,,False,window_outside_1800_2019
+Q593879,Alexandre Jacovleff,1887,1938,1,False,,True,286,7,True,
+Q594345,Samuel Hirszenberg,1865,1908,1,False,,True,81,7,True,
+Q597999,Leo Gestel,1881,1941,1,False,,True,367,8,True,
+Q602549,Heinrich von Zügel,1850,1941,0,False,,True,37,7,True,
+Q608745,Antonín Slavíček,1870,1910,1,False,,True,2,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q6100012,Cemal Tollu,1899,1968,1,False,,True,187,8,True,
+Q610202,Jules Chéret,1836,1932,0,False,,True,782,8,True,
+Q61064,Wassily Kandinsky,1866,1944,1,False,,True,25125,8,True,
+Q613125,Tivadar Csontváry Kosztka,1853,1919,1,False,,True,2,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q61594,Meret Oppenheim,1913,1985,1,False,,False,,,False,window_outside_1800_2019
+Q616169,Jorge Oteiza,1908,2003,1,False,,False,,,False,window_outside_1800_2019
+Q6171106,Jean Marchand,1883,1940,1,False,,True,16230,8,True,
+Q6215655,Johann Berthelsen,1883,1972,1,False,,False,,,False,window_outside_1800_2019
+Q6221679,John Berney Crome,1794,1842,0,False,,True,41,5,True,
+Q62249,Karl Hofer,1878,1955,1,False,,True,3557,8,True,
+Q6251999,John Partridge,1789,1872,0,False,,True,10917,8,True,
+Q62544,Alexander Kanoldt,1881,1939,1,False,,True,412,8,True,
+Q62572109,Domenico Belli,1909,1983,1,True,prebirth_share_over_1pct_review_only;normalized_annual_peak_before_birth_review_only,False,,,False,window_outside_1800_2019
+Q62661,Herwarth Walden,1878,1941,1,False,,True,5959,8,True,
+Q62992,Christian Rohlfs,1849,1938,1,False,,True,1605,8,True,
+Q6300035,Juan Ismael,1907,1982,1,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q6305444,Jef Leempoels,1867,1935,0,False,,True,88,5,True,
+Q6306018,Jules Scalbert,1851,1928,0,False,,True,30,4,True,
+Q630973,Albert Lebourg,1849,1928,1,False,,True,268,8,True,
+Q632046,Gyula Benczúr,1844,1920,1,False,,True,6,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q638183,Rudolf von Alt,1812,1905,1,False,,True,320,5,True,
+Q639413,Walter Gramatté,1897,1929,1,False,,True,73,4,True,
+Q640787,Rudolf Schlichter,1890,1955,1,False,,True,1196,8,True,
+Q6430240,Konstanty Laszczka,1865,1956,1,False,,True,170,8,True,
+Q643778,Mario Sironi,1885,1961,1,False,,True,3839,8,True,
+Q646763,Renzo Vespignani,1924,2001,1,False,,False,,,False,window_outside_1800_2019
+Q647805,Carl Rottmann,1797,1850,1,False,,True,38,6,True,
+Q65217201,Sándor Gergely,1889,1932,1,False,,True,36,5,True,
+Q6525596,Leonard Ochtman,1854,1934,0,False,,True,2281,8,True,
+Q652723,Georges Lacombe,1868,1916,1,False,,True,269,7,True,
+Q652975,László Mednyánszky,1852,1919,1,False,,True,22,4,True,
+Q653555,Wilhelm List,1864,1918,1,False,,True,993,4,True,
+Q655484,Hans Purrmann,1880,1966,1,False,,True,2043,8,True,
+Q6567261,Kate Steinitz,1889,1975,1,False,,False,,,False,window_outside_1800_2019
+Q660917,Walter Crane,1845,1915,0,False,,True,72740,8,True,
+Q661172,Iosif Iser,1881,1958,1,False,,True,266,6,True,
+Q663721,Franz Courtens,1854,1943,0,False,,True,115,8,True,
+Q664360,Aristarkh Lentulov,1882,1943,1,False,,True,415,6,True,
+Q664602,Léopold Robert,1794,1835,0,False,,True,387,5,True,
+Q6682,Gustave Doré,1832,1883,0,False,,True,17853,8,True,
+Q668411,Victor Mottez,1809,1897,1,False,,True,118,7,True,
+Q6696710,Lucian Grigorescu,1894,1965,1,False,,True,302,8,True,
+Q669728,Wolfgang Paalen,1905,1959,1,False,,True,4696,8,True,
+Q67053,Karl Otto Götz,1914,2017,1,False,,False,,,False,window_outside_1800_2019
+Q6711504,Romans Suta,1896,1944,1,False,,True,11,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q671236,Augusto Giacometti,1877,1947,1,False,,True,1063,8,True,
+Q6729786,Magda Cordell McHale,1921,2008,1,False,,False,,,False,window_outside_1800_2019
+Q676001,Eugène Devéria,1805,1865,0,False,,True,187,7,True,
+Q677797,Hermann Scherer,1893,1927,1,True,prebirth_share_over_1pct_review_only,True,32,6,True,
+Q6780260,Mary Martin,1907,1969,1,True,prebirth_share_over_1pct_review_only,True,100723,8,True,
+Q678094,Hans Thoma,1839,1924,0,False,,True,3511,8,True,
+Q6792218,Maud Earl,1864,1943,0,False,,True,1110,8,True,
+Q679299,Pierre Molinier,1900,1976,1,False,,False,,,False,window_outside_1800_2019
+Q684675,Michel Kikoine,1892,1968,1,False,,True,240,7,True,
+Q687335,Emil Filla,1882,1953,1,False,,True,1292,8,True,
+Q689411,Giovanni Giacometti,1868,1933,1,False,,True,688,8,True,
+Q690155,Marcel Gromaire,1892,1971,1,False,,False,,,False,window_outside_1800_2019
+Q690446,Louis Moilliet,1880,1962,1,False,,True,869,8,True,
+Q690693,Albert Welti,1862,1912,0,False,,True,211,7,True,
+Q692098,Lasar Segall,1891,1957,1,False,,True,3420,8,True,
+Q693095,Conrad Felixmüller,1897,1977,1,False,,False,,,False,window_outside_1800_2019
+Q694113,Carlos Schwabe,1866,1926,1,False,,True,385,8,True,
+Q69538,Wilhelm Morgner,1891,1917,1,False,,True,74,4,True,
+Q696405,Arnold Topp,1887,1945,1,False,,True,72,7,True,
+Q696720,Daniel Nikolaus Chodowiecki,1726,1801,1,False,,False,,,False,window_outside_1800_2019
+Q697780,Carl Moll,1861,1945,1,False,,True,1323,8,True,
+Q697839,Albert Paris Gütersloh,1887,1973,1,False,,False,,,False,window_outside_1800_2019
+Q698151,Bohumil Kubišta,1884,1918,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q699326,Otto Freundlich,1878,1943,1,False,,True,1017,7,True,
+Q702272,Johann Zoffany,1733,1810,1,False,,False,,,False,window_outside_1800_2019
+Q703331,Christian Schad,1894,1982,1,False,,False,,,False,window_outside_1800_2019
+Q703356,Max Slevogt,1868,1932,1,False,,True,2000,8,True,
+Q703369,Walter Sickert,1860,1942,1,False,,True,13642,8,True,
+Q706041,Théophile Steinlen,1859,1923,1,False,,True,82,6,True,
+Q706335,Lynn Chadwick,1914,2003,1,False,,False,,,False,window_outside_1800_2019
+Q706359,Auguste Herbin,1882,1960,1,False,,True,2045,8,True,
+Q708028,Bruno Munari,1907,1998,1,False,,False,,,False,window_outside_1800_2019
+Q708482,Othon Friesz,1879,1949,1,False,,True,4053,8,True,
+Q708631,Pierre Soulages,1919,2022,1,False,,False,,,False,window_outside_1800_2019
+Q709853,Ernst Josephson,1851,1906,1,False,,True,785,7,True,
+Q7109746,Otto Neumann,1895,1975,0,True,prebirth_share_over_1pct_review_only,False,,,False,window_outside_1800_2019
+Q7127637,Ernest Rouart,1874,1942,1,False,,True,946,8,True,
+Q713017,Austin Osman Spare,1886,1956,1,False,,True,1061,8,True,
+Q71425,Otto Modersohn,1865,1943,1,False,,True,2057,8,True,
+Q714401,Artur Grottger,1837,1867,1,False,,True,22,3,False,too_few_nonzero_relative_bins
+Q7147317,Patrick Nasmyth,1787,1831,0,False,,True,574,7,True,
+Q7152290,Paul Maze,1887,1979,1,False,,False,,,False,window_outside_1800_2019
+Q716808,Theodor Aman,1831,1891,1,False,,True,11,4,False,too_few_window_matches
+Q718722,Róbert Berény,1887,1953,1,False,,True,73,7,True,
+Q718882,Roger de La Fresnaye,1885,1925,1,False,,True,608,7,True,
+Q719109,Ottone Rosai,1895,1957,1,False,,True,1025,8,True,
+Q720979,José Malhoa,1855,1933,1,False,,True,71,5,True,
+Q723350,Ion Andreescu,1850,1882,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q724148,Édouard Detaille,1848,1912,0,False,,True,101,8,True,
+Q72510,Albert Anker,1831,1910,1,False,,True,173,8,True,
+Q725681,Ramon Casas,1866,1932,1,False,,True,856,8,True,
+Q72615,Rudolf Bauer,1889,1953,1,False,,True,2083,8,True,
+Q727643,Paul Nash,1889,1946,1,False,,True,37003,8,True,
+Q727869,Gustaaf Wappers,1803,1874,0,False,,True,22,3,False,too_few_nonzero_relative_bins
+Q728173,Achille Devéria,1800,1857,0,False,,True,98,5,True,
+Q7287617,Ralph Hedley,1848,1913,0,False,,True,609,8,True,
+Q729777,Frantz Charlet,1862,1928,0,False,,True,81,6,True,
+Q730344,Joseph Csaky,1888,1971,1,False,,False,,,False,window_outside_1800_2019
+Q731125,Isaac Grünewald,1889,1946,1,False,,True,234,8,True,
+Q732208,Armand Point,1861,1932,1,False,,True,351,8,True,
+Q733725,Julo Levin,1901,1943,1,False,,True,192,4,True,
+Q733762,Nicolae Tonitza,1886,1940,1,False,,True,239,4,True,
+Q7360842,Rolinda Sharples,1793,1838,0,False,,True,36,3,False,too_few_nonzero_relative_bins
+Q736886,Juan Barjola,1919,2004,1,False,,False,,,False,window_outside_1800_2019
+Q738892,Henri Laurens,1885,1954,1,False,,True,7972,8,True,
+Q739419,Giovanni Migliara,1785,1837,1,False,,True,9,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q74051,Anton Räderscheidt,1892,1970,1,False,,True,282,5,True,
+Q741159,Gen Paul,1895,1975,1,False,,False,,,False,window_outside_1800_2019
+Q742322,Pál Szinyei Merse,1845,1920,1,False,,True,28,3,False,too_few_nonzero_relative_bins
+Q743633,Georg Schrimpf,1889,1938,1,False,,True,486,7,True,
+Q743877,Henryk Gotlib,1890,1966,1,False,,True,495,8,True,
+Q7513293,Sigurd Swane,1879,1973,1,False,,False,,,False,window_outside_1800_2019
+Q7599553,Stanley Cursiter,1887,1976,1,False,,False,,,False,window_outside_1800_2019
+Q76185,Adolfo Hohenstein,1854,1928,1,False,,True,34,2,False,too_few_nonzero_relative_bins
+Q76416,Andreas Achenbach,1815,1910,0,False,,True,1504,8,True,
+Q76426,Rupprecht Geiger,1908,2009,1,False,,False,,,False,window_outside_1800_2019
+Q769610,Frans Krajcberg,1921,2017,1,False,,False,,,False,window_outside_1800_2019
+Q771320,Charles Bargue,1825,1883,0,False,,True,166,6,True,
+Q781561,Vilmos Huszár,1884,1960,1,False,,True,148,6,True,
+Q793689,Aurél Bernáth,1895,1982,1,False,,False,,,False,window_outside_1800_2019
+Q8004404,William Anderson,1757,1837,0,False,,True,34076,8,True,
+Q8022594,Willy Pogany,1882,1955,0,False,,True,8247,8,True,
+Q80588,Abram Arkhipov,1862,1930,1,False,,True,70,5,True,
+Q806616,Jacobus van Looy,1855,1930,1,False,,True,146,8,True,
+Q816819,Benedetta Cappa,1897,1977,1,False,,False,,,False,window_outside_1800_2019
+Q825177,Bernhard Hasler,1884,1945,1,False,,True,143,5,True,
+Q827495,Jean Messagier,1920,1999,1,False,,False,,,False,window_outside_1800_2019
+Q828591,Georg Tappert,1880,1957,1,False,,True,813,6,True,
+Q83294124,Elica Balla,1914,1993,1,False,,False,,,False,window_outside_1800_2019
+Q835503,Heinrich Knirr,1862,1944,1,False,,True,149,8,True,
+Q84503,Raoul Hausmann,1886,1971,1,False,,False,,,False,window_outside_1800_2019
+Q856707,Lajos Tihanyi,1885,1938,1,False,,True,348,7,True,
+Q871427,Ernst Ferdinand Oehme,1797,1855,1,False,,True,6,2,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q877843,Ulrich Hübner,1872,1932,1,False,,True,39,5,True,
+Q879613,Wenzel Hablik,1881,1934,1,False,,True,74,5,True,
+Q881362,Norbert Kricke,1922,1984,1,False,,False,,,False,window_outside_1800_2019
+Q897653,Ivan Milev,1897,1927,1,False,,True,76,4,True,
+Q900177,Béla Czóbel,1883,1976,1,False,,False,,,False,window_outside_1800_2019
+Q913979,Gaetano Previati,1852,1920,1,False,,True,430,8,True,
+Q914211,Alfred William Finch,1854,1930,1,False,,True,66,4,True,
+Q920009,László Paál,1846,1879,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q924094,Werner Graeff,1901,1978,1,False,,False,,,False,window_outside_1800_2019
+Q924865,Nikola Martinoski,1903,1973,1,False,,False,,,False,window_outside_1800_2019
+Q928638,Joseph Kutter,1894,1941,1,True,prebirth_share_over_1pct_review_only,True,178,8,True,
+Q928729,Simon Segal,1898,1969,1,False,,True,1617,8,True,
+Q93284,Marc Chagall,1887,1985,1,False,,False,,,False,window_outside_1800_2019
+Q937096,John Martin,1789,1854,0,False,,True,92006,8,True,
+Q941359,Wojciech Weiss,1875,1950,1,False,,True,366,8,True,
+Q943537,Leon Wyczółkowski,1852,1936,1,False,,True,48,5,True,
+Q944962,Achille Etna Michallon,1796,1822,1,False,,False,,,False,window_outside_1800_2019
+Q947790,Tyko Sallinen,1879,1955,1,False,,True,257,7,True,
+Q956854,Louis Welden Hawkins,1849,1910,1,False,,True,1,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q957157,František Bílek,1872,1941,1,False,,True,22,5,True,
+Q958927,Aleksander Gierymski,1850,1901,1,False,,True,25,2,False,too_few_nonzero_relative_bins
+Q963123,Daniel Vázquez Díaz,1882,1969,1,False,,True,229,8,True,
+Q964608,Lucien Pissarro,1863,1944,1,False,,True,10168,8,True,
+Q964812,François Marius Granet,1775,1849,1,False,,True,10,3,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q967073,Magnus Enckell,1870,1925,1,False,,True,217,8,True,
+Q970016,Gabor Peterdi,1915,2001,1,False,,False,,,False,window_outside_1800_2019
+Q972018,Mstislav Dobuzhinsky,1875,1957,1,False,,True,1400,8,True,
+Q972033,Nikolay Kasatkin,1859,1930,1,False,,True,16,1,False,too_few_nonzero_relative_bins;too_few_window_matches
+Q979105,Otto Ritschl,1885,1976,0,False,,False,,,False,window_outside_1800_2019
+Q979783,Charles Thévenin,1764,1838,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q98013,Paul Goesch,1885,1940,1,False,,True,35,4,True,
+Q980735,Alexandre Charpentier,1856,1909,0,False,,True,1028,8,True,
+Q981212,Gustave De Smet,1877,1943,1,False,,True,154,7,True,
+Q981439,Tadeusz Ajdukiewicz,1851,1916,1,False,,True,0,0,False,too_few_nonzero_relative_bins;too_few_window_matches;constant_relative_shape
+Q982251,Samuel Palmer,1805,1881,0,False,,True,16404,8,True,
+Q982677,Roland Penrose,1900,1984,1,False,,False,,,False,window_outside_1800_2019
+Q983262,Corneliu Baba,1906,1997,1,False,,False,,,False,window_outside_1800_2019
+Q983833,M. H. Maxy,1895,1971,1,True,source_query_warning,False,,,False,window_outside_1800_2019
+Q984030,Ilia Zdanevich,1894,1975,1,False,,False,,,False,window_outside_1800_2019
+Q98822279,Antoine Richard,1817,1891,1,False,,True,260,8,True,

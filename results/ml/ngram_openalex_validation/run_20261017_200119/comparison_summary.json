@@ -1,0 +1,100 @@
+{
+  "stage": "B: independent OpenAlex assessment of fixed A3 Ngram clusters",
+  "not_retraining": true,
+  "artist_count": 575,
+  "ngram_a3_clusters": {
+    "0": 391,
+    "1": 184
+  },
+  "observed_relative_years_inclusive": [
+    -30,
+    49
+  ],
+  "openalex_signal_rule": {
+    "min_window_works": 3,
+    "min_nonzero_10y_bins": 2
+  },
+  "openalex_artist_with_any_works": 166,
+  "openalex_artist_with_signal": 91,
+  "total_artist_work_matches_in_window": 2535,
+  "identity_warnings": 34,
+  "by_cluster": [
+    {
+      "death_cluster_id": 0,
+      "artists": 391,
+      "openalex_any_n": 136,
+      "openalex_any_pct": 34.78260869565217,
+      "openalex_signal_n": 79,
+      "openalex_signal_pct": 20.20460358056266,
+      "median_works_per_artist": 0.0,
+      "median_window_works_positive": 4.5,
+      "spearman_evaluable_n": 79,
+      "median_ngram_openalex_spearman": 0.4910267673844362,
+      "identity_warnings": 16,
+      "exclude_flags_analysis": false
+    },
+    {
+      "death_cluster_id": 1,
+      "artists": 184,
+      "openalex_any_n": 30,
+      "openalex_any_pct": 16.304347826086957,
+      "openalex_signal_n": 12,
+      "openalex_signal_pct": 6.521739130434782,
+      "median_works_per_artist": 0.0,
+      "median_window_works_positive": 2.0,
+      "spearman_evaluable_n": 12,
+      "median_ngram_openalex_spearman": 0.3547753779301301,
+      "identity_warnings": 18,
+      "exclude_flags_analysis": false
+    }
+  ],
+  "by_cluster_no_warnings": [
+    {
+      "death_cluster_id": 0,
+      "artists": 375,
+      "openalex_any_n": 133,
+      "openalex_any_pct": 35.46666666666667,
+      "openalex_signal_n": 77,
+      "openalex_signal_pct": 20.533333333333335,
+      "median_works_per_artist": 0.0,
+      "median_window_works_positive": 4.0,
+      "spearman_evaluable_n": 77,
+      "median_ngram_openalex_spearman": 0.507346289431841,
+      "identity_warnings": 0,
+      "exclude_flags_analysis": true
+    },
+    {
+      "death_cluster_id": 1,
+      "artists": 166,
+      "openalex_any_n": 24,
+      "openalex_any_pct": 14.457831325301203,
+      "openalex_signal_n": 8,
+      "openalex_signal_pct": 4.819277108433735,
+      "median_works_per_artist": 0.0,
+      "median_window_works_positive": 2.0,
+      "spearman_evaluable_n": 8,
+      "median_ngram_openalex_spearman": 0.5845122059892653,
+      "identity_warnings": 0,
+      "exclude_flags_analysis": true
+    }
+  ],
+  "inputs": {
+    "a3_run": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\ml\\ngram_death_aligned\\run_20261017_134328",
+    "openalex_csv": "D:\\Desktop\\kth2025autumn\\11-data-intense-computing\\project\\code\\artist_ngram\\results\\openalex_normalized\\artist_year_normalized.csv"
+  },
+  "input_sha256": {
+    "a3_assignments": "1617a4f8de232bec7a657dab1269e9dc2155c6f67a339e29813607c1f9be5fc6",
+    "a3_features": "4a06566fb4beccfadb0eda369d80bd33ab58e026212c672c0d8aa0e48797eb08",
+    "openalex_csv": "c72b0bbfbdf64b249d3fef64ea988ef128c9636d517b02377df76b5dc2e10d47"
+  },
+  "limitations": [
+    "A3 Ngram cluster labels are fixed; OpenAlex is NOT used to train or select K.",
+    "OpenAlex English/core/Visual Arts full-name mention proxy is sparse and imperfectly disambiguated.",
+    "An OpenAlex zero means no matched work under the collection rules, not proof of absence of research.",
+    "Group plots are descriptive; death cohorts and cohort-specific OA corpus size may confound comparisons.",
+    "Artists with <=2 OpenAlex works or only one occupied bin are excluded ONLY from shape/correlation analyses; they remain in coverage and main profiles.",
+    "Rates are works per 10,000 eligible OA works computed from the SUM of decade numerators and denominators.",
+    "Across-source z-scores compare trajectories, not absolute visibility or evidence of causation.",
+    "A single work may count for multiple artists; group totals are artist-work matches, not global unique works."
+  ]
+}
