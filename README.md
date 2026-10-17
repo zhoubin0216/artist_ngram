@@ -562,105 +562,41 @@ performance results.
   available; do not mix results from another computer.
 
 
-Section 5 - Complete Machine Learning Handoff (A1, A2, A3, B, C)
-Project: European Artist Visibility (artist_ngram)
-Audience: other team members who need the detailed pipeline, inputs, results, caveats, and reproducibility commands.
-Canonical research question: What historical patterns of European artists' name visibility emerge from English Google Books Ngram, and to what extent are they reflected in academic-mention and indexed provenance data?
-1. Findings you may report
-The primary ML experiment is shape-based K-Means on Ngram name-mention trajectories, not art-market prediction or an art-historical classification system. The final analysis has three phases:
-1. Discovery (A1, A3): Cluster name-mention time series on calendar and then death-relative time axes.
-2. Quality and sensitivity (A2, A3): Flag pre-birth name occurrence and compare model results after omitting flagged artists; quantify birth-era confounding.
-3. Cross-source descriptions (B, C): Freeze A3 labels and check whether OpenAlex and Getty show any analogous source-specific patterns and how much data is actually available.
-Main result: On 575 artists with an 80-year fully observed death-relative Ngram window and enough exact-name hits, K=2 gave two average trajectories. Cluster 0 (391 people) showed increasing posthumous Ngram frequency; Cluster 1 (184) had a comparatively higher pre-death peak followed by decline. Silhouette=0.3537, initialization ARI=1.0. These are patterns in matching strings, not independently verified artist reputations. A3's calendar-versus-death alignment assignments agreed imperfectly (ARI=0.3631), indicating that time alignment substantially affects the learned groups. The two silhouettes are from different feature spaces and are not directly comparable as model performance measures.
-2. Source inputs and measurement units
-Data	Original measurement	Files to use	Main limitations
-Artist dictionary	1,370 artists; Wikidata QID, dates, movement metadata	outputs/artist_dictionary.csv	artist-level membership is not time-specific
-Ngram (eng, 20200217)	exact canonical-name match_count; per matching n and year	outputs/ngram_artists_full/artist_year_counts.jsonl, artists.json, report.json, totalcounts/	not document-count or entity-disambiguated; 493 artists had no exact-name hit
-OpenAlex	retained full-name artist–work matches, 1800–2019, English/core, Visual Arts/Performing Arts topic 1213	results/openalex_normalized/artist_year_normalized.csv; results/openalex/cleaning_summary.json	only 140 included records human-confirmed in the final clean snapshot; many unreviewed; historical coverage biased
-Getty Provenance	indexed confirmed_sale title transfers vs catalog/source entries	data/getty/full/getty_artist_mapping.csv, getty_artist_year.csv, getty_events.csv	only 495/1,370 automatically accepted mappings; 56,708/79,715 events undated; not complete transaction history
+Section 5 — Machine Learning: Quickstart and Verified Results
+This compact index supplements the detailed "Section 5 - Complete Machine Learning Handoff (A1, A2, A3, B, C)" already above. The previous handoff and all other project sections remain unchanged. Detailed counts and methodological qualifications are retained there.
+
+Pipeline and research scope
+Goal: Discover shapes of European painters' historical exact-name visibility in Google Books Ngram and compare the resulting groups with OpenAlex scholarly mentions and Getty Provenance Index records. The primary models use Ngram alone; OpenAlex and Getty are independent, descriptive follow-ups, not training features.
+Stage	Committed script	Main output
+A1: calendar-year Ngram K-Means	[`cluster_ngram.py`](scripts/ml/cluster_ngram.py)	[`results/ml/ngram_kmeans/`](results/ml/ngram_kmeans/)
+A2: birth/death and possible homonym audit	[`audit_ngram_lifecycle.py`](scripts/ml/audit_ngram_lifecycle.py)	[`results/ml/ngram_lifecycle_audit/`](results/ml/ngram_lifecycle_audit/)
+A3: death-aligned K-Means and matched-cohort control	[`cluster_ngram_death_aligned.py`](scripts/ml/cluster_ngram_death_aligned.py)	[`results/ml/ngram_death_aligned/run_20261017_134328/`](results/ml/ngram_death_aligned/run_20261017_134328/)
+B: OpenAlex cross-source assessment	[`validate_ngram_with_openalex.py`](scripts/ml/validate_ngram_with_openalex.py)	[`results/ml/ngram_openalex_validation/run_20261017_200119/`](results/ml/ngram_openalex_validation/run_20261017_200119/)
+C: Getty full-run assessment	[`validate_ngram_with_getty.py`](scripts/ml/validate_ngram_with_getty.py)	[`results/ml/ngram_getty_validation/run_20261017_202626_418091/`](results/ml/ngram_getty_validation/run_20261017_202626_418091/)
+Final: color figures and auditable case data	[`build_section5_figures.py`](scripts/ml/build_section5_figures.py)	[`results/ml/section5_final/run_20261017_191425_502920/`](results/ml/section5_final/run_20261017_191425_502920/)
 
 
-Use Wikidata QID (artist_id) to join sources. Do not join by name alone. Use actual calendar years for generating relative-year bins; do not shift completed calendar-decade bins into death-relative bins. Do not add or average the three sources' incompatible units. Zero exact-name hits for a complete Ngram scan are not proof of zero historical influence. No automatically accepted Getty identity or undated event means unavailable rather than zero historical transactions.
-3. Phase-by-phase methods and results
-A1 - Ngram calendar K-Means
-- Raw coverage: 1,370 artists, 73,523 sparse yearly Ngram observations; 877 exact-name matched artists.
-- Analyzed 876 artists after excluding 493 unmatched and 1 inadequate-signal matched artist.
-- Count-based normalization uses per-n annual Ngram total, aggregated as decade sum of occurrences / decade sum of same-n total counts, scaled to per billion; log1p and per-artist z-score provide curve-shape features.
-- Complete-scan assumption for omitted within-window years is explicit (--assume-unlisted-zero). Missing from an incomplete scan must never be silently filled.
-- K-Means candidate K=2..6; compare silhouette, cluster sizes and initialization ARI; selected K=2, silhouette 0.3026, initialization ARI 0.9941. Cluster sizes: 203 and 673.
-- Its cluster centers peak in earlier versus later calendar periods; births are associated with assignments. Do not report these as intrinsic artistic categories.
-A2 - Birth/death lifecycle and identity audit
-- Audit all 876 A1 participants against birth and death years, annual normalized Ngram peaks, and pre-birth exact-name occurrences.
-- 170 had some pre-birth hits; 47 had more than 1% of their lifetime-match-count before birth; 22 had annual normalized peaks strictly before birth; 53 were flagged by the combined review criteria. Not all are confirmed false matches; normal OCR, date labels or namesakes may be involved.
-- Birth-cohort × cluster association: Cramér's V=0.423; calendar-era confounding is substantial. On removing 53 flagged identities without re-clustering, V rises to 0.468, so the issue does not disappear. This is descriptive, not a retrained stability test.
-- Keep risk-flagged people in the primary sample; reserve exclusion for separate sensitivity checks.
-A3 - Death-aligned K-Means and same-sample comparison
-- Eligibility: among the 876 A2 records, 679 have the full death-relative −30..+49 window within 1800–2019; after >=4 nonzero relative decades, >=20 within-window hits, and non-constant shape, 575 artists entered both the death-aligned and same-artist calendar controls.
-- Eight ten-year bins start at [-30, -20, -10, 0, 10, 20, 30, 40] relative to each artist's death. Reaggregate original annual counts/denominators before log transform and per-person standardization.
-- Death-aligned: K=2, silhouette 0.3537, initialization ARI 1.0; Cluster 0 n=391 (posthumous-growth-like), Cluster 1 n=184 (pre-death-peak-like).
-- Same-cohort calendar control: K=2, silhouette 0.3228, group sizes 156 and 419. Calendar/death assignment ARI 0.3631. Scores are not directly comparable across different feature representations.
-- Sensitive to name quality? Restrict to 541 unflagged artists, refit. K remains 2, silhouette 0.3538, ARI 0.9774 relative to the original cluster labels on the shared unflagged subset; encouraging but does not resolve remaining identity ambiguity.
-- A3-born-cohort association was additionally estimated ~0.299 on its subset; caution that comparing this directly to A2's 0.423 is confounded by cohort/sample differences.
-Reference figure: figures/a3_death_aligned_centers.png is copied byte-for-byte from the A3 source output; no changes or interpolation.
-Stage B - OpenAlex external descriptive comparison
-- Freeze all 575 death-aligned Ngram labels, join on artist_id and align the same death-relative 80-year window. No new K-Means is fit in Stage B.
-- OpenAlex works_count is an artist–work mention count; works_per_10000 is derived from sum of decade works / sum of decade eligible corpus denominators × 10,000, not the unweighted mean of yearly rates.
-- In the cohort: 166 artists had >=1 retained OpenAlex match in the window; 91 reached the predeclared trend threshold (>=3 matches, >=2 occupied bins).
-- By Ngram cluster: any OA match 136/391 (34.8%) vs 30/184 (16.3%); trend-eligible 79/391 (20.2%) vs 12/184 (6.5%).
-- Individual Ngram–OpenAlex Spearman rank correlations for trend-eligible artists: group medians 0.491 (79 evaluable) and 0.355 (12 evaluable). These are descriptive, susceptible to common trend, birth era and historical coverage.
-- OA record counts are very uneven: most artists have zero works in each relative bin; a few prolific cases dominate means. Show proportions with >=1 match and source coverage alongside any average curves, not just a smooth mean trend.
-- Up to 15,539 retained OpenAlex matches in the full cleaned snapshot were not individually human-reviewed. The cleaning rule is not a claim of perfect person disambiguation.
-Stage C - Full Getty external descriptive comparison
-- Full run attempted 1,370 mappings; accepted 495 artist-person matches. It collected 79,715 indexed events: 39,388 confirmed title transfers and 40,327 catalog/source entries. 56,708 (71.1%) lack a usable event year.
-- In A3 n=575: 291 accepted Getty identity mappings; 114 artists have >=1 dated event in the A3 death window; 87 pass trend rule (>=3 window records, >=2 occupied bins).
-- By A3 clusters: accepted mapping 187/391 and 104/184; dated-window coverage 71/391 (18.2%) vs 43/184 (23.4%). Differences are descriptive; conditional dated-event rates among successfully mapped artists are about 38.0% vs 41.3%.
-- Within cohort/window, there were 5,647 confirmed title-transfer records and 3,247 catalog entries; sum 8,894 dated indexed records, not global sales transactions.
-- Independent signal coverage overlap: OA any =166; Getty dated window any =114; both any =53; OA trend-eligible =91; Getty trend-eligible =87; both trend-eligible =27 (21 in Cluster 0, six in Cluster 1). A formal three-source combined K-Means on 27 selected people is not recommended.
-- Getty getty_relative_decades.csv encodes missing/unknown mapping via record_state, with empty counts. Treating these as observed zero counts is methodologically wrong. For accepted mappings, a zero in a bin means no indexed dated event in that bin, not zero real-world transactions.
-4. The two-person illustrative figure
-The final code selects Henri Matisse (Q5589, A3 Cluster 0) and André Derain (Q156272, A3 Cluster 1). Both died in 1954, both were unflagged by A2 identity warning, had accepted Getty mappings and passed both OA and Getty trend thresholds. This pairing reduces (but cannot eliminate) calendar-year differences.
-The plot has two rows × three columns and shared death-relative x-axes:
-- Ngram: per billion matching-order name-gram tokens, using B's saved decade frequencies that are cross-checked against A3's derived features.
-- OpenAlex: works per 10,000 same-scope indexed works, and the numerators/denominators remain in case_study_data.csv.
-- Getty: dated confirmed title transfers and catalog/source entries as two separate bar series per decade; counts are not corpus-normalized.
-Figure-specific y-axes deliberately have separate units and local scales; compare shapes and event types, not raw heights across sources or artists. In the final frozen snapshot Matisse has 75 window OpenAlex artist–work matches and 289 Getty dated window events; Derain has 8 and 302 respectively. Both have late-period bin zeros in Getty: that means no indexed dated event, not verified absence of market activity.
-Figures:
-   
-5. Reproduce with Windows PowerShell
-Use Python 3.11 virtual environment where possible (the project already uses local Spark 3.5.3 on this platform). From the repository root:
-cd D:\Desktop\kth2025autumn\11-data-intense-computing\project\code\artist_ngram
-.\.venv\Scripts\python.exe -m pip install pandas numpy matplotlib scikit-learn
-
-# Existing stages were already run: do NOT rerun unless input/version changes.
-# Verify final plotting code without modifying any A1/A2/A3/B/C inputs:
-.\.venv\Scripts\python.exe -m unittest discover -s tests -p "test_section5_figures.py" -v
+Main findings (frozen 2026-10-17 snapshot)
+- A1: 876 artists, best K=2 among K=2..6, silhouette 0.3026. Calendar-era association motivated lifecycle analysis.
+- A2: 53 potential name-identity warnings; birth-cohort/cluster Cramer's V 0.423. These are review flags, not demonstrated misattributions.
+- A3: 575 artists with adequate observations in the inclusive death_year - 30 through death_year + 49 window, best K=2, silhouette 0.3537. Cluster 0 (391 artists) has an average posthumous-growth-like trajectory; Cluster 1 (184 artists) has an average pre-death-peak-like trajectory. Calendar versus death-aligned assignments on the same cohort had ARI 0.3631.
+- Cross-source availability within the A3 cohort: OpenAlex had 166 artists with at least one aligned work and 91 with usable trend signal; Getty had 291 accepted mappings, 114 with at least one dated event in the window and 87 with usable trend signal. Only 27 artists met both additional trend rules; a formal three-source K-Means was not performed.
+- OpenAlex works-per-10,000, Ngram mentions-per-billion, and Getty sale/catalog counts have different units. No composite total or causal claim is derived. Getty catalog presence is not equivalent to a confirmed title transfer, and undated events are not assigned to a time bin.
+Reproduce published color figures (Windows PowerShell)
+From the repository root with an existing Python 3.11 virtual environment:
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe -m pip install "scikit-learn>=1.4,<1.7"
 
 .\.venv\Scripts\python.exe scripts\ml\build_section5_figures.py `
   --a3-run "results/ml/ngram_death_aligned/run_20261017_134328" `
   --stage-b-run "results/ml/ngram_openalex_validation/run_20261017_200119" `
   --stage-c-run "results/ml/ngram_getty_validation/run_20261017_202626_418091"
-The plotter creates results/ml/section5_final/run_YYYYMMDD_HHMMSS_microseconds/ containing:
-Generated file	Purpose
-case_study_data.csv	16 artist × decade rows with actual normalized Ngram/OA values, OA numerators/denominators, and Getty sales/catalog counts
-figures/three_source_case_studies.png	Final 2×3 descriptive case graphic
-figures/three_source_coverage.png	A3-cohort source coverage counts / percentages
-figures/a3_death_aligned_centers.png	Unmodified A3 centroids figure
-final_summary.json	Exact counts, source file paths and SHA-256 hashes, selected cases and caveats
-README_RESULTS.md	Brief output interpretation and provenance
+The final plotter creates a fresh results/ml/section5_final/run_*/ directory, reuses frozen A3/B/C evidence, redraws the A3 centroid figure for presentation, and does not fit a new model or call an API. Earlier output directories are preserved. The detailed handoff above documents assumptions and stage-specific replication commands.
+Report and figures
+- [Two-page Section 5 report (PDF)](report/Task5_Short_Report_2_Pages.pdf)
+- [Bright A3 centroid curves](results/ml/section5_final/run_20261017_191425_502920/figures/a3_death_aligned_centers.png)
+- [Three-source coverage](results/ml/section5_final/run_20261017_191425_502920/figures/three_source_coverage.png)
+- [Matisse vs Derain, two artists × three sources](results/ml/section5_final/run_20261017_191425_502920/figures/three_source_case_studies.png)
+- [Figure data, two cases × eight relative decades](results/ml/section5_final/run_20261017_191425_502920/case_study_data.csv)
+Interpretation: Patterns are conditional on exact full-name matching, birth/death window coverage, and the selected artists. OpenAlex and Getty data are sparse and differently censored, so their descriptive contrasts should not be treated as complete historical validation.
 
-
-If actual A3, Stage B or Stage C time-stamped run directory differs, update only the command arguments. The script checks exact artist sets (all 575), per-case QIDs, cluster/identity/death-year agreement, matching date bins, OA rates, Getty records, and A3 assignment hash provenance. It refuses inconsistent inputs rather than inventing missing data. Each run writes a fresh folder, preserving historical results; there is no API call, Spark job or model fitting.
-Earlier pipeline scripts and source pointers
-scripts/ml/cluster_ngram.py              # A1: calendar baseline
-scripts/ml/audit_ngram_lifecycle.py     # A2: birth/death audit
-scripts/ml/cluster_ngram_death_aligned.py # A3: death-aligned / calendar same-cohort models
-scripts/ml/validate_ngram_with_openalex.py # B: OpenAlex external comparison
-scripts/ml/validate_ngram_with_getty.py # C: Getty external comparison
-scripts/ml/build_section5_figures.py   # final summaries and case graphs
-Retain previous output directories and per-stage comparison_summary.json for traceability. Source raw files should be preserved in their team-owned folders. The scripts were delivered incrementally; only the final synthesis stage is bundled here. To reproduce A1–C from scratch, consult the Stage A1/A2/A3/B/C individual README files for exact arguments, assumptions and dependencies. Do not mistake rerunning final plotting for recomputing all upstream results.
-6. Threats to validity and responsible language
-Measurement validity: exact name matching misses alternate names and can include homonyms. Pre-birth matches are a warning indicator, not proof of misattribution. Ngram reflects English corpus mentions, OpenAlex art-topic works and Getty indexed provenance events, not the same construct. Historical indexing and available abstracts can bias early-period trends.
-Sampling and missingness: 877 exact-name-matched artists became 876 in A1 and 575 in A3; it is an intentionally signal-rich and temporally bounded subset. Ngram omitted years inside confirmed complete scans are modeled as zero exact-name hits, but OpenAlex absence and Getty mapping/undated gaps are not filled as zero historical impact. Getty's dated-event fraction is low and source-specific.
-Model evaluation: silhouette evaluates feature-space separation, not external art-history truth. Initialization ARI measures algorithm initialization consistency, not data perturbation robustness. The A3 name-flag sensitivity refits on 541 participants; confidence cannot be generalized to all 1,370 artists. Clusters in calendar versus death-relative spaces answer different questions, so a higher silhouette in A3 does not alone prove better science.
-External comparison: OpenAlex and Getty were not used for cluster training or for K selection; results are complementary and sometimes conflicting. Cluster-level differences in coverage can be due to age, archive selection, identity resolution, and different indexing windows. The case pair is purposively selected to be clear and comparable, not representative. No causal market–scholarship interaction is claimed.
-Preferred final claim: Death-aligned Ngram exact-name frequencies show two reproducible descriptive trajectory groups within a selected cohort of 575 European painters. OpenAlex and Getty offer incomplete but informative cross-source contextualization; joint trend eligibility is limited to 27, so we do not fit a three-source fusion K-Means.
