@@ -7,3 +7,4 @@ PyYAML>=6,<7
 pyspark==3.5.3
 pytest>=8,<9
 matplotlib>=3.9,<4
+scikit-learn>=1.4,<1.7
