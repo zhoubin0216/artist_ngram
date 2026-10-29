@@ -1,6 +1,15 @@
-# European Artist Visibility Project
+# European Artist Visibility Across Books, Scholarship and Provenance
 
-This is a standalone data-preparation project for studying the historical visibility of European artists in the English Google Books N-gram corpus.
+This project studies the historical visibility of European painters (1800–2019) across Google Books Ngram, OpenAlex and the Getty Provenance Index. It combines a Wikidata artist dictionary, data cleaning, Spark integration and benchmarks, and Ngram-based K-Means clustering.
+
+## Original data sources
+
+- **Wikidata artist metadata:** https://www.wikidata.org/
+- **Google Books Ngram (English corpus, 20200217):** https://storage.googleapis.com/books/ngrams/books/datasetsv3.html
+- **OpenAlex Works API:** https://api.openalex.org/works
+- **Getty Provenance Index:** https://www.getty.edu/research-conservation/tools-databases/provenance/
+
+Processed datasets and collection scripts are available in this repository. The raw OpenAlex collection cache is not tracked by Git; use the committed cleaned/normalized outputs for downstream analysis.
 
 ## Project contents
 
@@ -312,7 +321,7 @@ requirements-openalex.txt
 
 Keep `data/openalex_art/core/any/full/` locally for collection checkpoints, candidate verification and reproducible cleaning. Keep `data/openalex_denominator/` for the chosen annual denominator snapshot. The cleaned and normalized outputs are stored in `results/openalex/` and `results/openalex_normalized/`, respectively.
 
-The current `.gitignore` excludes `data/openalex_art/`, `results/openalex/artist_work_clean.jsonl` and `OpenAlex_clean_handoff.zip`. It does not currently exclude the denominator directory or the normalized handoff ZIP. Keep the small denominator CSV and manifest available to the integration contributor; whether they are committed is a team decision. Never commit an API key.
+The `.gitignore` excludes the raw `data/openalex_art/` collection, the cleaned work-level JSONL and `OpenAlex_clean_handoff.zip`. The small annual denominator snapshot in `data/openalex_denominator/`, the cleaned annual tables in `results/openalex/`, and the normalized table in `results/openalex_normalized/` are committed. A fresh clone can run downstream analyses from these outputs, but `clean_openalex.py` requires the separately held raw collection. Never commit an API key.
 
 The ZIP paths in the handoff sections are generated deliverables, not required source files. Create the normalized handoff ZIP using the normalized handoff section when sharing the normalized dataset. Keep the source caches and original denominator API response locally or in a backup.
 
@@ -587,7 +596,7 @@ Only **27 artists** have sufficient trend data in all three sources. Therefore, 
 
 ### Code and Reproducibility
 
-All ML scripts are located in [`scripts/ml/`](scripts/ml/). Published results are available in [`results/ml/`](results/ml/).
+All ML scripts are located in [`scripts/ml/`](scripts/ml/). Published results are available in [`results/ml/`](results/ml/). The commands below regenerate figures from the committed A3/B/C runs; if you rerun clustering, pass its newly generated `run_*` directory to subsequent validation scripts.
 
 Install dependencies:
 
